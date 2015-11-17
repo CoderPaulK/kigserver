@@ -1,0 +1,335 @@
+[12:28:16.675] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Coordination {952795544945165}] ()
+[12:28:16.675] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Mark of Power {952795544944640}] ()
+[12:28:16.676] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Unnatural Might {952795544945173}] ()
+[12:28:16.676] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Hunter's Boon {952795544945169}] ()
+[12:28:16.676] [@Staboflove] [@Staboflove] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[12:28:16.688] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[12:28:16.688] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Surging Charge {948659491438592}] ()
+[12:28:25.915] [@Staboflove] [@Staboflove] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[12:29:03.776] [@Staboflove] [@Staboflove] [Collecting... {811289257443328}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:29:12.705] [@Staboflove] [@Staboflove] [Collecting... {811289257443328}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:30:01.925] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:30:01.925] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Stealth {808317140074496}] ()
+[12:30:01.926] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074769}] ()
+[12:30:06.215] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[12:30:06.249] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074771}] ()
+[12:30:06.249] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074769}] ()
+[12:30:06.250] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[12:30:06.251] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Stealth {808317140074496}] ()
+[12:30:06.251] [@Staboflove] [@Staboflove] [Maul {808269895434240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:30:06.251] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (40)
+[12:30:06.251] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[12:30:06.251] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[12:30:06.252] [@Staboflove] [Wingmaw Energy Leech {3707746482388992}:20796007468827] [Maul {808269895434240}] [ApplyEffect {836045448945477}: Sundered (Physical) {808269895434541}] ()
+[12:30:06.252] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [ApplyEffect {836045448945477}: Duplicity {949110463004672}] ()
+[12:30:06.282] [@Staboflove] [Wingmaw Energy Leech {3707746482388992}:20796007468827] [Maul {808269895434240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3897 energy {836045448940874}) <3897>
+[12:30:07.727] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:30:07.727] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[12:30:07.728] [@Staboflove] [Wingmaw Energy Leech {3707746482388992}:20796007468827] [Maul {808269895434240}] [RemoveEffect {836045448945478}: Sundered (Physical) {808269895434541}] ()
+[12:30:07.729] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Voltage {975584641417477}] ()
+[12:30:07.960] [@Staboflove] [Wingmaw Energy Leech {3707746482388992}:20796007468827] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1768 energy {836045448940874}) <1768>
+[12:30:07.960] [@Staboflove] [Wingmaw Energy Leech {3707746482388992}:20796007468827] [] [Event {836045448945472}: Death {836045448945493}] ()
+[12:30:07.960] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: GainXp {836045448945491}] (1238)
+[12:30:09.312] [@Staboflove] [@Staboflove] [Saber Strike {947495555301376}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:30:09.312] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [ApplyEffect {836045448945477}: Mastery Surge {3405097316909056}] ()
+[12:30:09.312] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:30:09.314] [@Staboflove] [Wingmaw Energy Leech {3707746482388992}:20796007468785] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (562 energy {836045448940874}) <562>
+[12:30:09.314] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:30:09.314] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:30:09.319] [Wingmaw Energy Leech {3707746482388992}:20796007468785] [@Staboflove] [Melee Attack {813582769979392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2756 kinetic {836045448940873}) <2756>
+[12:30:09.908] [@Staboflove] [Wingmaw Energy Leech {3707746482388992}:20796007468785] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (561 energy {836045448940874}) <561>
+[12:30:10.119] [Wingmaw Energy Leech {3707746482388992}:20796007468827] [@Staboflove] [Melee Attack {813582769979392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2837 kinetic {836045448940873}) <2837>
+[12:30:10.471] [@Staboflove] [Wingmaw Energy Leech {3707746482388992}:20796007468785] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (661 energy {836045448940874}) <661>
+[12:30:11.305] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:30:11.305] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[12:30:11.305] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [ApplyEffect {836045448945477}: Power Surge {3405123086712832}] ()
+[12:30:11.524] [@Staboflove] [Wingmaw Energy Leech {3707746482388992}:20796007468785] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1663 energy {836045448940874}) <1663>
+[12:30:11.611] [Wingmaw Energy Leech {3707746482388992}:20796007468785] [@Staboflove] [Melee Attack {813582769979392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[12:30:11.692] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[12:30:11.696] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[12:30:11.698] [@Staboflove] [Wingmaw Energy Leech {3707746482388992}:20796007468785] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1833 energy {836045448940874}) <1833>
+[12:30:11.698] [@Staboflove] [Wingmaw Energy Leech {3707746482388992}:20796007468785] [] [Event {836045448945472}: Death {836045448945493}] ()
+[12:30:11.699] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: GainXp {836045448945491}] (1238)
+[12:30:12.196] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074771}] ()
+[12:30:15.401] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [RemoveEffect {836045448945478}: Mastery Surge {3405097316909056}] ()
+[12:30:17.297] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [RemoveEffect {836045448945478}: Power Surge {3405123086712832}] ()
+[12:30:21.221] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [RemoveEffect {836045448945478}: Duplicity {949110463004672}] ()
+[12:30:22.820] [@Staboflove] [@Staboflove] [Collecting... {811289257443328}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:30:26.341] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[12:31:02.438] [@Staboflove] [@Staboflove] [Collecting... {811289257443328}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:31:40.727] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:31:40.727] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [ApplyEffect {836045448945477}: Force Speed {808257010532352}] ()
+[12:31:42.819] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [RemoveEffect {836045448945478}: Force Speed {808257010532352}] ()
+[12:32:04.452] [@Staboflove] [@Staboflove] [Using Instant {810803926138880}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:32:17.467] [@Staboflove] [@Staboflove] [Using Instant {810803926138880}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:32:28.391] [@Staboflove] [@Staboflove] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[12:33:18.227] [@Staboflove] [@Staboflove] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[12:33:28.286] [@Staboflove] [@Staboflove] [Using Instant {810803926138880}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:33:29.311] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: GainXp {836045448945491}] (65031)
+[12:34:37.572] [@Staboflove] [@Staboflove] [Using Instant {810803926138880}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:34:37.572] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: GainXp {836045448945491}] (90)
+[12:36:42.072] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:36:42.072] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [ApplyEffect {836045448945477}: Force Speed {808257010532352}] ()
+[12:36:44.165] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [RemoveEffect {836045448945478}: Force Speed {808257010532352}] ()
+[12:36:49.180] [@Staboflove] [@Staboflove] [Using Instant {810803926138880}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:37:12.634] [@Staboflove] [@Staboflove] [Using Instant {810803926138880}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:38:22.986] [@Staboflove] [@Staboflove] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[12:39:36.758] [@Staboflove] [@Staboflove] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[12:40:36.163] [@Staboflove] [@Staboflove] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[12:44:08.017] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Coordination {952795544945165}] ()
+[12:44:08.017] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Mark of Power {952795544944640}] ()
+[12:44:08.019] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Unnatural Might {952795544945173}] ()
+[12:44:08.019] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Hunter's Boon {952795544945169}] ()
+[12:44:08.019] [@Staboflove] [@Staboflove] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[12:44:08.031] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[12:44:08.032] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Surging Charge {948659491438592}] ()
+[12:44:21.827] [@Staboflove] [@Staboflove] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[12:44:22.496] [@Staboflove] [@Staboflove] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[12:51:37.498] [@Staboflove] [@Staboflove] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[12:51:37.499] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: GainXp {836045448945491}] (90)
+[12:51:37.499] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: GainXp {836045448945491}] (90)
+[12:51:46.930] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: GainXp {836045448945491}] (65098)
+[12:53:21.789] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:53:21.789] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Stealth {808317140074496}] ()
+[12:53:21.790] [@Staboflove] [@Staboflove:HK-55 {3600479674171392}] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Stealth {808317140074496}] ()
+[12:53:21.790] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074769}] ()
+[12:53:33.439] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:53:33.439] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:53:33.439] [@Staboflove] [Starbolt Defender {3577694872666112}:21200011953102] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:53:38.293] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:53:38.293] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:53:38.293] [@Staboflove] [Starbolt Defender {3577694872666112}:21200011953102] [Mind Trap {808274190401536}] [RemoveEffect {836045448945478}: Asleep (Mental) {808274190401792}] ()
+[12:53:38.294] [@Staboflove] [Blast Crew Hitter {3577737822339072}:21200011953901] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:53:44.425] [Blast Crew Slicer {3577729232404480}:21200011954044] [@Staboflove] [] [Event {836045448945472}: BecomeSuspicious {836045448945497}] ()
+[12:53:45.027] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:53:45.027] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:53:45.028] [@Staboflove] [Blast Crew Hitter {3577737822339072}:21200011953901] [Mind Trap {808274190401536}] [RemoveEffect {836045448945478}: Asleep (Mental) {808274190401792}] ()
+[12:53:45.028] [@Staboflove] [Blast Crew Slicer {3577729232404480}:21200011954044] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:53:45.426] [Blast Crew Slicer {3577729232404480}:21200011954044] [@Staboflove] [] [Event {836045448945472}: NoLongerSuspicious {836045448945498}] ()
+[12:53:49.344] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:53:49.344] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:53:49.345] [@Staboflove] [Blast Crew Muscle {3577720642469888}:21200011954078] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:54:06.373] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:54:06.373] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:54:06.373] [@Staboflove] [Blast Crew Muscle {3577720642469888}:21200011954078] [Mind Trap {808274190401536}] [RemoveEffect {836045448945478}: Asleep (Mental) {808274190401792}] ()
+[12:54:06.373] [@Staboflove] [Blast Crew Muscle {3577720642469888}:21200011954267] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:54:13.501] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:54:13.501] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:54:13.502] [@Staboflove] [Blast Crew Muscle {3577720642469888}:21200011954267] [Mind Trap {808274190401536}] [RemoveEffect {836045448945478}: Asleep (Mental) {808274190401792}] ()
+[12:54:13.502] [@Staboflove] [Blast Crew Slicer {3577729232404480}:21200011954367] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:54:18.741] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:54:18.758] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:54:18.758] [@Staboflove] [Blast Crew Muscle {3577720642469888}:21200011954401] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:54:24.463] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:54:24.463] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:54:24.464] [@Staboflove] [Blast Crew Muscle {3577720642469888}:21200011954401] [Mind Trap {808274190401536}] [RemoveEffect {836045448945478}: Asleep (Mental) {808274190401792}] ()
+[12:54:24.464] [@Staboflove] [Blast Crew Slicer {3577729232404480}:21200011953250] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:54:33.211] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:54:33.211] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:54:33.212] [@Staboflove] [Starbolt Defender {3577694872666112}:21200011954510] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:54:40.365] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:54:40.365] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:54:40.366] [@Staboflove] [Starbolt Defender {3577694872666112}:21200011954510] [Mind Trap {808274190401536}] [RemoveEffect {836045448945478}: Asleep (Mental) {808274190401792}] ()
+[12:54:40.366] [@Staboflove] [Starbolt Heavy {3577669102862336}:21200011954605] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:54:57.746] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:54:57.746] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:54:57.746] [@Staboflove] [Starbolt Heavy {3577669102862336}:21200011954605] [Mind Trap {808274190401536}] [RemoveEffect {836045448945478}: Asleep (Mental) {808274190401792}] ()
+[12:54:57.747] [@Staboflove] [Starbolt Wheelman {3577686282731520}:21200011954637] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:55:04.251] [Starbolt Heavy {3577669102862336}:21200011954773] [@Staboflove] [] [Event {836045448945472}: BecomeSuspicious {836045448945497}] ()
+[12:55:04.569] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:04.569] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[12:55:04.570] [@Staboflove] [Starbolt Wheelman {3577686282731520}:21200011954637] [Mind Trap {808274190401536}] [RemoveEffect {836045448945478}: Asleep (Mental) {808274190401792}] ()
+[12:55:04.570] [@Staboflove] [Starbolt Heavy {3577669102862336}:21200011954773] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[12:55:04.752] [Starbolt Heavy {3577669102862336}:21200011954773] [@Staboflove] [] [Event {836045448945472}: NoLongerSuspicious {836045448945498}] ()
+[12:55:05.860] [Starbolt Wheelman {3577686282731520}:21200011954741] [@Staboflove] [] [Event {836045448945472}: BecomeSuspicious {836045448945497}] ()
+[12:55:09.687] [Starbolt Wheelman {3577686282731520}:21200011954741] [@Staboflove] [] [Event {836045448945472}: NoLongerSuspicious {836045448945498}] ()
+[12:55:28.535] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[12:55:28.584] [@Staboflove] [@Staboflove:HK-55 {3600479674171392}] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Stealth {808317140074496}] ()
+[12:55:28.584] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074771}] ()
+[12:55:28.584] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074769}] ()
+[12:55:28.585] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[12:55:28.586] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Stealth {808317140074496}] ()
+[12:55:28.586] [@Staboflove] [@Staboflove] [Maul {808269895434240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:28.586] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (40)
+[12:55:28.586] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[12:55:28.586] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[12:55:28.588] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Maul {808269895434240}] [ApplyEffect {836045448945477}: Sundered (Physical) {808269895434541}] ()
+[12:55:28.588] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [ApplyEffect {836045448945477}: Duplicity {949110463004672}] ()
+[12:55:28.589] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [ApplyEffect {836045448945477}: Entropic Field {3410019349430272}] ()
+[12:55:28.589] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Static Charge {948659491438915}] ()
+[12:55:28.589] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [ApplyEffect {836045448945477}: Mastery Surge {3405097316909056}] ()
+[12:55:28.590] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Saber Conduit {808626377719808}] ()
+[12:55:28.590] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [ApplyEffect {836045448945477}: Exploitive Strikes {3420357335711744}] ()
+[12:55:28.591] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1433* internal {836045448940876}) <1433>
+[12:55:28.591] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [RemoveEffect {836045448945478}: Duplicity {949110463004672}] ()
+[12:55:28.716] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Maul {808269895434240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6529* energy {836045448940874}) <6529>
+[12:55:29.115] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Electro-Stasis {3696210200231936}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:29.116] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Electro-Stasis {3696210200231936}] [ApplyEffect {836045448945477}: Asleep (Tech) {3696210200232214}] ()
+[12:55:29.588] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:30.598] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:30.807] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:30.807] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[12:55:30.809] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Electro-Stasis {3696210200231936}] [ApplyEffect {836045448945477}: Zapped {3696210200232220}] ()
+[12:55:30.810] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Electro-Stasis {3696210200231936}] [RemoveEffect {836045448945478}: Asleep (Tech) {3696210200232214}] ()
+[12:55:30.810] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Voltage {975584641417477}] ()
+[12:55:31.040] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1581 energy {836045448940874}) <1581>
+[12:55:31.216] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [ApplyEffect {836045448945477}: Power Surge {3405123086712832}] ()
+[12:55:31.217] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1548 energy {836045448940874}) <1548>
+[12:55:31.601] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:32.412] [@Staboflove] [@Staboflove] [Saber Strike {947495555301376}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:32.412] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:32.413] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1010* energy {836045448940874}) <1010>
+[12:55:32.414] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:32.414] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:32.485] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1076 energy {836045448940874}) <1076>
+[12:55:32.603] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:32.940] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1742* energy {836045448940874}) <1742>
+[12:55:33.011] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1005* energy {836045448940874}) <1005>
+[12:55:33.573] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (631 energy {836045448940874}) <631>
+[12:55:34.013] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1687* energy {836045448940874}) <1687>
+[12:55:34.401] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1084 energy {836045448940874}) <1084>
+[12:55:34.521] [@Staboflove] [@Staboflove] [Electrocute {808244125630464}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:34.522] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (10)
+[12:55:34.522] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Electrocute {808244125630464}] [ApplyEffect {836045448945477}: Stunned (Force) {808244125630724}] ()
+[12:55:34.631] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074771}] ()
+[12:55:34.631] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [RemoveEffect {836045448945478}: Mastery Surge {3405097316909056}] ()
+[12:55:34.631] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:34.743] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Electrocute {808244125630464}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1352 energy {836045448940874}) <1352>
+[12:55:35.496] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1796* energy {836045448940874}) <1796>
+[12:55:35.607] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:35.914] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1762* energy {836045448940874}) <1762>
+[12:55:36.232] [@Staboflove] [@Staboflove] [Ball Lightning {3408941312638976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:36.232] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (16)
+[12:55:36.232] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[12:55:36.233] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (993 internal {836045448940876}) <993>
+[12:55:36.432] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6580* energy {836045448940874}) <6580>
+[12:55:36.606] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:36.867] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Ball Lightning (Twin Surge) {3408941312639300}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1725 energy {836045448940874}) <1725>
+[12:55:37.003] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1109 energy {836045448940874}) <1109>
+[12:55:37.249] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [RemoveEffect {836045448945478}: Power Surge {3405123086712832}] ()
+[12:55:37.471] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1103 energy {836045448940874}) <1103>
+[12:55:37.620] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [RemoveEffect {836045448945478}: Saber Conduit {808626377719808}] ()
+[12:55:37.837] [@Staboflove] [@Staboflove] [Saber Strike {947495555301376}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:37.840] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1433* internal {836045448940876}) <1433>
+[12:55:37.841] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (563 energy {836045448940874}) <563>
+[12:55:38.426] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1761* energy {836045448940874}) <1761>
+[12:55:38.470] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (826* energy {836045448940874}) <826>
+[12:55:38.526] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Electrocute {808244125630464}] [RemoveEffect {836045448945478}: Stunned (Force) {808244125630724}] ()
+[12:55:38.837] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1045 energy {836045448940874}) <1045>
+[12:55:39.007] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (514 energy {836045448940874}) <514>
+[12:55:39.758] [@Staboflove] [@Staboflove] [Discharge {808235535695872}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:39.758] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (20)
+[12:55:39.758] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [ApplyEffect {836045448945477}: Duplicity {949110463004672}] ()
+[12:55:39.759] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Vulnerable (Force) {808626377720090}] ()
+[12:55:39.759] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [RemoveEffect {836045448945478}: Static Charge {948659491438915}] ()
+[12:55:39.924] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1110 energy {836045448940874}) <1110>
+[12:55:39.945] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Electro Dart {832652424773632}] [ApplyEffect {836045448945477}: Stunned {832652424773897}] ()
+[12:55:40.070] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Discharge {808235535695872}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4332 internal {836045448940876}) <4332>
+[12:55:40.373] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1051 energy {836045448940874}) <1051>
+[12:55:41.334] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1798* energy {836045448940874}) <1798>
+[12:55:41.753] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1061 energy {836045448940874}) <1061>
+[12:55:41.863] [@Staboflove] [@Staboflove] [Unbreakable Will {808330024976384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:41.864] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Electro Dart {832652424773632}] [RemoveEffect {836045448945478}: Stunned {832652424773897}] ()
+[12:55:42.261] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:42.261] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[12:55:42.261] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[12:55:42.486] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1490 energy {836045448940874}) <1490>
+[12:55:42.640] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1433 energy {836045448940874}) <1433>
+[12:55:42.812] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1065 energy {836045448940874}) <1065>
+[12:55:43.272] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[12:55:43.757] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:43.757] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[12:55:43.987] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1452 energy {836045448940874}) <1452>
+[12:55:44.156] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1500 energy {836045448940874}) <1500>
+[12:55:44.332] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1062 energy {836045448940874}) <1062>
+[12:55:44.467] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Gut {2268614610649088}] [ApplyEffect {836045448945477}: Bleeding (Physical) {2268614610649344}] ()
+[12:55:44.589] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Aimed Shot {839833610092544}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4094 energy {836045448940874}) <4094>
+[12:55:44.781] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1106 energy {836045448940874}) <1106>
+[12:55:45.136] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Gut {2268614610649088}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3376 kinetic {836045448940873}) <3376>
+[12:55:45.382] [@Staboflove] [@Staboflove] [Ball Lightning {3408941312638976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:45.383] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (16)
+[12:55:45.383] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[12:55:45.383] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Static Charge {948659491438915}] ()
+[12:55:45.383] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Saber Conduit {808626377719808}] ()
+[12:55:45.384] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1505* internal {836045448940876}) <1505>
+[12:55:45.485] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3409 energy {836045448940874}) <3409>
+[12:55:45.557] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Prevenative Measures {3569534434803712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:45.558] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove] [Prevenative Measures {3569534434803712}] [ApplyEffect {836045448945477}: Prevenative Measures {3569534434803712}] ()
+[12:55:45.999] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Ball Lightning (Twin Surge) {3408941312639300}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3373* energy {836045448940874}) <3373>
+[12:55:46.463] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:47.073] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Kolto Quick Scan {3569487190163456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:47.371] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:47.371] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[12:55:47.371] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[12:55:47.478] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:47.479] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Bleeding (Physical) {2268614610649344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (713 internal {836045448940876} (713 absorbed {836045448945511})) <713>
+[12:55:47.599] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1195 energy {836045448940874} (1195 absorbed {836045448945511})) <1195>
+[12:55:47.600] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Blaster Whip {1769762749153280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4014 kinetic {836045448940873} (4014 absorbed {836045448945511})) <4014>
+[12:55:47.600] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1449 energy {836045448940874}) <1449>
+[12:55:47.629] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1212 energy {836045448940874} (1212 absorbed {836045448945511})) <1212>
+[12:55:47.682] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1162 energy {836045448940874} (1162 absorbed {836045448945511})) <1162>
+[12:55:47.872] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2358* energy {836045448940874}) <2358>
+[12:55:48.064] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove] [Kolto Quick Scan {3569487190163456}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7957) <3735>
+[12:55:48.462] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:48.982] [@Staboflove] [@Staboflove] [Assassinate {2295741624090624}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:48.982] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (15)
+[12:55:49.327] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1759* energy {836045448940874}) <1759>
+[12:55:49.482] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:49.482] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove] [Prevenative Measures {3569534434803712}] [RemoveEffect {836045448945478}: Prevenative Measures {3569534434803712}] ()
+[12:55:49.483] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Jet Boost {2052874108403712}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <1>
+[12:55:49.483] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Jet Boost {2052874108403712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3387 elemental {836045448940875} (2708 absorbed {836045448945511})) <3387>
+[12:55:49.483] [Oggo {3577175181623296}:21200011953035] [@Staboflove:HK-55 {3600479674171392}] [Jet Boost {2052874108403712}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <1>
+[12:55:49.483] [Oggo {3577175181623296}:21200011953035] [@Staboflove:HK-55 {3600479674171392}] [Jet Boost {2052874108403712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6346 elemental {836045448940875}) <6346>
+[12:55:49.491] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Assassinate {2295741624090624}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7781* energy {836045448940874}) <7781>
+[12:55:50.472] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:50.472] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Bleeding (Physical) {2268614610649344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (713 internal {836045448940876}) <713>
+[12:55:50.967] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2879 energy {836045448940874}) <2879>
+[12:55:51.426] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:51.448] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1776* energy {836045448940874}) <1776>
+[12:55:51.613] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Kolto Drip {3569530139836416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:51.614] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Kolto Drip {3569530139836416}] [ApplyEffect {836045448945477}: Kolto Drip {3569530139836416}] ()
+[12:55:52.018] [@Staboflove] [@Staboflove] [Discharge {808235535695872}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:52.018] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (20)
+[12:55:52.405] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1081 energy {836045448940874}) <1081>
+[12:55:52.424] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:52.553] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Discharge {808235535695872}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1544 internal {836045448940876}) <1544>
+[12:55:52.881] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1043 energy {836045448940874}) <1043>
+[12:55:53.036] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Progressive Kolto Scan {3770560379092992}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:53.349] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1073 energy {836045448940874}) <1073>
+[12:55:53.428] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:53.511] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Bleeding (Physical) {2268614610649344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (713 internal {836045448940876}) <713>
+[12:55:53.624] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[12:55:53.695] [@Staboflove] [@Staboflove] [Ball Lightning {3408941312638976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:53.695] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (16)
+[12:55:53.695] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[12:55:53.695] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Static Charge {948659491438915}] ()
+[12:55:53.696] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Maul {808269895434240}] [RemoveEffect {836045448945478}: Sundered (Physical) {808269895434541}] ()
+[12:55:53.696] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Saber Conduit {808626377719808}] [RemoveEffect {836045448945478}: Vulnerable (Force) {808626377720090}] ()
+[12:55:53.696] [@Staboflove:HK-55 {3600479674171392}] [Oggo {3577175181623296}:21200011953035] [Electro-Stasis {3696210200231936}] [RemoveEffect {836045448945478}: Zapped {3696210200232220}] ()
+[12:55:53.696] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[12:55:53.699] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1580* internal {836045448940876}) <1580>
+[12:55:53.700] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [] [Event {836045448945472}: Death {836045448945493}] ()
+[12:55:53.700] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: GainXp {836045448945491}] (16065)
+[12:55:53.786] [@Staboflove] [Oggo {3577175181623296}:21200011953035] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6754* energy {836045448940874}) <6754>
+[12:55:54.044] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove] [Progressive Kolto Scan {3770560379092992}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3184) <1592>
+[12:55:54.441] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[12:55:54.441] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [RemoveEffect {836045448945478}: Saber Conduit {808626377719808}] ()
+[12:55:54.550] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Kolto Drip {3569530139836416}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2965) <1482>
+[12:55:55.047] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove] [Progressive Kolto Scan {3770560379092992}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3184) <1592>
+[12:55:55.641] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Progressive Kolto Scan {3770560379092992}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[12:55:56.232] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Kolto Quick Scan {3569487190163456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:56.532] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Bleeding (Physical) {2268614610649344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -)
+[12:55:57.337] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Kolto Drip {3569530139836416}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2965)
+[12:55:57.842] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Kolto Quick Scan {3569487190163456}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7878) <1362>
+[12:55:59.231] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Progressive Kolto Scan {3770560379092992}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[12:55:59.546] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Bleeding (Physical) {2268614610649344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -)
+[12:55:59.547] [Oggo {3577175181623296}:21200011953035] [@Staboflove] [Gut {2268614610649088}] [RemoveEffect {836045448945478}: Bleeding (Physical) {2268614610649344}] ()
+[12:56:00.155] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Kolto Drip {3569530139836416}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2965)
+[12:56:00.155] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Kolto Drip {3569530139836416}] [RemoveEffect {836045448945478}: Kolto Drip {3569530139836416}] ()
+[12:56:00.258] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove] [Progressive Kolto Scan {3770560379092992}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3184) <906>
+[12:56:01.154] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove] [Progressive Kolto Scan {3770560379092992}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3184)
+[12:56:01.768] [@Staboflove:HK-55 {3600479674171392}] [@Staboflove:HK-55 {3600479674171392}] [Progressive Kolto Scan {3770560379092992}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[12:56:03.772] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [RemoveEffect {836045448945478}: Exploitive Strikes {3420357335711744}] ()
+[12:56:04.589] [@Staboflove] [Starbolt Heavy {3577669102862336}:21200011954773] [Mind Trap {808274190401536}] [RemoveEffect {836045448945478}: Asleep (Mental) {808274190401792}] ()
+[12:56:07.036] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [RemoveEffect {836045448945478}: Duplicity {949110463004672}] ()
+[12:56:08.763] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [RemoveEffect {836045448945478}: Entropic Field {3410019349430272}] ()
