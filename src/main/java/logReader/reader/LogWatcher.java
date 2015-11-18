@@ -62,8 +62,8 @@ public class LogWatcher extends TimerTask {
         Set<String> regex = new LinkedHashSet<String>();
         regex.add(".*<[0-9]{5,}>.*");
         regex.add(".*@Republican.*");
-        regex.add(".*Sonic.*");
-        regex.add("\\Q[(.*)?\\E]");
+        //regex.add(".*Sonic.*");
+       // regex.add("\\Q[(.*)?\\E]");
         getLogEntries(null,null,regex,fileList);
     }
     static Set<String> getLogEntries(String from,String to,Set<String> patterns, Set<String> fileList) throws IOException {
@@ -98,7 +98,7 @@ public class LogWatcher extends TimerTask {
         return result;
     }
     static String readFile(String pathToFile) throws IOException {
-        return new String(readAllBytes(get(pathToFile)));
+        return new String(readAllBytes(get(pathToFile)),"UTF-8");
     }
     static String loadBasedOnTime(String from){
         return "";
