@@ -4,18 +4,21 @@ package logReader.common;
  * Created by noone_000 on 11/14/2015.
  */
 public class LogEvent<T> {
-    Long time; // this is the key
+    Long time; // this is the key as well
     String dest;
     String source;
-    String type;
+    String ability;
+    String effect;
     T message;
-    public String getType() {
-        return type;
-    }
 
-    public void setType(String type) {
-        this.type = type;
-    }
+    public String getAbility() { return ability; }
+
+    public void setAbility(String ability) { this.ability = ability; }
+
+    public String getEffect() { return effect; }
+
+    public void setEffect(String effect) { this.effect = effect; }
+
     public String getSource() {
         return source;
     }
@@ -39,5 +42,9 @@ public class LogEvent<T> {
     public void setDest(String dest) {
         this.dest = dest;
     }
+
+    public Long getTime() { return time;}
+
+    public void setTime(Long time) { this.time = time; }
 
 }
