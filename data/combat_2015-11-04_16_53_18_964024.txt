@@ -1,0 +1,7 @@
+[16:56:42.361] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[16:56:42.362] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[16:56:42.362] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[16:56:42.362] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[16:56:42.683] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[16:56:42.684] [@Rusmusashi] [@Rusmusashi] [Soresu Form {812174020706304}] [ApplyEffect {836045448945477}: Soresu Form {812174020706304}] ()
+[16:56:55.783] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()

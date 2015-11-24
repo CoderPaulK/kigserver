@@ -1,0 +1,680 @@
+[21:39:45.971] [@Nutcracket] [@Nutcracket] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[21:39:46.580] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[21:39:52.385] [@Nutcracket] [@Nutcracket] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[21:41:11.820] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[21:41:11.820] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[21:41:11.821] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[21:41:16.012] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[21:41:16.012] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[21:41:16.013] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[21:41:26.311] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[21:41:26.312] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[21:41:26.312] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[21:41:34.994] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:41:39.748] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:41:44.277] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:41:44.278] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[21:41:44.279] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[21:41:44.280] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[21:41:45.352] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:41:45.353] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[21:41:46.956] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[21:41:46.956] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[21:41:46.956] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:41:46.957] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[21:41:46.958] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[21:41:46.958] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[21:41:46.958] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[21:42:13.356] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[21:42:13.357] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[21:42:13.358] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[21:42:13.358] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[21:42:13.358] [@Nutcracket] [@Nutcracket] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[21:42:13.379] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[21:42:22.055] [@Nutcracket] [@Nutcracket] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[21:42:37.925] [@Nutcracket] [@Nutcracket] [Accessing Galaxy Map... {663009806516224}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:42:52.228] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:42:52.229] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[21:42:52.230] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[21:42:52.231] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[21:42:53.416] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:42:53.417] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[21:42:54.931] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[21:42:54.931] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[21:43:01.087] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:44:06.260] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:44:08.408] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (9625)
+[21:44:09.357] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:44:48.077] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:44:51.505] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (10126)
+[21:44:53.109] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:45:33.818] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:45:35.602] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (10827)
+[21:45:37.775] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:46:22.394] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:46:24.269] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (11322)
+[21:46:26.076] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:47:02.913] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:47:04.728] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (12017)
+[21:47:21.063] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:48:09.036] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:48:10.875] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (11027)
+[21:48:12.034] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:48:25.599] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:48:27.559] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (11522)
+[21:48:28.452] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:48:57.396] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:48:59.798] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (11817)
+[21:49:00.954] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:49:20.097] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:49:22.499] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (12312)
+[21:49:23.877] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:49:45.218] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:49:47.061] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (12512)
+[21:49:50.649] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:50:46.485] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:50:48.456] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (31143)
+[21:50:49.428] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:52:00.138] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:52:02.014] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (31143)
+[21:52:03.194] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:53:44.957] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:53:46.411] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (31143)
+[21:53:47.693] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:54:31.038] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:54:32.912] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (31143)
+[21:54:34.108] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:55:05.931] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:55:07.179] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:55:17.762] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:55:18.763] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:56:10.509] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:56:12.360] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (31143)
+[21:56:29.059] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:56:57.335] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:56:58.516] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:57:24.128] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:57:25.849] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (9625)
+[21:57:26.948] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:58:17.211] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:58:18.914] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:58:36.185] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:58:38.491] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (9837)
+[21:58:42.133] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:58:59.039] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:59:01.390] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (10126)
+[21:59:06.095] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:59:17.856] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:59:19.266] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:59:28.035] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:59:30.126] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (10332)
+[21:59:31.584] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:00:15.517] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:00:16.931] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:00:39.818] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:00:41.807] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (10621)
+[22:00:42.951] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:01:02.001] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:01:03.906] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (10827)
+[22:01:05.751] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:02:32.915] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:02:34.652] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:03:42.793] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:03:44.590] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (11027)
+[22:03:46.816] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:03:56.083] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:03:58.002] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (11322)
+[22:03:58.946] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:04:28.169] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:04:30.032] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:04:45.919] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:04:47.970] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (11522)
+[22:04:48.968] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:05:16.454] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:05:18.302] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (11817)
+[22:05:32.985] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:05:49.412] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:05:51.319] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (12017)
+[22:05:52.599] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:06:08.993] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:06:10.698] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (12312)
+[22:12:06.546] [@Nutcracket] [@Nutcracket] [Exiting Ship... {2280730713391104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:12:08.753] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:12:32.786] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[22:12:32.786] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[22:12:32.787] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[22:12:32.787] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[22:12:32.787] [@Nutcracket] [@Nutcracket] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[22:12:32.901] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[22:12:43.374] [@Nutcracket] [@Nutcracket] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[22:30:46.991] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:30:46.991] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[22:30:46.994] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:30:46.994] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:30:48.130] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:30:48.131] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:30:49.706] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[22:30:49.706] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:30:52.114] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:30:52.732] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:30:52.732] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[22:31:51.944] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[22:31:51.945] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:31:51.947] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[22:32:00.146] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:32:00.146] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[22:32:00.147] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:32:40.156] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:32:40.156] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[22:32:40.159] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:32:40.159] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:32:41.287] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:32:41.288] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:32:42.906] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:32:50.885] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:32:50.896] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[22:32:50.896] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:33:09.236] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:33:09.237] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[22:33:09.239] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:33:09.239] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:33:10.908] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:33:10.909] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:33:12.643] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[22:33:12.643] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:33:23.513] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[22:33:23.514] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[22:33:23.514] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[22:33:23.514] [@Nutcracket] [@Nutcracket] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[22:33:23.515] [@Nutcracket] [@Nutcracket] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[22:33:23.680] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[22:33:32.687] [@Nutcracket] [@Nutcracket] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[22:33:49.935] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:33:58.466] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:34:00.430] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (5186)
+[22:34:01.743] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:34:08.264] [@Nutcracket] [@Nutcracket] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:34:21.302] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:21.302] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[22:34:21.304] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:34:21.304] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:34:22.389] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:22.390] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:34:23.988] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[22:34:23.988] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:34:26.898] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:27.611] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:34:27.611] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[22:34:36.093] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[22:34:36.097] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[22:34:36.098] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:34:36.098] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[22:34:36.098] [@Nutcracket] [@Nutcracket] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:34:36.100] [@Nutcracket] [@Nutcracket] [Injecting... {1609423030059008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:37.709] [Infected Killik {3316913048387584}:16813073830010] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[22:34:38.015] [Infected Killik {3316913048387584}:16813073830010] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:34:38.030] [Infected Killik {3316913048387584}:16813073830010] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:34:40.644] [Infected Killik {3316913048387584}:16813073830010] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:34:40.661] [Infected Killik {3316913048387584}:16813073830010] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:34:40.731] [@Nutcracket] [@Nutcracket] [Attracted Raklings {3315895141138432}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:40.731] [@Nutcracket] [@Nutcracket] [Attracted Raklings {3315895141138432}] [ApplyEffect {836045448945477}: Alderaan Rakling {3315895141138698}] ()
+[22:34:41.093] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (835 energy {836045448940874}) <835>
+[22:34:41.111] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (816 energy {836045448940874}) <816>
+[22:34:41.172] [Infected Killik {3316913048387584}:16813073830010] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:34:41.780] [@Nutcracket] [@Nutcracket] [Infection {3276544650772480}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:41.781] [@Nutcracket] [@Nutcracket] [Infection {3276544650772480}] [ApplyEffect {836045448945477}: Stage 1 Rakghoul Infection {3276544650772738}] ()
+[22:34:41.782] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (233 kinetic {836045448940873}) <233>
+[22:34:41.926] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (89 energy {836045448940874}) <89>
+[22:34:41.936] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (81 energy {836045448940874}) <81>
+[22:34:41.936] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (84 energy {836045448940874}) <84>
+[22:34:41.951] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 energy {836045448940874}) <76>
+[22:34:41.952] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (78 energy {836045448940874}) <78>
+[22:34:41.962] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (91 energy {836045448940874}) <91>
+[22:34:41.962] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (78 energy {836045448940874}) <78>
+[22:34:42.447] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 energy {836045448940874}) <76>
+[22:34:42.502] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:34:42.572] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 energy {836045448940874}) <76>
+[22:34:42.589] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (75 energy {836045448940874}) <75>
+[22:34:42.640] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (75 energy {836045448940874}) <75>
+[22:34:42.658] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (81 energy {836045448940874}) <81>
+[22:34:42.735] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (81 energy {836045448940874}) <81>
+[22:34:42.790] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 energy {836045448940874}) <76>
+[22:34:42.809] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (79 energy {836045448940874}) <79>
+[22:34:42.863] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (75 energy {836045448940874}) <75>
+[22:34:43.382] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:34:43.392] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:34:43.749] [@Nutcracket] [@Nutcracket] [Blaster Whip {3465149549641728}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:43.749] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[22:34:43.750] [@Nutcracket] [@Nutcracket] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Upper Hand {2275727076491264}] ()
+[22:34:43.822] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:34:44.110] [@Nutcracket] [Infected Killik {3316913048387584}:16813073830010] [Blaster Whip {3465149549641728}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3626* kinetic {836045448940873} (3626 absorbed {836045448945511})) <3626>
+[22:34:44.141] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (180 kinetic {836045448940873}) <180>
+[22:34:44.257] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (527 energy {836045448940874}) <527>
+[22:34:44.272] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:34:44.409] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1184 energy {836045448940874}) <1184>
+[22:34:45.657] [@Nutcracket] [@Nutcracket] [Shank Shot {3406471706443776}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:45.657] [@Nutcracket] [Infected Killik {3316913048387584}:16813073830010] [Shank Shot {3406471706443776}] [ApplyEffect {836045448945477}: Immobilized (Physical) {3406471706444046}] ()
+[22:34:45.659] [@Nutcracket] [Infected Killik {3316913048387584}:16813073830010] [Shank Shot {3406471706443776}] [RemoveEffect {836045448945478}: Immobilized (Physical) {3406471706444046}] ()
+[22:34:45.748] [@Nutcracket] [@Nutcracket] [Infection {3276544650772480}] [ApplyEffect {836045448945477}: Coughing Fits {3276544650772780}] ()
+[22:34:45.756] [@Nutcracket] [Infected Killik {3316913048387584}:16813073830010] [Shank Shot {3406471706443776}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1581 kinetic {836045448940873}) <1581>
+[22:34:45.756] [@Nutcracket] [Infected Killik {3316913048387584}:16813073830010] [] [Event {836045448945472}: Death {836045448945493}] ()
+[22:34:46.239] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1475 energy {836045448940874}) <1475>
+[22:34:46.326] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:34:46.694] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (791 energy {836045448940874}) <791>
+[22:34:46.758] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (95 energy {836045448940874}) <95>
+[22:34:46.758] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (82 energy {836045448940874}) <82>
+[22:34:46.777] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (80 energy {836045448940874}) <80>
+[22:34:46.777] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (91 energy {836045448940874}) <91>
+[22:34:46.885] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (80 energy {836045448940874}) <80>
+[22:34:46.901] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (94 energy {836045448940874}) <94>
+[22:34:46.914] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 energy {836045448940874}) <76>
+[22:34:47.813] [@Nutcracket] [@Nutcracket] [Infection {3276544650772480}] [RemoveEffect {836045448945478}: Coughing Fits {3276544650772780}] ()
+[22:34:48.578] [Infected Killik Guardian {3317011832635392}:16813074602831] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1199 energy {836045448940874}) <1199>
+[22:34:48.645] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (558 energy {836045448940874}) <558>
+[22:34:48.663] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:34:49.263] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (535 energy {836045448940874}) <535>
+[22:34:49.493] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Unload {829706077208576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (680 energy {836045448940874}) <680>
+[22:34:49.801] [@Nutcracket] [@Nutcracket] [Dirty Kick {807178973741056}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:49.801] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:34:49.801] [@Nutcracket] [Infected Killik Guardian {3317011832635392}:16813074602831] [Dirty Kick {807178973741056}] [ApplyEffect {836045448945477}: Stunned (Physical) {807178973741312}] ()
+[22:34:50.046] [@Nutcracket] [Infected Killik Guardian {3317011832635392}:16813074602831] [Dirty Kick {807178973741056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1317* kinetic {836045448940873}) <1317>
+[22:34:50.498] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Unload {829706077208576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (647 energy {836045448940874}) <647>
+[22:34:51.314] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:51.314] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:34:51.315] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[22:34:51.410] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Unload {829706077208576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (692 energy {836045448940874}) <692>
+[22:34:52.002] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (234 kinetic {836045448940873}) <234>
+[22:34:52.325] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (556 energy {836045448940874}) <556>
+[22:34:52.342] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (468 energy {836045448940874}) <468>
+[22:34:52.832] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:52.832] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:34:52.834] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890) <445>
+[22:34:52.834] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890) <445>
+[22:34:52.892] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:34:53.767] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (496 energy {836045448940874}) <496>
+[22:34:53.909] [@Nutcracket] [Infected Killik Guardian {3317011832635392}:16813074602831] [Dirty Kick {807178973741056}] [RemoveEffect {836045448945478}: Stunned (Physical) {807178973741312}] ()
+[22:34:54.235] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (507 energy {836045448940874}) <507>
+[22:34:54.324] [@Nutcracket] [@Nutcracket] [Thermal Grenade {807290642890752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:54.325] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[22:34:54.484] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (75 energy {836045448940874}) <75>
+[22:34:54.485] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (72 energy {836045448940874}) <72>
+[22:34:54.497] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 energy {836045448940874}) <76>
+[22:34:54.668] [@Nutcracket] [Infected Killik Guardian {3317011832635392}:16813074602831] [Thermal Grenade {807290642890752}] [ApplyEffect {836045448945477}: Thrown {807290642891021}] ()
+[22:34:54.670] [@Nutcracket] [@Nutcracket] [Primary Surge {3302529202913280}] [ApplyEffect {836045448945477}: Primary Surge {3302529202913280}] ()
+[22:34:54.695] [@Nutcracket] [Infected Killik Guardian {3317011832635392}:16813074602831] [Thermal Grenade {807290642890752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3010* kinetic {836045448940873}) <3010>
+[22:34:54.696] [@Nutcracket] [Infected Joiner {3317037602439168}:16813074602797] [Thermal Grenade {807290642890752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2199* kinetic {836045448940873}) <2199>
+[22:34:54.719] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (70 energy {836045448940874}) <70>
+[22:34:54.719] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (68 energy {836045448940874}) <68>
+[22:34:54.720] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (75 energy {836045448940874}) <75>
+[22:34:54.720] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (487 energy {836045448940874}) <487>
+[22:34:54.738] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (74 energy {836045448940874}) <74>
+[22:34:54.738] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 energy {836045448940874}) <76>
+[22:34:54.940] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (69 energy {836045448940874}) <69>
+[22:34:54.940] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (68 energy {836045448940874}) <68>
+[22:34:55.835] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <474>
+[22:34:56.058] [@Nutcracket] [@Nutcracket] [Blaster Whip {3465149549641728}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:56.058] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[22:34:56.084] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:34:56.381] [@Nutcracket] [Infected Killik Guardian {3317011832635392}:16813074602831] [Blaster Whip {3465149549641728}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3543* kinetic {836045448940873}) <3543>
+[22:34:56.493] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1527 energy {836045448940874}) <1527>
+[22:34:56.542] [@Nutcracket] [Infected Killik Guardian {3317011832635392}:16813074602831] [Thermal Grenade {807290642890752}] [RemoveEffect {836045448945478}: Thrown {807290642891021}] ()
+[22:34:56.621] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:34:57.659] [@Nutcracket] [@Nutcracket] [Flurry of Bolts {947955116802048}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:34:57.664] [@Nutcracket] [Infected Killik Guardian {3317011832635392}:16813074602831] [Flurry of Bolts {947955116802048}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (712 energy {836045448940874}) <712>
+[22:34:58.032] [@Nutcracket] [Infected Killik Guardian {3317011832635392}:16813074602831] [Flurry of Bolts {947955116802048}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (701 energy {836045448940874}) <701>
+[22:34:58.032] [@Nutcracket] [Infected Killik Guardian {3317011832635392}:16813074602831] [] [Event {836045448945472}: Death {836045448945493}] ()
+[22:34:58.033] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (2041)
+[22:34:58.642] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (666 energy {836045448940874}) <666>
+[22:34:58.770] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [ApplyEffect {836045448945477}: Power Surge {3303164858073088}] ()
+[22:34:58.771] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <474>
+[22:34:58.952] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (760 energy {836045448940874}) <760>
+[22:34:59.103] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (769 energy {836045448940874}) <769>
+[22:34:59.461] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (776 energy {836045448940874}) <776>
+[22:35:00.571] [@Nutcracket] [@Nutcracket] [Primary Surge {3302529202913280}] [RemoveEffect {836045448945478}: Primary Surge {3302529202913280}] ()
+[22:35:01.208] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 energy {836045448940874}) <76>
+[22:35:01.209] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (71 energy {836045448940874}) <71>
+[22:35:01.224] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (75 energy {836045448940874}) <75>
+[22:35:01.442] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (72 energy {836045448940874}) <72>
+[22:35:01.442] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (70 energy {836045448940874}) <70>
+[22:35:01.443] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (75 energy {836045448940874}) <75>
+[22:35:01.463] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (73 energy {836045448940874}) <73>
+[22:35:01.463] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:35:01.463] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 energy {836045448940874}) <76>
+[22:35:01.625] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:35:01.642] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:35:01.673] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (964) <482>
+[22:35:01.676] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (74 energy {836045448940874}) <74>
+[22:35:02.960] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (731 energy {836045448940874}) <731>
+[22:35:03.360] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (757 energy {836045448940874}) <757>
+[22:35:03.984] [@Nutcracket] [@Nutcracket] [Shank Shot {3406471706443776}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:03.984] [@Nutcracket] [Infected Joiner {3317037602439168}:16813074602797] [Shank Shot {3406471706443776}] [ApplyEffect {836045448945477}: Immobilized (Physical) {3406471706444046}] ()
+[22:35:04.674] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1552*) <776>
+[22:35:04.782] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [RemoveEffect {836045448945478}: Power Surge {3303164858073088}] ()
+[22:35:04.868] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (218 kinetic {836045448940873}) <218>
+[22:35:04.953] [@Nutcracket] [Infected Joiner {3317037602439168}:16813074602797] [Shank Shot {3406471706443776}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1559 kinetic {836045448940873}) <1559>
+[22:35:05.575] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:35:05.693] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (704 energy {836045448940874}) <704>
+[22:35:05.778] [@Nutcracket] [@Nutcracket] [Blaster Volley {1797757345988608}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:05.778] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[22:35:05.873] [@Nutcracket] [Infected Joiner {3317037602439168}:16813074602797] [Blaster Volley {1797757345988608}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1681* energy {836045448940874}) <1681>
+[22:35:06.044] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (487 energy {836045448940874}) <487>
+[22:35:06.293] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (664 energy {836045448940874}) <664>
+[22:35:06.509] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:35:07.561] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1433*) <716>
+[22:35:07.642] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:35:07.759] [@Nutcracket] [@Nutcracket] [Blaster Volley {1797757345988608}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:07.759] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[22:35:07.858] [@Nutcracket] [Infected Joiner {3317037602439168}:16813074602797] [Blaster Volley {1797757345988608}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (785 energy {836045448940874}) <785>
+[22:35:07.992] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1444 energy {836045448940874}) <1444>
+[22:35:08.056] [@Nutcracket] [Infected Joiner {3317037602439168}:16813074602797] [Shank Shot {3406471706443776}] [RemoveEffect {836045448945478}: Immobilized (Physical) {3406471706444046}] ()
+[22:35:09.279] [@Nutcracket] [@Nutcracket] [Charged Burst {807157498904576}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:10.562] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1359 energy {836045448940874}) <1359>
+[22:35:10.636] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890) <445>
+[22:35:10.637] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[22:35:11.024] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (211 kinetic {836045448940873}) <211>
+[22:35:11.328] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[22:35:11.444] [@Nutcracket] [Infected Joiner {3317037602439168}:16813074602797] [Charged Burst {807157498904576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2038 energy {836045448940874}) <2038>
+[22:35:11.444] [@Nutcracket] [Infected Joiner {3317037602439168}:16813074602797] [] [Event {836045448945472}: Death {836045448945493}] ()
+[22:35:11.445] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (2041)
+[22:35:13.127] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:13.127] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:35:13.128] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[22:35:13.503] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (81 energy {836045448940874}) <81>
+[22:35:13.543] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (82 energy {836045448940874}) <82>
+[22:35:13.543] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (81 energy {836045448940874}) <81>
+[22:35:13.570] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:35:13.571] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (78 energy {836045448940874}) <78>
+[22:35:13.597] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:35:13.597] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (77 energy {836045448940874}) <77>
+[22:35:13.597] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (78 energy {836045448940874}) <78>
+[22:35:13.620] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (73 energy {836045448940874}) <73>
+[22:35:13.665] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:35:13.886] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (824 energy {836045448940874}) <824>
+[22:35:13.887] [Infected Joiner {3317037602439168}:16813074602797] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:35:14.727] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:14.727] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:35:14.728] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890) <445>
+[22:35:14.729] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1433*) <716>
+[22:35:14.763] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:35:15.213] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (519 energy {836045448940874}) <519>
+[22:35:15.224] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:35:17.567] [@Nutcracket] [@Nutcracket] [Blood Boiler {3406463116509184}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:17.567] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[22:35:17.567] [@Nutcracket] [Infected Joiner {3317020422569984}:16813074602761] [Blood Boiler {3406463116509184}] [ApplyEffect {836045448945477}: Blood Boiler {3406463116509184}] ()
+[22:35:17.749] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890) <445>
+[22:35:17.750] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (198 kinetic {836045448940873}) <198>
+[22:35:19.028] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Unload {829706077208576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (624 energy {836045448940874}) <624>
+[22:35:19.507] [@Nutcracket] [@Nutcracket] [Charged Burst {807157498904576}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:19.908] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Unload {829706077208576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (630 energy {836045448940874}) <630>
+[22:35:20.621] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [ApplyEffect {836045448945477}: Power Surge {3303164858073088}] ()
+[22:35:20.623] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1433*) <716>
+[22:35:20.857] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Unload {829706077208576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (664 energy {836045448940874}) <664>
+[22:35:21.542] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (752 energy {836045448940874}) <752>
+[22:35:21.987] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[22:35:21.988] [@Nutcracket] [@Nutcracket] [Blaster Whip {3465149549641728}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:21.988] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[22:35:21.989] [@Nutcracket] [@Nutcracket] [Primary Surge {3302529202913280}] [ApplyEffect {836045448945477}: Primary Surge {3302529202913280}] ()
+[22:35:21.993] [@Nutcracket] [Infected Joiner {3317020422569984}:16813074602761] [Charged Burst {807157498904576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2187 energy {836045448940874}) <2187>
+[22:35:22.021] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (669 energy {836045448940874}) <669>
+[22:35:22.310] [@Nutcracket] [Infected Joiner {3317020422569984}:16813074602761] [Blaster Whip {3465149549641728}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3581* kinetic {836045448940873}) <3581>
+[22:35:23.561] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1648*) <824>
+[22:35:23.757] [@Nutcracket] [@Nutcracket] [Charged Burst {807157498904576}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:24.607] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (196 kinetic {836045448940873}) <196>
+[22:35:25.192] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (73 energy {836045448940874}) <73>
+[22:35:25.258] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (75 energy {836045448940874}) <75>
+[22:35:25.326] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:35:25.392] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (70 energy {836045448940874}) <70>
+[22:35:25.459] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (70 energy {836045448940874}) <70>
+[22:35:25.525] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (74 energy {836045448940874}) <74>
+[22:35:25.593] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (74 energy {836045448940874}) <74>
+[22:35:25.658] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (70 energy {836045448940874}) <70>
+[22:35:25.725] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (68 energy {836045448940874}) <68>
+[22:35:25.827] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[22:35:25.834] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[22:35:25.834] [@Nutcracket] [Infected Joiner {3317020422569984}:16813074602761] [Blood Boiler {3406463116509184}] [RemoveEffect {836045448945478}: Blood Boiler {3406463116509184}] ()
+[22:35:25.835] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[22:35:25.910] [@Nutcracket] [Infected Joiner {3317020422569984}:16813074602761] [Charged Burst {807157498904576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2590 energy {836045448940874}) <2590>
+[22:35:25.910] [@Nutcracket] [Infected Joiner {3317020422569984}:16813074602761] [] [Event {836045448945472}: Death {836045448945493}] ()
+[22:35:25.911] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (2041)
+[22:35:26.507] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1024) <512>
+[22:35:26.716] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [RemoveEffect {836045448945478}: Power Surge {3303164858073088}] ()
+[22:35:27.890] [Infected Joiner {3317020422569984}:16813074602761] [@Nutcracket] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (71 energy {836045448940874}) <71>
+[22:35:28.019] [@Nutcracket] [@Nutcracket] [Primary Surge {3302529202913280}] [RemoveEffect {836045448945478}: Primary Surge {3302529202913280}] ()
+[22:35:29.442] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:29.442] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:35:29.443] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1433*) <716>
+[22:35:30.928] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:30.929] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:35:30.930] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890) <445>
+[22:35:33.941] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890) <445>
+[22:35:33.943] [@Nutcracket] [@Nutcracket] [Injecting... {1609423030059008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:36.858] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1433*) <716>
+[22:35:38.572] [@Nutcracket] [@Nutcracket] [Attracted Raklings {3315895141138432}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:35:39.874] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890) <445>
+[22:35:42.809] [@Nutcracket] [@Nutcracket] [Primary Surge {3302529202913280}] [ApplyEffect {836045448945477}: Primary Surge {3302529202913280}] ()
+[22:35:42.810] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890) <445>
+[22:35:45.679] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <474>
+[22:35:48.676] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [ApplyEffect {836045448945477}: Power Surge {3303164858073088}] ()
+[22:35:48.677] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1528*) <764>
+[22:35:48.678] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[22:35:48.872] [@Nutcracket] [@Nutcracket] [Primary Surge {3302529202913280}] [RemoveEffect {836045448945478}: Primary Surge {3302529202913280}] ()
+[22:35:49.891] [@Nutcracket] [@Nutcracket] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Upper Hand {2275727076491264}] ()
+[22:35:52.415] [@Nutcracket] [@Nutcracket] [Infection {3276544650772480}] [ApplyEffect {836045448945477}: Coughing Fits {3276544650772780}] ()
+[22:35:54.528] [@Nutcracket] [@Nutcracket] [Infection {3276544650772480}] [RemoveEffect {836045448945478}: Coughing Fits {3276544650772780}] ()
+[22:35:54.727] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [RemoveEffect {836045448945478}: Power Surge {3303164858073088}] ()
+[22:35:57.212] [@Nutcracket] [@Nutcracket] [Injecting... {1609423030059008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:01.898] [@Nutcracket] [@Nutcracket] [Attracted Raklings {3315895141138432}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:04.303] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:04.304] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:36:04.304] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[22:36:05.831] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:05.832] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:36:05.832] [@Nutcracket] [@Nutcracket] [Primary Surge {3302529202913280}] [ApplyEffect {836045448945477}: Primary Surge {3302529202913280}] ()
+[22:36:05.833] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890) <445>
+[22:36:05.834] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1528*) <764>
+[22:36:07.812] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:07.812] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[22:36:07.814] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:36:07.814] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:36:08.940] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [ApplyEffect {836045448945477}: Power Surge {3303164858073088}] ()
+[22:36:08.942] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <474>
+[22:36:09.437] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[22:36:09.437] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:36:11.755] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1024) <512>
+[22:36:11.858] [@Nutcracket] [@Nutcracket] [Primary Surge {3302529202913280}] [RemoveEffect {836045448945478}: Primary Surge {3302529202913280}] ()
+[22:36:12.166] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:12.166] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[22:36:12.168] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:36:12.168] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:36:13.802] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[22:36:13.803] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:36:14.760] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (964) <140>
+[22:36:14.952] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [RemoveEffect {836045448945478}: Power Surge {3303164858073088}] ()
+[22:36:17.643] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890)
+[22:36:20.565] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890)
+[22:36:22.263] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:22.263] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[22:36:22.265] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:36:22.265] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:36:23.344] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:23.345] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:36:23.556] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (890)
+[22:36:23.556] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[22:36:24.968] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[22:36:24.968] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:36:24.969] [@Nutcracket] [@Nutcracket] [Opening {811418106462208}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:25.611] [@Nutcracket] [@Nutcracket] [Attracted Raklings {3315895141138432}] [RemoveEffect {836045448945478}: Alderaan Rakling {3315895141138698}] ()
+[22:36:27.328] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: SetLevel {836045448945492}] (57)
+[22:36:27.328] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: GainXp {836045448945491}] (5186)
+[22:36:34.421] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:34.421] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:36:34.422] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[22:36:37.454] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [ApplyEffect {836045448945477}: Power Surge {3303164858073088}] ()
+[22:36:37.455] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (457)
+[22:36:40.356] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (494)
+[22:36:43.312] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (494)
+[22:36:43.536] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [RemoveEffect {836045448945478}: Power Surge {3303164858073088}] ()
+[22:36:46.354] [@Nutcracket] [@Nutcracket] [Primary Surge {3302529202913280}] [ApplyEffect {836045448945477}: Primary Surge {3302529202913280}] ()
+[22:36:46.355] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (736*)
+[22:36:47.150] [@Nutcracket] [@Nutcracket] [THORN Booster Pin {3326284667027456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:49.173] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (487)
+[22:36:50.297] [@Nutcracket] [@Nutcracket] [THORN Booster Pin {3326284667027456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:36:52.188] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (487)
+[22:36:52.188] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[22:36:52.389] [@Nutcracket] [@Nutcracket] [Primary Surge {3302529202913280}] [RemoveEffect {836045448945478}: Primary Surge {3302529202913280}] ()
+[22:37:12.479] [@Nutcracket] [@Nutcracket] [Rakghoul Plague Vaccine {2856161841774592}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:37:12.479] [@Nutcracket] [@Nutcracket] [Rakghoul Plague Vaccine {2856161841774592}] [ApplyEffect {836045448945477}: Rakghoul Plague Vaccine {2856161841774592}] ()
+[22:37:12.480] [@Nutcracket] [@Nutcracket] [Infection {3276544650772480}] [RemoveEffect {836045448945478}: Stage 1 Rakghoul Infection {3276544650772738}] ()
+[22:37:54.905] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:37:54.905] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[22:37:54.906] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:37:54.906] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:37:55.999] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:37:56.000] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:37:57.599] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[22:37:57.599] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:38:09.505] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:38:09.505] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[22:38:09.506] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:38:09.507] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:38:11.104] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[22:38:11.104] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:38:12.574] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:38:12.574] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[22:38:12.576] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:38:12.576] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:38:14.121] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[22:38:14.122] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:38:51.370] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[22:38:51.373] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[22:38:53.140] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[22:38:53.465] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:38:53.871] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:38:55.938] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:38:56.405] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:38:57.338] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (85 energy {836045448940874}) <85>
+[22:38:57.354] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (96 energy {836045448940874}) <96>
+[22:38:57.355] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (83 energy {836045448940874}) <83>
+[22:38:57.462] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (84 energy {836045448940874}) <84>
+[22:38:57.463] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (99 energy {836045448940874}) <99>
+[22:38:57.569] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (95 energy {836045448940874}) <95>
+[22:38:57.569] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (92 energy {836045448940874}) <92>
+[22:38:58.974] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (422 energy {836045448940874}) <422>
+[22:38:59.186] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[22:38:59.288] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (466 kinetic {836045448940873}) <466>
+[22:38:59.505] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:38:59.556] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:38:59.905] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (430 energy {836045448940874}) <430>
+[22:39:00.021] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:00.324] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Spinning Strikes {1616037279694848}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1067 kinetic {836045448940873}) <1067>
+[22:39:01.338] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Spinning Strikes {1616037279694848}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1035 kinetic {836045448940873}) <1035>
+[22:39:02.022] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:02.039] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:02.188] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (464 energy {836045448940874}) <464>
+[22:39:02.205] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (458 energy {836045448940874}) <458>
+[22:39:02.339] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Spinning Strikes {1616037279694848}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (936 kinetic {836045448940873}) <936>
+[22:39:02.505] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:02.855] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (432 energy {836045448940874}) <432>
+[22:39:03.387] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Spinning Strikes {1616037279694848}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (997 kinetic {836045448940873}) <997>
+[22:39:03.806] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (92 energy {836045448940874}) <92>
+[22:39:03.822] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (89 energy {836045448940874}) <89>
+[22:39:03.822] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (100 energy {836045448940874}) <100>
+[22:39:03.922] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (82 energy {836045448940874}) <82>
+[22:39:03.922] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (97 energy {836045448940874}) <97>
+[22:39:03.939] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (93 energy {836045448940874}) <93>
+[22:39:03.940] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (80 energy {836045448940874}) <80>
+[22:39:04.405] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Spinning Strikes {1616037279694848}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1084 kinetic {836045448940873}) <1084>
+[22:39:05.322] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Spinning Strikes {1616037279694848}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1009 kinetic {836045448940873}) <1009>
+[22:39:05.323] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[22:39:05.838] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:39:05.939] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:39:06.675] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (399 kinetic {836045448940873}) <399>
+[22:39:07.123] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Thrash {1975556107141120}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1065 kinetic {836045448940873}) <1065>
+[22:39:07.271] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Thrash {1975556107141120}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1045 kinetic {836045448940873}) <1045>
+[22:39:08.256] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:08.276] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:08.590] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (627 kinetic {836045448940873}) <627>
+[22:39:08.722] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:39:08.738] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (663 energy {836045448940874}) <663>
+[22:39:08.790] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (722 kinetic {836045448940873}) <722>
+[22:39:09.886] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (676 energy {836045448940874}) <676>
+[22:39:10.124] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (468 kinetic {836045448940873}) <468>
+[22:39:10.323] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:39:10.338] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (103 energy {836045448940874}) <103>
+[22:39:10.438] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (85 energy {836045448940874}) <85>
+[22:39:10.456] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (90 energy {836045448940874}) <90>
+[22:39:10.539] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (85 energy {836045448940874}) <85>
+[22:39:10.540] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (91 energy {836045448940874}) <91>
+[22:39:10.555] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (88 energy {836045448940874}) <88>
+[22:39:10.556] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:10.658] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:11.589] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[22:39:11.690] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (617 kinetic {836045448940873}) <617>
+[22:39:11.922] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:11.923] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (638 kinetic {836045448940873}) <638>
+[22:39:12.356] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:12.405] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:39:12.840] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (618 energy {836045448940874}) <618>
+[22:39:14.089] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (461 kinetic {836045448940873}) <461>
+[22:39:14.617] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Thrash {1975556107141120}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (995 kinetic {836045448940873}) <995>
+[22:39:14.713] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Thrash {1975556107141120}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (925 kinetic {836045448940873}) <925>
+[22:39:14.749] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:14.919] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:15.089] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (705 energy {836045448940874}) <705>
+[22:39:15.872] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:39:15.957] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (675 kinetic {836045448940873}) <675>
+[22:39:16.157] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (681 kinetic {836045448940873}) <681>
+[22:39:16.989] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (101 energy {836045448940874}) <101>
+[22:39:17.041] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (99 energy {836045448940874}) <99>
+[22:39:17.042] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (86 energy {836045448940874}) <86>
+[22:39:17.164] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (98 energy {836045448940874}) <98>
+[22:39:17.165] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (82 energy {836045448940874}) <82>
+[22:39:17.186] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (81 energy {836045448940874}) <81>
+[22:39:17.214] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (83 energy {836045448940874}) <83>
+[22:39:17.527] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:17.781] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (461 kinetic {836045448940873}) <461>
+[22:39:17.846] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[22:39:18.258] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:18.274] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:18.275] [Infected Killik Protector {3316998947733504}:16813074791538] [@Nutcracket] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (450 kinetic {836045448940873}) <450>
+[22:39:19.008] [Infected Joiner {3317033307471872}:16813074791486] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1255 energy {836045448940874}) <1255>
+[22:39:19.183] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:39:19.183] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [ApplyEffect {836045448945477}: Slippery Devil {3204105732358144}] ()
+[22:39:19.185] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:39:19.185] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[22:39:20.815] [@Nutcracket] [@Nutcracket] [Slippery Devil {3204105732358144}] [RemoveEffect {836045448945478}: Slippery Devil {3204105732358144}] ()
+[22:39:20.816] [@Nutcracket] [@Nutcracket] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[22:39:21.140] [Infected Killik {3316913048387584}:16813074782107] [@Nutcracket] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[22:39:21.617] [@Nutcracket] [@Nutcracket] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[22:39:21.632] [@Nutcracket] [@Nutcracket] [Disappearing Act {2276212407795712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:39:21.632] [@Nutcracket] [@Nutcracket] [Disappearing Act {2276212407795712}] [ApplyEffect {836045448945477}: Disappearing Act {2276212407795712}] ()
+[22:39:21.633] [@Nutcracket] [@Nutcracket] [Stealth {807269168054272}] [ApplyEffect {836045448945477}: Stealth {807269168054272}] ()
+[22:39:21.635] [@Nutcracket] [@Nutcracket] [Stealth {807269168054272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:39:21.635] [@Nutcracket] [@Nutcracket] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[22:39:23.433] [@Nutcracket] [@Nutcracket] [Disappearing Act {2276212407795712}] [RemoveEffect {836045448945478}: Disappearing Act {2276212407795712}] ()
+[22:39:23.434] [@Nutcracket] [@Nutcracket] [Stealth {807269168054272}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:39:23.435] [@Nutcracket] [@Nutcracket] [Stealth {807269168054272}] [RemoveEffect {836045448945478}: Stealth {807269168054272}] ()
+[22:39:26.936] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:39:26.936] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:39:26.938] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[22:39:28.636] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:39:28.636] [@Nutcracket] [@Nutcracket] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[22:39:28.637] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (910) <455>
+[22:39:28.637] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (910) <455>
+[22:39:31.638] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (910) <455>
+[22:39:34.588] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (910) <455>
+[22:39:37.588] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1463*) <731>
+[22:39:40.488] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1463*) <731>
+[22:39:43.402] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [ApplyEffect {836045448945477}: Power Surge {3303164858073088}] ()
+[22:39:43.403] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (910) <455>
+[22:39:46.432] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (984) <492>
+[22:39:46.432] [@Nutcracket] [@Nutcracket] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[22:39:49.533] [@Nutcracket] [@Nutcracket] [Power Surge {3303164858073088}] [RemoveEffect {836045448945478}: Power Surge {3303164858073088}] ()
+[22:40:00.379] [@Nutcracket:Corso Riggs {349391294562304}] [@Nutcracket:Corso Riggs {349391294562304}] [Progressive Kolto Scan {3770547494191104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:40:01.343] [@Nutcracket:Corso Riggs {349391294562304}] [@Nutcracket] [Progressive Kolto Scan {3770547494191104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2445) <1222>
+[22:40:02.237] [@Nutcracket:Corso Riggs {349391294562304}] [@Nutcracket] [Progressive Kolto Scan {3770547494191104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2445) <1222>
+[22:40:03.287] [@Nutcracket:Corso Riggs {349391294562304}] [@Nutcracket] [Progressive Kolto Scan {3770547494191104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3852*) <1926>
+[22:40:03.385] [@Nutcracket:Corso Riggs {349391294562304}] [@Nutcracket:Corso Riggs {349391294562304}] [Progressive Kolto Scan {3770547494191104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:40:04.386] [@Nutcracket:Corso Riggs {349391294562304}] [@Nutcracket] [Progressive Kolto Scan {3770547494191104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2445) <1222>
+[22:40:05.403] [@Nutcracket:Corso Riggs {349391294562304}] [@Nutcracket] [Progressive Kolto Scan {3770547494191104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2445) <977>
+[22:40:06.306] [@Nutcracket:Corso Riggs {349391294562304}] [@Nutcracket] [Progressive Kolto Scan {3770547494191104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2445)

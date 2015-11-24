@@ -1,0 +1,663 @@
+[19:09:49.062] [@Pulemetckek] [@Pulemetckek] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[19:10:46.366] [@Pulemetckek] [@Pulemetckek] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[19:11:44.829] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[19:15:07.032] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[19:15:26.568] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[19:15:31.375] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[19:15:42.293] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:15:42.303] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:15:42.901] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083510] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:15:42.984] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083510] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:15:42.985] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083510] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:15:43.002] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083510] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:15:43.002] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083510] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:15:43.114] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083510] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:15:43.114] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083510] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16* energy {836045448940874}) <16>
+[19:15:43.466] [Separatist Defender {829701782241280}:125165083510] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:15:43.851] [Separatist Defender {829701782241280}:125165083465] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:15:43.894] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:15:43.895] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:15:44.078] [Separatist Defender {829701782241280}:125165083510] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:15:44.208] [Separatist Defender {829701782241280}:125165083555] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:15:44.535] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083510] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:15:44.535] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083510] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:15:44.710] [Separatist Defender {829701782241280}:125165083555] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:15:44.730] [Separatist Defender {829701782241280}:125165083555] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:15:44.730] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083510] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (91 kinetic {836045448940873}) <91>
+[19:15:44.730] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083510] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:15:44.730] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (91)
+[19:15:45.418] [Separatist Defender {829701782241280}:125165083465] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:15:45.902] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:15:45.902] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:15:46.625] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083465] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:15:46.741] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083465] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (90 kinetic {836045448940873}) <90>
+[19:15:47.097] [Separatist Defender {829701782241280}:125165083465] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:15:47.401] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:15:47.405] [@Pulemetckek] [Separatist Defender {829701782241280}:125165083465] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:15:52.634] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (90)
+[19:15:53.420] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:15:53.427] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:15:53.992] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165093226] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:15:54.009] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165093226] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:15:54.009] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165093226] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:15:54.143] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165093226] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14* energy {836045448940874}) <14>
+[19:15:54.144] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165093226] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:15:54.165] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165093226] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:15:54.165] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165093226] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:15:54.507] [Separatist Heavy Gunner {1203144893661184}:125165093226] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 energy {836045448940874}) <12>
+[19:15:54.662] [Separatist Sympathizer {505109628846080}:125165093138] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:15:54.930] [Separatist Heavy Gunner {1203144893661184}:125165093226] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:15:55.031] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:15:55.031] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:15:55.121] [Separatist Sympathizer {505109628846080}:125165093138] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:15:55.557] [Separatist Sympathizer {505109628846080}:125165093138] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:15:55.634] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165093226] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:15:55.635] [@Pulemetckek] [Separatist Scout {505105333878784}:125165093182] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (44 kinetic {836045448940873}) <44>
+[19:15:55.635] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165093226] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:15:55.875] [Separatist Scout {505105333878784}:125165093182] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:15:55.893] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165093226] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (87 kinetic {836045448940873}) <87>
+[19:15:55.893] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165093226] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:15:55.893] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (91)
+[19:15:56.174] [Separatist Scout {505105333878784}:125165093182] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:15:56.194] [Separatist Scout {505105333878784}:125165093182] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:15:56.539] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:15:57.010] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165093138] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:15:57.010] [Separatist Sympathizer {505109628846080}:125165093138] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 energy {836045448940874}) <25>
+[19:15:57.029] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165093138] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14* energy {836045448940874}) <14>
+[19:15:57.030] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165093138] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:15:57.149] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165093138] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:15:57.150] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165093138] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:15:57.165] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165093138] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:15:57.165] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165093138] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:15:57.984] [Separatist Scout {505105333878784}:125165093182] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:15:58.085] [Separatist Scout {505105333878784}:125165093182] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:15:58.134] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:15:58.135] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:15:58.233] [Separatist Scout {505105333878784}:125165093182] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:15:58.542] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165093138] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:15:58.543] [@Pulemetckek] [Separatist Scout {505105333878784}:125165093182] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (43 kinetic {836045448940873}) <43>
+[19:15:58.543] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165093138] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:15:58.736] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165093138] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (86 kinetic {836045448940873}) <86>
+[19:15:58.736] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165093138] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:15:58.736] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (91)
+[19:15:59.754] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:15:59.757] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:15:59.977] [@Pulemetckek] [Separatist Scout {505105333878784}:125165093182] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:15:59.978] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (91)
+[19:15:59.978] [@Pulemetckek] [Separatist Scout {505105333878784}:125165093182] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:15:59.999] [@Pulemetckek] [Separatist Scout {505105333878784}:125165093182] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:00.111] [Separatist Scout {505105333878784}:125165093182] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:16:04.562] [Separatist Scout {505105333878784}:125165093182] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:16:04.562] [Separatist Scout {505105333878784}:125165093182] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:16:06.170] [@Pulemetckek] [@Pulemetckek] [Disabling {810911300321280}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:24.155] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:24.156] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:16:24.761] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:16:24.762] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165106708] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:16:24.915] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165106708] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (86 kinetic {836045448940873}) <86>
+[19:16:25.763] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:25.763] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165106708] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:16:26.100] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165106708] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:16:26.100] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (91)
+[19:16:26.101] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165106708] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:26.115] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165106708] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:26.227] [Separatist Scout {505105333878784}:125165106752] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:16:26.576] [Separatist Scout {505105333878784}:125165106752] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:16:26.593] [Separatist Scout {505105333878784}:125165106752] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:16:27.367] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:27.376] [Separatist Scout {505105333878784}:125165106668] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:16:27.768] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106668] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:16:27.768] [Separatist Scout {505105333878784}:125165106668] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:16:27.896] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106668] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:16:27.897] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106668] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:28.029] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106668] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:28.030] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106668] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:16:28.044] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106668] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:28.044] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106668] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:16:28.578] [Separatist Scout {505105333878784}:125165106752] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:16:28.594] [Separatist Scout {505105333878784}:125165106752] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:16:28.876] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:29.058] [Separatist Scout {505105333878784}:125165106752] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:16:29.260] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106668] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:16:29.260] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (77)
+[19:16:29.261] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106668] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:16:29.273] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106668] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:16:30.404] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:30.404] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:16:30.905] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106752] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:16:31.068] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106752] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (92 kinetic {836045448940873}) <92>
+[19:16:31.148] [Separatist Scout {505105333878784}:125165106752] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:16:32.009] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:16:32.012] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:32.012] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106752] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:16:32.365] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106752] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:16:32.365] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (91)
+[19:16:32.366] [@Pulemetckek] [Separatist Scout {505105333878784}:125165106752] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:16:32.540] [Separatist Scout {505105333878784}:125165106752] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:16:32.540] [Separatist Scout {505105333878784}:125165106752] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:16:43.865] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:43.866] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:16:44.522] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:16:44.525] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165109403] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:16:44.526] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: SetLevel {836045448945492}] (2)
+[19:16:44.526] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165109403] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:16:44.627] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165109403] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (131* kinetic {836045448940873}) <131>
+[19:16:44.627] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165109403] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:16:44.628] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (91)
+[19:16:45.490] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:45.646] [Separatist Scout {505105333878784}:125165109487] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:16:45.647] [Separatist Scout {505105333878784}:125165109487] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:16:45.861] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109447] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:16:45.875] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109447] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:45.876] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109447] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:45.999] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109447] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:46.000] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109447] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:16:46.000] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109447] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:46.000] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109447] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:46.196] [Separatist Scout {505105333878784}:125165109487] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:16:46.470] [Separatist Scout {505105333878784}:125165109447] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:16:46.487] [Separatist Scout {505105333878784}:125165109447] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:16:47.095] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:47.096] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (575)
+[19:16:47.428] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109447] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:16:47.428] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (66)
+[19:16:47.429] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109447] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:47.442] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109447] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:16:48.231] [Separatist Scout {505105333878784}:125165109487] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 energy {836045448940874}) <24>
+[19:16:48.683] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:48.683] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:16:49.204] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109487] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:16:49.415] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109487] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (98 kinetic {836045448940873}) <98>
+[19:16:50.308] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:16:50.312] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:16:50.312] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109487] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:16:50.745] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109487] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:16:50.745] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:16:50.745] [@Pulemetckek] [Separatist Scout {505105333878784}:125165109487] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:16:52.904] [@Pulemetckek] [@Pulemetckek] [Disabling {810911300321280}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:05.171] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:05.171] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:17:05.877] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:17:05.879] [@Pulemetckek] [Separatist Scout {505105333878784}:125165073302] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:17:05.993] [@Pulemetckek] [Separatist Scout {505105333878784}:125165073302] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (90 kinetic {836045448940873}) <90>
+[19:17:06.772] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:06.773] [@Pulemetckek] [Separatist Scout {505105333878784}:125165073302] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:17:07.144] [@Pulemetckek] [Separatist Scout {505105333878784}:125165073302] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:17:07.144] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:17:07.145] [@Pulemetckek] [Separatist Scout {505105333878784}:125165073302] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:17:07.193] [Separatist Roughneck {505101038911488}:125165073214] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:17:07.616] [Separatist Sympathizer {505109628846080}:125165073258] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:17:07.644] [Separatist Sympathizer {505109628846080}:125165073258] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:17:08.289] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:08.289] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:17:08.787] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165073258] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:17:08.996] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165073258] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (91 kinetic {836045448940873}) <91>
+[19:17:09.476] [Separatist Roughneck {505101038911488}:125165073214] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:17:09.927] [Separatist Roughneck {505101038911488}:125165073214] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:17:09.995] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:09.995] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165073258] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:17:10.396] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165073258] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:17:10.396] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:17:10.397] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165073258] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:17:11.591] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:11.591] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:17:12.188] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165073214] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:17:12.376] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165073214] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (94 kinetic {836045448940873}) <94>
+[19:17:12.412] [Separatist Roughneck {505101038911488}:125165073214] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:17:12.493] [Separatist Roughneck {505101038911488}:125165073214] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:17:13.203] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:17:13.205] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:13.205] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165073214] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:17:13.622] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165073214] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:17:13.622] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:17:13.622] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165073214] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:17:14.537] [Separatist Roughneck {505101038911488}:125165073214] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:17:18.455] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:18.455] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:17:18.910] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:17:18.913] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165010048] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:17:18.913] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165009964] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (45 kinetic {836045448940873}) <45>
+[19:17:19.051] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165010048] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (93 kinetic {836045448940873}) <93>
+[19:17:19.944] [Separatist Sympathizer {505109628846080}:125165009964] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 energy {836045448940874}) <24>
+[19:17:20.022] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:20.023] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165010048] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:17:20.394] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165010048] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:17:20.394] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:17:20.394] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165010048] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:17:21.292] [Separatist Scout {505105333878784}:125165010008] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:17:21.309] [Separatist Scout {505105333878784}:125165010008] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:17:21.522] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:21.522] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:17:22.156] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165009964] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:17:22.157] [@Pulemetckek] [Separatist Scout {505105333878784}:125165010008] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (47 kinetic {836045448940873}) <47>
+[19:17:22.157] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165009964] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:17:22.257] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165009964] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (95 kinetic {836045448940873}) <95>
+[19:17:22.257] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165009964] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:17:22.257] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:17:23.137] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:17:23.139] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:23.181] [Separatist Scout {505105333878784}:125165010008] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:17:23.397] [@Pulemetckek] [Separatist Scout {505105333878784}:125165010008] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:17:23.397] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (66)
+[19:17:23.397] [@Pulemetckek] [Separatist Scout {505105333878784}:125165010008] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:17:23.398] [@Pulemetckek] [Separatist Scout {505105333878784}:125165010008] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:17:23.398] [@Pulemetckek] [Separatist Scout {505105333878784}:125165010008] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:17:23.411] [@Pulemetckek] [Separatist Scout {505105333878784}:125165010008] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:17:24.537] [Separatist Sympathizer {505109628846080}:125165009964] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:17:24.537] [Separatist Sympathizer {505109628846080}:125165009964] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:17:25.537] [Separatist Scout {505105333878784}:125165010008] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:17:27.657] [@Pulemetckek] [@Pulemetckek] [Destroying {1767610970537984}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:31.587] [@Pulemetckek] [@Pulemetckek] [Holocom {813368021614592}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:17:33.190] [@Pulemetckek] [@Pulemetckek] [Holocom {813368021614592}] [ApplyEffect {836045448945477}: Holocom {813368021614592}] ()
+[19:17:35.592] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[19:18:32.166] [@Pulemetckek] [@Pulemetckek] [Holocom {813368021614592}] [RemoveEffect {836045448945478}: Holocom {813368021614592}] ()
+[19:18:32.167] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[19:18:37.898] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:18:37.898] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:18:41.319] [@Pulemetckek] [@Pulemetckek] [Fortification {1781488009871360}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:18:41.320] [@Pulemetckek] [@Ju'lie] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[19:18:41.320] [@Pulemetckek] [@Ju'lie] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[19:18:41.321] [@Pulemetckek] [@Ju'lie] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[19:18:41.321] [@Pulemetckek] [@Ju'lie] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[19:18:41.798] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:18:41.799] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:18:42.758] [Separatist Roughneck {505101038911488}:125165134310] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 energy {836045448940874}) <25>
+[19:18:43.230] [Separatist Sympathizer {505109628846080}:125165134354] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 energy {836045448940874}) <12>
+[19:18:43.230] [Separatist Sympathizer {505109628846080}:125165134354] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 energy {836045448940874}) <12>
+[19:18:43.470] [Separatist Scout {505105333878784}:125165134398] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:18:43.537] [Separatist Scout {505105333878784}:125165134398] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:18:44.057] [Separatist Scout {505105333878784}:125165134398] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6 energy {836045448940874}) <6>
+[19:18:44.423] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:18:44.423] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:18:45.019] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165134310] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:18:45.162] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165134310] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (93 kinetic {836045448940873}) <93>
+[19:18:46.218] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:18:46.218] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165134310] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:18:46.546] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165134310] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:18:46.546] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:18:46.547] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165134310] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:18:48.524] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:18:48.528] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:18:49.626] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:18:49.626] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:18:50.342] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:18:50.343] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:18:50.343] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165127770] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:18:50.510] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165127770] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (97 kinetic {836045448940873}) <97>
+[19:18:51.227] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:18:51.227] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165127770] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:18:51.379] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165127770] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:18:51.380] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165127770] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:18:51.380] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:18:51.731] [Separatist Scout {505105333878784}:125165127814] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:18:51.960] [Separatist Scout {505105333878784}:125165127858] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:18:52.177] [Separatist Scout {505105333878784}:125165127814] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:18:52.834] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:18:52.834] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:18:53.331] [@Pulemetckek] [Separatist Scout {505105333878784}:125165127858] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:18:53.331] [@Pulemetckek] [Separatist Scout {505105333878784}:125165127814] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (44 kinetic {836045448940873}) <44>
+[19:18:53.492] [@Pulemetckek] [Separatist Scout {505105333878784}:125165127858] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (94 kinetic {836045448940873}) <94>
+[19:18:54.356] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:18:54.356] [@Pulemetckek] [Separatist Scout {505105333878784}:125165127858] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:18:54.615] [@Pulemetckek] [Separatist Scout {505105333878784}:125165127858] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:18:54.615] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:18:54.615] [@Pulemetckek] [Separatist Scout {505105333878784}:125165127858] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:18:54.635] [Separatist Scout {505105333878784}:125165127814] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:18:55.959] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:18:55.959] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:18:56.358] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:18:56.361] [@Pulemetckek] [Separatist Scout {505105333878784}:125165127814] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:18:56.361] [@Pulemetckek] [Separatist Scout {505105333878784}:125165127814] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:18:56.362] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:18:56.549] [Separatist Scout {505105333878784}:125165127814] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:18:56.581] [@Pulemetckek] [Separatist Scout {505105333878784}:125165127814] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (92 kinetic {836045448940873}) <92>
+[19:18:56.581] [@Pulemetckek] [Separatist Scout {505105333878784}:125165127814] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:18:56.581] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:18:58.548] [Separatist Scout {505105333878784}:125165127814] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 energy {836045448940874}) <12>
+[19:18:58.548] [Separatist Scout {505105333878784}:125165127814] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:18:58.862] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:18:58.862] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:18:59.576] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:18:59.578] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:18:59.579] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165114471] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:18:59.579] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165114515] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (49 kinetic {836045448940873}) <49>
+[19:18:59.702] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165114471] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (97 kinetic {836045448940873}) <97>
+[19:19:00.397] [Separatist Roughneck {505101038911488}:125165114515] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:19:00.411] [Separatist Roughneck {505101038911488}:125165114515] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:19:00.465] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:00.465] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165114471] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:19:00.797] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165114471] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:19:00.797] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:19:00.798] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165114471] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:19:00.827] [Separatist Roughneck {505101038911488}:125165114515] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:19:02.069] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:02.069] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:19:02.468] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:19:02.470] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165114515] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:19:02.470] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165114515] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:19:02.471] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:19:02.656] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165114515] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (92 kinetic {836045448940873}) <92>
+[19:19:02.656] [@Pulemetckek] [Separatist Roughneck {505101038911488}:125165114515] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:19:02.656] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:19:18.608] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:18.608] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:19:19.226] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:19:19.229] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:19:19.229] [@Pulemetckek] [Separatist Scout {505105333878784}:125165146478] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:19:19.230] [@Pulemetckek] [Separatist Scout {505105333878784}:125165146478] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:19:19.375] [@Pulemetckek] [Separatist Scout {505105333878784}:125165146478] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (99 kinetic {836045448940873}) <99>
+[19:19:19.375] [@Pulemetckek] [Separatist Scout {505105333878784}:125165146478] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:19:19.375] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (66)
+[19:19:20.047] [Separatist Sympathizer {505109628846080}:125165146434] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:19:20.240] [Separatist Sympathizer {505109628846080}:125165146434] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:19:20.688] [Separatist Heavy Gunner {1203144893661184}:125165146518] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 energy {836045448940874}) <12>
+[19:19:20.690] [Separatist Sympathizer {505109628846080}:125165146434] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:19:21.127] [Separatist Heavy Gunner {1203144893661184}:125165146518] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:19:22.061] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:22.061] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:19:22.298] [Separatist Sympathizer {505109628846080}:125165146434] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:19:22.342] [Separatist Sympathizer {505109628846080}:125165146434] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:19:22.536] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165146434] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:19:22.537] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165146518] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (50 kinetic {836045448940873}) <50>
+[19:19:22.748] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165146434] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (92 kinetic {836045448940873}) <92>
+[19:19:23.139] [Separatist Heavy Gunner {1203144893661184}:125165146518] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 energy {836045448940874}) <23>
+[19:19:23.653] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:23.653] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165146434] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:19:23.977] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165146434] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:19:23.977] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:19:23.978] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165146434] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:19:24.532] [Separatist Sympathizer {505109628846080}:125165146434] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:19:25.397] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:19:25.412] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:25.412] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: SetLevel {836045448945492}] (3)
+[19:19:25.414] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:19:25.657] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165146518] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:19:25.657] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[19:19:25.658] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165146518] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14* energy {836045448940874}) <14>
+[19:19:25.721] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165146518] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:19:25.722] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165146518] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:19:25.738] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165146518] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:19:25.739] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165146518] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:19:28.851] [@Pulemetckek] [@Pulemetckek] [Disabling {810911300321280}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:36.104] [@Pulemetckek] [@Pulemetckek] [Fortification {1781488009871360}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:36.104] [@Pulemetckek] [@Pulemetckek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[19:19:36.105] [@Pulemetckek] [@Pulemetckek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[19:19:36.106] [@Pulemetckek] [@Pulemetckek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[19:19:36.106] [@Pulemetckek] [@Pulemetckek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[19:19:43.192] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:43.192] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:19:44.095] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:19:44.097] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:19:44.097] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165122795] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:19:44.098] [@Pulemetckek] [Separatist Scout {505105333878784}:125165122751] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (53 kinetic {836045448940873}) <53>
+[19:19:44.098] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165122795] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:19:44.197] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165122795] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (110 kinetic {836045448940873}) <110>
+[19:19:44.197] [@Pulemetckek] [Separatist Heavy Gunner {1203144893661184}:125165122795] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:19:44.197] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (76)
+[19:19:45.383] [Separatist Sympathizer {505109628846080}:125165122707] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:19:45.534] [Separatist Scout {505105333878784}:125165122751] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:19:45.608] [Separatist Sympathizer {505109628846080}:125165122707] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:19:45.789] [Separatist Scout {505105333878784}:125165122751] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:19:46.118] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:46.118] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:19:46.492] [Separatist Scout {505105333878784}:125165122751] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:19:46.714] [@Pulemetckek] [Separatist Scout {505105333878784}:125165122751] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:19:46.714] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165122707] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (81* kinetic {836045448940873}) <81>
+[19:19:46.714] [@Pulemetckek] [Separatist Scout {505105333878784}:125165122751] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:19:46.933] [@Pulemetckek] [Separatist Scout {505105333878784}:125165122751] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (110 kinetic {836045448940873}) <110>
+[19:19:46.933] [@Pulemetckek] [Separatist Scout {505105333878784}:125165122751] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:19:46.933] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (76)
+[19:19:47.683] [Separatist Sympathizer {505109628846080}:125165122707] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:19:48.123] [Separatist Sympathizer {505109628846080}:125165122707] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:19:48.141] [Separatist Sympathizer {505109628846080}:125165122707] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:19:48.522] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:19:48.526] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:48.526] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:19:48.974] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165122707] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:19:48.975] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (76)
+[19:19:48.975] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165122707] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:19:48.992] [@Pulemetckek] [Separatist Sympathizer {505109628846080}:125165122707] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:19:55.313] [@Pulemetckek] [@Pulemetckek] [Fortification {1781488009871360}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:19:55.313] [@Pulemetckek] [@Tymbo] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[19:19:55.314] [@Pulemetckek] [@Tymbo] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[19:19:55.314] [@Pulemetckek] [@Tymbo] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[19:19:55.314] [@Pulemetckek] [@Tymbo] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[19:20:05.678] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[19:20:07.660] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[19:20:09.589] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (1768)
+[19:20:27.390] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[19:20:41.147] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[19:20:50.528] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:20:50.528] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:20:51.151] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:20:51.153] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:20:51.153] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165141924] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:20:51.154] [@Pulemetckek] [Separatist Sniper {505345852047360}:125165141968] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (49 kinetic {836045448940873}) <49>
+[19:20:51.312] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165141924] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (105 kinetic {836045448940873}) <105>
+[19:20:52.147] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:20:52.148] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165141924] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:20:52.229] [Separatist Sniper {505345852047360}:125165141968] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:20:52.318] [Separatist Field Scout {505341557080064}:125165141880] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:20:52.427] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165141924] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:20:52.427] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (100)
+[19:20:52.428] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165141924] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:20:52.767] [Separatist Sniper {505345852047360}:125165141968] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:20:53.030] [Separatist Field Scout {505341557080064}:125165141880] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:20:53.125] [Separatist Sniper {505345852047360}:125165141968] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[19:20:53.644] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:20:53.644] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:20:54.092] [@Pulemetckek] [Separatist Sniper {505345852047360}:125165141968] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:20:54.093] [@Pulemetckek] [Separatist Sniper {505345852047360}:125165141968] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:20:54.276] [@Pulemetckek] [Separatist Sniper {505345852047360}:125165141968] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (107 kinetic {836045448940873}) <107>
+[19:20:54.276] [@Pulemetckek] [Separatist Sniper {505345852047360}:125165141968] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:20:54.276] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (76)
+[19:20:54.725] [Separatist Field Scout {505341557080064}:125165141880] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:20:54.742] [Separatist Field Scout {505341557080064}:125165141880] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:20:55.206] [Separatist Field Scout {505341557080064}:125165141880] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:20:55.816] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:20:55.816] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:20:56.211] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165141880] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:20:56.338] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165141880] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (104 kinetic {836045448940873}) <104>
+[19:20:57.412] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:20:57.418] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:20:57.418] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165141880] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:20:57.419] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:20:57.494] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165141880] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:20:57.494] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165141880] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:20:57.494] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (100)
+[19:20:58.918] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:20:58.918] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:20:59.440] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (235)
+[19:20:59.629] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:20:59.631] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:20:59.809] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (97 kinetic {836045448940873}) <97>
+[19:21:00.416] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:00.600] [Separatist Sharpshooter {882680203837440}:125165148844] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 energy {836045448940874}) <16>
+[19:21:00.662] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:21:00.679] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16* energy {836045448940874}) <16>
+[19:21:00.679] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15* energy {836045448940874}) <15>
+[19:21:00.780] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:21:00.781] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:00.794] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:21:00.795] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:01.058] [Separatist Sharpshooter {882680203837440}:125165148844] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 energy {836045448940874}) <15>
+[19:21:01.916] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:02.106] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15* energy {836045448940874}) <15>
+[19:21:02.106] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:21:02.125] [Separatist Sharpshooter {882680203837440}:125165148844] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:21:02.139] [Separatist Sharpshooter {882680203837440}:125165148844] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:21:02.238] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:21:02.238] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:02.256] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:21:02.256] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:21:02.397] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14* energy {836045448940874}) <14>
+[19:21:02.613] [Separatist Sharpshooter {882680203837440}:125165148844] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:21:03.435] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:21:03.441] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:03.441] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:21:03.770] [Separatist Sharpshooter {882680203837440}:125165148844] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:03.788] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:03.788] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (303)
+[19:21:03.788] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:03.802] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:03.803] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:03.890] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15* energy {836045448940874}) <15>
+[19:21:03.890] [@Pulemetckek] [Separatist Sharpshooter {882680203837440}:125165148844] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:05.541] [Separatist Sharpshooter {882680203837440}:125165148844] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:21:05.541] [Separatist Sharpshooter {882680203837440}:125165148844] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:21:06.333] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:06.333] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:21:06.833] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:21:06.845] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:21:06.948] [@Pulemetckek] [Separatist Sniper {505345852047360}:125165146334] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:21:07.055] [@Pulemetckek] [Separatist Sniper {505345852047360}:125165146334] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (102 kinetic {836045448940873}) <102>
+[19:21:07.788] [Separatist Field Scout {505341557080064}:125165146290] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:21:07.819] [Separatist Field Scout {505341557080064}:125165146290] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:21:07.980] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:07.980] [@Pulemetckek] [Separatist Sniper {505345852047360}:125165146334] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:21:08.249] [@Pulemetckek] [Separatist Sniper {505345852047360}:125165146334] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:08.249] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (100)
+[19:21:08.250] [@Pulemetckek] [Separatist Sniper {505345852047360}:125165146334] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:21:08.293] [Separatist Field Scout {505341557080064}:125165146290] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[19:21:08.335] [Separatist Field Scout {505341557080064}:125165146378] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:21:08.756] [Separatist Field Scout {505341557080064}:125165146378] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 energy {836045448940874}) <14>
+[19:21:10.204] [Separatist Field Scout {505341557080064}:125165146290] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 energy {836045448940874}) <23>
+[19:21:10.366] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:10.366] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:21:10.805] [Separatist Field Scout {505341557080064}:125165146378] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (26 energy {836045448940874}) <26>
+[19:21:10.874] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165146378] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:21:10.959] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165146378] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (107 kinetic {836045448940873}) <107>
+[19:21:11.955] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:11.955] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165146378] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:21:12.436] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165146378] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:12.436] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (100)
+[19:21:12.437] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165146378] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:21:12.808] [Separatist Field Scout {505341557080064}:125165146290] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:21:13.488] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:13.488] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:21:14.002] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:21:14.007] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165146290] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:21:14.007] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165146290] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:21:14.008] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:21:14.160] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165146290] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (107 kinetic {836045448940873}) <107>
+[19:21:14.160] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125165146290] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:14.160] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (76)
+[19:21:16.316] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:16.316] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:21:17.012] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:21:17.017] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:21:17.017] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164978619] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:21:17.017] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978575] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (50 kinetic {836045448940873}) <50>
+[19:21:17.018] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164978619] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:21:17.246] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164978619] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (109 kinetic {836045448940873}) <109>
+[19:21:17.246] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164978619] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:17.246] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (76)
+[19:21:17.532] [Separatist Field Scout {505341557080064}:125165146290] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:21:17.934] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:18.422] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978531] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:18.438] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978531] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:21:18.438] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978531] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:18.551] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978531] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:21:18.551] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978531] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:21:18.563] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978531] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:21:18.564] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978531] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:18.578] [Separatist Sniper {505345852047360}:125164978575] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:21:18.682] [Separatist Sniper {505345852047360}:125164978531] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:21:19.522] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:19.523] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:21:20.081] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978575] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:21:20.081] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: SetLevel {836045448945492}] (4)
+[19:21:20.082] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (887)
+[19:21:20.082] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978575] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:21:20.132] [Separatist Sniper {505345852047360}:125164978531] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874}) <9>
+[19:21:20.134] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978575] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (109 kinetic {836045448940873}) <109>
+[19:21:20.134] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978575] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:20.134] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (76)
+[19:21:20.646] [Separatist Sniper {505345852047360}:125164978531] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:21:20.926] [Separatist Sniper {505345852047360}:125164978531] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:21:20.939] [Separatist Sniper {505345852047360}:125164978531] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 energy {836045448940874}) <14>
+[19:21:21.822] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:21.822] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:21:22.135] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:21:22.138] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978531] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:21:22.138] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978531] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:21:22.139] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:21:22.306] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978531] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (114 kinetic {836045448940873}) <114>
+[19:21:22.306] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164978531] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:22.306] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (85)
+[19:21:28.765] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:28.765] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:21:29.484] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:21:29.489] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:21:29.489] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164748151] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:21:29.489] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164748107] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (57 kinetic {836045448940873}) <57>
+[19:21:29.489] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164748151] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:21:29.645] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164748151] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (115 kinetic {836045448940873}) <115>
+[19:21:29.645] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164748151] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:29.645] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (62)
+[19:21:30.504] [Separatist Field Scout {505341557080064}:125164748107] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 energy {836045448940874}) <25>
+[19:21:30.985] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:30.985] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:21:31.586] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164748107] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:21:31.586] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164748107] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:21:31.673] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164748107] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (173* kinetic {836045448940873}) <173>
+[19:21:31.673] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164748107] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:31.673] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (85)
+[19:21:31.705] [Separatist Sniper {505345852047360}:125164748195] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:21:31.756] [Separatist Sniper {505345852047360}:125164748195] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874}) <10>
+[19:21:33.185] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:33.185] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:21:33.655] [Separatist Sniper {505345852047360}:125164748195] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:21:33.862] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:21:33.865] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164748195] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:21:33.865] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164748195] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:21:33.866] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:21:33.956] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164748195] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (112 kinetic {836045448940873}) <112>
+[19:21:33.957] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164748195] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:33.957] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (62)
+[19:21:40.220] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:40.221] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:21:41.016] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:21:41.018] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:21:41.018] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164469112] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:21:41.019] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164469068] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (59 kinetic {836045448940873}) <59>
+[19:21:41.186] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164469112] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (107 kinetic {836045448940873}) <107>
+[19:21:41.719] [@Pulemetckek] [@Pulemetckek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:41.720] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164469112] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:21:41.953] [Separatist Sniper {505345852047360}:125164469024] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:21:42.104] [Separatist Sniper {505345852047360}:125164469068] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (26 energy {836045448940874}) <26>
+[19:21:42.271] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164469112] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:42.271] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (85)
+[19:21:42.272] [@Pulemetckek] [Separatist Field Scout {505341557080064}:125164469112] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874}) <11>
+[19:21:42.669] [Separatist Sniper {505345852047360}:125164469024] [@Pulemetckek] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:21:43.335] [@Pulemetckek] [@Pulemetckek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:21:43.336] [@Pulemetckek] [@Pulemetckek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[19:21:43.836] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:21:43.838] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164469024] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Knockdown {801277688676618}] ()
+[19:21:43.839] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164469068] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (59 kinetic {836045448940873}) <59>
+[19:21:43.839] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164469068] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:43.839] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (62)
+[19:21:43.839] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164469024] [Explosive Round {801277688676352}] [RemoveEffect {836045448945478}: Knockdown {801277688676618}] ()
+[19:21:43.840] [@Pulemetckek] [@Pulemetckek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:21:43.989] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164469024] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (108 kinetic {836045448940873}) <108>
+[19:21:43.989] [@Pulemetckek] [Separatist Sniper {505345852047360}:125164469024] [] [Event {836045448945472}: Death {836045448945493}] ()
+[19:21:43.989] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (62)
+[19:22:01.614] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (220)
+[19:22:05.897] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[19:22:10.454] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[19:22:18.441] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[19:22:24.797] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[19:22:33.861] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (2281)
+[19:22:56.537] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (90)
+[19:22:58.769] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (1025)
+[19:23:06.583] [@Pulemetckek] [@Pulemetckek] [Plasma Cell {1202324554907648}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:23:08.187] [@Pulemetckek] [@Pulemetckek] [Plasma Cell {1202324554907648}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[19:23:08.187] [@Pulemetckek] [@Pulemetckek] [Plasma Cell {1202324554907648}] [ApplyEffect {836045448945477}: Plasma Cell {1202324554907648}] ()
+[19:23:27.094] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[19:23:39.652] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[19:23:42.834] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[19:24:51.043] [@Pulemetckek] [@Pulemetckek] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[19:24:51.043] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (90)
+[19:24:51.043] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (90)
+[19:24:53.288] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: SetLevel {836045448945492}] (5)
+[19:24:53.289] [@Pulemetckek] [@Pulemetckek] [] [Event {836045448945472}: GainXp {836045448945491}] (2281)

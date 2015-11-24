@@ -1,0 +1,8 @@
+[16:30:15.967] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[16:30:15.968] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[16:30:15.968] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[16:30:15.968] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[16:30:15.968] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[16:30:17.054] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[16:30:29.575] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[16:30:29.575] [@Kotowky:SCORPIO {3604065971863552}] [@Kotowky:SCORPIO {3604065971863552}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()

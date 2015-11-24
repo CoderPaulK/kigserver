@@ -1,0 +1,8 @@
+[11:25:05.806] [@Rocksinyourface] [@Rocksinyourface] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Lucky Shots {875503313486145}] ()
+[11:25:05.806] [@Rocksinyourface] [@Rocksinyourface] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Fortification {875503313486158}] ()
+[11:25:05.807] [@Rocksinyourface] [@Rocksinyourface] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[11:25:05.808] [@Rocksinyourface] [@Rocksinyourface] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Might {875503313486141}] ()
+[11:25:05.808] [@Rocksinyourface] [@Rocksinyourface] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[11:25:05.831] [@Rocksinyourface] [@Rocksinyourface] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[11:25:16.914] [@Rocksinyourface] [@Rocksinyourface] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[11:25:16.915] [@Rocksinyourface:HK-55 {3600479674171392}] [@Rocksinyourface:HK-55 {3600479674171392}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()

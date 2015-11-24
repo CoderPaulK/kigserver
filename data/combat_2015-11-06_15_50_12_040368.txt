@@ -1,0 +1,1157 @@
+[15:50:04.534] [@Kotowky] [@Kotowky] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[15:50:04.534] [@Kotowky] [@Kotowky] [Advanced Anodyne Reflex Stim {3739456225935360}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3739456225935360}] ()
+[15:50:04.535] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:50:04.536] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:50:04.536] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:50:04.536] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[15:50:04.773] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[15:50:17.492] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[15:50:17.492] [@Kotowky:Veeroa Denz {3751340400443392}] [@Kotowky:Veeroa Denz {3751340400443392}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[15:53:28.518] [@Kotowky] [@Kotowky] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[15:53:28.519] [@Kotowky] [@Kotowky] [Advanced Anodyne Reflex Stim {3739456225935360}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3739456225935360}] ()
+[15:53:28.519] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:53:28.520] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:53:28.520] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:53:28.520] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[15:53:28.554] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[15:53:28.555] [] [@Kotowky] [Bolster {3656928429342720}] [ApplyEffect {836045448945477}: Bolster {3656928429342720}] ()
+[15:53:28.555] [] [@Kotowky] [Bolster {3656928429342720}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (73740) <412>
+[15:53:28.555] [@Kotowky] [@Kotowky] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[15:53:37.944] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[15:53:43.049] [@Kotowky] [@Kotowky] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[15:53:56.705] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[15:53:56.706] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[15:53:56.707] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[15:54:00.425] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[15:54:00.426] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[15:54:00.427] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[15:54:10.740] [@Kotowky] [@Kotowky] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Force Valor {1781488009871637}] ()
+[15:54:10.741] [@Skibsonjp] [@Kotowky] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[15:54:18.300] [@Kotowky] [@Kotowky] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[15:54:18.301] [@Kotowky] [@Kotowky] [Advanced Anodyne Reflex Stim {3739456225935360}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3739456225935360}] ()
+[15:54:18.301] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:54:18.302] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:54:18.302] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:54:18.302] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[15:54:18.314] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[15:54:27.021] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[15:54:36.940] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[15:54:36.940] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[15:54:36.941] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[15:54:54.670] [@Kotowky] [@Kotowky] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[15:54:54.671] [@Kotowky] [@Kotowky] [Advanced Anodyne Reflex Stim {3739456225935360}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3739456225935360}] ()
+[15:54:54.672] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:54:54.672] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:54:54.672] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:54:54.672] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[15:54:54.699] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[15:54:54.699] [] [@Kotowky] [Bolster {3656928429342720}] [ApplyEffect {836045448945477}: Bolster {3656928429342720}] ()
+[15:54:54.699] [] [@Kotowky] [Bolster {3656928429342720}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (73740) <412>
+[15:54:54.699] [@Kotowky] [@Kotowky] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[15:55:05.407] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[15:55:11.078] [@Kotowky] [@Kotowky] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[15:55:27.413] [@Kotowky] [@Kotowky] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:27.414] [@Kotowky] [@Kotowky] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[15:55:27.415] [@Kotowky] [@Kotowky] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[15:55:29.047] [@Kotowky] [@Kotowky] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[15:55:29.534] [@Kotowky] [@Kotowky] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[15:55:29.550] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:29.551] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[15:55:29.551] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[15:55:29.551] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[15:55:29.551] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[15:55:29.552] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (856) <385>
+[15:55:29.553] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Invigorated {1147159994958254}] ()
+[15:55:30.609] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (924) <416>
+[15:55:31.008] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:31.503] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (924) <416>
+[15:55:32.517] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1543*) <694>
+[15:55:33.012] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[15:55:33.012] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Upper Hand {2275727076491264}] ()
+[15:55:33.014] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:33.021] [@Kotowky] [@Vongolacento] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7694) <3462>
+[15:55:33.503] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1543*) <694>
+[15:55:34.430] [Mandalorian Ranger {3507304653651968}:3996011793979] [@Kotowky] [Toxic Dart {830324552499200}] [ApplyEffect {836045448945477}: Poisoned (Physical) {830324552499456}] ()
+[15:55:34.431] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1543*) <694>
+[15:55:35.133] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[15:55:35.135] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:35.135] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[15:55:35.135] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[15:55:35.142] [@Kotowky] [@Vongolacento] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (14866*) <6689>
+[15:55:35.422] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <427>
+[15:55:35.610] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[15:55:36.114] [@Kotowky] [@Vongolacento] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4232) <1904>
+[15:55:36.135] [Mandalorian Ranger {3507304653651968}:3996011793979] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (794 energy {836045448940874}) <794>
+[15:55:36.163] [Mandalorian Ranger {3507304653651968}:3996011793979] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (818 energy {836045448940874}) <818>
+[15:55:36.322] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:55:36.330] [Mandalorian Ranger {3507304653651968}:3996011793979] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (782 energy {836045448940874}) <782>
+[15:55:36.330] [Mandalorian Ranger {3507304653651968}:3996011793979] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[15:55:36.354] [Mandalorian Ranger {3507304653651968}:3996011793979] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (771 energy {836045448940874}) <771>
+[15:55:36.520] [Mandalorian Ranger {3507304653651968}:3996011793915] [@Kotowky] [Toxic Dart {830324552499200}] [ApplyEffect {836045448945477}: Poisoned (Physical) {830324552499456}] ()
+[15:55:36.521] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Toxic Dart {830324552499200}] [ApplyEffect {836045448945477}: Poisoned (Physical) {830324552499456}] ()
+[15:55:36.729] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:36.729] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:55:36.731] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:55:37.321] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:55:37.514] [Mandalorian Ranger {3507304653651968}:3996011793979] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876}) <1900>
+[15:55:38.210] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (845 energy {836045448940874}) <845>
+[15:55:38.323] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[15:55:38.324] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[15:55:38.329] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (814 energy {836045448940874}) <814>
+[15:55:38.468] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (758 energy {836045448940874}) <758>
+[15:55:38.489] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (764 energy {836045448940874}) <764>
+[15:55:38.625] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:38.625] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:55:38.626] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:55:38.632] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (765 energy {836045448940874}) <765>
+[15:55:39.523] [Mandalorian Ranger {3507304653651968}:3996011793915] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876}) <1900>
+[15:55:39.524] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876}) <1900>
+[15:55:39.724] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1754*) <789>
+[15:55:40.122] [@Kotowky] [@Kotowky] [Kolto Pack {3470823201439744}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:40.527] [Mandalorian Ranger {3507304653651968}:3996011793979] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876}) <1900>
+[15:55:41.240] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[15:55:41.658] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*) <746>
+[15:55:41.658] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[15:55:41.658] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[15:55:41.659] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Kolto Pack {3470823201439744}] ()
+[15:55:41.659] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Resistant {3470823201440056}] ()
+[15:55:41.666] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (10589*) <4765>
+[15:55:42.033] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:42.034] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[15:55:42.528] [Mandalorian Ranger {3507304653651968}:3996011793915] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876})
+[15:55:42.529] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876}) <1900>
+[15:55:42.530] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1754*) <789>
+[15:55:42.606] [@Kotowky] [@Skibsonjp] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6969*) <3136>
+[15:55:42.625] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (599*) <269>
+[15:55:43.431] [Mandalorian Ranger {3507304653651968}:3996011793979] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876}) <1900>
+[15:55:43.624] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (599*) <269>
+[15:55:44.527] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1703*) <766>
+[15:55:44.527] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (599*) <269>
+[15:55:44.839] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:44.839] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:55:44.840] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2041) <918>
+[15:55:44.841] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2041) <918>
+[15:55:45.431] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1051) <472>
+[15:55:45.525] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (599*) <269>
+[15:55:45.525] [Mandalorian Ranger {3507304653651968}:3996011793915] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876})
+[15:55:45.526] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876}) <1900>
+[15:55:45.567] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (799 energy {836045448940874}) <799>
+[15:55:45.589] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (827 energy {836045448940874}) <827>
+[15:55:45.770] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (802 energy {836045448940874}) <802>
+[15:55:45.906] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (771 energy {836045448940874}) <771>
+[15:55:45.934] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Rapid Shots {829688897339392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (861 energy {836045448940874}) <861>
+[15:55:46.441] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:46.441] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:55:46.442] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2041) <918>
+[15:55:46.443] [Mandalorian Ranger {3507304653651968}:3996011793979] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876})
+[15:55:46.443] [Mandalorian Ranger {3507304653651968}:3996011793979] [@Kotowky] [Toxic Dart {830324552499200}] [RemoveEffect {836045448945478}: Poisoned (Physical) {830324552499456}] ()
+[15:55:46.543] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (599*) <269>
+[15:55:47.449] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (599*) <269>
+[15:55:47.942] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:47.942] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:55:47.943] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3509*) <1579>
+[15:55:47.943] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2102) <945>
+[15:55:48.150] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[15:55:48.449] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (582*) <262>
+[15:55:48.537] [Mandalorian Ranger {3507304653651968}:3996011793915] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876})
+[15:55:48.537] [Mandalorian Ranger {3507304653651968}:3996011793915] [@Kotowky] [Toxic Dart {830324552499200}] [RemoveEffect {836045448945478}: Poisoned (Physical) {830324552499456}] ()
+[15:55:48.538] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1900 internal {836045448940876}) <1900>
+[15:55:48.538] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Toxic Dart {830324552499200}] [RemoveEffect {836045448945478}: Poisoned (Physical) {830324552499456}] ()
+[15:55:48.758] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2615 energy {836045448940874}) <2615>
+[15:55:48.843] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2646 energy {836045448940874}) <2646>
+[15:55:48.893] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Missile Blast {811765998813184}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2452 kinetic {836045448940873}) <2452>
+[15:55:49.208] [Mandalorian Ranger {3507304653651968}:3996011793851] [@Kotowky] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[15:55:49.337] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3317*) <1492>
+[15:55:49.445] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (311) <140>
+[15:55:49.867] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:49.867] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:55:49.868] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:55:50.377] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[15:55:50.378] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (311) <140>
+[15:55:50.378] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [RemoveEffect {836045448945478}: Kolto Pack {3470823201439744}] ()
+[15:55:50.558] [@Kotowky] [@Kotowky] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[15:55:50.571] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[15:55:50.950] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2145) <965>
+[15:55:51.368] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:51.368] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[15:55:51.368] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[15:55:51.376] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6172*) <2777>
+[15:55:52.251] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3572*) <1607>
+[15:55:52.857] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1786*) <803>
+[15:55:52.859] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:53.758] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3678*) <1655>
+[15:55:54.861] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[15:55:54.867] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (8108) <3648>
+[15:55:55.155] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3572*) <1607>
+[15:55:55.599] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Might {939154728812824}] ()
+[15:55:55.599] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[15:55:55.600] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Lucky Shots {939154728812809}] ()
+[15:55:55.601] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[15:55:55.601] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Fortification {939154728812828}] ()
+[15:55:55.601] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[15:55:55.771] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1786*) <803>
+[15:55:56.385] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[15:55:56.708] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2102) <945>
+[15:55:56.708] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:55:56.709] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[15:55:56.709] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[15:55:56.709] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (879) <395>
+[15:55:56.710] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Invigorated {1147159994958254}] ()
+[15:55:56.710] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[15:55:56.711] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (879) <395>
+[15:55:56.711] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Invigorated {1147159994958254}] ()
+[15:55:57.397] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[15:55:57.782] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*) <662>
+[15:55:57.782] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*) <662>
+[15:55:58.076] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2046) <920>
+[15:55:58.574] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1023) <460>
+[15:55:58.669] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*) <662>
+[15:55:58.670] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[15:55:59.580] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2046) <920>
+[15:55:59.709] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[15:55:59.710] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*) <662>
+[15:56:00.578] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*) <662>
+[15:56:00.578] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[15:56:00.983] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3415*) <968>
+[15:56:01.484] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1707*) <768>
+[15:56:01.582] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[15:56:01.583] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881)
+[15:56:02.476] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3415*) <1537>
+[15:56:02.587] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*) <662>
+[15:56:02.587] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881)
+[15:56:03.498] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[15:56:03.498] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881)
+[15:56:03.896] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3415*)
+[15:56:04.386] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1707*) <768>
+[15:56:04.484] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[15:56:04.484] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881)
+[15:56:05.400] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3415*)
+[15:56:05.489] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[15:56:05.489] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[15:56:05.489] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881)
+[15:56:05.489] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[15:56:06.730] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3415*)
+[15:56:06.730] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:56:07.324] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1707*) <768>
+[15:56:08.330] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3415*)
+[15:56:08.331] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:56:10.233] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1023) <460>
+[15:56:10.233] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:56:14.629] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Invigorated {1147159994958254}] ()
+[15:56:15.235] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:56:15.236] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:56:15.236] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:56:18.262] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[15:56:18.264] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1023) <460>
+[15:56:19.282] [@Kotowky] [@Kotowky] [Force Valor {875503313485824}] [RemoveEffect {836045448945478}: Force Valor {875503313485824}] ()
+[15:56:19.282] [@Skibsonjp] [@Kotowky] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[15:56:21.141] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1072)
+[15:56:22.633] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:56:22.633] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:56:22.634] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:56:24.041] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1072)
+[15:56:24.358] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[15:56:25.641] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[15:56:25.642] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:56:25.642] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:56:25.643] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:56:26.647] [@Kotowky] [@Skibsonjp] [Kolto Pack {3470823201439744}] [RemoveEffect {836045448945478}: Resistant {3470823201440056}] ()
+[15:56:26.946] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1023)
+[15:56:27.171] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:56:27.171] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:56:27.172] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3415*)
+[15:56:27.172] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2046)
+[15:56:28.457] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[15:56:29.863] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1707*)
+[15:56:30.070] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3415*)
+[15:56:31.362] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[15:56:32.783] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1707*)
+[15:56:32.980] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2046)
+[15:56:34.280] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[15:56:35.580] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1707*)
+[15:56:35.581] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:56:35.870] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2046)
+[15:56:37.179] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[15:56:38.783] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2046)
+[15:56:40.109] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[15:56:40.111] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[15:56:41.680] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3580*)
+[15:56:41.794] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Invigorated {1147159994958254}] ()
+[15:56:41.794] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Invigorated {1147159994958254}] ()
+[15:56:42.980] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1738*)
+[15:56:42.980] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:56:44.579] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3477*)
+[15:56:46.209] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[15:56:47.497] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[15:56:47.497] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:57:02.796] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Upper Hand {2275727076491264}] ()
+[15:57:15.799] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:15.799] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:57:15.800] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:57:15.801] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:57:15.801] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[15:57:15.801] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:57:15.802] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[15:57:15.802] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[15:57:15.803] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[15:57:15.803] [@Skibsonjp] [@Kotowky] [Force Valor {875503313485824}] [RemoveEffect {836045448945478}: Force Valor {875503313485824}] ()
+[15:57:15.803] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[15:57:15.803] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:57:15.804] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:57:15.804] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:57:15.804] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[15:57:15.804] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:57:15.805] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:57:15.805] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:57:15.805] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:57:15.805] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[15:57:15.805] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:57:20.834] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:20.834] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:57:20.835] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:57:22.450] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:22.450] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:57:22.452] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1967) <591>
+[15:57:22.452] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1967)
+[15:57:23.956] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:23.957] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:57:23.958] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:57:24.564] [@Kotowky] [@Kotowky] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[15:57:24.569] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[15:57:25.357] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[15:57:25.358] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1967)
+[15:57:25.479] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:25.480] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:57:25.481] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:57:25.481] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Might {939154728812824}] ()
+[15:57:25.482] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Might {939154728812824}] ()
+[15:57:25.482] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[15:57:25.482] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Might {939154728812824}] ()
+[15:57:25.482] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Might {939154728812824}] ()
+[15:57:25.484] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Lucky Shots {939154728812809}] ()
+[15:57:25.484] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Lucky Shots {939154728812809}] ()
+[15:57:25.484] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[15:57:25.484] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Lucky Shots {939154728812809}] ()
+[15:57:25.485] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Lucky Shots {939154728812809}] ()
+[15:57:25.485] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Fortification {939154728812828}] ()
+[15:57:25.485] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Fortification {939154728812828}] ()
+[15:57:25.485] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[15:57:25.486] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Fortification {939154728812828}] ()
+[15:57:25.486] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Fortification {939154728812828}] ()
+[15:57:26.880] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Upper Hand {2275727076491264}] ()
+[15:57:26.881] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1041) <468>
+[15:57:26.882] [@Vongolacento] [@Kotowky] [Transcendence {2528567506239488}] [ApplyEffect {836045448945477}: Transcendence {2528567506239488}] ()
+[15:57:27.441] [@Kotowky] [@Kotowky] [Diagnostic Scan {1701352510062592}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:28.162] [@Kotowky] [@Unferens] [Diagnostic Scan {1701352510062592}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (775) <349>
+[15:57:28.247] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3443*) <1549>
+[15:57:28.376] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1041) <468>
+[15:57:28.852] [@Kotowky] [@Unferens] [Diagnostic Scan {1701352510062592}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1295*) <582>
+[15:57:29.241] [@Kotowky] [@Kotowky] [Diagnostic Scan {1701352510062592}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[15:57:29.241] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:29.241] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[15:57:29.242] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[15:57:29.242] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Upper Hand {2275727076491264}] ()
+[15:57:29.242] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2118) <953>
+[15:57:29.421] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Upper Hand {2275727076491264}] ()
+[15:57:29.817] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1070) <481>
+[15:57:29.826] [@Kotowky] [@Unferens] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6297*) <2833>
+[15:57:31.021] [@Kotowky] [@Kotowky] [Kolto Pack {3470823201439744}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:31.330] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1786*)
+[15:57:31.417] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[15:57:32.226] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3374*) <1518>
+[15:57:32.632] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[15:57:32.633] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Upper Hand {2275727076491264}] ()
+[15:57:32.633] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Kolto Pack {3470823201439744}] ()
+[15:57:32.634] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Resistant {3470823201440056}] ()
+[15:57:32.641] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (9432*) <4244>
+[15:57:32.730] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Upper Hand {2275727076491264}] ()
+[15:57:32.732] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1703*) <134>
+[15:57:32.911] [@Kotowky] [@Kotowky] [Diagnostic Scan {1701352510062592}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:33.616] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (317) <142>
+[15:57:33.715] [@Kotowky] [@Kotowky] [] [Restore {836045448945476}: energy {836045448938503}] (2)
+[15:57:33.716] [@Kotowky] [@Unferens] [Diagnostic Scan {1701352510062592}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1272*) <572>
+[15:57:34.210] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1020)
+[15:57:34.332] [@Kotowky] [@Kotowky] [] [Restore {836045448945476}: energy {836045448938503}] (2)
+[15:57:34.333] [@Kotowky] [@Unferens] [Diagnostic Scan {1701352510062592}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1272*) <572>
+[15:57:34.631] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (317) <142>
+[15:57:35.017] [@Kotowky] [@Unferens] [Diagnostic Scan {1701352510062592}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1272*) <535>
+[15:57:35.106] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3374*)
+[15:57:35.519] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (317)
+[15:57:35.610] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1020)
+[15:57:36.513] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (593*)
+[15:57:36.513] [@Kotowky] [@Kotowky] [Vital Shot {2115340112756736}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:36.514] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[15:57:36.514] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Vital Shot {2115340112756736}] ()
+[15:57:36.946] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Vital Shot {2115340112756736}] ()
+[15:57:36.947] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (910 internal {836045448940876}) <910>
+[15:57:36.948] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [Vital Shot {2115340112756736}] [RemoveEffect {836045448945478}: Vital Shot {2115340112756736}] ()
+[15:57:36.949] [@Vongolacento] [@Kotowky] [Transcendence {2528567506239488}] [RemoveEffect {836045448945478}: Transcendence {2528567506239488}] ()
+[15:57:37.127] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1020)
+[15:57:37.128] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Hurl {3528070820528128}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19438 kinetic {836045448940873}) <19438>
+[15:57:37.529] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (317)
+[15:57:38.019] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2021)
+[15:57:38.441] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (317)
+[15:57:38.523] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1703*)
+[15:57:38.635] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[15:57:39.150] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:39.150] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:57:39.150] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:57:39.427] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (576*) <259>
+[15:57:39.842] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[15:57:39.934] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[15:57:40.432] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (308) <138>
+[15:57:40.974] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3284*) <684>
+[15:57:40.975] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:40.975] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[15:57:40.975] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[15:57:40.975] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1429*) <643>
+[15:57:40.976] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Invigorated {1147159994958254}] ()
+[15:57:40.976] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[15:57:40.976] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (848)
+[15:57:40.977] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Invigorated {1147159994958254}] ()
+[15:57:40.977] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[15:57:40.977] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (856)
+[15:57:40.978] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Invigorated {1147159994958254}] ()
+[15:57:40.978] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[15:57:40.978] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (856)
+[15:57:40.978] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Invigorated {1147159994958254}] ()
+[15:57:41.347] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (593*)
+[15:57:41.347] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [RemoveEffect {836045448945478}: Kolto Pack {3470823201439744}] ()
+[15:57:41.348] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1023)
+[15:57:41.951] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*) <662>
+[15:57:41.952] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (873)
+[15:57:41.952] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*)
+[15:57:41.952] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881)
+[15:57:42.155] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1707*) <768>
+[15:57:42.671] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:42.671] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[15:57:42.671] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[15:57:42.682] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3246) <1460>
+[15:57:42.748] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1520* internal {836045448940876}) <1520>
+[15:57:42.865] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1754*)
+[15:57:42.956] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:57:42.956] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (897) <403>
+[15:57:42.956] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[15:57:42.956] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*)
+[15:57:43.866] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3475*) <1563>
+[15:57:43.866] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:57:43.867] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (897) <403>
+[15:57:43.867] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[15:57:43.868] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[15:57:44.271] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:44.271] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:57:44.272] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3509*) <1579>
+[15:57:44.273] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2102) <945>
+[15:57:44.273] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1051)
+[15:57:44.273] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:57:44.866] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[15:57:44.867] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (897) <403>
+[15:57:44.867] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[15:57:44.867] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*)
+[15:57:45.687] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (910 internal {836045448940876}) <910>
+[15:57:45.795] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[15:57:45.796] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1051) <472>
+[15:57:45.796] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:57:45.880] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <427>
+[15:57:45.880] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (940) <423>
+[15:57:45.881] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949)
+[15:57:45.881] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <427>
+[15:57:46.773] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2182) <982>
+[15:57:46.773] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1585*) <713>
+[15:57:46.774] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1570*) <706>
+[15:57:46.774] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949)
+[15:57:46.774] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <427>
+[15:57:47.274] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3678*) <1337>
+[15:57:47.372] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:47.372] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[15:57:47.373] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2182) <982>
+[15:57:47.381] [@Kotowky] [@Unferens] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4037) <1816>
+[15:57:47.793] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1585*)
+[15:57:47.793] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (940) <423>
+[15:57:47.794] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949)
+[15:57:47.794] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <427>
+[15:57:48.584] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[15:57:48.669] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949)
+[15:57:48.669] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (940) <423>
+[15:57:48.669] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949)
+[15:57:48.669] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1585*) <713>
+[15:57:49.478] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:49.685] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949)
+[15:57:49.686] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[15:57:49.686] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (940) <423>
+[15:57:49.686] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[15:57:49.686] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1585*)
+[15:57:49.687] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[15:57:49.687] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <427>
+[15:57:49.687] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[15:57:50.183] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3678*)
+[15:57:50.398] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2182) <982>
+[15:57:51.532] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (975 internal {836045448940876}) <975>
+[15:57:51.532] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[15:57:51.534] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:51.541] [@Kotowky] [@Unferens] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (8415) <3787>
+[15:57:51.840] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[15:57:53.020] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2102)
+[15:57:53.231] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2081) <936>
+[15:57:53.542] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[15:57:53.543] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[15:57:53.544] [@Kotowky] [@Kotowky] [Triage {981455861710848}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:53.544] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:57:53.544] [@Kotowky] [@Unferens] [Psych Meds {982263315562496}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2448) <1101>
+[15:57:53.554] [@Kotowky] [@Unferens] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7532) <3389>
+[15:57:54.332] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1520* internal {836045448940876}) <1520>
+[15:57:54.333] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [Vital Shot {2115340112756736}] [RemoveEffect {836045448945478}: Vital Shot {2115340112756736}] ()
+[15:57:55.939] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2046)
+[15:57:56.131] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2026) <911>
+[15:57:56.131] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:56.131] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:57:56.132] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:57:58.237] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:58.237] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:57:58.239] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2046) <920>
+[15:57:58.240] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2046) <920>
+[15:57:58.878] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3415*)
+[15:57:59.068] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3383*) <1522>
+[15:57:59.897] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:57:59.897] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[15:57:59.897] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[15:57:59.897] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*) <662>
+[15:58:00.976] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[15:58:00.977] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Ground Smash {3528066525560832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2667 kinetic {836045448940873}) <2667>
+[15:58:01.281] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2046) <920>
+[15:58:01.782] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3415*) <1200>
+[15:58:01.784] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:58:01.883] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[15:58:01.984] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2026) <911>
+[15:58:02.884] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*) <662>
+[15:58:03.792] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[15:58:03.933] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[15:58:03.934] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:58:03.934] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[15:58:03.934] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[15:58:03.935] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3509*) <1579>
+[15:58:03.944] [@Kotowky] [@Vongolacento] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (8112) <3650>
+[15:58:04.701] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3509*)
+[15:58:04.701] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:58:04.794] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[15:58:04.894] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3475*) <1563>
+[15:58:04.903] [@Kotowky] [@Vongolacento] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3069) <1381>
+[15:58:05.003] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Flying Rock {3385692654665728}] [ApplyEffect {836045448945477}: Knockdown {3385692654665996}] ()
+[15:58:05.806] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:58:06.097] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Flying Rock {3385692654665728}] [RemoveEffect {836045448945478}: Knockdown {3385692654665996}] ()
+[15:58:06.691] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:58:06.789] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2102) <945>
+[15:58:07.083] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Flying Rock {3385692654665728}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (17220 kinetic {836045448940873}) <17220>
+[15:58:07.685] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[15:58:07.811] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[15:58:07.812] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2081) <936>
+[15:58:07.812] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:58:08.194] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:58:08.389] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Hurl {3528070820528128}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19438 kinetic {836045448940873}) <19438>
+[15:58:08.697] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1585*) <713>
+[15:58:08.698] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[15:58:09.706] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2203) <991>
+[15:58:09.920] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[15:58:10.423] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[15:58:10.425] [@Kotowky] [@Kotowky] [Stack the Deck {3462615518937088}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:58:10.425] [@Kotowky] [@Kotowky] [Stack the Deck {3462615518937088}] [ApplyEffect {836045448945477}: Stack the Deck {3462615518937088}] ()
+[15:58:10.425] [@Kotowky] [@Kotowky] [Stack the Deck {3462615518937088}] [ApplyEffect {836045448945477}: Short on Luck {3462615518937382}] ()
+[15:58:10.426] [@Kotowky] [@Unferens] [Stack the Deck {3462615518937088}] [ApplyEffect {836045448945477}: Stack the Deck {3462615518937088}] ()
+[15:58:10.426] [@Kotowky] [@Unferens] [Stack the Deck {3462615518937088}] [ApplyEffect {836045448945477}: Short on Luck {3462615518937382}] ()
+[15:58:10.426] [@Kotowky] [@Vongolacento] [Stack the Deck {3462615518937088}] [ApplyEffect {836045448945477}: Stack the Deck {3462615518937088}] ()
+[15:58:10.426] [@Kotowky] [@Vongolacento] [Stack the Deck {3462615518937088}] [ApplyEffect {836045448945477}: Short on Luck {3462615518937382}] ()
+[15:58:10.426] [@Kotowky] [@Skibsonjp] [Stack the Deck {3462615518937088}] [ApplyEffect {836045448945477}: Stack the Deck {3462615518937088}] ()
+[15:58:10.427] [@Kotowky] [@Skibsonjp] [Stack the Deck {3462615518937088}] [ApplyEffect {836045448945477}: Short on Luck {3462615518937382}] ()
+[15:58:10.435] [@Kotowky] [@Vongolacento] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7746) <3485>
+[15:58:11.620] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:58:11.620] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[15:58:11.620] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[15:58:11.629] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3718) <1673>
+[15:58:12.451] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Valor {939154728812820}] ()
+[15:58:12.452] [@Kotowky] [@Skibsonjp] [Stack the Deck {3462615518937088}] [RemoveEffect {836045448945478}: Stack the Deck {3462615518937088}] ()
+[15:58:12.452] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Invigorated {1147159994958254}] ()
+[15:58:12.609] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3678*) <1655>
+[15:58:13.212] [@Vongolacento] [@Kotowky] [Transcendence {2528567506239488}] [ApplyEffect {836045448945477}: Transcendence {2528567506239488}] ()
+[15:58:13.902] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[15:58:14.626] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:58:14.626] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[15:58:14.626] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[15:58:14.627] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:58:15.522] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3509*) <1579>
+[15:58:15.724] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[15:58:16.215] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:58:16.440] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[15:58:16.440] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[15:58:16.440] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[15:58:16.726] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:58:17.636] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[15:58:17.637] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [RemoveEffect {836045448945478}: Resistant {3470823201440056}] ()
+[15:58:17.743] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[15:58:18.010] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[15:58:18.011] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[15:58:18.011] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[15:58:18.345] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[15:58:18.346] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:58:18.346] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[15:58:18.346] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[15:58:18.347] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2102) <945>
+[15:58:18.353] [@Kotowky] [@Vongolacento] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (14867*) <6690>
+[15:58:18.648] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:58:19.308] [@Kotowky] [@Vongolacento] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4073) <1833>
+[15:58:19.530] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[15:58:19.537] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[15:58:19.537] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[15:58:19.537] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[15:58:19.842] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:58:19.842] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[15:58:19.843] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2102) <945>
+[15:58:20.285] [@Kotowky] [@Vongolacento] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5916*) <2662>
+[15:58:20.563] [@Kotowky] [@Kotowky] [Stack the Deck {3462615518937088}] [RemoveEffect {836045448945478}: Stack the Deck {3462615518937088}] ()
+[15:58:20.563] [@Kotowky] [@Unferens] [Stack the Deck {3462615518937088}] [RemoveEffect {836045448945478}: Stack the Deck {3462615518937088}] ()
+[15:58:20.564] [@Kotowky] [@Vongolacento] [Stack the Deck {3462615518937088}] [RemoveEffect {836045448945478}: Stack the Deck {3462615518937088}] ()
+[15:58:20.564] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:58:21.170] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[15:58:21.170] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[15:58:21.170] [Kyramla Gemas'rugam {3507004005941248}:3996011744011] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[15:58:21.356] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:58:21.356] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[15:58:21.356] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2102) <945>
+[15:58:21.365] [@Kotowky] [@Vongolacento] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2998) <1349>
+[15:58:21.550] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:58:22.459] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[15:58:22.546] [Mandalorian Hunter {3506991121039360}:3996011873365] [@Kotowky] [Jet Charge {3528113770201088}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1219 kinetic {836045448940873}) <1219>
+[15:58:22.633] [Mandalorian Hunter {3506991121039360}:3996011873494] [@Kotowky] [Jet Charge {3528113770201088}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1219 kinetic {836045448940873}) <1219>
+[15:58:23.248] [@Vongolacento] [@Kotowky] [Transcendence {2528567506239488}] [RemoveEffect {836045448945478}: Transcendence {2528567506239488}] ()
+[15:58:23.451] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[15:58:23.451] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[15:58:24.340] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2102) <945>
+[15:58:24.978] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Valor {939154728812820}] ()
+[15:58:24.978] [@Kotowky] [@Unferens] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Invigorated {1147159994958254}] ()
+[15:58:26.054] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Invigorated {1147159994958254}] ()
+[15:58:27.241] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2102) <945>
+[15:58:27.435] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[15:58:28.797] [Mandalorian Hunter {3506991121039360}:3996011873494] [@Kotowky] [Ranged Attack {3390030571634688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (792 kinetic {836045448940873}) <792>
+[15:58:29.004] [Mandalorian Hunter {3506991121039360}:3996011873494] [@Kotowky] [Ranged Attack {3390030571634688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (792 kinetic {836045448940873}) <792>
+[15:58:29.033] [Mandalorian Hunter {3506991121039360}:3996011873494] [@Kotowky] [Ranged Attack {3390030571634688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (792 kinetic {836045448940873}) <792>
+[15:58:29.837] [Mandalorian Hunter {3506999710973952}:3996011859901] [@Kotowky] [Flame Thrower {3390176600522752}] [ApplyEffect {836045448945477}: Burning (Physical) {3390176600523014}] ()
+[15:58:29.838] [Mandalorian Hunter {3506999710973952}:3996011859901] [@Kotowky] [Burning (Physical) {3390176600523014}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (724 elemental {836045448940875}) <724>
+[15:58:30.074] [Mandalorian Hunter {3506991121039360}:3996011873365] [@Kotowky] [Fire Mine {3391138673197056}] [ApplyEffect {836045448945477}: Shocked {3391138673197324}] ()
+[15:58:30.074] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Valor {939154728812820}] ()
+[15:58:30.074] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[15:58:30.074] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[15:58:30.074] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[15:58:30.075] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Upper Hand {2275727076491264}] ()
+[15:58:30.075] [Mandalorian Hunter {3506999710973952}:3996011859901] [@Kotowky] [Flame Thrower {3390176600522752}] [RemoveEffect {836045448945478}: Burning (Physical) {3390176600523014}] ()
+[15:58:30.075] [Mandalorian Hunter {3506991121039360}:3996011873365] [@Kotowky] [Fire Mine {3391138673197056}] [RemoveEffect {836045448945478}: Shocked {3391138673197324}] ()
+[15:58:30.076] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[15:58:30.090] [Mandalorian Hunter {3506991121039360}:3996011873365] [@Kotowky] [Fire Mine {3391138673197056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2560 energy {836045448940874}) <2560>
+[15:58:30.090] [Mandalorian Hunter {3506991121039360}:3996011873365] [@Kotowky] [] [Event {836045448945472}: Death {836045448945493}] ()
+[15:58:30.146] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Upper Hand {2275727076491264}] ()
+[15:58:30.147] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1967)
+[15:58:30.512] [Mandalorian Hunter {3506991121039360}:3996011873494] [@Kotowky] [Ranged Attack {3390030571634688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (792 kinetic {836045448940873}) <792>
+[15:58:30.530] [Mandalorian Hunter {3506991121039360}:3996011873494] [@Kotowky] [Ranged Attack {3390030571634688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (792 kinetic {836045448940873}) <792>
+[15:58:30.530] [Mandalorian Hunter {3506991121039360}:3996011873494] [@Kotowky] [Ranged Attack {3390030571634688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (792 kinetic {836045448940873}) <792>
+[15:58:31.929] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Valor {939154728812820}] ()
+[15:58:31.929] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Invigorated {1147159994958254}] ()
+[15:58:31.929] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:58:36.105] [@Kotowky] [@Kotowky] [] [Event {836045448945472}: Revived {836045448945494}] ()
+[15:58:40.750] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[15:58:40.752] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[15:58:40.752] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[15:58:54.227] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Upper Hand {2275727076491264}] ()
+[15:59:09.827] [@Kotowky] [@Kotowky] [Scamper {3203848034320384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:59:09.828] [@Kotowky] [@Kotowky] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[15:59:09.828] [@Kotowky] [@Kotowky] [Scamper {3203848034320384}] [ApplyEffect {836045448945477}: Scamper {3203848034320384}] ()
+[15:59:11.424] [@Kotowky] [@Kotowky] [Scamper {3203848034320384}] [RemoveEffect {836045448945478}: Scamper {3203848034320384}] ()
+[15:59:26.764] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:59:26.765] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[15:59:26.765] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:59:26.766] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:59:26.766] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:59:26.767] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[15:59:26.767] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[15:59:26.768] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[15:59:26.768] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[15:59:26.768] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[15:59:26.768] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[15:59:26.769] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:59:26.769] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:59:26.769] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:59:26.769] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[15:59:26.770] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[15:59:26.770] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:59:26.770] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:59:26.770] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:59:26.770] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[15:59:29.813] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:59:29.813] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:59:29.814] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:59:31.307] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:59:31.307] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:59:31.308] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:59:32.823] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993) <447>
+[15:59:32.823] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:59:32.824] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:59:32.824] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:59:34.216] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*) <211>
+[15:59:35.611] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993) <417>
+[15:59:35.713] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Upper Hand {2275727076491264}] ()
+[15:59:35.715] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (983) <442>
+[15:59:37.067] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[15:59:38.662] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[15:59:38.663] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[15:59:38.664] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1031)
+[15:59:40.096] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1041)
+[15:59:41.510] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1738*)
+[15:59:41.511] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1031)
+[15:59:42.907] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1041)
+[15:59:44.305] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1738*)
+[15:59:44.398] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1031)
+[15:59:44.719] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[15:59:45.809] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[15:59:47.209] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[15:59:47.311] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1642*)
+[15:59:48.697] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[15:59:50.098] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[15:59:50.098] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:59:50.198] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1642*)
+[15:59:51.601] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[15:59:51.601] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:59:53.099] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (983)
+[15:59:53.100] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[15:59:57.617] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:59:57.617] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:59:57.618] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[15:59:59.147] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[15:59:59.147] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[15:59:59.148] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[15:59:59.149] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1967)
+[15:59:59.150] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2062)
+[16:00:02.026] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2062)
+[16:00:04.044] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:04.044] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:04.045] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[16:00:04.968] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2062)
+[16:00:05.172] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[16:00:05.569] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:05.569] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:05.570] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[16:00:06.970] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[16:00:07.584] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:07.584] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:07.585] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[16:00:07.877] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3284*)
+[16:00:08.481] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[16:00:09.177] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:09.177] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:09.179] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3317*)
+[16:00:09.179] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:10.573] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[16:00:10.779] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1967)
+[16:00:11.374] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[16:00:12.000] [@Kotowky] [@Kotowky] [Diagnostic Scan {1701352510062592}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:12.099] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3317*)
+[16:00:12.691] [@Kotowky] [@Skibsonjp] [Diagnostic Scan {1701352510062592}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1247*)
+[16:00:13.381] [@Kotowky] [@Skibsonjp] [Diagnostic Scan {1701352510062592}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1247*)
+[16:00:13.491] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[16:00:13.691] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1967)
+[16:00:14.092] [@Kotowky] [@Skibsonjp] [Diagnostic Scan {1701352510062592}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1247*)
+[16:00:14.297] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[16:00:14.991] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:16.402] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[16:00:16.591] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1967)
+[16:00:17.214] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[16:00:17.892] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3317*)
+[16:00:19.292] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[16:00:19.494] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3284*)
+[16:00:19.494] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[16:00:20.092] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[16:00:20.805] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:21.598] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:21.598] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:21.599] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[16:00:22.250] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1658*)
+[16:00:23.003] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (993)
+[16:00:23.125] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:23.125] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:23.126] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[16:00:23.128] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:24.613] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1031)
+[16:00:24.613] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:24.613] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:24.614] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2083)
+[16:00:24.615] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2083)
+[16:00:25.101] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1041)
+[16:00:26.105] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2083)
+[16:00:27.495] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1031)
+[16:00:27.495] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2083)
+[16:00:28.008] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1738*)
+[16:00:28.008] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[16:00:28.910] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3477*)
+[16:00:29.121] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[16:00:30.411] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1642*)
+[16:00:30.411] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:31.808] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:33.214] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1642*)
+[16:00:33.310] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:34.725] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:36.125] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (983)
+[16:00:36.225] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:37.625] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:39.028] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (983)
+[16:00:39.134] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3317*)
+[16:00:40.526] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:41.937] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (983)
+[16:00:41.938] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[16:00:42.031] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3317*)
+[16:00:43.446] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[16:00:43.447] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:43.447] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[16:00:44.956] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3477*)
+[16:00:44.957] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[16:00:45.376] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Might {939154728812824}] ()
+[16:00:45.377] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Might {939154728812824}] ()
+[16:00:45.377] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[16:00:45.377] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Might {939154728812824}] ()
+[16:00:45.378] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Might {939154728812824}] ()
+[16:00:45.379] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Lucky Shots {939154728812809}] ()
+[16:00:45.379] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Lucky Shots {939154728812809}] ()
+[16:00:45.380] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[16:00:45.380] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Lucky Shots {939154728812809}] ()
+[16:00:45.380] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Lucky Shots {939154728812809}] ()
+[16:00:45.380] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Fortification {939154728812828}] ()
+[16:00:45.381] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Fortification {939154728812828}] ()
+[16:00:45.381] [@Vongolacento] [@Kotowky] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[16:00:45.381] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Fortification {939154728812828}] ()
+[16:00:45.381] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Fortification {939154728812828}] ()
+[16:00:47.045] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:47.045] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:47.046] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[16:00:48.650] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:48.651] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:48.652] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2083) <863>
+[16:00:48.653] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2083)
+[16:00:49.447] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[16:00:50.154] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:50.154] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:50.155] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[16:00:51.651] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:51.652] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:51.652] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:51.653] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3317*) <648>
+[16:00:51.653] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:52.943] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Upper Hand {2275727076491264}] ()
+[16:00:53.449] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:53.449] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:53.450] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[16:00:54.491] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:54.492] [@Kotowky] [@Skibsonjp] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Valor {939154728812820}] ()
+[16:00:54.492] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Valor {939154728812820}] ()
+[16:00:54.493] [@Skibsonjp] [@Kotowky] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[16:00:54.493] [@Kotowky] [@Vongolacento] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Valor {939154728812820}] ()
+[16:00:54.493] [@Kotowky] [@Unferens] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Force Valor {939154728812820}] ()
+[16:00:54.562] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:55.073] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:00:55.073] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:00:55.074] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Upper Hand {2275727076491264}] ()
+[16:00:55.075] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3284*) <161>
+[16:00:55.075] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3284*)
+[16:00:57.824] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3317*)
+[16:00:57.935] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:00:58.016] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1967)
+[16:00:59.490] [@Kotowky] [@Kotowky] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[16:00:59.497] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[16:01:00.244] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:01:00.451] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:01:00.758] [@Kotowky] [@Kotowky] [Vital Shot {2115340112756736}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:00.759] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[16:01:00.759] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Vital Shot {2115340112756736}] ()
+[16:01:00.983] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3284*) <1478>
+[16:01:01.370] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Vital Shot {2115340112756736}] ()
+[16:01:01.371] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [RemoveEffect {836045448945478}: Vital Shot {2115340112756736}] ()
+[16:01:01.526] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1520* internal {836045448940876}) <1520>
+[16:01:02.980] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:02.980] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:01:02.982] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3284*) <1478>
+[16:01:03.179] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3317*)
+[16:01:03.269] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1987)
+[16:01:04.395] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (910 internal {836045448940876}) <910>
+[16:01:04.493] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:04.493] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[16:01:04.493] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[16:01:04.494] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2021) <909>
+[16:01:04.503] [@Kotowky] [@Unferens] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4003) <1801>
+[16:01:05.974] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:06.089] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2041)
+[16:01:06.173] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2041)
+[16:01:07.291] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (910 internal {836045448940876}) <910>
+[16:01:07.492] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2021) <909>
+[16:01:07.988] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[16:01:07.989] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:07.989] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[16:01:07.989] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3374*) <1518>
+[16:01:07.990] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[16:01:07.998] [@Kotowky] [@Unferens] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7016) <3157>
+[16:01:08.963] [@Kotowky] [@Unferens] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6768*) <3045>
+[16:01:09.014] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2140)
+[16:01:09.015] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[16:01:09.099] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3572*)
+[16:01:09.707] [@Kotowky] [@Kotowky] [Kolto Pack {3470823201439744}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:10.092] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[16:01:10.896] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2118) <953>
+[16:01:11.223] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[16:01:11.223] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Kolto Pack {3470823201439744}] ()
+[16:01:11.224] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Resistant {3470823201440056}] ()
+[16:01:11.232] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (10325*) <4646>
+[16:01:11.810] [@Kotowky] [@Kotowky] [Diagnostic Scan {1701352510062592}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:12.008] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2140)
+[16:01:12.009] [@Kotowky] [@Vongolacento] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[16:01:12.214] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (622*) <280>
+[16:01:12.618] [@Kotowky] [@Unferens] [Diagnostic Scan {1701352510062592}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (799) <359>
+[16:01:13.023] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (975 internal {836045448940876}) <975>
+[16:01:13.213] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (332) <149>
+[16:01:13.214] [@Kotowky] [@Kotowky] [] [Restore {836045448945476}: energy {836045448938503}] (2)
+[16:01:13.214] [@Kotowky] [@Unferens] [Diagnostic Scan {1701352510062592}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1334*) <600>
+[16:01:13.812] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2118) <953>
+[16:01:13.919] [@Kotowky] [@Kotowky] [] [Restore {836045448945476}: energy {836045448938503}] (2)
+[16:01:13.920] [@Kotowky] [@Unferens] [Diagnostic Scan {1701352510062592}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1334*) <600>
+[16:01:14.019] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[16:01:14.116] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (317) <142>
+[16:01:14.310] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:15.123] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (317) <142>
+[16:01:15.926] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (910 internal {836045448940876}) <910>
+[16:01:16.042] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (593*) <267>
+[16:01:16.345] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[16:01:16.347] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:16.347] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[16:01:16.347] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2021) <822>
+[16:01:16.356] [@Kotowky] [@Unferens] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7327) <3297>
+[16:01:17.047] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (593*)
+[16:01:17.335] [@Kotowky] [@Unferens] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7270*) <3271>
+[16:01:17.966] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (317)
+[16:01:18.273] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:18.273] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:01:18.274] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[16:01:18.769] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (910 internal {836045448940876}) <910>
+[16:01:18.769] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [RemoveEffect {836045448945478}: Vital Shot {2115340112756736}] ()
+[16:01:18.977] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (317)
+[16:01:19.265] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2021)
+[16:01:19.779] [@Kotowky] [@Kotowky] [Triage {981455861710848}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:19.779] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:01:19.779] [@Kotowky] [@Skibsonjp] [Psych Meds {982263315562496}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4529*) <2038>
+[16:01:20.014] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (593*)
+[16:01:20.014] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [RemoveEffect {836045448945478}: Kolto Pack {3470823201439744}] ()
+[16:01:21.217] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1020) <459>
+[16:01:21.338] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:21.338] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[16:01:21.339] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[16:01:21.339] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (879) <395>
+[16:01:21.339] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Invigorated {1147159994958254}] ()
+[16:01:21.340] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[16:01:21.340] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1468*)
+[16:01:21.341] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Invigorated {1147159994958254}] ()
+[16:01:21.341] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[16:01:21.341] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1468*)
+[16:01:21.341] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Invigorated {1147159994958254}] ()
+[16:01:22.238] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2021) <909>
+[16:01:22.479] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[16:01:22.479] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[16:01:22.479] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*)
+[16:01:22.479] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[16:01:22.941] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:22.941] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[16:01:22.941] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[16:01:22.950] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3191)
+[16:01:23.335] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[16:01:23.335] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[16:01:23.336] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*)
+[16:01:24.124] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1051) <472>
+[16:01:24.316] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[16:01:24.316] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*)
+[16:01:24.317] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[16:01:24.424] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:25.143] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2021) <909>
+[16:01:25.348] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[16:01:25.348] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*)
+[16:01:25.349] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*)
+[16:01:26.235] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[16:01:26.235] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*)
+[16:01:26.235] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[16:01:26.442] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[16:01:26.443] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:26.443] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[16:01:26.451] [@Kotowky] [@Skibsonjp] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (14881*) <6696>
+[16:01:27.044] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1754*) <789>
+[16:01:27.260] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[16:01:27.260] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*)
+[16:01:27.260] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[16:01:27.433] [@Kotowky] [@Skibsonjp] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3225) <1451>
+[16:01:27.961] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3374*) <1518>
+[16:01:28.160] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[16:01:28.161] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[16:01:28.162] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949)
+[16:01:28.162] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1585*) <29>
+[16:01:28.249] [@Kotowky] [@Kotowky] [Slow-release Medpac {3406415871868928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:28.249] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[16:01:28.250] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3537*) <1591>
+[16:01:29.150] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1585*) <713>
+[16:01:29.150] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1585*)
+[16:01:29.150] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949)
+[16:01:29.949] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1839*) <827>
+[16:01:30.144] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <427>
+[16:01:30.144] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[16:01:30.144] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949)
+[16:01:30.144] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[16:01:30.144] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949)
+[16:01:30.145] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[16:01:30.448] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:30.448] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[16:01:30.448] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3537*) <1591>
+[16:01:30.457] [@Kotowky] [@Unferens] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6196*) <2788>
+[16:01:31.952] [@Kotowky] [@Kotowky] [Kolto Waves {3406411576901632}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:31.952] [@Kotowky] [@Vongolacento] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1870) <841>
+[16:01:31.953] [@Kotowky] [@Unferens] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1798) <809>
+[16:01:31.953] [@Kotowky] [@Kotowky] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1870)
+[16:01:31.953] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (7)
+[16:01:32.844] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1101) <495>
+[16:01:32.943] [@Kotowky] [@Vongolacento] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1870) <841>
+[16:01:32.943] [@Kotowky] [@Unferens] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3001*) <237>
+[16:01:32.943] [@Kotowky] [@Kotowky] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3121*)
+[16:01:32.943] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (7)
+[16:01:33.397] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3537*)
+[16:01:33.993] [@Kotowky] [@Vongolacento] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3121*) <1404>
+[16:01:33.994] [@Kotowky] [@Unferens] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1798) <809>
+[16:01:33.994] [@Kotowky] [@Kotowky] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1870)
+[16:01:33.994] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (7)
+[16:01:34.199] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[16:01:34.300] [@Kotowky] [@Kotowky] [Kolto Waves {3406411576901632}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[16:01:34.301] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:35.692] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1051) <472>
+[16:01:36.021] [@Vongolacento] [@Kotowky] [Transcendence {2528567506239488}] [ApplyEffect {836045448945477}: Transcendence {2528567506239488}] ()
+[16:01:36.295] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3374*) <1518>
+[16:01:36.295] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[16:01:36.304] [@Kotowky] [@Skibsonjp] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (8337) <3751>
+[16:01:36.499] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[16:01:36.622] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:38.119] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[16:01:38.425] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:38.425] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[16:01:38.425] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[16:01:38.435] [@Kotowky] [@Vongolacento] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3636) <1636>
+[16:01:38.626] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1754*) <789>
+[16:01:38.626] [@Kotowky] [@Skibsonjp] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[16:01:39.210] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2021) <909>
+[16:01:39.998] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:39.998] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[16:01:40.008] [@Kotowky] [@Vongolacento] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4047) <1821>
+[16:01:41.538] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:41.539] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[16:01:41.539] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[16:01:41.539] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[16:01:41.540] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[16:01:41.540] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[16:01:42.129] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3374*) <1518>
+[16:01:42.521] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[16:01:42.522] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[16:01:43.026] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:43.521] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906) <407>
+[16:01:43.521] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*)
+[16:01:44.433] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[16:01:44.434] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[16:01:45.020] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[16:01:45.021] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2021) <909>
+[16:01:45.028] [@Kotowky] [@Vongolacento] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (8340) <3753>
+[16:01:45.130] [@Kotowky] [@Kotowky] [Underworld Medicine {3406424461803520}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:45.423] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1512*) <680>
+[16:01:45.424] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (906)
+[16:01:46.031] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[16:01:46.129] [@Vongolacento] [@Kotowky] [Transcendence {2528567506239488}] [RemoveEffect {836045448945478}: Transcendence {2528567506239488}] ()
+[16:01:46.422] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*) <662>
+[16:01:46.422] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1472*)
+[16:01:47.122] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[16:01:47.129] [@Kotowky] [@Vongolacento] [Underworld Medicine {3406424461803520}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7741) <3483>
+[16:01:47.329] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[16:01:47.330] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881)
+[16:01:47.939] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1967) <885>
+[16:01:48.358] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881) <396>
+[16:01:48.359] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (881)
+[16:01:48.360] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:48.360] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[16:01:48.360] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [ApplyEffect {836045448945477}: Bedside Manner {2275727076491549}] ()
+[16:01:48.360] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [ApplyEffect {836045448945477}: Power Surge {3405629892853760}] ()
+[16:01:48.367] [@Kotowky] [@Skibsonjp] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4143) <1864>
+[16:01:49.248] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1585*) <713>
+[16:01:49.248] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1585*)
+[16:01:49.580] [@Kotowky] [@Unferens] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[16:01:49.580] [@Kotowky] [@Unferens] [Kolto Pack {3470823201439744}] [RemoveEffect {836045448945478}: Resistant {3470823201440056}] ()
+[16:01:49.949] [@Kotowky] [@Kotowky] [Emergency Medpac {807518276157440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:49.950] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[16:01:49.958] [@Kotowky] [@Skibsonjp] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3419) <1538>
+[16:01:50.239] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (949) <427>
+[16:01:50.239] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[16:01:50.239] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1585*)
+[16:01:50.239] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[16:01:51.386] [@Kotowky] [@Skibsonjp] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Invigorated {1147159994958254}] ()
+[16:01:53.602] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[16:01:53.602] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[16:01:53.602] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[16:01:54.322] [@Kotowky] [@Vongolacento] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Invigorated {1147159994958254}] ()
+[16:01:54.567] [@Kotowky] [@Kotowky] [Power Surge {3405629892853760}] [RemoveEffect {836045448945478}: Power Surge {3405629892853760}] ()
+[16:01:55.193] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[16:01:55.193] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[16:01:55.193] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[16:01:55.970] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Bedside Manner {2275727076491549}] ()
+[16:01:56.766] [@Kotowky] [@Kotowky] [Vital Shot {2115340112756736}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:01:56.766] [@Kotowky] [@Kotowky] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[16:01:56.767] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Vital Shot {2115340112756736}] ()
+[16:01:56.789] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[16:01:56.790] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[16:01:56.790] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [@Kotowky] [Melee Attack {3528345698435072}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2922 kinetic {836045448940873}) <2922>
+[16:01:56.959] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Vital Shot {2115340112756736}] ()
+[16:01:56.961] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [RemoveEffect {836045448945478}: Vital Shot {2115340112756736}] ()
+[16:01:56.988] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (910 internal {836045448940876}) <910>
+[16:01:58.199] [Mandalorian Hunter {3506999710973952}:3996011985844] [@Kotowky] [Jet Charge {3528113770201088}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1219 kinetic {836045448940873}) <1219>
+[16:01:58.279] [Mandalorian Hunter {3506999710973952}:3996011985973] [@Kotowky] [Jet Charge {3528113770201088}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1219 kinetic {836045448940873}) <1219>
+[16:01:59.085] [Mandalorian Hunter {3506999710973952}:3996011985844] [@Kotowky] [Rocket Punch {3390180895490048}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7314 kinetic {836045448940873}) <7314>
+[16:01:59.171] [Mandalorian Hunter {3506999710973952}:3996011985973] [@Kotowky] [Rocket Punch {3390180895490048}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7314 kinetic {836045448940873}) <7314>
+[16:01:59.861] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1520* internal {836045448940876}) <1520>
+[16:01:59.961] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [@Kotowky] [Hurl {3528070820528128}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19438 kinetic {836045448940873}) <19438>
+[16:02:00.864] [Mandalorian Hunter {3506999710973952}:3996011967265] [@Kotowky] [Electro Net {3391327651758080}] [ApplyEffect {836045448945477}: Slowed {3391327651758348}] ()
+[16:02:00.865] [Mandalorian Hunter {3506999710973952}:3996011967265] [@Kotowky] [Electro Net {3391327651758080}] [ApplyEffect {836045448945477}: Electro Net {3391327651758080}] ()
+[16:02:00.865] [Mandalorian Hunter {3506999710973952}:3996011967265] [@Kotowky] [Electro Net {3391327651758080}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3657 energy {836045448940874}) <3657>
+[16:02:01.874] [Mandalorian Hunter {3506999710973952}:3996011967265] [@Kotowky] [Electro Net {3391327651758080}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3657 energy {836045448940874}) <3657>
+[16:02:02.784] [@Kotowky] [Kyramla Gemas'rugam {3507004005941248}:3996011881385] [Vital Shot {2115340112756736}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (910 internal {836045448940876}) <910>
+[16:02:03.038] [] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[16:02:03.038] [@Skibsonjp] [@Kotowky] [Force Valor {875503313485824}] [RemoveEffect {836045448945478}: Force Valor {875503313485824}] ()
+[16:02:03.039] [] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[16:02:03.039] [] [@Kotowky] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[16:02:03.039] [@Kotowky] [@Kotowky] [Upper Hand {2275727076491264}] [RemoveEffect {836045448945478}: Upper Hand {2275727076491264}] ()
+[16:02:03.039] [@Kotowky] [@Kotowky] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Invigorated {1147159994958254}] ()
+[16:02:03.039] [Mandalorian Hunter {3506999710973952}:3996011967265] [@Kotowky] [Electro Net {3391327651758080}] [RemoveEffect {836045448945478}: Slowed {3391327651758348}] ()
+[16:02:03.040] [Mandalorian Hunter {3506999710973952}:3996011967265] [@Kotowky] [Electro Net {3391327651758080}] [RemoveEffect {836045448945478}: Electro Net {3391327651758080}] ()
+[16:02:03.040] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[16:02:03.053] [Mandalorian Hunter {3506999710973952}:3996011967265] [@Kotowky] [Electro Net {3391327651758080}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3657 energy {836045448940874}) <3657>
+[16:02:03.053] [Mandalorian Hunter {3506999710973952}:3996011967265] [@Kotowky] [] [Event {836045448945472}: Death {836045448945493}] ()
+[16:02:17.130] [@Kotowky] [@Kotowky] [] [Event {836045448945472}: Revived {836045448945494}] ()
+[16:02:45.096] [@Kotowky] [@Kotowky] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[16:02:45.099] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[16:02:50.029] [@Kotowky] [@Kotowky] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[16:02:50.036] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[16:02:56.309] [@Kotowky] [@Kotowky] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[16:02:56.312] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[16:03:01.290] [@Kotowky] [@Kotowky] [Advanced Anodyne Reflex Stim {3739456225935360}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3739456225935360}] ()
+[16:03:01.291] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[16:03:01.299] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[16:03:06.518] [@Kotowky] [@Kotowky] [Advanced Anodyne Reflex Stim {3739456225935360}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3739456225935360}] ()
+[16:03:06.519] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[16:03:06.591] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[16:03:14.815] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[16:03:20.224] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:03:20.225] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[16:03:20.226] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[16:03:20.226] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[16:03:20.226] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[16:04:24.524] [@Kotowky] [@Kotowky] [Using {810799631171584}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:04:37.438] [@Kotowky] [@Kotowky] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[16:04:37.958] [@Kotowky] [@Kotowky] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[16:04:37.958] [@Kotowky] [@Kotowky] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()

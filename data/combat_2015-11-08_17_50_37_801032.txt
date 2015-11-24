@@ -1,0 +1,328 @@
+[17:50:34.785] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[17:50:34.786] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[17:50:34.786] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[17:50:34.786] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[17:50:34.787] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[17:50:34.956] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[17:50:34.957] [@Rusmusashi] [@Rusmusashi] [Soresu Form {812174020706304}] [ApplyEffect {836045448945477}: Soresu Form {812174020706304}] ()
+[17:50:48.251] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[17:50:48.251] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[17:51:51.043] [@Rusmusashi] [@Rusmusashi] [JA-3 Speeder {3320619605164032}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[17:51:51.723] [@Rusmusashi] [@Rusmusashi] [JA-3 Speeder {3320619605164032}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[17:51:51.723] [@Rusmusashi] [@Rusmusashi] [JA-3 Speeder {3320619605164032}] [ApplyEffect {836045448945477}: JA-3 Speeder {3320619605164032}] ()
+[18:02:27.219] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[18:02:27.220] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[18:02:27.220] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[18:02:27.220] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[18:02:27.221] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[18:02:27.239] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[18:02:27.240] [@Rusmusashi] [@Rusmusashi] [Soresu Form {812174020706304}] [ApplyEffect {836045448945477}: Soresu Form {812174020706304}] ()
+[18:02:27.240] [@Rusmusashi] [@Rusmusashi] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Bolster {810421674049536}] ()
+[18:02:27.240] [@Rusmusashi] [@Rusmusashi] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (72256) <5879>
+[18:02:40.501] [@Rusmusashi] [@Rusmusashi] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[18:02:40.502] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[18:02:42.708] [@Rusmusashi] [@Rusmusashi] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[18:02:46.625] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[18:02:46.625] [@Ti'kill] [@Rusmusashi] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[18:02:46.627] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Valor {1781496599806219}] ()
+[18:02:46.627] [@Ti'kill] [@Rusmusashi] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[18:02:46.627] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[18:02:46.627] [@Ti'kill] [@Rusmusashi] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[18:02:46.628] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[18:02:46.628] [@Ti'kill] [@Rusmusashi] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[18:03:34.458] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:03:34.458] [@Rusmusashi] [@Ti'kill] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[18:03:34.460] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[18:04:16.910] [] [@Rusmusashi] [Deserter Detection {2730083076800512}] [ApplyEffect {836045448945477}: Deserter Detection {2730083076800512}] ()
+[18:04:20.798] [@Rusmusashi] [@Rusmusashi] [ {2731998632214528}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:20.798] [] [@Rusmusashi] [Deserter Detection {2730083076800512}] [RemoveEffect {836045448945478}: Deserter Detection {2730083076800512}] ()
+[18:04:22.558] [@Rusmusashi] [@Ti'kill] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[18:04:25.641] [@Rusmusashi] [@Ti'kill] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[18:04:27.665] [@Rusmusashi] [@Rusmusashi] [Combat Focus {3461146640121856}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:27.665] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (6)
+[18:04:28.289] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[18:04:28.301] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[18:04:28.301] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[18:04:28.303] [@Baal'amon] [@Rusmusashi] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Immobilized (Physical) {807750204391700}] ()
+[18:04:28.303] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [ApplyEffect {836045448945477}: Shield Defense {3728714512728064}] ()
+[18:04:28.304] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[18:04:28.305] [@Baal'amon] [@Rusmusashi] [Interceptor {3423690230333440}] [ApplyEffect {836045448945477}: Slowed (Physical) {3423690230333700}] ()
+[18:04:29.194] [@Baal'amon] [@Rusmusashi] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2455* energy {836045448940874} (2030 absorbed {836045448945511})) <2455>
+[18:04:29.988] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:29.988] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [ApplyEffect {836045448945477}: Blade Blitz {3618351033090048}] ()
+[18:04:29.988] [@Baal'amon] [@Rusmusashi] [Force Charge {807750204391424}] [RemoveEffect {836045448945478}: Immobilized (Physical) {807750204391700}] ()
+[18:04:29.988] [@Baal'amon] [@Rusmusashi] [Interceptor {3423690230333440}] [RemoveEffect {836045448945478}: Slowed (Physical) {3423690230333700}] ()
+[18:04:30.292] [@Rusmusashi] [@Baal'amon] [Blade Blitz {3618351033090048}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1072 energy {836045448940874} (1072 absorbed {836045448945511})) <2144>
+[18:04:31.087] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [RemoveEffect {836045448945478}: Blade Blitz {3618351033090048}] ()
+[18:04:31.571] [@Rusmusashi] [@Ti'kill] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[18:04:32.175] [@Rusmusashi] [@Rusmusashi] [Awe {1596834480914432}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:32.295] [@Moréllo] [@Rusmusashi] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Immobilized (Physical) {807750204391700}] ()
+[18:04:32.295] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[18:04:32.296] [@Moréllo] [@Rusmusashi] [Interceptor {3423690230333440}] [ApplyEffect {836045448945477}: Slowed (Physical) {3423690230333700}] ()
+[18:04:32.708] [@Baal'amon] [@Rusmusashi] [Dual Saber Throw {3066602354376704}] [ApplyEffect {836045448945477}: Slowed (Physical) {3066602354376964}] ()
+[18:04:32.709] [@Baal'amon] [@Rusmusashi] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Deadly Saber) {1259666663276824}] ()
+[18:04:32.710] [@Baal'amon] [@Rusmusashi] [Bleeding (Deadly Saber) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (960* internal {836045448940876}) <960>
+[18:04:32.711] [@Baal'amon] [@Rusmusashi] [Dual Saber Throw {3066602354376704}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3354* energy {836045448940874}) <3354>
+[18:04:32.711] [@Baal'amon] [@Rusmusashi] [Dual Saber Throw {3066602354376704}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (199* energy {836045448940874}) <199>
+[18:04:32.714] [@Vorgania] [@Rusmusashi] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Immobilized (Physical) {807750204391700}] ()
+[18:04:32.988] [@Moréllo] [@Rusmusashi] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1494 energy {836045448940874}) <1494>
+[18:04:33.477] [@Moréllo] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Immobilized (Physical) {1261367470326270}] ()
+[18:04:33.600] [@Vorgania] [@Rusmusashi] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3009* energy {836045448940874}) <3009>
+[18:04:33.812] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[18:04:33.813] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[18:04:33.813] [@Moréllo] [@Rusmusashi] [Bloody Slashes {3625661067427840}] [ApplyEffect {836045448945477}: Bloody Slashes {3625661067427840}] ()
+[18:04:33.814] [@Moréllo] [@Rusmusashi] [Bloody Slashes {3625661067427840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (129 internal {836045448940876}) <129>
+[18:04:33.814] [@Moréllo] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2469 energy {836045448940874} -shield {836045448945509}) <2469>
+[18:04:33.814] [@Moréllo] [@Rusmusashi] [Bloody Slashes {3625661067427840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (434* internal {836045448940876}) <434>
+[18:04:33.815] [@Moréllo] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (792* energy {836045448940874}) <792>
+[18:04:33.992] [@Moréllo] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:33.993] [@Moréllo] [@Rusmusashi] [Bloody Slashes {3625661067427840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (651* internal {836045448940876}) <651>
+[18:04:33.993] [@Moréllo] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (468 energy {836045448940874}) <468>
+[18:04:34.318] [@Vorgania] [@Rusmusashi] [Raging Burst {3434638101970944}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10198* kinetic {836045448940873}) <10198>
+[18:04:34.424] [@Moréllo] [@Rusmusashi] [Force Charge {807750204391424}] [RemoveEffect {836045448945478}: Immobilized (Physical) {807750204391700}] ()
+[18:04:34.425] [@Rusmusashi] [@Rusmusashi] [Freezing Force {1191685920915456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:34.425] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[18:04:34.425] [@Rusmusashi] [@Moréllo] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[18:04:34.426] [@Rusmusashi] [@Lougruta] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[18:04:34.426] [@Rusmusashi] [@Baal'amon] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[18:04:34.427] [@Moréllo] [@Rusmusashi] [Cloak of Pain {2473484550668288}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1431* energy {836045448940874}) <1431>
+[18:04:34.427] [@Rusmusashi] [@Vorgania] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (103* elemental {836045448940875} (103 absorbed {836045448945511})) <206>
+[18:04:34.427] [@Rusmusashi] [@Moréllo] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (59 elemental {836045448940875} (59 absorbed {836045448945511})) <119>
+[18:04:34.427] [@Rusmusashi] [@Lougruta] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (116* elemental {836045448940875} (116 absorbed {836045448945511})) <232>
+[18:04:34.428] [@Rusmusashi] [@Baal'amon] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (47 elemental {836045448940875}) <95>
+[18:04:34.445] [@Baal'amon] [@Rusmusashi] [Crippling Slash {1501739610013696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:34.445] [@Baal'amon] [@Rusmusashi] [Crippling Slash {1501739610013696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:34.788] [@Vorgania] [@Rusmusashi] [Force Charge {807750204391424}] [RemoveEffect {836045448945478}: Immobilized (Physical) {807750204391700}] ()
+[18:04:35.418] [@Baal'amon] [@Rusmusashi] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Stunned (Force) {807754499359098}] ()
+[18:04:35.419] [@Baal'amon] [@Rusmusashi] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Force Choke {807754499358720}] ()
+[18:04:35.419] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[18:04:35.419] [@Baal'amon] [@Rusmusashi] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (551 kinetic {836045448940873}) <551>
+[18:04:35.588] [@Moréllo] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4292 energy {836045448940874} -shield {836045448945509}) <4292>
+[18:04:35.589] [@Moréllo] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (479 energy {836045448940874} -shield {836045448945509}) <479>
+[18:04:35.717] [@Baal'amon] [@Rusmusashi] [Bleeding (Deadly Saber) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (546 internal {836045448940876}) <546>
+[18:04:35.801] [@Moréllo] [@Rusmusashi] [Ravage {1261367470325760}] [RemoveEffect {836045448945478}: Immobilized (Physical) {1261367470326270}] ()
+[18:04:35.803] [@Vorgania] [@Rusmusashi] [Furious Strike {3451633287561216}] [ApplyEffect {836045448945477}: Beat Down (Physical) {3451633287561488}] ()
+[18:04:35.923] [@Vorgania] [@Rusmusashi] [Furious Strike {3451633287561216}] [RemoveEffect {836045448945478}: Beat Down (Physical) {3451633287561488}] ()
+[18:04:35.923] [@Moréllo] [@Rusmusashi] [Enraged Slash {3455528822898688}] [ApplyEffect {836045448945477}: Beat Down (Physical) {3455528822898950}] ()
+[18:04:36.164] [@Moréllo] [@Rusmusashi] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2626* energy {836045448940874}) <2626>
+[18:04:36.250] [@Moréllo] [@Rusmusashi] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (265 energy {836045448940874} -shield {836045448945509}) <265>
+[18:04:36.311] [@Moréllo] [@Rusmusashi] [Bloody Slashes {3625661067427840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (420 internal {836045448940876}) <420>
+[18:04:36.368] [@Vorgania] [@Rusmusashi] [Furious Strike {3451633287561216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3571 energy {836045448940874} -shield {836045448945509}) <3571>
+[18:04:36.412] [@Moréllo] [@Rusmusashi] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (933 energy {836045448940874} -shield {836045448945509}) <933>
+[18:04:36.831] [@Rusmusashi] [@Rusmusashi] [Resolute {3625291700240384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:36.831] [@Moréllo] [@Rusmusashi] [Interceptor {3423690230333440}] [RemoveEffect {836045448945478}: Slowed (Physical) {3423690230333700}] ()
+[18:04:36.831] [@Baal'amon] [@Rusmusashi] [Dual Saber Throw {3066602354376704}] [RemoveEffect {836045448945478}: Slowed (Physical) {3066602354376964}] ()
+[18:04:36.833] [@Baal'amon] [@Rusmusashi] [Force Choke {807754499358720}] [RemoveEffect {836045448945478}: Stunned (Force) {807754499359098}] ()
+[18:04:36.834] [@Rusmusashi] [@Rusmusashi] [Medals Earned This Match {832699669413888}] [ApplyEffect {836045448945477}: Medals Earned This Match {832699669413888}] ()
+[18:04:36.835] [@Rusmusashi] [@Rusmusashi] [Resolute {3625291700240384}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6030)
+[18:04:36.998] [@Baal'amon] [@Rusmusashi] [Force Rend {3361615068004352}] [ApplyEffect {836045448945477}: Force Rend {3361615068004352}] ()
+[18:04:36.999] [@Baal'amon] [@Rusmusashi] [Interceptor {3423690230333440}] [ApplyEffect {836045448945477}: Slowed (Physical) {3423690230333700}] ()
+[18:04:37.433] [@Vorgania] [@Rusmusashi] [Sundering Assault {807806038966272}] [ApplyEffect {836045448945477}: Sundered (Physical) {807806038966715}] ()
+[18:04:37.434] [@Baal'amon] [@Rusmusashi] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (360 kinetic {836045448940873} -shield {836045448945509}) <360>
+[18:04:37.435] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:37.435] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Focused Defense {2793700132388864}] ()
+[18:04:37.538] [@Baal'amon] [@Rusmusashi] [Force Rend {3361615068004352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1185 internal {836045448940876}) <1185>
+[18:04:38.001] [@Moréllo] [@Rusmusashi] [Massacre {1259670958243840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1686 energy {836045448940874} -shield {836045448945509}) <1686>
+[18:04:38.002] [@Moréllo] [@Rusmusashi] [Massacre {1259670958243840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:38.002] [@Vorgania] [@Rusmusashi] [Sundering Assault {807806038966272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4745* energy {836045448940874}) <4745>
+[18:04:38.101] [@Moréllo] [@Rusmusashi] [Ataru Form {1259692433080320}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:38.219] [@Rusmusashi] [@Rusmusashi] [Force Push {1681844768604160}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:38.539] [@Rusmusashi] [@Lougruta] [Force Push {1681844768604160}] [ApplyEffect {836045448945477}: Knockdown {1681844768604416}] ()
+[18:04:38.542] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[18:04:38.542] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2565)
+[18:04:38.542] [@Baal'amon] [@Rusmusashi] [Bloodlust {3191186470731776}] [ApplyEffect {836045448945477}: Assailable (Mental) {3191186470732055}] ()
+[18:04:38.543] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2565)
+[18:04:38.543] [@Baal'amon] [@Rusmusashi] [Bleeding (Deadly Saber) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1240 internal {836045448940876}) <1240>
+[18:04:38.600] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3874*)
+[18:04:38.600] [@Moréllo] [@Rusmusashi] [Bloody Slashes {3625661067427840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (704* internal {836045448940876}) <704>
+[18:04:38.837] [@Rusmusashi] [@Lougruta] [Force Push {1681844768604160}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2237 kinetic {836045448940873} (2237 absorbed {836045448945511})) <4474>
+[18:04:38.916] [@Vorgania] [@Rusmusashi] [Force Crush {1148263801552896}] [ApplyEffect {836045448945477}: Slowed (Force) {1148263801553204}] ()
+[18:04:38.917] [@Vorgania] [@Rusmusashi] [Force Crush {1148263801552896}] [ApplyEffect {836045448945477}: Force Crush {1148263801552896}] ()
+[18:04:38.918] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3874*)
+[18:04:38.918] [@Vorgania] [@Rusmusashi] [Force Crush {1148263801552896}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (508 kinetic {836045448940873} -shield {836045448945509}) <508>
+[18:04:38.933] [@Baal'amon] [@Rusmusashi] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11991* energy {836045448940874}) <11991>
+[18:04:39.026] [@Veddartha] [@Rusmusashi] [Creeping Terror {808424514256896}] [ApplyEffect {836045448945477}: Immobilized (Force) {808424514257152}] ()
+[18:04:39.026] [@Veddartha] [@Rusmusashi] [Creeping Terror {808424514256896}] [ApplyEffect {836045448945477}: Creeping Terror {808424514256896}] ()
+[18:04:39.027] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2565)
+[18:04:39.395] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3874*)
+[18:04:39.396] [@Baal'amon] [@Rusmusashi] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (342 kinetic {836045448940873} -shield {836045448945509}) <342>
+[18:04:39.396] [@Baal'amon] [@Rusmusashi] [Force Choke {807754499358720}] [RemoveEffect {836045448945478}: Force Choke {807754499358720}] ()
+[18:04:39.465] [@Veddartha] [@Rusmusashi] [Creeping Terror {808424514256896}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1414* internal {836045448940876}) <1414>
+[18:04:39.803] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[18:04:39.910] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2565)
+[18:04:39.911] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2565)
+[18:04:40.010] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2565)
+[18:04:40.011] [@Vorgania] [@Rusmusashi] [Force Crush {1148263801552896}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (587 kinetic {836045448940873} -shield {836045448945509}) <587>
+[18:04:40.011] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2565)
+[18:04:40.011] [@Baal'amon] [@Rusmusashi] [Force Rend {3361615068004352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1256 internal {836045448940876}) <1256>
+[18:04:40.110] [@Baal'amon] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Immobilized (Physical) {1261367470326270}] ()
+[18:04:40.411] [@Baal'amon] [@Rusmusashi] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:40.498] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2565)
+[18:04:40.499] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [RemoveEffect {836045448945478}: Focused Defense {2793700132388864}] ()
+[18:04:40.499] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3874*)
+[18:04:40.499] [@Baal'amon] [@Rusmusashi] [Bleeding (Deadly Saber) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1737 internal {836045448940876}) <1737>
+[18:04:40.500] [@Baal'amon] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1382 energy {836045448940874} -shield {836045448945509}) <1382>
+[18:04:40.500] [@Baal'amon] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (289* energy {836045448940874}) <289>
+[18:04:40.500] [@Veddartha] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Affliction {808192586022912}] ()
+[18:04:40.503] [@Rusmusashi] [@Lougruta] [Force Push {1681844768604160}] [RemoveEffect {836045448945478}: Knockdown {1681844768604416}] ()
+[18:04:40.517] [@Moréllo] [@Rusmusashi] [Massacre {1259670958243840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1909 energy {836045448940874} -shield {836045448945509}) <1909>
+[18:04:40.517] [@Moréllo] [@Rusmusashi] [Massacre {1259670958243840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (254 energy {836045448940874} -shield {836045448945509}) <254>
+[18:04:40.743] [@Veddartha] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (833 internal {836045448940876}) <833>
+[18:04:40.846] [@Baal'amon] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1919 energy {836045448940874}) <1919>
+[18:04:40.847] [@Baal'amon] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (289* energy {836045448940874}) <289>
+[18:04:40.847] [@Moréllo] [@Rusmusashi] [Bloody Slashes {3625661067427840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (420 internal {836045448940876}) <420>
+[18:04:40.847] [@Moréllo] [@Rusmusashi] [Bloody Slashes {3625661067427840}] [RemoveEffect {836045448945478}: Bloody Slashes {3625661067427840}] ()
+[18:04:40.900] [@Vorgania] [@Rusmusashi] [Force Scream {998270658674688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6297* kinetic {836045448940873}) <6297>
+[18:04:40.901] [@Vorgania] [@Rusmusashi] [Force Crush {1148263801552896}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1435* kinetic {836045448940873}) <1435>
+[18:04:40.993] [@Moréllo] [@Rusmusashi] [Ataru Form {1259692433080320}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (657 energy {836045448940874} -shield {836045448945509}) <657>
+[18:04:41.093] [@Veddartha] [@Rusmusashi] [Creeping Terror {808424514256896}] [RemoveEffect {836045448945478}: Immobilized (Force) {808424514257152}] ()
+[18:04:41.431] [@Rusmusashi] [@Rusmusashi] [Saber Ward {812169725739008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:41.431] [@Rusmusashi] [@Rusmusashi] [Blade Turning {2311847751450624}] [ApplyEffect {836045448945477}: Blade Turning {2311847751450624}] ()
+[18:04:41.431] [@Rusmusashi] [@Rusmusashi] [Saber Ward {812169725739008}] [ApplyEffect {836045448945477}: Saber Ward {812169725739008}] ()
+[18:04:42.017] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[18:04:42.018] [@Vorgania] [@Rusmusashi] [Force Crush {1148263801552896}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2408 kinetic {836045448940873} (602 absorbed {836045448945511})) <2408>
+[18:04:42.018] [@Vorgania] [@Rusmusashi] [Force Crush {1148263801552896}] [RemoveEffect {836045448945478}: Force Crush {1148263801552896}] ()
+[18:04:42.018] [@Vorgania] [@Rusmusashi] [Force Crush {1148263801552896}] [RemoveEffect {836045448945478}: Slowed (Force) {1148263801553204}] ()
+[18:04:42.018] [@Moréllo] [@Rusmusashi] [Vicious Throw {2145542322782208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:42.019] [@Veddartha] [@Rusmusashi] [Creeping Terror {808424514256896}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (936 internal {836045448940876} (234 absorbed {836045448945511})) <936>
+[18:04:42.021] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Slowed (Force) {808252715565346}] ()
+[18:04:42.021] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (933 energy {836045448940874} (233 absorbed {836045448945511})) <933>
+[18:04:42.293] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:42.293] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Saber Reflect {3126160665870336}] ()
+[18:04:42.294] [@Rusmusashi] [@Baal'amon] [Saber Reflect {3126160665870336}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <14288>
+[18:04:42.294] [@Rusmusashi] [@Moréllo] [Saber Reflect {3126160665870336}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <14288>
+[18:04:42.294] [@Rusmusashi] [@Vorgania] [Saber Reflect {3126160665870336}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <14288>
+[18:04:42.294] [@Rusmusashi] [@Veddartha] [Saber Reflect {3126160665870336}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <14288>
+[18:04:42.294] [@Rusmusashi] [@Lougruta] [Saber Reflect {3126160665870336}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <14288>
+[18:04:42.512] [@Rusmusashi] [@Moréllo] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[18:04:42.513] [@Rusmusashi] [@Lougruta] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[18:04:42.513] [@Rusmusashi] [@Baal'amon] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[18:04:42.721] [@Rusmusashi] [@Veddartha] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1797 energy {836045448940874}(reflected {836045448953649})) <3594>
+[18:04:42.722] [@Veddartha] [@Rusmusashi] [Lightning Burns {3210655557484544}] [ApplyEffect {836045448945477}: Lightning Burns {3210655557484544}] ()
+[18:04:42.722] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -) <933>
+[18:04:42.723] [@Rusmusashi] [@Rusmusashi] [Enure {2211126473392128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:42.724] [@Rusmusashi] [@Rusmusashi] [Enure {2211126473392128}] [ApplyEffect {836045448945477}: Enure {2211126473392128}] ()
+[18:04:42.790] [@Baal'amon] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:42.791] [@Baal'amon] [@Rusmusashi] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:42.921] [@Rusmusashi] [@Lougruta] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3472 energy {836045448940874}(reflected {836045448953649})) <6945>
+[18:04:43.015] [@Rusmusashi] [@Moréllo] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8811 energy {836045448940874}(reflected {836045448953649})) <17623>
+[18:04:43.015] [@Moréllo] [@Rusmusashi] [Interceptor {3423690230333440}] [ApplyEffect {836045448945477}: Slowed (Physical) {3423690230333700}] ()
+[18:04:43.015] [@Vorgania] [@Rusmusashi] [Sundering Assault {807806038966272}] [RemoveEffect {836045448945478}: Sundered (Physical) {807806038966715}] ()
+[18:04:43.016] [@Moréllo] [@Rusmusashi] [Execute {1261118362222592}] [ApplyEffect {836045448945477}: Sundered (Physical) {1261118362222911}] ()
+[18:04:43.017] [@Baal'amon] [@Rusmusashi] [Interceptor {3423690230333440}] [RemoveEffect {836045448945478}: Slowed (Physical) {3423690230333700}] ()
+[18:04:43.017] [@Baal'amon] [@Rusmusashi] [Force Rend {3361615068004352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1256 internal {836045448940876} (314 absorbed {836045448945511})) <1256>
+[18:04:43.095] [@Baal'amon] [@Rusmusashi] [Ravage {1261367470325760}] [RemoveEffect {836045448945478}: Immobilized (Physical) {1261367470326270}] ()
+[18:04:43.335] [@Moréllo] [@Rusmusashi] [Devastating Blast {3361602183102464}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -) <14230>
+[18:04:43.337] [@Lougruta] [@Rusmusashi] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -) <4110>
+[18:04:43.392] [@Rusmusashi] [@Veddartha] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3042 energy {836045448940874}(reflected {836045448953649})) <6085>
+[18:04:43.393] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -shield {836045448945509}) <707>
+[18:04:43.514] [@Veddartha] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1491* internal {836045448940876} (372 absorbed {836045448945511})) <1491>
+[18:04:43.620] [@Baal'amon] [@Rusmusashi] [Bleeding (Deadly Saber) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1663 internal {836045448940876} (415 absorbed {836045448945511})) <1663>
+[18:04:43.697] [@Vorgania] [@Rusmusashi] [Vicious Throw {2145542322782208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:43.698] [@Veddartha] [@Rusmusashi] [Lightning Burns {3210655557484544}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (817* energy {836045448940874} (204 absorbed {836045448945511})) <817>
+[18:04:43.699] [@Veddartha] [@Rusmusashi] [Lightning Burns {3210655557484544}] [RemoveEffect {836045448945478}: Lightning Burns {3210655557484544}] ()
+[18:04:43.713] [@Rusmusashi] [@Rusmusashi] [Enure {2211126473392128}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (23465)
+[18:04:43.828] [@Rusmusashi] [@Rusmusashi] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:43.828] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[18:04:43.875] [@Sonnik] [@Rusmusashi] [Saber Throw {807788859097088}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:44.018] [@Rusmusashi] [@Veddartha] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1904 energy {836045448940874}(reflected {836045448953649})) <3809>
+[18:04:44.018] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -) <1580>
+[18:04:44.018] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [RemoveEffect {836045448945478}: Slowed (Force) {808252715565346}] ()
+[18:04:44.403] [@Moréllo] [@Rusmusashi] [Cloak of Pain {2473484550668288}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (565 energy {836045448940874} -shield {836045448945509} (141 absorbed {836045448945511})) <565>
+[18:04:44.403] [@Rusmusashi] [@Baal'amon] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[18:04:44.404] [@Rusmusashi] [@Moréllo] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[18:04:44.404] [@Rusmusashi] [@Vorgania] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[18:04:44.404] [@Rusmusashi] [@Merleah] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[18:04:44.404] [@Rusmusashi] [@Baal'amon] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1779 kinetic {836045448940873}) <3825>
+[18:04:44.404] [@Rusmusashi] [@Moréllo] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1892 kinetic {836045448940873} (1892 absorbed {836045448945511})) <4069>
+[18:04:44.405] [@Rusmusashi] [@Vorgania] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3625* kinetic {836045448940873}) <7795>
+[18:04:44.405] [@Rusmusashi] [@Merleah] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2965 kinetic {836045448940873} (2965 absorbed {836045448945511})) <6376>
+[18:04:44.691] [@Baal'amon] [@Rusmusashi] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:44.720] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Slowed (Force) {808252715565346}] ()
+[18:04:44.721] [@Rusmusashi] [@Veddartha] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1904 energy {836045448940874}(reflected {836045448953649})) <3809>
+[18:04:44.721] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -shield {836045448945509}) <707>
+[18:04:44.816] [@Baal'amon] [@Rusmusashi] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:44.944] [@Veddartha] [@Rusmusashi] [Creeping Terror {808424514256896}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1585* internal {836045448940876} (396 absorbed {836045448945511})) <1585>
+[18:04:45.059] [@Baal'amon] [@Rusmusashi] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:45.252] [@Vorgania] [@Rusmusashi] [Furious Strike {3451633287561216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:45.508] [@Rusmusashi] [@Veddartha] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1904 energy {836045448940874}(reflected {836045448953649})) <3809>
+[18:04:45.509] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -shield {836045448945509}) <707>
+[18:04:45.623] [@Rusmusashi] [@Rusmusashi] [Saber Throw {812165430771712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[18:04:45.623] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (3)
+[18:04:45.727] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[18:04:45.744] [@Sonnik] [@Rusmusashi] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:46.617] [B4-T9 {897802783686656}:8949000227080] [@Rusmusashi] [Frozen {1394764859572224}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (60917)
+[18:04:46.657] [@Baal'amon] [@Rusmusashi] [Force Rend {3361615068004352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1116 internal {836045448940876} (279 absorbed {836045448945511})) <1116>
+[18:04:46.657] [@Baal'amon] [@Rusmusashi] [Force Rend {3361615068004352}] [RemoveEffect {836045448945478}: Force Rend {3361615068004352}] ()
+[18:04:46.658] [@Rusmusashi] [@Veddartha] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1904 energy {836045448940874}(reflected {836045448953649})) <3809>
+[18:04:46.658] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -shield {836045448945509}) <707>
+[18:04:46.660] [@Sonnik] [@Rusmusashi] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Stunned (Force) {807754499359098}] ()
+[18:04:46.660] [@Sonnik] [@Rusmusashi] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Force Choke {807754499358720}] ()
+[18:04:46.660] [@Rusmusashi] [@Sonnik] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (443 kinetic {836045448940873}(reflected {836045448953649})) <886>
+[18:04:46.661] [@Sonnik] [@Rusmusashi] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -shield {836045448945509}) <383>
+[18:04:46.662] [@Veddartha] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1491* internal {836045448940876} (372 absorbed {836045448945511})) <1491>
+[18:04:46.663] [@Rusmusashi] [@Rusmusashi] [Blade Turning {2311847751450624}] [RemoveEffect {836045448945478}: Blade Turning {2311847751450624}] ()
+[18:04:46.687] [@Baal'amon] [@Rusmusashi] [Bleeding (Deadly Saber) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2695* internal {836045448940876} (673 absorbed {836045448945511})) <2695>
+[18:04:46.687] [@Baal'amon] [@Rusmusashi] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Deadly Saber) {1259666663276824}] ()
+[18:04:46.774] [@Rusmusashi] [@Veddartha] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1806 energy {836045448940874}(reflected {836045448953649})) <3613>
+[18:04:46.774] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -shield {836045448945509}) <670>
+[18:04:46.775] [@Veddartha] [@Rusmusashi] [Force Lightning {808252715565056}] [RemoveEffect {836045448945478}: Slowed (Force) {808252715565346}] ()
+[18:04:46.793] [@Baal'amon] [@Rusmusashi] [Rupture {3455541707800576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:46.793] [@Baal'amon] [@Rusmusashi] [Rupture {3455541707800576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:47.100] [@Rusmusashi] [@Lougruta] [Saber Throw {812165430771712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3919* energy {836045448940874} (3919 absorbed {836045448945511})) <7839>
+[18:04:47.377] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [RemoveEffect {836045448945478}: Saber Reflect {3126160665870336}] ()
+[18:04:47.782] [@Veddartha] [@Rusmusashi] [Creeping Terror {808424514256896}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (941 internal {836045448940876} (235 absorbed {836045448945511})) <941>
+[18:04:47.923] [@Baal'amon] [@Rusmusashi] [Rupture {3455541707800576}] [ApplyEffect {836045448945477}: Bleeding (Rupture) {3455541707800846}] ()
+[18:04:47.924] [@Baal'amon] [@Rusmusashi] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Deadly Saber) {1259666663276824}] ()
+[18:04:47.924] [@Baal'amon] [@Rusmusashi] [Bleeding (Deadly Saber) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (514 internal {836045448940876} (128 absorbed {836045448945511})) <514>
+[18:04:48.106] [@Sonnik] [@Rusmusashi] [Force Push {995337196011520}] [ApplyEffect {836045448945477}: Knockdown {995337196012126}] ()
+[18:04:48.295] [@Moréllo] [@Rusmusashi] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Slowed (Physical) {807750204392265}] ()
+[18:04:48.463] [@Sonnik] [@Rusmusashi] [Force Push {995337196011520}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1664 kinetic {836045448940873} -shield {836045448945509} (416 absorbed {836045448945511})) <1664>
+[18:04:48.493] [@Sonnik] [@Rusmusashi] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (409 kinetic {836045448940873} -shield {836045448945509} (102 absorbed {836045448945511})) <409>
+[18:04:48.698] [@Baal'amon] [@Rusmusashi] [Rupture {3455541707800576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (923 energy {836045448940874} -shield {836045448945509}) <923>
+[18:04:48.729] [@Baal'amon] [@Rusmusashi] [Rupture {3455541707800576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (63 energy {836045448940874} -shield {836045448945509}) <63>
+[18:04:49.179] [@Moréllo] [@Rusmusashi] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1678 energy {836045448940874}) <1678>
+[18:04:49.345] [@Rusmusashi] [@Rusmusashi] [Rebirth {773652459028480}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (78219)
+[18:04:49.348] [@Veddartha] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (833 internal {836045448940876} (208 absorbed {836045448945511})) <833>
+[18:04:50.414] [@Moréllo] [@Rusmusashi] [Force Charge {807750204391424}] [RemoveEffect {836045448945478}: Slowed (Physical) {807750204392265}] ()
+[18:04:50.500] [@Sonnik] [@Rusmusashi] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (409 kinetic {836045448940873} -shield {836045448945509} (102 absorbed {836045448945511})) <409>
+[18:04:50.500] [@Sonnik] [@Rusmusashi] [Force Choke {807754499358720}] [RemoveEffect {836045448945478}: Force Choke {807754499358720}] ()
+[18:04:50.590] [@Moréllo] [@Rusmusashi] [Massacre {1259670958243840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1794 energy {836045448940874} -shield {836045448945509}) <1794>
+[18:04:50.591] [@Moréllo] [@Rusmusashi] [Massacre {1259670958243840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (653* energy {836045448940874}) <653>
+[18:04:50.618] [@Sonnik] [@Rusmusashi] [Force Choke {807754499358720}] [RemoveEffect {836045448945478}: Stunned (Force) {807754499359098}] ()
+[18:04:50.689] [@Veddartha] [@Rusmusashi] [Creeping Terror {808424514256896}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (885 internal {836045448940876} (221 absorbed {836045448945511})) <885>
+[18:04:50.798] [@Moréllo] [@Rusmusashi] [Ataru Form {1259692433080320}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[18:04:50.997] [@Baal'amon] [@Rusmusashi] [Bleeding (Rupture) {3455541707800846}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1041 internal {836045448940876} (260 absorbed {836045448945511})) <1041>
+[18:04:50.998] [@Baal'amon] [@Rusmusashi] [Bleeding (Deadly Saber) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (898* internal {836045448940876} (224 absorbed {836045448945511})) <898>
+[18:04:52.198] [@Veddartha] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (833 internal {836045448940876} (208 absorbed {836045448945511})) <833>
+[18:04:53.517] [@Rusmusashi] [@Rusmusashi] [Saber Ward {812169725739008}] [RemoveEffect {836045448945478}: Saber Ward {812169725739008}] ()
+[18:04:53.585] [@Veddartha] [@Rusmusashi] [Creeping Terror {808424514256896}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (885 internal {836045448940876}) <885>
+[18:04:54.007] [@Baal'amon] [@Rusmusashi] [Bleeding (Rupture) {3455541707800846}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1960* internal {836045448940876}) <1960>
+[18:04:54.008] [@Baal'amon] [@Rusmusashi] [Bleeding (Deadly Saber) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (591 internal {836045448940876}) <591>
+[18:04:54.008] [@Baal'amon] [@Rusmusashi] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Deadly Saber) {1259666663276824}] ()
+[18:04:54.391] [@Moréllo] [@Rusmusashi] [Interceptor {3423690230333440}] [RemoveEffect {836045448945478}: Slowed (Physical) {3423690230333700}] ()
+[18:04:55.110] [@Veddartha] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (881 internal {836045448940876}) <881>
+[18:04:56.494] [@Veddartha] [@Rusmusashi] [Creeping Terror {808424514256896}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1496* internal {836045448940876}) <1496>
+[18:04:56.495] [@Veddartha] [@Rusmusashi] [Creeping Terror {808424514256896}] [RemoveEffect {836045448945478}: Creeping Terror {808424514256896}] ()
+[18:04:57.004] [@Baal'amon] [@Rusmusashi] [Bleeding (Rupture) {3455541707800846}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1197 internal {836045448940876}) <1197>
+[18:04:57.004] [@Baal'amon] [@Rusmusashi] [Rupture {3455541707800576}] [RemoveEffect {836045448945478}: Bleeding (Rupture) {3455541707800846}] ()
+[18:04:57.997] [@Veddartha] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (881 internal {836045448940876}) <881>
+[18:04:57.998] [@Veddartha] [@Rusmusashi] [Affliction {808192586022912}] [RemoveEffect {836045448945478}: Affliction {808192586022912}] ()
+[18:05:02.826] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: health point {836045448938504}] (21341)
+[18:05:02.826] [@Rusmusashi] [@Rusmusashi] [Enure {2211126473392128}] [RemoveEffect {836045448945478}: Enure {2211126473392128}] ()
+[18:05:02.904] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[18:05:11.800] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[18:05:11.801] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[18:05:11.935] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[18:05:11.942] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[18:05:11.942] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[18:05:11.942] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[18:05:20.286] [@Rusmusashi] [@Rusmusashi] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[18:05:20.287] [@Rusmusashi] [@Rusmusashi] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[18:05:20.287] [@Rusmusashi] [@Rusmusashi] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[18:05:20.287] [@Rusmusashi] [@Rusmusashi] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[18:05:20.287] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[18:05:20.599] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[18:05:20.599] [@Rusmusashi] [@Rusmusashi] [Soresu Form {812174020706304}] [ApplyEffect {836045448945477}: Soresu Form {812174020706304}] ()
+[18:05:34.514] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[18:05:34.514] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()

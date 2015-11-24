@@ -1,0 +1,489 @@
+[07:30:40.434] [@Rusmusashi] [@Rusmusashi] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[07:30:40.435] [@Rusmusashi] [@Rusmusashi] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Might {875503313486141}] ()
+[07:30:40.435] [@Rusmusashi] [@Rusmusashi] [Rakghoul Plague Vaccine {2856161841774592}] [ApplyEffect {836045448945477}: Rakghoul Plague Vaccine {2856161841774592}] ()
+[07:30:40.435] [@Rusmusashi] [@Rusmusashi] [Advanced Anodyne Reflex Stim {3739456225935360}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3739456225935360}] ()
+[07:30:40.436] [@Rusmusashi] [@Rusmusashi] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[07:30:40.436] [@Rusmusashi] [@Rusmusashi] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[07:30:40.436] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[07:30:40.635] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:30:40.635] [@Rusmusashi] [@Rusmusashi] [Soresu Form {812174020706304}] [ApplyEffect {836045448945477}: Soresu Form {812174020706304}] ()
+[07:30:49.389] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[07:36:04.357] [@Rusmusashi] [@Rusmusashi] [Injecting... {1609423030059008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:36:08.921] [@Rusmusashi] [@Rusmusashi] [Attracted Raklings {3315895141138432}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:36:08.922] [@Rusmusashi] [@Rusmusashi] [Attracted Raklings {3315895141138432}] [ApplyEffect {836045448945477}: Alderaan Rakling {3315895141138698}] ()
+[07:36:19.759] [@Rusmusashi] [@Rusmusashi] [Injecting... {1609423030059008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:36:24.424] [@Rusmusashi] [@Rusmusashi] [Attracted Raklings {3315895141138432}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:36:29.525] [@Rusmusashi] [@Rusmusashi] [Injecting... {1609423030059008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:36:34.176] [@Rusmusashi] [@Rusmusashi] [Attracted Raklings {3315895141138432}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:37:10.390] [@Rusmusashi] [@Rusmusashi] [Opening {811418106462208}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:37:11.016] [@Rusmusashi] [@Rusmusashi] [Attracted Raklings {3315895141138432}] [RemoveEffect {836045448945478}: Alderaan Rakling {3315895141138698}] ()
+[07:37:19.163] [@Rusmusashi] [@Rusmusashi] [THORN Booster Pin {3326284667027456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:39:26.250] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Protective Barrier {3569547319705600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:39:26.250] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Protective Barrier {3569547319705600}] [ApplyEffect {836045448945477}: Protective Barrier {3569547319705600}] ()
+[07:39:27.678] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:39:27.775] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Soothe {3569470010294272}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (16082*) <1898>
+[07:39:48.620] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:39:48.628] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Soothe {3569470010294272}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (9850) <406>
+[07:40:06.168] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:40:06.806] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:40:06.806] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [ApplyEffect {836045448945477}: Tirsa Elite {2629692511223808}] ()
+[07:40:49.960] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:40:49.976] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:40:49.977] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [RemoveEffect {836045448945478}: Tirsa Elite {2629692511223808}] ()
+[07:40:49.977] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:40:49.977] [@Rusmusashi] [@Rusmusashi] [Force Leap {812105301229568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:40:49.977] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [ApplyEffect {836045448945477}: Unremitting {3588488125480960}] ()
+[07:40:49.978] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [ApplyEffect {836045448945477}: Ardent Advocate {3621516423987200}] ()
+[07:40:49.979] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:40:49.979] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007892773] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Immobilized (Physical) {812105301229840}] ()
+[07:40:49.981] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (3)
+[07:40:50.741] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007892773] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1764 energy {836045448940874} (1764 absorbed {836045448945511})) <3528>
+[07:40:51.827] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:40:51.828] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[07:40:51.828] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Warding Strike {3409336449630208}] ()
+[07:40:51.828] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Warding Power {3409336449630481}] ()
+[07:40:51.830] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007892773] [Force Leap {812105301229568}] [RemoveEffect {836045448945478}: Immobilized (Physical) {812105301229840}] ()
+[07:40:51.831] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (5)
+[07:40:52.181] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007892773] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (986 energy {836045448940874}) <1972>
+[07:40:52.181] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007892773] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (984 energy {836045448940874}) <1968>
+[07:40:52.181] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007892773] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:40:53.954] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [RemoveEffect {836045448945478}: Unremitting {3588488125480960}] ()
+[07:40:54.702] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:40:54.703] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [ApplyEffect {836045448945477}: Shield Defense {3728714512728064}] ()
+[07:40:54.964] [Infected Joiner {3317024717537280}:13631008157641] [@Rusmusashi] [Aimed Shot {811881962930176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1789 energy {836045448940874}) <1789>
+[07:40:55.022] [Infected Joiner {3317024717537280}:13631008157604] [@Rusmusashi] [Aimed Shot {811881962930176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1780 energy {836045448940874}) <1780>
+[07:40:55.495] [@Rusmusashi] [@Rusmusashi] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:40:55.495] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:40:55.575] [Infected Joiner {3317024717537280}:13631008157604] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2526 energy {836045448940874}) <2526>
+[07:40:55.754] [Infected Joiner {3317024717537280}:13631008157641] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2238 energy {836045448940874} (2030 absorbed {836045448945511})) <2238>
+[07:40:55.876] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Protective Barrier {3569547319705600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:40:55.876] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Protective Barrier {3569547319705600}] [ApplyEffect {836045448945477}: Protective Barrier {3569547319705600}] ()
+[07:40:56.077] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Stunned (Physical) {812178315674030}] ()
+[07:40:56.078] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[07:40:56.079] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4322* kinetic {836045448940873}) <9294>
+[07:40:57.122] [@Rusmusashi] [@Rusmusashi] [Guardian Slash {2211203782803456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:40:57.122] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (4)
+[07:40:57.123] [@Rusmusashi] [@Rusmusashi] [ {3699220972306432}] [ApplyEffect {836045448945477}: War Leader's Damage Reduction Bonus {3699220972306694}] ()
+[07:40:57.124] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Knockdown {2211203782803726}] ()
+[07:40:57.124] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Impaired (Mental) {2211203782803765}] ()
+[07:40:57.599] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008157604] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1445 energy {836045448940874}) <1445>
+[07:40:57.799] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:40:57.799] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:40:57.827] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9595* energy {836045448940874}) <24948>
+[07:40:57.829] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008157604] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1493 energy {836045448940874}) <1493>
+[07:40:58.104] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Force Sweep {812178315673600}] [RemoveEffect {836045448945478}: Stunned (Physical) {812178315674030}] ()
+[07:40:58.394] [Infected Joiner {3317024717537280}:13631008157641] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:40:58.535] [Infected Joiner {3317024717537280}:13631008157641] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1095 energy {836045448940874} (1095 absorbed {836045448945511})) <1095>
+[07:40:58.714] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:40:58.757] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Soothe {3569470010294272}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (16082*) <3151>
+[07:40:58.812] [Infected Joiner {3317024717537280}:13631008157604] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (891 kinetic {836045448940873}) <891>
+[07:40:59.108] [Infected Joiner {3317024717537280}:13631008157604] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:40:59.126] [Infected Joiner {3317024717537280}:13631008157604] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:40:59.188] [Infected Joiner {3317024717537280}:13631008157604] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1538 energy {836045448940874}) <1538>
+[07:40:59.331] [@Rusmusashi] [@Rusmusashi] [Blade Storm {1191698805817344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:40:59.331] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[07:40:59.331] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [ApplyEffect {836045448945477}: Blade Barrier {2308467612188672}] ()
+[07:40:59.332] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:40:59.602] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Stunned (Force) {1191698805817822}] ()
+[07:40:59.603] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Dust Storm {1282013378117632}] [RemoveEffect {836045448945478}: Unsteady (Force) {1282013378117909}] ()
+[07:40:59.603] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Blade Storm {1191698805817344}] [RemoveEffect {836045448945478}: Stunned (Force) {1191698805817822}] ()
+[07:40:59.603] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Guardian Slash {2211203782803456}] [RemoveEffect {836045448945478}: Knockdown {2211203782803726}] ()
+[07:40:59.603] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Guardian Slash {2211203782803456}] [RemoveEffect {836045448945478}: Impaired (Mental) {2211203782803765}] ()
+[07:40:59.762] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4327 kinetic {836045448940873}) <8655>
+[07:40:59.762] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008157516] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:41:00.119] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:00.119] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Mending {3569512959967232}] ()
+[07:41:01.198] [@Rusmusashi] [@Rusmusashi] [ {3699220972306432}] [RemoveEffect {836045448945478}: War Leader's Damage Reduction Bonus {3699220972306694}] ()
+[07:41:02.088] [Infected Joiner {3317024717537280}:13631008157641] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1621 energy {836045448940874}) <1621>
+[07:41:02.105] [Infected Joiner {3317024717537280}:13631008157641] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1652 energy {836045448940874}) <1652>
+[07:41:02.228] [Infected Joiner {3317024717537280}:13631008157604] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[07:41:02.569] [Infected Joiner {3317024717537280}:13631008157641] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1610 energy {836045448940874}) <1610>
+[07:41:02.904] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5999*) <2999>
+[07:41:03.143] [@Rusmusashi] [@Rusmusashi] [Dispatch {3461554662014976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:03.143] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[07:41:03.143] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [RemoveEffect {836045448945478}: Ardent Advocate {3621516423987200}] ()
+[07:41:03.742] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008157604] [Dispatch {3461554662014976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4403 energy {836045448940874}) <8806>
+[07:41:03.742] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008157604] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:41:03.959] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008157641] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1485 energy {836045448940874}) <1485>
+[07:41:04.190] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008157641] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2505* energy {836045448940874}) <2505>
+[07:41:04.970] [Infected Joiner {3317024717537280}:13631008157641] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (803 kinetic {836045448940873}) <803>
+[07:41:05.597] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008157641] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2400* energy {836045448940874}) <2400>
+[07:41:05.597] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008157641] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:41:05.779] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3674) <1059>
+[07:41:08.552] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5999*)
+[07:41:08.553] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [RemoveEffect {836045448945478}: Mending {3569512959967232}] ()
+[07:41:09.453] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [RemoveEffect {836045448945478}: Blade Barrier {2308467612188672}] ()
+[07:41:11.900] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [RemoveEffect {836045448945478}: Warding Power {3409336449630481}] ()
+[07:41:11.900] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [RemoveEffect {836045448945478}: Warding Strike {3409336449630208}] ()
+[07:41:14.487] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Protective Barrier {3569547319705600}] [RemoveEffect {836045448945478}: Protective Barrier {3569547319705600}] ()
+[07:41:18.218] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[07:41:18.219] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:41:18.219] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:41:18.220] [Infected Joiner {3317020422569984}:13631008157568] [@Rusmusashi] [Unload {829706077208576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (777 energy {836045448940874} -shield {836045448945509}) <777>
+[07:41:19.142] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:19.148] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Soothe {3569470010294272}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (16082*) <388>
+[07:41:19.245] [Infected Joiner {3317020422569984}:13631008157568] [@Rusmusashi] [Unload {829706077208576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:41:20.132] [Infected Joiner {3317020422569984}:13631008157568] [@Rusmusashi] [Unload {829706077208576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:41:20.379] [@Rusmusashi] [@Rusmusashi] [Blade Storm {1191698805817344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:20.379] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[07:41:20.379] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [ApplyEffect {836045448945477}: Blade Barrier {2308467612188672}] ()
+[07:41:20.380] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:41:20.641] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:20.641] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Mending {3569512959967232}] ()
+[07:41:20.642] [@Rusmusashi] [Infected Joiner {3317020422569984}:13631008157568] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Stunned (Force) {1191698805817822}] ()
+[07:41:20.784] [@Rusmusashi] [Infected Joiner {3317020422569984}:13631008157568] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4249 kinetic {836045448940873}) <8498>
+[07:41:21.969] [@Rusmusashi] [@Rusmusashi] [Hilt Bash {3453231015395328}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:21.969] [@Rusmusashi] [Infected Joiner {3317020422569984}:13631008157568] [Hilt Bash {3453231015395328}] [ApplyEffect {836045448945477}: Stunned (Force) {3453231015395584}] ()
+[07:41:22.278] [@Rusmusashi] [Infected Joiner {3317020422569984}:13631008157568] [Hilt Bash {3453231015395328}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3857 kinetic {836045448940873}) <11572>
+[07:41:22.365] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317020422569984}:13631008157568] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1496 energy {836045448940874}) <1496>
+[07:41:22.572] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317020422569984}:13631008157568] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1531 energy {836045448940874}) <1531>
+[07:41:23.110] [Infected Joiner {3317020422569984}:13631008157568] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5154 energy {836045448940874}) <5154>
+[07:41:23.486] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5999*) <2577>
+[07:41:23.765] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317020422569984}:13631008157568] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1465 energy {836045448940874}) <1465>
+[07:41:23.995] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317020422569984}:13631008157568] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2334* energy {836045448940874}) <2334>
+[07:41:24.085] [@Rusmusashi] [@Rusmusashi] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:24.085] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:41:24.548] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[07:41:24.628] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:41:24.631] [@Rusmusashi] [Infected Joiner {3317020422569984}:13631008157568] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Stunned (Physical) {812178315674030}] ()
+[07:41:24.632] [@Rusmusashi] [Infected Joiner {3317020422569984}:13631008157568] [Hilt Bash {3453231015395328}] [RemoveEffect {836045448945478}: Stunned (Force) {3453231015395584}] ()
+[07:41:24.632] [@Rusmusashi] [Infected Joiner {3317020422569984}:13631008157568] [Blade Storm {1191698805817344}] [RemoveEffect {836045448945478}: Stunned (Force) {1191698805817822}] ()
+[07:41:24.632] [@Rusmusashi] [Infected Joiner {3317020422569984}:13631008157568] [Force Sweep {812178315673600}] [RemoveEffect {836045448945478}: Stunned (Physical) {812178315674030}] ()
+[07:41:24.633] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:41:24.635] [@Rusmusashi] [Infected Joiner {3317020422569984}:13631008157568] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2856 kinetic {836045448940873}) <6141>
+[07:41:24.635] [@Rusmusashi] [Infected Joiner {3317020422569984}:13631008157568] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:41:26.268] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5999*)
+[07:41:29.103] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3674)
+[07:41:29.103] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [RemoveEffect {836045448945478}: Mending {3569512959967232}] ()
+[07:41:30.417] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [RemoveEffect {836045448945478}: Blade Barrier {2308467612188672}] ()
+[07:41:34.985] [@Rusmusashi] [@Rusmusashi] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:35.571] [@Rusmusashi] [@Rusmusashi] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:41:35.572] [@Rusmusashi] [@Rusmusashi] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[07:41:51.049] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:41:51.084] [@Rusmusashi] [@Rusmusashi] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:41:51.084] [@Rusmusashi] [@Rusmusashi] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[07:41:51.084] [@Rusmusashi] [@Rusmusashi] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:41:51.084] [@Rusmusashi] [@Rusmusashi] [Force Leap {812105301229568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:51.085] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [ApplyEffect {836045448945477}: Unremitting {3588488125480960}] ()
+[07:41:51.085] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [ApplyEffect {836045448945477}: Ardent Advocate {3621516423987200}] ()
+[07:41:51.086] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:41:51.086] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007328142] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Immobilized (Physical) {812105301229840}] ()
+[07:41:51.088] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (3)
+[07:41:51.822] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007328142] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2814* energy {836045448940874} (2814 absorbed {836045448945511})) <5628>
+[07:41:52.798] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:41:52.798] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:41:52.798] [Infected Killik {3316913048387584}:13631007328142] [@Rusmusashi] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[07:41:53.079] [Infected Killik {3316913048387584}:13631007328142] [@Rusmusashi] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:41:53.128] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007328142] [Force Leap {812105301229568}] [RemoveEffect {836045448945478}: Immobilized (Physical) {812105301229840}] ()
+[07:41:53.128] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:53.128] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[07:41:53.129] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Warding Strike {3409336449630208}] ()
+[07:41:53.129] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Warding Power {3409336449630481}] ()
+[07:41:53.130] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (5)
+[07:41:53.302] [Infected Killik {3316913048387584}:13631007328142] [@Rusmusashi] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:41:53.389] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007328142] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (986 energy {836045448940874}) <1973>
+[07:41:53.389] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007328142] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (999 energy {836045448940874}) <1998>
+[07:41:53.389] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007328142] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:41:54.398] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [ApplyEffect {836045448945477}: Shield Defense {3728714512728064}] ()
+[07:41:54.400] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[07:41:55.105] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [RemoveEffect {836045448945478}: Unremitting {3588488125480960}] ()
+[07:41:55.106] [Infected Killik {3316913048387584}:13631007328142] [@Rusmusashi] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:41:55.595] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008201758] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2394* energy {836045448940874}) <2394>
+[07:41:55.653] [Infected Joiner {3317024717537280}:13631008201758] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (870 energy {836045448940874} (870 absorbed {836045448945511})) <870>
+[07:41:55.668] [Infected Joiner {3317024717537280}:13631008201758] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (535 energy {836045448940874} -shield {836045448945509} (535 absorbed {836045448945511})) <535>
+[07:41:55.788] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008201758] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1496 energy {836045448940874}) <1496>
+[07:41:55.934] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [RemoveEffect {836045448945478}: Shield Defense {3728714512728064}] ()
+[07:41:55.935] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:41:56.105] [Infected Joiner {3317024717537280}:13631008201758] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:41:56.411] [Infected Joiner {3317024717537280}:13631008201795] [@Rusmusashi] [Aimed Shot {811881962930176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1108 energy {836045448940874} -shield {836045448945509}) <1108>
+[07:41:56.563] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:41:56.565] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (129 energy {836045448940874}) <129>
+[07:41:56.672] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:41:56.695] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (149 energy {836045448940874}) <149>
+[07:41:56.696] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (144 energy {836045448940874}) <144>
+[07:41:56.713] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Protective Barrier {3569547319705600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:56.713] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Protective Barrier {3569547319705600}] [ApplyEffect {836045448945477}: Protective Barrier {3569547319705600}] ()
+[07:41:56.720] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (72 energy {836045448940874} -shield {836045448945509}) <72>
+[07:41:56.770] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (129 energy {836045448940874}) <129>
+[07:41:56.932] [Infected Joiner {3317024717537280}:13631008201795] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2284 energy {836045448940874} (623 absorbed {836045448945511})) <2284>
+[07:41:58.158] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:58.208] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Soothe {3569470010294272}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (9850) <1697>
+[07:41:58.263] [Infected Joiner {3317037602439168}:13631008201832] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (799 kinetic {836045448940873}) <799>
+[07:41:58.452] [Infected Joiner {3317024717537280}:13631008201758] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (929 kinetic {836045448940873}) <929>
+[07:41:58.582] [@Rusmusashi] [@Rusmusashi] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:41:58.582] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:41:58.967] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (623 kinetic {836045448940873}) <623>
+[07:41:59.072] [Infected Joiner {3317037602439168}:13631008201832] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4763 energy {836045448940874}) <4763>
+[07:41:59.161] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201795] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Stunned (Physical) {812178315674030}] ()
+[07:41:59.162] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Stunned (Physical) {812178315674030}] ()
+[07:41:59.184] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201795] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[07:41:59.185] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[07:41:59.185] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201795] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4348* kinetic {836045448940873}) <9349>
+[07:41:59.185] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2945 kinetic {836045448940873}) <6333>
+[07:41:59.343] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:41:59.366] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1191 energy {836045448940874}) <1191>
+[07:41:59.464] [Infected Joiner {3317024717537280}:13631008201795] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2678 energy {836045448940874}) <2678>
+[07:41:59.508] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:41:59.928] [Infected Joiner {3317024717537280}:13631008201795] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2282 energy {836045448940874}) <2282>
+[07:42:00.479] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[07:42:00.485] [Infected Joiner {3317024717537280}:13631008201758] [@Rusmusashi:Kira Carsen {349412769398784}] [Aimed Shot {811881962930176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3886 energy {836045448940874}) <3886>
+[07:42:00.816] [@Rusmusashi] [@Rusmusashi] [Dispatch {3461554662014976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:00.816] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [RemoveEffect {836045448945478}: Ardent Advocate {3621516423987200}] ()
+[07:42:00.817] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:42:00.921] [Infected Joiner {3317037602439168}:13631008201832] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2448 energy {836045448940874}) <2448>
+[07:42:01.106] [Infected Joiner {3317024717537280}:13631008201758] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2296 energy {836045448940874}) <2296>
+[07:42:01.276] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201795] [Force Sweep {812178315673600}] [RemoveEffect {836045448945478}: Stunned (Physical) {812178315674030}] ()
+[07:42:01.276] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Force Sweep {812178315673600}] [RemoveEffect {836045448945478}: Stunned (Physical) {812178315674030}] ()
+[07:42:01.397] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:01.397] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Mending {3569512959967232}] ()
+[07:42:01.398] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201795] [Dust Storm {1282013378117632}] [RemoveEffect {836045448945478}: Unsteady (Force) {1282013378117909}] ()
+[07:42:01.399] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201795] [Dispatch {3461554662014976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4307 energy {836045448940874}) <8615>
+[07:42:01.400] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201795] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:42:01.458] [Infected Joiner {3317037602439168}:13631008201832] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2797 energy {836045448940874}) <2797>
+[07:42:01.487] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:42:01.487] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:42:01.635] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (118 energy {836045448940874} (118 absorbed {836045448945511})) <118>
+[07:42:01.636] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (87 energy {836045448940874} -shield {836045448945509} (87 absorbed {836045448945511})) <87>
+[07:42:01.669] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (89 energy {836045448940874} -shield {836045448945509} (89 absorbed {836045448945511})) <89>
+[07:42:01.669] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (89 energy {836045448940874} -shield {836045448945509} (89 absorbed {836045448945511})) <89>
+[07:42:01.726] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (95 energy {836045448940874} -shield {836045448945509} (95 absorbed {836045448945511})) <95>
+[07:42:01.726] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:42:01.759] [Infected Killik Guardian {3317011832635392}:13631008201706] [@Rusmusashi] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:42:01.793] [Infected Joiner {3317024717537280}:13631008201758] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:42:02.406] [@Rusmusashi] [@Rusmusashi] [Blade Storm {1191698805817344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:02.406] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [ApplyEffect {836045448945477}: Blade Barrier {2308467612188672}] ()
+[07:42:02.406] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:42:02.597] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Stunned (Force) {1191698805817822}] ()
+[07:42:03.048] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4224 kinetic {836045448940873}) <8449>
+[07:42:03.365] [Infected Joiner {3317024717537280}:13631008201758] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2266 energy {836045448940874}) <2266>
+[07:42:03.510] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317037602439168}:13631008201832] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1467 energy {836045448940874}) <1467>
+[07:42:03.639] [@Rusmusashi] [@Rusmusashi] [Riposte {812156840837120}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:03.639] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:42:03.640] [@Rusmusashi] [@Rusmusashi] [Blade Barricade {3429359587164160}] [ApplyEffect {836045448945477}: Blade Barricade {3429359587164160}] ()
+[07:42:03.744] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317037602439168}:13631008201832] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2335* energy {836045448940874}) <2335>
+[07:42:03.843] [Infected Joiner {3317024717537280}:13631008201758] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:42:04.114] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Riposte {812156840837120}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2754 energy {836045448940874}) <5921>
+[07:42:04.225] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3674) <1837>
+[07:42:04.424] [Infected Joiner {3317037602439168}:13631008201832] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (778 kinetic {836045448940873}) <778>
+[07:42:04.512] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317037602439168}:13631008201832] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2286* energy {836045448940874}) <2286>
+[07:42:04.646] [@Rusmusashi] [@Rusmusashi] [Guardian Slash {2211203782803456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:04.646] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (4)
+[07:42:04.647] [@Rusmusashi] [@Rusmusashi] [ {3699220972306432}] [ApplyEffect {836045448945477}: War Leader's Damage Reduction Bonus {3699220972306694}] ()
+[07:42:04.647] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Knockdown {2211203782803726}] ()
+[07:42:04.647] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Impaired (Mental) {2211203782803765}] ()
+[07:42:04.710] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317037602439168}:13631008201832] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1514 energy {836045448940874}) <1514>
+[07:42:05.167] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6795 energy {836045448940874}) <17669>
+[07:42:05.222] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201758] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Knockdown {2211203782803726}] ()
+[07:42:05.222] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201758] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Impaired (Mental) {2211203782803765}] ()
+[07:42:05.223] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201758] [Guardian Slash {2211203782803456}] [RemoveEffect {836045448945478}: Knockdown {2211203782803726}] ()
+[07:42:05.223] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201758] [Guardian Slash {2211203782803456}] [RemoveEffect {836045448945478}: Impaired (Mental) {2211203782803765}] ()
+[07:42:05.223] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201758] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6689 energy {836045448940874}) <17391>
+[07:42:05.224] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008201758] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:42:05.279] [Infected Joiner {3317037602439168}:13631008201832] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2330 kinetic {836045448940873}) <2330>
+[07:42:05.487] [Infected Joiner {3317037602439168}:13631008201832] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[07:42:05.628] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:05.635] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (15923*) <7961>
+[07:42:06.238] [@Rusmusashi] [@Rusmusashi] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:06.239] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (520 energy {836045448940874}) <1040>
+[07:42:06.240] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Dust Storm {1282013378117632}] [RemoveEffect {836045448945478}: Unsteady (Force) {1282013378117909}] ()
+[07:42:06.240] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Blade Storm {1191698805817344}] [RemoveEffect {836045448945478}: Stunned (Force) {1191698805817822}] ()
+[07:42:06.240] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Guardian Slash {2211203782803456}] [RemoveEffect {836045448945478}: Knockdown {2211203782803726}] ()
+[07:42:06.240] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Guardian Slash {2211203782803456}] [RemoveEffect {836045448945478}: Impaired (Mental) {2211203782803765}] ()
+[07:42:06.241] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:42:06.905] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (889* energy {836045448940874}) <1778>
+[07:42:06.905] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008201706] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:42:07.052] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3674) <1837>
+[07:42:07.353] [Infected Joiner {3317037602439168}:13631008201832] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1624 kinetic {836045448940873}) <1624>
+[07:42:07.558] [Infected Joiner {3317037602439168}:13631008201832] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1652 kinetic {836045448940873}) <1652>
+[07:42:07.849] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317037602439168}:13631008201832] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1549 energy {836045448940874}) <1549>
+[07:42:08.078] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317037602439168}:13631008201832] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1431 energy {836045448940874}) <1431>
+[07:42:08.304] [@Rusmusashi] [@Rusmusashi] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:08.305] [@Rusmusashi] [Infected Joiner {3317037602439168}:13631008201832] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (755* energy {836045448940874}) <1511>
+[07:42:08.306] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:42:08.676] [@Rusmusashi] [Infected Joiner {3317037602439168}:13631008201832] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (541 energy {836045448940874}) <1082>
+[07:42:08.725] [@Rusmusashi] [@Rusmusashi] [ {3699220972306432}] [RemoveEffect {836045448945478}: War Leader's Damage Reduction Bonus {3699220972306694}] ()
+[07:42:08.901] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317037602439168}:13631008201832] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1441 energy {836045448940874}) <1441>
+[07:42:09.118] [Infected Joiner {3317037602439168}:13631008201832] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:42:09.146] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317037602439168}:13631008201832] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1523 energy {836045448940874}) <1523>
+[07:42:09.261] [@Rusmusashi] [Infected Joiner {3317037602439168}:13631008201832] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (530 energy {836045448940874}) <1060>
+[07:42:09.833] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5999*) <2999>
+[07:42:09.833] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [RemoveEffect {836045448945478}: Mending {3569512959967232}] ()
+[07:42:10.035] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:42:10.058] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:42:10.707] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317037602439168}:13631008201832] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1509 energy {836045448940874}) <1509>
+[07:42:10.708] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317037602439168}:13631008201832] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:42:11.147] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317037602439168}:13631008201832] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1549 energy {836045448940874}) <1549>
+[07:42:12.462] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [RemoveEffect {836045448945478}: Blade Barrier {2308467612188672}] ()
+[07:42:13.045] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:13.045] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Mending {3569512959967232}] ()
+[07:42:13.149] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [RemoveEffect {836045448945478}: Warding Power {3409336449630481}] ()
+[07:42:13.149] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [RemoveEffect {836045448945478}: Warding Strike {3409336449630208}] ()
+[07:42:13.685] [@Rusmusashi] [@Rusmusashi] [Blade Barricade {3429359587164160}] [RemoveEffect {836045448945478}: Blade Barricade {3429359587164160}] ()
+[07:42:14.546] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:14.554] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (15923*) <1632>
+[07:42:15.349] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Protective Barrier {3569547319705600}] [RemoveEffect {836045448945478}: Protective Barrier {3569547319705600}] ()
+[07:42:15.850] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3674)
+[07:42:18.682] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3674)
+[07:42:20.494] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:21.154] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:42:21.154] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [ApplyEffect {836045448945477}: Tirsa Elite {2629692511223808}] ()
+[07:42:33.801] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:42:33.831] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:42:33.832] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [RemoveEffect {836045448945478}: Tirsa Elite {2629692511223808}] ()
+[07:42:33.832] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:42:33.832] [@Rusmusashi] [@Rusmusashi] [Force Leap {812105301229568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:33.832] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [ApplyEffect {836045448945477}: Unremitting {3588488125480960}] ()
+[07:42:33.832] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [ApplyEffect {836045448945477}: Ardent Advocate {3621516423987200}] ()
+[07:42:33.833] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:42:33.834] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007602259] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Immobilized (Physical) {812105301229840}] ()
+[07:42:33.836] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (3)
+[07:42:34.593] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007602259] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1810 energy {836045448940874} (1810 absorbed {836045448945511})) <3620>
+[07:42:35.626] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:35.627] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[07:42:35.627] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Warding Strike {3409336449630208}] ()
+[07:42:35.627] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Warding Power {3409336449630481}] ()
+[07:42:35.629] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007602259] [Force Leap {812105301229568}] [RemoveEffect {836045448945478}: Immobilized (Physical) {812105301229840}] ()
+[07:42:35.630] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:42:35.896] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007602259] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1016 energy {836045448940874}) <2033>
+[07:42:35.896] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007602259] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (954 energy {836045448940874}) <1908>
+[07:42:35.896] [@Rusmusashi] [Infected Killik {3316913048387584}:13631007602259] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:42:37.920] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [RemoveEffect {836045448945478}: Unremitting {3588488125480960}] ()
+[07:42:38.647] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[07:42:38.650] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:42:38.818] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [ApplyEffect {836045448945477}: Shield Defense {3728714512728064}] ()
+[07:42:38.929] [@Rusmusashi] [@Rusmusashi] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:38.929] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:42:38.981] [Infected Joiner {3317024717537280}:13631008240738] [@Rusmusashi] [Aimed Shot {811881962930176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1076 energy {836045448940874} -shield {836045448945509}) <1076>
+[07:42:39.074] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi] [Aimed Shot {811881962930176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1811 energy {836045448940874} (1811 absorbed {836045448945511})) <1811>
+[07:42:39.520] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Stunned (Physical) {812178315674030}] ()
+[07:42:39.521] [@Rusmusashi] [Infected Joiner {3317033307471872}:13631008240775] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Stunned (Physical) {812178315674030}] ()
+[07:42:39.523] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[07:42:39.523] [@Rusmusashi] [Infected Joiner {3317033307471872}:13631008240775] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[07:42:39.524] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2894 kinetic {836045448940873}) <6223>
+[07:42:39.524] [@Rusmusashi] [Infected Joiner {3317033307471872}:13631008240775] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4522* kinetic {836045448940873}) <9722>
+[07:42:39.824] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Protective Barrier {3569547319705600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:39.824] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Protective Barrier {3569547319705600}] [ApplyEffect {836045448945477}: Protective Barrier {3569547319705600}] ()
+[07:42:40.365] [Infected Joiner {3317024717537280}:13631008240738] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (663 energy {836045448940874} -shield {836045448945509}) <663>
+[07:42:41.118] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1617 energy {836045448940874} -shield {836045448945509}) <1617>
+[07:42:41.238] [@Rusmusashi] [@Rusmusashi] [Dispatch {3461554662014976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:41.238] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[07:42:41.238] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [RemoveEffect {836045448945478}: Ardent Advocate {3621516423987200}] ()
+[07:42:41.238] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:42:41.523] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Force Sweep {812178315673600}] [RemoveEffect {836045448945478}: Stunned (Physical) {812178315674030}] ()
+[07:42:41.524] [@Rusmusashi] [Infected Joiner {3317033307471872}:13631008240775] [Force Sweep {812178315673600}] [RemoveEffect {836045448945478}: Stunned (Physical) {812178315674030}] ()
+[07:42:41.669] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [RemoveEffect {836045448945478}: Shield Defense {3728714512728064}] ()
+[07:42:41.670] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:42:41.670] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:42:41.832] [@Rusmusashi] [Infected Joiner {3317033307471872}:13631008240775] [Dispatch {3461554662014976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7197* energy {836045448940874}) <14395>
+[07:42:42.207] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1511 energy {836045448940874} -shield {836045448945509} (1293 absorbed {836045448945511})) <1511>
+[07:42:42.242] [@Rusmusashi] [@Rusmusashi] [Riposte {812156840837120}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:42.242] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:42:42.242] [@Rusmusashi] [@Rusmusashi] [Blade Barricade {3429359587164160}] [ApplyEffect {836045448945477}: Blade Barricade {3429359587164160}] ()
+[07:42:42.398] [Infected Joiner {3317024717537280}:13631008240738] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1168 energy {836045448940874} (1168 absorbed {836045448945511})) <1168>
+[07:42:42.647] [Infected Killik Guardian {3317011832635392}:13631008240649] [@Rusmusashi] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (154 kinetic {836045448940873} -shield {836045448945509} (154 absorbed {836045448945511})) <154>
+[07:42:42.650] [Infected Joiner {3317033307471872}:13631008240775] [@Rusmusashi] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (168 kinetic {836045448940873} -shield {836045448945509} (168 absorbed {836045448945511})) <168>
+[07:42:42.735] [@Rusmusashi] [Infected Joiner {3317033307471872}:13631008240775] [Riposte {812156840837120}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4447* energy {836045448940874}) <9562>
+[07:42:42.840] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:42.932] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Soothe {3569470010294272}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (9850) <1678>
+[07:42:42.963] [@Rusmusashi] [@Rusmusashi] [Blade Storm {1191698805817344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:42.964] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [ApplyEffect {836045448945477}: Blade Barrier {2308467612188672}] ()
+[07:42:42.964] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:42:42.992] [Infected Killik Guardian {3317011832635392}:13631008240649] [@Rusmusashi] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:42:43.027] [Infected Joiner {3317024717537280}:13631008240738] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1174 energy {836045448940874} (1174 absorbed {836045448945511})) <1174>
+[07:42:43.151] [@Rusmusashi] [Infected Joiner {3317033307471872}:13631008240775] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Stunned (Force) {1191698805817822}] ()
+[07:42:43.152] [@Rusmusashi] [Infected Joiner {3317033307471872}:13631008240775] [Dust Storm {1282013378117632}] [RemoveEffect {836045448945478}: Unsteady (Force) {1282013378117909}] ()
+[07:42:43.152] [@Rusmusashi] [Infected Joiner {3317033307471872}:13631008240775] [Blade Storm {1191698805817344}] [RemoveEffect {836045448945478}: Stunned (Force) {1191698805817822}] ()
+[07:42:43.290] [@Rusmusashi] [Infected Joiner {3317033307471872}:13631008240775] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4344 kinetic {836045448940873}) <8688>
+[07:42:43.290] [@Rusmusashi] [Infected Joiner {3317033307471872}:13631008240775] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:42:44.068] [Infected Killik Guardian {3317011832635392}:13631008240649] [@Rusmusashi] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:42:44.118] [Infected Joiner {3317024717537280}:13631008240738] [@Rusmusashi] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[07:42:44.659] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[07:42:44.959] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008240701] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1400 energy {836045448940874}) <1400>
+[07:42:45.095] [@Rusmusashi] [@Rusmusashi] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:45.096] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (499 energy {836045448940874}) <998>
+[07:42:45.097] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:42:45.117] [Infected Joiner {3317033307471872}:13631008240775] [@Rusmusashi] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:42:45.189] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:42:45.189] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:42:45.198] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008240701] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1522 energy {836045448940874}) <1522>
+[07:42:45.453] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (894* energy {836045448940874}) <1788>
+[07:42:45.697] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (813 kinetic {836045448940873}) <813>
+[07:42:45.790] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:45.791] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Mending {3569512959967232}] ()
+[07:42:46.055] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (558 energy {836045448940874}) <1116>
+[07:42:46.132] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1568 kinetic {836045448940873}) <1568>
+[07:42:46.561] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[07:42:46.693] [@Rusmusashi] [@Rusmusashi] [Guardian Slash {2211203782803456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:46.693] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (4)
+[07:42:46.693] [@Rusmusashi] [@Rusmusashi] [ {3699220972306432}] [ApplyEffect {836045448945477}: War Leader's Damage Reduction Bonus {3699220972306694}] ()
+[07:42:46.694] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Knockdown {2211203782803726}] ()
+[07:42:46.694] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Impaired (Mental) {2211203782803765}] ()
+[07:42:46.727] [Infected Joiner {3317024717537280}:13631008240738] [@Rusmusashi:Kira Carsen {349412769398784}] [Aimed Shot {811881962930176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3921 energy {836045448940874}) <3921>
+[07:42:46.944] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1584 kinetic {836045448940873}) <1584>
+[07:42:47.109] [Infected Killik Guardian {3317011832635392}:13631008240649] [@Rusmusashi] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:42:47.398] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6661 energy {836045448940874}) <17320>
+[07:42:47.425] [Infected Joiner {3317024717537280}:13631008240738] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1730 energy {836045448940874}) <1730>
+[07:42:47.863] [Infected Joiner {3317024717537280}:13631008240738] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1568 energy {836045448940874}) <1568>
+[07:42:48.324] [Infected Joiner {3317024717537280}:13631008240738] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1677 energy {836045448940874}) <1677>
+[07:42:48.631] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3674) <1837>
+[07:42:48.631] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:48.631] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[07:42:48.632] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (3)
+[07:42:48.910] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (820 energy {836045448940874}) <1641>
+[07:42:48.910] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (839 energy {836045448940874}) <1678>
+[07:42:48.911] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (877 energy {836045448940874}) <1755>
+[07:42:49.674] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:42:49.727] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Guardian Slash {2211203782803456}] [RemoveEffect {836045448945478}: Knockdown {2211203782803726}] ()
+[07:42:49.931] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[07:42:49.950] [Infected Joiner {3317024717537280}:13631008240738] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[07:42:50.069] [Infected Joiner {3317024717537280}:13631008240738] [@Rusmusashi:Kira Carsen {349412769398784}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2662 energy {836045448940874}) <2662>
+[07:42:50.120] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008240738] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1513 energy {836045448940874}) <1513>
+[07:42:50.362] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008240738] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2399* energy {836045448940874}) <2399>
+[07:42:50.613] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1745 kinetic {836045448940873}) <1745>
+[07:42:50.732] [@Rusmusashi] [@Rusmusashi] [ {3699220972306432}] [RemoveEffect {836045448945478}: War Leader's Damage Reduction Bonus {3699220972306694}] ()
+[07:42:50.842] [Infected Killik Guardian {3317011832635392}:13631008240649] [@Rusmusashi] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (240 kinetic {836045448940873} (240 absorbed {836045448945511})) <240>
+[07:42:50.943] [@Rusmusashi] [@Rusmusashi] [Riposte {812156840837120}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:50.943] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:42:51.150] [Infected Killik Guardian {3317011832635392}:13631008240649] [@Rusmusashi] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:42:51.227] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:51.234] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Soothe {3569470010294272}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (9752) <4876>
+[07:42:51.434] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3674) <1837>
+[07:42:51.443] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Riposte {812156840837120}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3077 energy {836045448940874}) <6616>
+[07:42:52.340] [@Rusmusashi] [@Rusmusashi] [Dispatch {3461554662014976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:52.340] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:42:52.340] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:42:52.948] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Attack {3276450161491968}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (901 kinetic {836045448940873}) <901>
+[07:42:52.950] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Dust Storm {1282013378117632}] [RemoveEffect {836045448945478}: Unsteady (Force) {1282013378117909}] ()
+[07:42:52.951] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Guardian Slash {2211203782803456}] [RemoveEffect {836045448945478}: Impaired (Mental) {2211203782803765}] ()
+[07:42:52.952] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [Dispatch {3461554662014976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4738 energy {836045448940874}) <9477>
+[07:42:52.953] [@Rusmusashi] [Infected Killik Guardian {3317011832635392}:13631008240649] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:42:53.005] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008240738] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1439 energy {836045448940874}) <1439>
+[07:42:53.005] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008240738] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:42:53.028] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [RemoveEffect {836045448945478}: Blade Barrier {2308467612188672}] ()
+[07:42:53.210] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008240738] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1489 energy {836045448940874}) <1489>
+[07:42:53.562] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:42:53.784] [Infected Joiner {3317024717537280}:13631008240701] [@Rusmusashi:Kira Carsen {349412769398784}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2453 kinetic {836045448940873}) <2453>
+[07:42:54.231] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3674) <1762>
+[07:42:54.232] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi:Kira Carsen {349412769398784}] [Mending {3569512959967232}] [RemoveEffect {836045448945478}: Mending {3569512959967232}] ()
+[07:42:54.543] [@Rusmusashi] [@Rusmusashi] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:54.544] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008240701] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (488 energy {836045448940874}) <977>
+[07:42:54.545] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:42:54.740] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:42:54.762] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:42:55.016] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008240701] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (583 energy {836045448940874}) <1167>
+[07:42:55.411] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008240701] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2392* energy {836045448940874}) <2392>
+[07:42:55.411] [@Rusmusashi:Kira Carsen {349412769398784}] [Infected Joiner {3317024717537280}:13631008240701] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:42:55.633] [@Rusmusashi] [Infected Joiner {3317024717537280}:13631008240701] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (597 energy {836045448940874}) <1195>
+[07:42:56.265] [@Rusmusashi] [@Rusmusashi] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:42:56.265] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:42:58.403] [@Rusmusashi:Kira Carsen {349412769398784}] [@Rusmusashi] [Protective Barrier {3569547319705600}] [RemoveEffect {836045448945478}: Protective Barrier {3569547319705600}] ()
+[07:43:01.017] [@Rusmusashi] [@Rusmusashi] [Blade Barricade {3429359587164160}] [RemoveEffect {836045448945478}: Blade Barricade {3429359587164160}] ()
+[07:43:08.691] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [RemoveEffect {836045448945478}: Warding Power {3409336449630481}] ()
+[07:43:08.691] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [RemoveEffect {836045448945478}: Warding Strike {3409336449630208}] ()
+[07:43:33.140] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:43:33.778] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:43:33.778] [@Rusmusashi] [@Rusmusashi] [Tirsa Elite {2629692511223808}] [ApplyEffect {836045448945477}: Tirsa Elite {2629692511223808}] ()
+[07:44:18.170] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:44:18.172] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:44:25.634] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:44:25.636] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()

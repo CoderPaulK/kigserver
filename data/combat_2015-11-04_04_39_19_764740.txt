@@ -1,0 +1,8 @@
+[04:40:34.737] [@Kotowky] [@Kotowky] [Advanced Anodyne Reflex Stim {3739456225935360}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3739456225935360}] ()
+[04:40:34.737] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[04:40:34.738] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Valor {939154728812820}] ()
+[04:40:34.738] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Force Might {939154728812824}] ()
+[04:40:34.738] [@Kotowky] [@Kotowky] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Fortification {939154728812828}] ()
+[04:40:34.738] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[04:40:35.446] [@Kotowky] [@Kotowky] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[04:40:41.535] [@Kotowky] [@Kotowky] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()

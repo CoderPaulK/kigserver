@@ -1,0 +1,1174 @@
+[09:06:31.664] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[09:06:31.664] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[09:06:31.664] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[09:06:31.665] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[09:06:31.666] [@Pulemetchek] [@Pulemetchek] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[09:06:31.750] [@Pulemetchek] [@Pulemetchek] [Plasma Cell {1202324554907648}] [ApplyEffect {836045448945477}: Plasma Cell {1202324554907648}] ()
+[09:06:31.751] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:06:45.326] [@Pulemetchek] [@Pulemetchek] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[09:06:45.326] [@Pulemetchek:Aric Jorgan {493337123487744}] [@Pulemetchek:Aric Jorgan {493337123487744}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[09:07:48.999] [@Pulemetchek] [@Pulemetchek] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:07:49.778] [@Pulemetchek] [@Pulemetchek] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[09:07:49.778] [@Pulemetchek] [@Pulemetchek] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[09:10:37.743] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[09:10:37.743] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[09:10:37.743] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[09:10:37.744] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[09:10:37.744] [@Pulemetchek] [@Pulemetchek] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[09:10:37.754] [@Pulemetchek] [@Pulemetchek] [Plasma Cell {1202324554907648}] [ApplyEffect {836045448945477}: Plasma Cell {1202324554907648}] ()
+[09:10:37.754] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:10:37.755] [@Pulemetchek] [@Pulemetchek] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Bolster {810421674049536}] ()
+[09:10:37.755] [@Pulemetchek] [@Pulemetchek] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (64127) <30195>
+[09:10:45.829] [@Pulemetchek] [@Pulemetchek] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[09:10:45.829] [@Pulemetchek] [@Pulemetchek] [ {3231232745799680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:10:53.715] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:10:53.715] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[09:10:53.722] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5368)
+[09:10:55.956] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:10:57.572] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:10:57.573] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7360*)
+[09:11:01.577] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:11:03.188] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:11:03.189] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4623)
+[09:11:21.955] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Lucky Shots {1781488009871626}] ()
+[09:11:21.955] [@Kiage] [@Pulemetchek] [Lucky Shots {939154728812544}] [ApplyEffect {836045448945477}: Lucky Shots {939154728812809}] ()
+[09:11:55.861] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Force Valor {1781488009871637}] ()
+[09:11:55.862] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[09:11:55.864] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Force Might {1781488009871651}] ()
+[09:11:55.864] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Might {875503313486141}] ()
+[09:11:55.865] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Fortification {1781488009871360}] ()
+[09:11:55.865] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Fortification {875503313486158}] ()
+[09:12:24.551] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [RemoveEffect {836045448945478}: Fortification {875503313486158}] ()
+[09:12:24.551] [@Boule] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[09:12:24.555] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [RemoveEffect {836045448945478}: Force Valor {875503313485824}] ()
+[09:12:24.555] [@Boule] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[09:12:30.761] [] [@Pulemetchek] [Deserter Detection {2730083076800512}] [ApplyEffect {836045448945477}: Deserter Detection {2730083076800512}] ()
+[09:12:32.942] [@Pulemetchek] [@Pulemetchek] [ {2731998632214528}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:12:32.943] [] [@Pulemetchek] [Deserter Detection {2730083076800512}] [RemoveEffect {836045448945478}: Deserter Detection {2730083076800512}] ()
+[09:12:37.439] [@Boule] [@Pulemetchek] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Force Valor {1781488009871637}] ()
+[09:12:37.439] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[09:12:37.443] [@Boule] [@Pulemetchek] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Fortification {1781488009871360}] ()
+[09:12:37.444] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Fortification {875503313486158}] ()
+[09:12:43.456] [@Pulemetchek] [@Pulemetchek] [Overcharge Power {810456033787904}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:12:43.456] [@Pulemetchek] [@Pulemetchek] [Overcharge Power {810456033787904}] [ApplyEffect {836045448945477}: Overcharge Power {810456033787904}] ()
+[09:12:53.359] [@Pulemetchek] [@Pulemetchek] [Protected {2998355324043264}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:12:53.359] [@Pulemetchek] [@Pulemetchek] [Protected {2998355324043264}] [ApplyEffect {836045448945477}: Protected {2998355324043264}] ()
+[09:12:54.369] [@Pulemetchek] [@Pulemetchek] [Mortar Volley {2292571938226176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:12:54.885] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:12:55.542] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:12:55.875] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:12:56.371] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:12:56.866] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:12:57.377] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:12:58.992] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:12:58.992] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:12:59.603] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:12:59.608] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:12:59.609] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:12:59.609] [@Pulemetchek] [@Antaryis] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:13:00.683] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:00.797] [@Pulemetchek] [@Pulemetchek] [Overcharge Power {810456033787904}] [RemoveEffect {836045448945478}: Overcharge Power {810456033787904}] ()
+[09:13:02.257] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:13:02.258] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:13:02.898] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:13:02.930] [@Pulemetchek] [@Antaryis] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:13:02.930] [@Pulemetchek] [@Antaryis] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:13:02.930] [@Pulemetchek] [@Pulemetchek] [Medals Earned This Match {832699669413888}] [ApplyEffect {836045448945477}: Medals Earned This Match {832699669413888}] ()
+[09:13:02.932] [@Pulemetchek] [@Antaryis] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:13:02.932] [@Pulemetchek] [@Antaryis] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:13:02.935] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:13:02.935] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:13:02.935] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:13:03.065] [@Pulemetchek] [@Antaryis] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8173* kinetic {836045448940873}) <8173>
+[09:13:03.065] [@Pulemetchek] [@Antaryis] [] [Event {836045448945472}: Death {836045448945493}] ()
+[09:13:07.210] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:07.210] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:13:07.534] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:13:07.542] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:13:07.543] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:13:07.543] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:13:07.543] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:13:07.715] [@Pulemetchek] [@Qwizii] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11494* energy {836045448940874}) <11494>
+[09:13:09.744] [@Qwizii] [@Pulemetchek] [Smash {807801743998976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4868 kinetic {836045448940873}) <4868>
+[09:13:10.257] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:13:10.269] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:13:10.269] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:13:10.269] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:13:12.893] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:13:12.902] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:13:12.902] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:13:12.902] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:13:12.904] [@Ciemnogrodzki] [@Pulemetchek] [Force Storm {808261305499648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5093* energy {836045448940874}) <5093>
+[09:13:13.296] [@Pulemetchek] [@Pulemetchek] [Cryo Grenade {958439131971584}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:13.297] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:13:13.694] [@Pulemetchek] [@Arekzal] [Cryo Grenade {958439131971584}] [ApplyEffect {836045448945477}: Stunned (Tech) {958439131971848}] ()
+[09:13:13.928] [@Pulemetchek] [@Arekzal] [Cryo Grenade {958439131971584}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2878* energy {836045448940874}) <2878>
+[09:13:15.203] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:15.203] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:13:15.329] [@Pulemetchek] [@Arekzal] [Cryo Grenade {958439131971584}] [RemoveEffect {836045448945478}: Stunned (Tech) {958439131971848}] ()
+[09:13:17.221] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:18.147] [@Ciemnogrodzki] [@Pulemetchek] [Chain Lightning {808484643799040}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8445 energy {836045448940874}) <8445>
+[09:13:19.224] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:13:19.224] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:13:19.225] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:19.728] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:13:19.729] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:13:19.808] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4664 kinetic {836045448940873}) <4664>
+[09:13:20.723] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:13:21.278] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4557 kinetic {836045448940873}) <4557>
+[09:13:21.640] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:21.640] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:13:22.465] [@Pulemetchek] [@Ciemnogrodzki] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4376 kinetic {836045448940873}) <4376>
+[09:13:23.270] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:23.271] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:13:23.461] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:13:23.616] [@Pulemetchek] [@Ciemnogrodzki] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6243 energy {836045448940874}) <6243>
+[09:13:24.702] [@Pulemetchek] [@Pulemetchek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:24.703] [@Pulemetchek] [@Ciemnogrodzki] [Plasma Cell {1202324554907648}] [ApplyEffect {836045448945477}: Burning {1202324554907921}] ()
+[09:13:24.703] [@Pulemetchek] [@Ciemnogrodzki] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (782* elemental {836045448940875}) <782>
+[09:13:24.787] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (428 energy {836045448940874}) <428>
+[09:13:24.788] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (659* energy {836045448940874}) <659>
+[09:13:24.814] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (411 energy {836045448940874}) <411>
+[09:13:24.814] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (423 energy {836045448940874}) <423>
+[09:13:24.956] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (491 energy {836045448940874}) <491>
+[09:13:24.957] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (424 energy {836045448940874}) <424>
+[09:13:24.981] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (486 energy {836045448940874}) <486>
+[09:13:25.612] [@Jodele] [@Pulemetchek] [Explosive Dart {2288745122365440}] [ApplyEffect {836045448945477}: Explosive Dart {2288745122365440}] ()
+[09:13:26.244] [@Pulemetchek] [@Pulemetchek] [Stockstrike {801367882989568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:26.244] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:13:26.244] [@Pulemetchek] [@Ciemnogrodzki] [Concussive Force {3393784373051392}] [ApplyEffect {836045448945477}: Immobilized (Tech) {3393784373051653}] ()
+[09:13:26.670] [@Pulemetchek] [@Ciemnogrodzki] [Stockstrike {801367882989568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8763* kinetic {836045448940873}) <8763>
+[09:13:26.810] [@Pulemetchek] [@Ciemnogrodzki] [Concussive Force {3393784373051392}] [RemoveEffect {836045448945478}: Immobilized (Tech) {3393784373051653}] ()
+[09:13:27.628] [@Pulemetchek] [@Ciemnogrodzki] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (489 elemental {836045448940875}) <489>
+[09:13:28.244] [@Pulemetchek] [@Ciemnogrodzki] [Plasma Cell {1202324554907648}] [RemoveEffect {836045448945478}: Burning {1202324554907921}] ()
+[09:13:28.244] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:13:28.946] [@Pulemetchek] [@Pulemetchek] [Concussion Charge {801264803774464}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:28.946] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:13:29.049] [@Jodele] [@Pulemetchek] [Explosive Dart {2288745122365440}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6037* kinetic {836045448940873}) <6037>
+[09:13:29.049] [@Jodele] [@Pulemetchek] [Explosive Dart {2288745122365440}] [RemoveEffect {836045448945478}: Explosive Dart {2288745122365440}] ()
+[09:13:32.831] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:32.831] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:13:33.681] [@Pulemetchek] [@Jodele] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2722 kinetic {836045448940873}) <2722>
+[09:13:35.767] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:35.767] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[09:13:35.779] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4240)
+[09:13:39.395] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:13:39.421] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:13:39.421] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:13:39.421] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:13:43.496] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:43.990] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:13:43.994] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:13:43.994] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:13:43.995] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:13:44.443] [@Ciemnogrodzki] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5548 energy {836045448940874}) <5548>
+[09:13:45.509] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:13:45.510] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:13:45.510] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:45.510] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:13:46.209] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:13:46.210] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:13:46.210] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4174 kinetic {836045448940873}) <4174>
+[09:13:46.381] [@Pulemetchek] [@Shootymcgee] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:13:49.717] [@Ciemnogrodzki] [@Pulemetchek] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Affliction {808192586022912}] ()
+[09:13:49.842] [@Pulemetchek] [@Shootymcgee] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2593 kinetic {836045448940873}) <2593>
+[09:13:49.842] [@Pulemetchek] [@Shootymcgee] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:13:49.954] [@Ciemnogrodzki] [@Pulemetchek] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1099 internal {836045448940876}) <1099>
+[09:13:51.368] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:51.368] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:13:52.081] [@Pulemetchek] [@Ciemnogrodzki] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4239 kinetic {836045448940873} (4239 absorbed {836045448945511})) <4239>
+[09:13:52.672] [@Ciemnogrodzki] [@Pulemetchek] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1099 internal {836045448940876}) <1099>
+[09:13:52.674] [@Ciemnogrodzki] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Slowed (Force) {808252715565346}] ()
+[09:13:52.675] [@Ciemnogrodzki] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4586* energy {836045448940874}) <4586>
+[09:13:52.959] [@Pulemetchek] [@Pulemetchek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:52.959] [@Pulemetchek] [@Ciemnogrodzki] [Plasma Cell {1202324554907648}] [ApplyEffect {836045448945477}: Burning {1202324554907921}] ()
+[09:13:52.960] [@Pulemetchek] [@Ciemnogrodzki] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (489 elemental {836045448940875}) <489>
+[09:13:53.329] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (745* energy {836045448940874}) <745>
+[09:13:53.360] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (445 energy {836045448940874}) <445>
+[09:13:53.360] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (389 energy {836045448940874}) <389>
+[09:13:53.490] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (450 energy {836045448940874}) <450>
+[09:13:53.491] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (681* energy {836045448940874}) <681>
+[09:13:53.524] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (666* energy {836045448940874}) <666>
+[09:13:53.524] [@Pulemetchek] [@Ciemnogrodzki] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (408 energy {836045448940874}) <408>
+[09:13:53.784] [@Ciemnogrodzki] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4586* energy {836045448940874}) <4586>
+[09:13:54.565] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:54.565] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:13:54.661] [@Ciemnogrodzki] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4586* energy {836045448940874}) <4586>
+[09:13:54.763] [@Ciemnogrodzki] [@Pulemetchek] [Force Lightning {808252715565056}] [RemoveEffect {836045448945478}: Slowed (Force) {808252715565346}] ()
+[09:13:55.173] [@Pulemetchek] [@Ciemnogrodzki] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4215 kinetic {836045448940873}) <4215>
+[09:13:55.344] [@Ciemnogrodzki] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9095* energy {836045448940874}) <9095>
+[09:13:55.609] [@Ciemnogrodzki] [@Pulemetchek] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1099 internal {836045448940876}) <1099>
+[09:13:56.025] [@Pulemetchek] [@Ciemnogrodzki] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (782* elemental {836045448940875}) <782>
+[09:13:56.116] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:56.117] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:13:56.209] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:13:56.344] [@Pulemetchek] [@Ciemnogrodzki] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6377 energy {836045448940874}) <6377>
+[09:13:57.636] [@Pulemetchek] [@Pulemetchek] [Stockstrike {801367882989568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:13:57.636] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:13:57.636] [@Pulemetchek] [@Ciemnogrodzki] [Concussive Force {3393784373051392}] [ApplyEffect {836045448945477}: Immobilized (Tech) {3393784373051653}] ()
+[09:13:57.747] [@Pulemetchek] [@Ciemnogrodzki] [Plasma Cell {1202324554907648}] [RemoveEffect {836045448945478}: Burning {1202324554907921}] ()
+[09:13:57.747] [@Pulemetchek] [@Ciemnogrodzki] [Concussive Force {3393784373051392}] [RemoveEffect {836045448945478}: Immobilized (Tech) {3393784373051653}] ()
+[09:13:58.105] [@Pulemetchek] [@Ciemnogrodzki] [Stockstrike {801367882989568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5467 kinetic {836045448940873}) <5467>
+[09:13:58.528] [@Ciemnogrodzki] [@Pulemetchek] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1079 internal {836045448940876}) <1079>
+[09:14:00.122] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:14:00.122] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:14:00.322] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:14:00.329] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:14:01.322] [@Ciemnogrodzki] [@Pulemetchek] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1712* internal {836045448940876}) <1712>
+[09:14:02.531] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:02.531] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[09:14:02.545] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4451) <2225>
+[09:14:03.738] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Rejuvenate {812809675866112}] ()
+[09:14:03.748] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4304*) <1937>
+[09:14:04.135] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:04.135] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [ApplyEffect {836045448945477}: Recharge and Reload {801333523251200}] ()
+[09:14:04.235] [@Ciemnogrodzki] [@Pulemetchek] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1144 internal {836045448940876}) <1144>
+[09:14:05.151] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (7)
+[09:14:06.134] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (1)
+[09:14:06.644] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1486*) <668>
+[09:14:06.764] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (11357*) <5110>
+[09:14:06.860] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:14:07.195] [@Ciemnogrodzki] [@Pulemetchek] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1144 internal {836045448940876}) <1144>
+[09:14:07.196] [@Ciemnogrodzki] [@Pulemetchek] [Affliction {808192586022912}] [RemoveEffect {836045448945478}: Affliction {808192586022912}] ()
+[09:14:08.273] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6861) <3087>
+[09:14:09.456] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1486*) <668>
+[09:14:09.784] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7258) <1838>
+[09:14:09.885] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [RemoveEffect {836045448945478}: Recharge and Reload {801333523251200}] ()
+[09:14:09.885] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[09:14:12.302] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (915)
+[09:14:12.303] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [RemoveEffect {836045448945478}: Rejuvenate {812809675866112}] ()
+[09:14:15.231] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:14:16.353] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:17.851] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:14:17.851] [@Pulemetchek] [@Cónnór'a] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3435) <1717>
+[09:14:17.852] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:19.365] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:14:19.365] [@Pulemetchek] [@Cónnór'a] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4939*) <2469>
+[09:14:19.366] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:20.885] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:14:20.886] [@Pulemetchek] [@Cónnór'a] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5457*) <2728>
+[09:14:24.670] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:24.671] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[09:14:24.682] [@Pulemetchek] [@Cónnór'a] [Bacta Infusion {3412772423467008}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5918) <2959>
+[09:14:30.712] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:14:30.717] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:14:30.717] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:14:31.004] [@Pulemetchek] [@Pulemetchek] [Plasma Grenade {2297266337480704}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:31.136] [@Mallender] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7222* energy {836045448940874}) <7222>
+[09:14:32.238] [@Mallender] [@Pulemetchek] [Electrocute {808244125630464}] [ApplyEffect {836045448945477}: Stunned (Force) {808244125630724}] ()
+[09:14:32.240] [@Pulemetchek] [] [Plasma Grenade {2297266337480704}] [Event {836045448945472}: AbilityInterrupt {836045448945482}] ()
+[09:14:32.674] [@Mallender] [@Pulemetchek] [Electrocute {808244125630464}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2198 energy {836045448940874}) <2198>
+[09:14:33.715] [@Pulemetchek] [@Pulemetchek] [Tenacity {801372177956864}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:33.716] [@Mallender] [@Pulemetchek] [Electrocute {808244125630464}] [ApplyEffect {836045448945477}: Sapped Strength {808244125630754}] ()
+[09:14:33.717] [@Mallender] [@Pulemetchek] [Electrocute {808244125630464}] [RemoveEffect {836045448945478}: Stunned (Force) {808244125630724}] ()
+[09:14:33.799] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Slowed (Force) {808252715565346}] ()
+[09:14:33.799] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3800* energy {836045448940874}) <3800>
+[09:14:34.209] [@Pulemetchek] [@Pulemetchek] [Concussion Charge {801264803774464}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:34.209] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:14:34.590] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [RemoveEffect {836045448945478}: Slowed (Force) {808252715565346}] ()
+[09:14:34.591] [@Pulemetchek] [@Mallender] [Concussion Charge {801264803774464}] [ApplyEffect {836045448945477}: Slowed {801264803774734}] ()
+[09:14:34.591] [@Pulemetchek] [@Mallender] [Concussion Charge {801264803774464}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (878 elemental {836045448940875}) <878>
+[09:14:36.547] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:36.547] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:14:37.200] [@Pulemetchek] [@Mallender] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5207* kinetic {836045448940873}) <5207>
+[09:14:37.227] [@Mallender] [@Pulemetchek] [Lightning Strike {808265600466944}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7546* energy {836045448940874}) <7546>
+[09:14:38.673] [@Pulemetchek] [@Mallender] [Concussion Charge {801264803774464}] [RemoveEffect {836045448945478}: Slowed {801264803774734}] ()
+[09:14:38.676] [@Pulemetchek] [@Pulemetchek] [Full Auto {801290573578240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:38.676] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:14:38.676] [@Pulemetchek] [@Mallender] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3854* energy {836045448940874}) <3854>
+[09:14:38.985] [@Mallender] [@Pulemetchek] [Lightning Strike {808265600466944}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4620 energy {836045448940874}) <4620>
+[09:14:39.774] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:14:39.775] [@Pulemetchek] [@Mallender] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2638 energy {836045448940874} (2638 absorbed {836045448945511})) <2638>
+[09:14:40.680] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:14:40.680] [@Pulemetchek] [@Mallender] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2726 energy {836045448940874} (2726 absorbed {836045448945511})) <2726>
+[09:14:40.898] [@Mallender] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7416* energy {836045448940874}) <7416>
+[09:14:41.179] [@Pulemetchek] [@Pulemetchek] [Full Auto {801290573578240}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[09:14:41.179] [@Pulemetchek] [@Pulemetchek] [Cryo Grenade {958439131971584}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:41.179] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:14:41.480] [@Pulemetchek] [@Mallender] [Cryo Grenade {958439131971584}] [ApplyEffect {836045448945477}: Stunned (Tech) {958439131971848}] ()
+[09:14:41.739] [@Pulemetchek] [@Mallender] [Cryo Grenade {958439131971584}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1437 energy {836045448940874} (1437 absorbed {836045448945511})) <1437>
+[09:14:42.789] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:42.789] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:14:43.017] [@Pulemetchek] [@Mallender] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4909 energy {836045448940874} (1209 absorbed {836045448945511})) <4909>
+[09:14:43.787] [@Mallender] [@Pulemetchek] [Electrocute {808244125630464}] [RemoveEffect {836045448945478}: Sapped Strength {808244125630754}] ()
+[09:14:44.387] [@Pulemetchek] [@Pulemetchek] [Stockstrike {801367882989568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:44.387] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:14:44.387] [@Pulemetchek] [@Mallender] [Concussive Force {3393784373051392}] [ApplyEffect {836045448945477}: Immobilized (Tech) {3393784373051653}] ()
+[09:14:44.837] [@Pulemetchek] [@Mallender] [Stockstrike {801367882989568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7913* kinetic {836045448940873}) <7913>
+[09:14:45.477] [@Pulemetchek] [@Mallender] [Cryo Grenade {958439131971584}] [RemoveEffect {836045448945478}: Stunned (Tech) {958439131971848}] ()
+[09:14:45.691] [@Mallender] [@Pulemetchek] [Overload {808282780336128}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2816* energy {836045448940874}) <2816>
+[09:14:46.797] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:47.305] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Slowed (Force) {808252715565346}] ()
+[09:14:47.305] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2384 energy {836045448940874}) <2384>
+[09:14:48.292] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3800* energy {836045448940874}) <3800>
+[09:14:48.391] [@Pulemetchek] [@Mallender] [Concussive Force {3393784373051392}] [RemoveEffect {836045448945478}: Immobilized (Tech) {3393784373051653}] ()
+[09:14:48.794] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:14:48.794] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:14:48.904] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [RemoveEffect {836045448945478}: Slowed (Force) {808252715565346}] ()
+[09:14:49.119] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:14:49.119] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:14:49.120] [@Pulemetchek] [@Pulemetchek] [Reactive Shield {801329228283904}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:49.120] [@Pulemetchek] [@Pulemetchek] [Reactive Shield {801329228283904}] [ApplyEffect {836045448945477}: Reactive Shield {801329228284194}] ()
+[09:14:49.168] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4258 kinetic {836045448940873}) <4258>
+[09:14:50.434] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:50.434] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[09:14:50.444] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6826*)
+[09:14:50.849] [@Mallender] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3454 energy {836045448940874}) <3454>
+[09:14:51.975] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:51.975] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:14:52.379] [@Pulemetchek] [@Mallender] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3944 kinetic {836045448940873}) <3944>
+[09:14:53.587] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:53.587] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:14:53.847] [@Pulemetchek] [@Mallender] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:14:55.028] [@Mallender] [@Pulemetchek] [Crushing Darkness {863460225187840}] [ApplyEffect {836045448945477}: Crushed (Crushing Darkness) {863460225188131}] ()
+[09:14:55.124] [@Pulemetchek] [@Pulemetchek] [Stockstrike {801367882989568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:55.124] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:14:55.124] [@Pulemetchek] [@Mallender] [Concussive Force {3393784373051392}] [ApplyEffect {836045448945477}: Immobilized (Tech) {3393784373051653}] ()
+[09:14:55.461] [@Mallender] [@Pulemetchek] [Crushing Darkness {863460225187840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2782 kinetic {836045448940873}) <2782>
+[09:14:55.561] [@Pulemetchek] [@Mallender] [Stockstrike {801367882989568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5063 kinetic {836045448940873}) <5063>
+[09:14:56.014] [@Mallender] [@Pulemetchek] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (687 kinetic {836045448940873}) <687>
+[09:14:56.617] [@Mallender] [@Pulemetchek] [Force Storm {808261305499648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2636* energy {836045448940874}) <2636>
+[09:14:56.920] [@Mallender] [@Pulemetchek] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (687 kinetic {836045448940873}) <687>
+[09:14:57.328] [@Pulemetchek] [@Mallender] [Concussive Force {3393784373051392}] [RemoveEffect {836045448945478}: Immobilized (Tech) {3393784373051653}] ()
+[09:14:57.328] [@Pulemetchek] [@Mallender] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2596 kinetic {836045448940873}) <2596>
+[09:14:57.328] [@Pulemetchek] [@Mallender] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:14:57.682] [@Pulemetchek] [@Pulemetchek] [Full Auto {801290573578240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:14:57.682] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:14:57.682] [@Pulemetchek] [@Mallender] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[09:14:57.864] [@Mallender] [@Pulemetchek] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (687 kinetic {836045448940873}) <687>
+[09:14:58.771] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:14:58.771] [@Pulemetchek] [@Mallender] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3013 energy {836045448940874} (3013 absorbed {836045448945511})) <3013>
+[09:14:58.869] [@Mallender] [@Pulemetchek] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1095* kinetic {836045448940873}) <1095>
+[09:14:59.782] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:14:59.782] [@Pulemetchek] [@Mallender] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2925 energy {836045448940874} (2925 absorbed {836045448945511})) <2925>
+[09:14:59.783] [@Mallender] [@Pulemetchek] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (687 kinetic {836045448940873}) <687>
+[09:15:00.009] [@Mallender] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5404* energy {836045448940874}) <5404>
+[09:15:00.708] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:15:00.708] [@Pulemetchek] [@Mallender] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2889 energy {836045448940874} (2074 absorbed {836045448945511})) <2889>
+[09:15:00.884] [@Mallender] [@Pulemetchek] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1095* kinetic {836045448940873}) <1095>
+[09:15:00.884] [@Mallender] [@Pulemetchek] [Crushing Darkness {863460225187840}] [RemoveEffect {836045448945478}: Crushed (Crushing Darkness) {863460225188131}] ()
+[09:15:01.032] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Slowed (Force) {808252715565346}] ()
+[09:15:01.033] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1781 energy {836045448940874}) <1781>
+[09:15:01.145] [@Pulemetchek] [@Pulemetchek] [Reactive Shield {801329228283904}] [RemoveEffect {836045448945478}: Reactive Shield {801329228284194}] ()
+[09:15:01.351] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:01.351] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:15:01.637] [@Pulemetchek] [@Mallender] [Plasma Cell {1202324554907648}] [ApplyEffect {836045448945477}: Burning {1202324554907921}] ()
+[09:15:01.637] [@Pulemetchek] [@Mallender] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (766* elemental {836045448940875}) <766>
+[09:15:01.637] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:15:01.697] [@Pulemetchek] [@Mallender] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10041* energy {836045448940874}) <10041>
+[09:15:02.055] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2384 energy {836045448940874}) <2384>
+[09:15:02.930] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:02.930] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:15:03.044] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2384 energy {836045448940874}) <2384>
+[09:15:03.569] [@Pulemetchek] [@Mallender] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6595* kinetic {836045448940873}) <6595>
+[09:15:03.987] [@Pulemetchek] [@Pulemetchek] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Deserter Detection {810421674049809}] ()
+[09:15:03.987] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [RemoveEffect {836045448945478}: Force Valor {875503313485824}] ()
+[09:15:03.987] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [RemoveEffect {836045448945478}: Force Might {875503313486141}] ()
+[09:15:03.987] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [RemoveEffect {836045448945478}: Fortification {875503313486158}] ()
+[09:15:03.988] [@Kiage] [@Pulemetchek] [Lucky Shots {939154728812544}] [RemoveEffect {836045448945478}: Lucky Shots {939154728812809}] ()
+[09:15:03.988] [@Pulemetchek] [@Pulemetchek] [Protected {2998355324043264}] [RemoveEffect {836045448945478}: Protected {2998355324043264}] ()
+[09:15:03.988] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:15:03.988] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [RemoveEffect {836045448945478}: Slowed (Force) {808252715565346}] ()
+[09:15:03.990] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:15:03.990] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:15:04.004] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3800* energy {836045448940874}) <3800>
+[09:15:04.004] [@Mallender] [@Pulemetchek] [] [Event {836045448945472}: Death {836045448945493}] ()
+[09:15:04.532] [@Pulemetchek] [@Mallender] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (451 elemental {836045448940875}) <451>
+[09:15:06.160] [@Pulemetchek] [@Pulemetchek] [Protected {2998355324043264}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:06.160] [@Pulemetchek] [@Pulemetchek] [Protected {2998355324043264}] [ApplyEffect {836045448945477}: Protected {2998355324043264}] ()
+[09:15:06.163] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: Revived {836045448945494}] ()
+[09:15:06.261] [@Pulemetchek] [@Pulemetchek] [ {3231232745799680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:07.443] [@Pulemetchek] [@Mallender] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (451 elemental {836045448940875}) <451>
+[09:15:07.444] [@Pulemetchek] [@Mallender] [Plasma Cell {1202324554907648}] [RemoveEffect {836045448945478}: Burning {1202324554907921}] ()
+[09:15:08.357] [@Pulemetchek] [@Pulemetchek] [Protected {2998355324043264}] [RemoveEffect {836045448945478}: Protected {2998355324043264}] ()
+[09:15:09.830] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:09.830] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[09:15:09.830] [@Pulemetchek] [@Caepastell] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[09:15:09.831] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[09:15:09.831] [@Pulemetchek] [@Caepastell] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[09:15:09.832] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[09:15:09.832] [@Pulemetchek] [@Caepastell] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[09:15:09.832] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[09:15:09.832] [@Pulemetchek] [@Caepastell] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[09:15:13.295] [] [@Pulemetchek] [Deserter Detection {2730083076800512}] [ApplyEffect {836045448945477}: Deserter Detection {2730083076800512}] ()
+[09:15:18.975] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:15:26.220] [@Pulemetchek] [@Pulemetchek] [ {2731998632214528}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:26.220] [] [@Pulemetchek] [Deserter Detection {2730083076800512}] [RemoveEffect {836045448945478}: Deserter Detection {2730083076800512}] ()
+[09:15:26.738] [@Pulemetchek] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (3365)
+[09:15:32.340] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:32.340] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[09:15:32.351] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5874) <1288>
+[09:15:34.136] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:15:35.967] [@Pulemetchek] [@Pulemetchek] [ {3040905565044736}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:47.807] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:47.807] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:15:48.609] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:15:48.612] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:15:48.613] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:15:48.613] [@Pulemetchek] [@Arekzal] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:15:50.418] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:50.453] [@Keraon] [@Pulemetchek] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3022 energy {836045448940874}) <3022>
+[09:15:50.517] [@Keraon] [@Pulemetchek] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1401 internal {836045448940876}) <1401>
+[09:15:50.518] [@Keraon] [@Pulemetchek] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2838 energy {836045448940874}) <2838>
+[09:15:51.936] [@Keraon] [@Pulemetchek] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3112 energy {836045448940874}) <3112>
+[09:15:52.118] [@Pulemetchek] [@Arekzal] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2783 kinetic {836045448940873}) <2783>
+[09:15:52.119] [@Pulemetchek] [@Arekzal] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:15:52.119] [@Keraon] [@Pulemetchek] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3035 energy {836045448940874}) <3035>
+[09:15:52.516] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:15:52.516] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:15:53.022] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:15:53.022] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:15:53.093] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4435 kinetic {836045448940873}) <4435>
+[09:15:53.174] [@Keraon] [@Pulemetchek] [Jolt {875060931854336}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <1>
+[09:15:53.518] [@Keraon] [@Pulemetchek] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1401 internal {836045448940876}) <1401>
+[09:15:53.519] [@Pulemetchek] [@Pulemetchek] [Concussion Charge {801264803774464}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:53.519] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:15:53.929] [@Pulemetchek] [@Keraon] [Concussion Charge {801264803774464}] [ApplyEffect {836045448945477}: Slowed {801264803774734}] ()
+[09:15:53.929] [@Pulemetchek] [@Keraon] [Concussion Charge {801264803774464}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (840 elemental {836045448940875}) <840>
+[09:15:53.943] [@Keraon] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5999 energy {836045448940874}) <5999>
+[09:15:55.142] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:55.142] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:15:55.327] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:15:55.452] [@Pulemetchek] [@Arekzal] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9363* energy {836045448940874}) <9363>
+[09:15:56.648] [@Pulemetchek] [@Pulemetchek] [Full Auto {801290573578240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:15:56.648] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:15:56.648] [@Pulemetchek] [@Arekzal] [Plasma Cell {1202324554907648}] [ApplyEffect {836045448945477}: Burning {1202324554907921}] ()
+[09:15:56.649] [@Pulemetchek] [@Arekzal] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (771* elemental {836045448940875}) <771>
+[09:15:56.649] [@Pulemetchek] [@Arekzal] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5178* energy {836045448940874}) <5178>
+[09:15:57.653] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:15:57.653] [@Pulemetchek] [@Pulemetchek] [Member of Team B {2999308806782976}] [ApplyEffect {836045448945477}: Member of Team B {2999308806782976}] ()
+[09:15:57.654] [@Pulemetchek] [@Pulemetchek] [Medals Earned This Match {832699669413888}] [ApplyEffect {836045448945477}: Highly Decorated {832699669414154}] ()
+[09:15:57.656] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:15:57.656] [@Pulemetchek] [@Arekzal] [Plasma Cell {1202324554907648}] [RemoveEffect {836045448945478}: Burning {1202324554907921}] ()
+[09:15:57.661] [@Pulemetchek] [@Arekzal] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5067* energy {836045448940874}) <5067>
+[09:15:57.662] [@Pulemetchek] [@Arekzal] [] [Event {836045448945472}: Death {836045448945493}] ()
+[09:15:57.663] [@Pulemetchek] [@Pulemetchek] [Full Auto {801290573578240}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[09:15:57.930] [@Pulemetchek] [@Keraon] [Concussion Charge {801264803774464}] [RemoveEffect {836045448945478}: Slowed {801264803774734}] ()
+[09:15:58.643] [@Pulemetchek] [@Pulemetchek] [Member of Team B {2999308806782976}] [RemoveEffect {836045448945478}: Member of Team B {2999308806782976}] ()
+[09:16:00.083] [@Keraon] [@Pulemetchek] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2222* internal {836045448940876}) <2222>
+[09:16:00.526] [@Keraon] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9612* energy {836045448940874}) <9612>
+[09:16:00.980] [@Pulemetchek] [@Pulemetchek] [Cryo Grenade {958439131971584}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:00.980] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:16:01.179] [@Pulemetchek] [@Keraon] [Cryo Grenade {958439131971584}] [ApplyEffect {836045448945477}: Stunned (Tech) {958439131971848}] ()
+[09:16:01.445] [@Pulemetchek] [@Keraon] [Cryo Grenade {958439131971584}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2829* energy {836045448940874}) <2829>
+[09:16:02.491] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:02.491] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[09:16:02.502] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3789)
+[09:16:03.998] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:03.998] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:16:04.187] [@Pulemetchek] [@Keraon] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:16:05.193] [@Pulemetchek] [@Keraon] [Cryo Grenade {958439131971584}] [RemoveEffect {836045448945478}: Stunned (Tech) {958439131971848}] ()
+[09:16:05.932] [@Keraon] [@Pulemetchek] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Vulnerable (Force) {808626377720090}] ()
+[09:16:06.218] [@Pulemetchek] [@Pulemetchek] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:06.218] [@Pulemetchek] [@Keraon] [Plasma Cell {1202324554907648}] [ApplyEffect {836045448945477}: Burning {1202324554907921}] ()
+[09:16:06.219] [@Pulemetchek] [@Keraon] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (499 elemental {836045448940875}) <499>
+[09:16:06.443] [@Keraon] [@Pulemetchek] [Discharge {808235535695872}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8993* internal {836045448940876}) <8993>
+[09:16:06.577] [@Pulemetchek] [@Keraon] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (406 energy {836045448940874}) <406>
+[09:16:06.607] [@Pulemetchek] [@Keraon] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (385 energy {836045448940874}) <385>
+[09:16:06.608] [@Pulemetchek] [@Keraon] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (401 energy {836045448940874}) <401>
+[09:16:06.811] [@Pulemetchek] [@Keraon] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[09:16:06.811] [@Pulemetchek] [@Keraon] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (376 energy {836045448940874}) <376>
+[09:16:06.848] [@Pulemetchek] [@Keraon] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (754* energy {836045448940874}) <754>
+[09:16:06.848] [@Pulemetchek] [@Keraon] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (475 energy {836045448940874}) <475>
+[09:16:07.625] [@Pulemetchek] [@Keraon] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1891 kinetic {836045448940873}) <1891>
+[09:16:07.625] [@Pulemetchek] [@Keraon] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:16:07.726] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:09.157] [@Pulemetchek] [@Keraon] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (559* elemental {836045448940875}) <559>
+[09:16:09.268] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:16:09.268] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:16:09.749] [@Pulemetchek] [@Keraon] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:16:09.749] [@Pulemetchek] [@Keraon] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:16:09.851] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:09.859] [@Pulemetchek] [@Keraon] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3140 kinetic {836045448940873}) <3140>
+[09:16:11.182] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:16:11.203] [@Pulemetchek] [@Pulemetchek] [Member of Team B {2999308806782976}] [ApplyEffect {836045448945477}: Member of Team B {2999308806782976}] ()
+[09:16:11.204] [@Pulemetchek] [@Keraon] [Plasma Cell {1202324554907648}] [RemoveEffect {836045448945478}: Burning {1202324554907921}] ()
+[09:16:11.205] [@Pulemetchek] [@Keraon] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:16:11.206] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:16:11.206] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:16:11.206] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:16:11.307] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[09:16:12.126] [@Pulemetchek] [@Pulemetchek] [Member of Team B {2999308806782976}] [RemoveEffect {836045448945478}: Member of Team B {2999308806782976}] ()
+[09:16:15.168] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:15.168] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [ApplyEffect {836045448945477}: Recharge and Reload {801333523251200}] ()
+[09:16:20.996] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [RemoveEffect {836045448945478}: Recharge and Reload {801333523251200}] ()
+[09:16:20.996] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[09:16:24.341] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:16:26.172] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:16:29.324] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:29.324] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:16:29.945] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:16:29.949] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:16:29.950] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:16:29.950] [@Pulemetchek] [@Antaryis] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:16:30.829] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:30.830] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:16:31.299] [@Pulemetchek] [@Antaryis] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9808* energy {836045448940874}) <9808>
+[09:16:32.349] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:33.003] [@Pulemetchek] [@Arekzal] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2768 kinetic {836045448940873}) <2768>
+[09:16:33.003] [@Pulemetchek] [@Antaryis] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:16:33.401] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[09:16:33.893] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:35.394] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:16:35.394] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:16:35.396] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:35.894] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:16:35.894] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:16:36.005] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4456 kinetic {836045448940873}) <4456>
+[09:16:36.269] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:16:36.293] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:16:36.297] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:16:36.298] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:16:36.298] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:16:36.429] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[09:16:46.422] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:46.422] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:16:47.510] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:16:47.516] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:16:47.516] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:16:47.517] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:16:47.517] [@Pulemetchek] [@Shootymcgee] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:16:48.024] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:48.024] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:16:48.323] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:16:48.674] [@Pulemetchek] [@Shootymcgee] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5522 energy {836045448940874}) <5522>
+[09:16:49.636] [@Pulemetchek] [@Pulemetchek] [Protected {2998355324043264}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:49.636] [@Pulemetchek] [@Pulemetchek] [Protected {2998355324043264}] [ApplyEffect {836045448945477}: Protected {2998355324043264}] ()
+[09:16:49.639] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:51.052] [@Pulemetchek] [@Shootymcgee] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2505 kinetic {836045448940873}) <2505>
+[09:16:51.052] [@Pulemetchek] [@Shootymcgee] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:16:51.052] [@Keraon] [@Pulemetchek] [Saber Conduit {808626377719808}] [RemoveEffect {836045448945478}: Vulnerable (Force) {808626377720090}] ()
+[09:16:51.224] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:16:51.224] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:16:51.226] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:51.842] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:16:51.842] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:16:51.998] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4342 kinetic {836045448940873}) <4342>
+[09:16:52.570] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[09:16:53.501] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:16:53.513] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:16:53.514] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:16:53.515] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:16:53.515] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:16:53.975] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:55.557] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:16:55.563] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:16:55.563] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:16:55.563] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:16:55.564] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:16:56.151] [@Pulemetchek] [@Jodele] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:16:56.151] [@Pulemetchek] [@Jodele] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:16:56.212] [@Pulemetchek] [@Jodele] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4185 kinetic {836045448940873}) <4185>
+[09:16:56.741] [@Pulemetchek] [@Pulemetchek] [Plasma Grenade {2297266337480704}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:58.274] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:16:58.690] [@Pulemetchek] [@Pulemetchek] [Full Auto {801290573578240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:16:58.690] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:16:58.690] [@Pulemetchek] [@Jodele] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3059 energy {836045448940874}) <3059>
+[09:16:59.478] [@Pulemetchek] [@Jodele] [Plasma Grenade {2297266337480704}] [ApplyEffect {836045448945477}: Radiation Burns {2297266337480962}] ()
+[09:16:59.479] [@Pulemetchek] [@Keraon] [Plasma Grenade {2297266337480704}] [ApplyEffect {836045448945477}: Radiation Burns {2297266337480962}] ()
+[09:16:59.481] [@Pulemetchek] [@Jodele] [Plasma Grenade {2297266337480704}] [RemoveEffect {836045448945478}: Radiation Burns {2297266337480962}] ()
+[09:16:59.481] [@Pulemetchek] [@Jodele] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:16:59.491] [@Pulemetchek] [@Jodele] [Plasma Grenade {2297266337480704}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2713* kinetic {836045448940873}) <2713>
+[09:16:59.491] [@Pulemetchek] [@Jodele] [] [Event {836045448945472}: Death {836045448945493}] ()
+[09:16:59.492] [@Pulemetchek] [@Keraon] [Plasma Grenade {2297266337480704}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2030* kinetic {836045448940873}) <2030>
+[09:16:59.757] [@Pulemetchek] [@Pulemetchek] [Full Auto {801290573578240}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[09:17:00.444] [@Pulemetchek] [@Keraon] [Radiation Burns {2297266337480962}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (240 elemental {836045448940875}) <240>
+[09:17:01.721] [@Pulemetchek] [@Keraon] [Radiation Burns {2297266337480962}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (384* elemental {836045448940875}) <384>
+[09:17:02.329] [@Pulemetchek] [@Keraon] [Radiation Burns {2297266337480962}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (240 elemental {836045448940875}) <240>
+[09:17:03.335] [@Pulemetchek] [@Keraon] [Radiation Burns {2297266337480962}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (240 elemental {836045448940875}) <240>
+[09:17:04.278] [@Pulemetchek] [@Keraon] [Radiation Burns {2297266337480962}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (240 elemental {836045448940875}) <240>
+[09:17:04.813] [@Pulemetchek] [@Pulemetchek] [Mortar Volley {2292571938226176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:05.304] [@Pulemetchek] [@Keraon] [Radiation Burns {2297266337480962}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (240 elemental {836045448940875}) <240>
+[09:17:05.305] [@Pulemetchek] [@Keraon] [Plasma Grenade {2297266337480704}] [RemoveEffect {836045448945478}: Radiation Burns {2297266337480962}] ()
+[09:17:05.423] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:05.606] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1563 kinetic {836045448940873}) <1563>
+[09:17:05.606] [@Pulemetchek] [@Keraon] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1606 kinetic {836045448940873}) <1606>
+[09:17:05.926] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:06.097] [@Pulemetchek] [@Keraon] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1319 kinetic {836045448940873}) <1319>
+[09:17:06.097] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1707 kinetic {836045448940873}) <1707>
+[09:17:06.398] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:06.611] [@Pulemetchek] [@Keraon] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1234 kinetic {836045448940873}) <1234>
+[09:17:06.903] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:07.109] [@Pulemetchek] [@Keraon] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1334 kinetic {836045448940873}) <1334>
+[09:17:07.319] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:07.508] [@Pulemetchek] [@Keraon] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2045* kinetic {836045448940873}) <2045>
+[09:17:07.809] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:08.015] [@Pulemetchek] [@Keraon] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1958* kinetic {836045448940873}) <1958>
+[09:17:10.120] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:10.120] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:17:10.616] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:17:10.838] [@Pulemetchek] [@Ciemnogrodzki] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:17:11.659] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:11.869] [@Keraon] [@Pulemetchek] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2312* internal {836045448940876}) <2312>
+[09:17:12.089] [@Keraon] [@Pulemetchek] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2960 energy {836045448940874}) <2960>
+[09:17:12.278] [@Keraon] [@Pulemetchek] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3174 energy {836045448940874}) <3174>
+[09:17:13.374] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:17:13.374] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:17:13.613] [@Keraon] [@Pulemetchek] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2991 energy {836045448940874}) <2991>
+[09:17:13.722] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:17:13.723] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:17:13.771] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4599 kinetic {836045448940873}) <4599>
+[09:17:13.793] [@Keraon] [@Pulemetchek] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4578* energy {836045448940874})
+[09:17:14.115] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:14.115] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:17:14.312] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:17:14.330] [@Pulemetchek] [@Ciemnogrodzki] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4499* kinetic {836045448940873}) <4499>
+[09:17:14.330] [@Pulemetchek] [@Ciemnogrodzki] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:17:14.331] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:17:14.335] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:17:14.335] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:17:14.335] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:17:14.338] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:17:14.515] [@Pulemetchek] [@Ciemnogrodzki] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10717* energy {836045448940874}) <10717>
+[09:17:14.515] [@Pulemetchek] [@Ciemnogrodzki] [] [Event {836045448945472}: Death {836045448945493}] ()
+[09:17:18.122] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:19.679] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:17:19.686] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:17:19.686] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:17:19.686] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:17:19.686] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:17:19.687] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:17:20.193] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:17:20.217] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:17:20.217] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:17:20.218] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:17:23.666] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:23.666] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [ApplyEffect {836045448945477}: Recharge and Reload {801333523251200}] ()
+[09:17:28.460] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [RemoveEffect {836045448945478}: Recharge and Reload {801333523251200}] ()
+[09:17:28.460] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[09:17:29.581] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:29.581] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[09:17:29.592] [@Pulemetchek] [@Caepastell] [Bacta Infusion {3412772423467008}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4332) <2166>
+[09:17:31.082] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:32.286] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:17:32.286] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:17:32.286] [@Pulemetchek] [@Caepastell] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6092*) <3046>
+[09:17:35.210] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:17:35.211] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:36.704] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[09:17:36.928] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Rejuvenate {812809675866112}] ()
+[09:17:36.936] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3190) <1435>
+[09:17:38.438] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force Armor {812736661422080}] ()
+[09:17:38.438] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force-imbalance {812736661422343}] ()
+[09:17:39.843] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1797*) <808>
+[09:17:42.663] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1106) <481>
+[09:17:43.629] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:45.175] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:17:45.183] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:17:45.183] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:17:45.183] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:17:45.184] [@Pulemetchek] [@Zeront] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3414)
+[09:17:45.185] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:45.477] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1486*)
+[09:17:45.477] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [RemoveEffect {836045448945478}: Rejuvenate {812809675866112}] ()
+[09:17:46.674] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:17:46.674] [@Pulemetchek] [@Zeront] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4685*)
+[09:17:46.675] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:48.147] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:17:48.148] [@Pulemetchek] [@Zeront] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3579)
+[09:17:48.148] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:49.649] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:17:49.650] [@Pulemetchek] [@Zeront] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3600)
+[09:17:49.651] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:51.155] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:17:51.155] [@Pulemetchek] [@Zeront] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3650)
+[09:17:51.156] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:52.666] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[09:17:54.569] [@Pulemetchek] [@Pulemetchek] [Mortar Volley {2292571938226176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:17:54.968] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [RemoveEffect {836045448945478}: Force Armor {812736661422080}] ()
+[09:17:55.161] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:55.419] [@Ciemnogrodzki] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9098* energy {836045448940874} (7971 absorbed {836045448945511})) <9098>
+[09:17:55.482] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2754* kinetic {836045448940873}) <2754>
+[09:17:55.482] [@Pulemetchek] [@Jodele] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1508 kinetic {836045448940873}) <1508>
+[09:17:55.676] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:55.974] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2567* kinetic {836045448940873}) <2567>
+[09:17:55.975] [@Pulemetchek] [@Jodele] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1568 kinetic {836045448940873}) <1568>
+[09:17:56.174] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:56.468] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1689 kinetic {836045448940873}) <1689>
+[09:17:56.468] [@Pulemetchek] [@Jodele] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2304* kinetic {836045448940873}) <2304>
+[09:17:56.575] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:56.867] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1601 kinetic {836045448940873}) <1601>
+[09:17:57.073] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:57.074] [@Mallender] [@Pulemetchek] [Force Storm {808261305499648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2127 energy {836045448940874}) <2127>
+[09:17:57.291] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2671* kinetic {836045448940873}) <2671>
+[09:17:57.617] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:17:57.903] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1607 kinetic {836045448940873} (1607 absorbed {836045448945511})) <1607>
+[09:17:57.903] [@Pulemetchek] [@Mallender] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1519 kinetic {836045448940873}) <1519>
+[09:17:58.513] [@Mallender] [@Pulemetchek] [Overload {808282780336128}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1691 energy {836045448940874}) <1691>
+[09:18:01.243] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:01.244] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:01.824] [@Pulemetchek] [@Mallender] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:18:04.981] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:04.981] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:05.281] [@Pulemetchek] [@Mallender] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2512 kinetic {836045448940873}) <2512>
+[09:18:05.281] [@Pulemetchek] [@Ciemnogrodzki] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4439* kinetic {836045448940873}) <4439>
+[09:18:05.282] [@Pulemetchek] [@Mallender] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:18:05.282] [@Pulemetchek] [@Ciemnogrodzki] [Plasma Cell {1202324554907648}] [ApplyEffect {836045448945477}: Burning {1202324554907921}] ()
+[09:18:05.282] [@Pulemetchek] [@Ciemnogrodzki] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (489 elemental {836045448940875}) <489>
+[09:18:05.283] [@Pulemetchek] [@Ciemnogrodzki] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6227 energy {836045448940874}) <6227>
+[09:18:05.999] [@Pulemetchek] [@Pulemetchek] [Recharge Cells {1991194083065856}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:05.999] [@Pulemetchek] [@Pulemetchek] [Recharge Cells {1991194083065856}] [ApplyEffect {836045448945477}: Recharge Cells {1991194083065856}] ()
+[09:18:06.174] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (29)
+[09:18:07.224] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:07.524] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (10)
+[09:18:08.221] [@Pulemetchek] [@Ciemnogrodzki] [Burning {1202324554907921}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (782* elemental {836045448940875}) <782>
+[09:18:08.853] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:08.854] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:18:09.040] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (10)
+[09:18:09.040] [@Pulemetchek] [@Pulemetchek] [Recharge Cells {1991194083065856}] [RemoveEffect {836045448945478}: Recharge Cells {1991194083065856}] ()
+[09:18:09.152] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:18:09.152] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:18:09.153] [@Pulemetchek] [@Ciemnogrodzki] [Plasma Cell {1202324554907648}] [RemoveEffect {836045448945478}: Burning {1202324554907921}] ()
+[09:18:09.154] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:18:09.198] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4530 kinetic {836045448940873}) <4530>
+[09:18:09.198] [@Pulemetchek] [@Ciemnogrodzki] [] [Event {836045448945472}: Death {836045448945493}] ()
+[09:18:09.862] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Rejuvenate {812809675866112}] ()
+[09:18:09.876] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4664*)
+[09:18:10.497] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:12.115] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:12.315] [@Pulemetchek] [@Pulemetchek] [Full Auto {801290573578240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:12.315] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:18:12.315] [@Pulemetchek] [@Mallender] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2934 energy {836045448940874}) <2934>
+[09:18:12.605] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:18:12.605] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:18:12.689] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4212 kinetic {836045448940873}) <4212>
+[09:18:12.787] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1486*)
+[09:18:13.300] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:18:13.300] [@Pulemetchek] [@Mallender] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2858 energy {836045448940874}) <2858>
+[09:18:14.305] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:18:14.305] [@Pulemetchek] [@Mallender] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2991 energy {836045448940874}) <2991>
+[09:18:15.212] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:18:15.212] [@Pulemetchek] [@Mallender] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3051 energy {836045448940874}) <3051>
+[09:18:15.511] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:15.623] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (915)
+[09:18:17.166] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:17.167] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:17.793] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4345 kinetic {836045448940873}) <4345>
+[09:18:18.452] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1486*)
+[09:18:18.452] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [RemoveEffect {836045448945478}: Rejuvenate {812809675866112}] ()
+[09:18:18.682] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:18:18.701] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:18.703] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:18.706] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:18:18.706] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:18:18.706] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:18:18.706] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:18:19.270] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[09:18:20.147] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:21.632] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:18:21.638] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:21.639] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:18:21.639] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:18:21.639] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:18:22.122] [@Pulemetchek] [@Antaryis] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:18:22.122] [@Pulemetchek] [@Antaryis] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:18:22.274] [@Pulemetchek] [@Antaryis] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3418 kinetic {836045448940873} -shield {836045448945509}) <3418>
+[09:18:22.361] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:22.361] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:22.448] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:18:22.464] [@Pulemetchek] [@Antaryis] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:18:22.467] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:18:22.467] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:18:22.467] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:18:25.764] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:25.764] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:18:25.764] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:18:25.765] [@Pulemetchek] [@Caepastell] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (10315*) <5157>
+[09:18:31.091] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:31.091] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [ApplyEffect {836045448945477}: Recharge and Reload {801333523251200}] ()
+[09:18:32.121] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (7)
+[09:18:32.433] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Force Valor {1781488009871637}] ()
+[09:18:32.433] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[09:18:32.433] [@Pulemetchek] [@Caepastell] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Force Valor {1781488009871637}] ()
+[09:18:32.435] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Force Might {1781488009871651}] ()
+[09:18:32.435] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Might {875503313486141}] ()
+[09:18:32.435] [@Pulemetchek] [@Caepastell] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Force Might {1781488009871651}] ()
+[09:18:32.436] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Fortification {1781488009871360}] ()
+[09:18:32.436] [@Ladykaeden] [@Pulemetchek] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Fortification {875503313486158}] ()
+[09:18:32.436] [@Pulemetchek] [@Caepastell] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Fortification {1781488009871360}] ()
+[09:18:33.119] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (7)
+[09:18:34.108] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (7)
+[09:18:35.111] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (7)
+[09:18:35.112] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [RemoveEffect {836045448945478}: Recharge and Reload {801333523251200}] ()
+[09:18:35.112] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[09:18:37.531] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:18:40.953] [@Pulemetchek] [@Pulemetchek] [Mortar Volley {2292571938226176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:41.546] [@Pulemetchek] [@Caepastell] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Lucky Shots {1781488009871626}] ()
+[09:18:41.552] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:18:42.051] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:18:42.456] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:18:42.948] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:18:43.439] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:18:43.440] [@Pulemetchek] [@Pulemetchek] [Mortar Volley {2292571938226176}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[09:18:44.553] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:44.553] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:45.409] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:18:45.414] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:18:45.415] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:18:45.415] [@Pulemetchek] [@Antaryis] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:18:47.518] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:48.842] [@Pulemetchek] [@Antaryis] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2074 kinetic {836045448940873} -shield {836045448945509}) <2074>
+[09:18:48.842] [@Pulemetchek] [@Antaryis] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:18:48.952] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:18:48.967] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:18:48.967] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:18:48.967] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:18:49.057] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:18:49.063] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:49.063] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:18:49.063] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:18:49.063] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:18:49.064] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:18:49.433] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:49.545] [@Pulemetchek] [@Qwizii] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:18:49.545] [@Pulemetchek] [@Qwizii] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:18:49.653] [@Pulemetchek] [@Qwizii] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4744 kinetic {836045448940873}) <4744>
+[09:18:49.754] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:18:49.770] [@Pulemetchek] [@Qwizii] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:18:49.772] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:18:49.772] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:18:49.773] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:18:50.969] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:18:50.979] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:50.980] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:18:50.980] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:18:50.980] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:18:50.982] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:51.451] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:18:51.451] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:18:51.494] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4532 kinetic {836045448940873}) <4532>
+[09:18:52.445] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[09:18:54.241] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:55.792] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:56.388] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:18:56.388] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:18:56.401] [@Mallender] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7010* energy {836045448940874}) <7010>
+[09:18:56.423] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6743* kinetic {836045448940873}) <6743>
+[09:18:56.575] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:58.191] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:58.414] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force Armor {812736661422080}] ()
+[09:18:58.414] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force-imbalance {812736661422343}] ()
+[09:18:58.415] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:18:58.415] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:18:58.606] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:18:58.652] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6941* kinetic {836045448940873}) <6941>
+[09:18:58.804] [@Pulemetchek] [@Mallender] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6568 energy {836045448940874}) <6568>
+[09:18:59.390] [@Pulemetchek] [@Arekzal] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:19:00.688] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:00.884] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Slowed (Force) {808252715565346}] ()
+[09:19:00.884] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2248 energy {836045448940874} (2248 absorbed {836045448945511})) <2248>
+[09:19:01.096] [@Jodele] [@Pulemetchek] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Heat Signature {985140943651080}] ()
+[09:19:01.097] [@Jodele] [@Pulemetchek] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Sundered (Physical) {985140943651123}] ()
+[09:19:01.097] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [RemoveEffect {836045448945478}: Force Armor {812736661422080}] ()
+[09:19:01.097] [@Jodele] [@Pulemetchek] [Adhesive Supplements {3633804325421056}] [ApplyEffect {836045448945477}: Slowed (Tech) {3633804325421318}] ()
+[09:19:01.098] [@Jodele] [@Pulemetchek] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9160* kinetic {836045448940873} (5723 absorbed {836045448945511})) <9160>
+[09:19:01.873] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2253 energy {836045448940874}) <2253>
+[09:19:02.592] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:19:02.592] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:19:02.593] [@Jodele] [@Pulemetchek] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5807 kinetic {836045448940873}) <5807>
+[09:19:02.681] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:02.781] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [RemoveEffect {836045448945478}: Slowed (Force) {808252715565346}] ()
+[09:19:02.783] [@Pulemetchek] [@Mallender] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:19:03.296] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[09:19:04.217] [@Jodele] [@Pulemetchek] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5748 kinetic {836045448940873}) <5748>
+[09:19:04.499] [@Jodele] [@Pulemetchek] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14175* energy {836045448940874}) <14175>
+[09:19:04.499] [@Jodele] [@Pulemetchek] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (722 energy {836045448940874}) <722>
+[09:19:05.199] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:05.199] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:19:05.412] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Slowed (Physical) {814312914420027}] ()
+[09:19:05.412] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3664 energy {836045448940874}) <3664>
+[09:19:05.413] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (422 energy {836045448940874}) <422>
+[09:19:06.219] [@Pulemetchek] [@Jodele] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:19:06.419] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6922* energy {836045448940874}) <6922>
+[09:19:06.419] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[09:19:07.121] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:07.121] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[09:19:07.132] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4307)
+[09:19:07.639] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Rejuvenate {812809675866112}] ()
+[09:19:07.651] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3226)
+[09:19:08.449] [@Pulemetchek] [@Pulemetchek] [Reactive Shield {801329228283904}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:08.449] [@Pulemetchek] [@Pulemetchek] [Reactive Shield {801329228283904}] [ApplyEffect {836045448945477}: Reactive Shield {801329228284194}] ()
+[09:19:09.471] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [RemoveEffect {836045448945478}: Slowed (Physical) {814312914420027}] ()
+[09:19:09.691] [@Pulemetchek] [@Jodele] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2801 kinetic {836045448940873}) <2801>
+[09:19:09.691] [@Pulemetchek] [@Jodele] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:19:10.205] [@Jodele] [@Pulemetchek] [Adhesive Supplements {3633804325421056}] [RemoveEffect {836045448945478}: Slowed (Tech) {3633804325421318}] ()
+[09:19:10.618] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (915)
+[09:19:10.714] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:12.015] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:19:12.015] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:19:12.016] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3433)
+[09:19:12.018] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:12.229] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (12630*)
+[09:19:13.413] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (915)
+[09:19:13.622] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:19:13.623] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3255)
+[09:19:13.624] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:13.732] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (10560*)
+[09:19:13.912] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[09:19:15.250] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6714)
+[09:19:16.121] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:16.217] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1486*)
+[09:19:16.217] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [RemoveEffect {836045448945478}: Rejuvenate {812809675866112}] ()
+[09:19:16.436] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Rejuvenate {812809675866112}] ()
+[09:19:16.447] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3208)
+[09:19:17.727] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:19:17.727] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:19:17.835] [@Pulemetchek] [@Pulemetchek] [Plasma Grenade {2297266337480704}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:18.449] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:19:18.449] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:19:18.586] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7389* kinetic {836045448940873}) <7389>
+[09:19:19.355] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (915)
+[09:19:19.440] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:19:19.785] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:19.785] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:19:20.601] [@Pulemetchek] [@Pulemetchek] [Reactive Shield {801329228283904}] [RemoveEffect {836045448945478}: Reactive Shield {801329228284194}] ()
+[09:19:20.678] [@Pulemetchek] [@Ciemnogrodzki] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:19:20.893] [@Pulemetchek] [@Ciemnogrodzki] [Plasma Grenade {2297266337480704}] [ApplyEffect {836045448945477}: Radiation Burns {2297266337480962}] ()
+[09:19:20.893] [@Pulemetchek] [@Ciemnogrodzki] [Plasma Grenade {2297266337480704}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1845 kinetic {836045448940873}) <1845>
+[09:19:21.302] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:21.302] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:19:21.592] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:19:21.593] [@Pulemetchek] [@Ciemnogrodzki] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:19:21.593] [@Pulemetchek] [@Ciemnogrodzki] [Plasma Grenade {2297266337480704}] [RemoveEffect {836045448945478}: Radiation Burns {2297266337480962}] ()
+[09:19:21.595] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:19:21.595] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:19:21.688] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:19:21.693] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:19:22.194] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1486*)
+[09:19:25.047] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1486*)
+[09:19:25.047] [@G'irlie] [@Pulemetchek] [Rejuvenate {812809675866112}] [RemoveEffect {836045448945478}: Rejuvenate {812809675866112}] ()
+[09:19:26.862] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:28.165] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:19:28.165] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:19:28.167] [@Pulemetchek] [@Ladykaeden] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4058) <2029>
+[09:19:30.254] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:30.255] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [ApplyEffect {836045448945477}: Recharge and Reload {801333523251200}] ()
+[09:19:31.357] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (7)
+[09:19:32.362] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (7)
+[09:19:33.082] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force Armor {812736661422080}] ()
+[09:19:33.083] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force-imbalance {812736661422343}] ()
+[09:19:33.369] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (7)
+[09:19:33.369] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [RemoveEffect {836045448945478}: Recharge and Reload {801333523251200}] ()
+[09:19:33.370] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[09:19:36.625] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:19:41.923] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:43.455] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:19:43.469] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:19:43.469] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:19:43.469] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:19:43.469] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:19:43.472] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:43.472] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:19:44.150] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:19:44.151] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:19:44.151] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4310 kinetic {836045448940873} (1293 absorbed {836045448945511})) <4310>
+[09:19:44.443] [@Pulemetchek] [@Shootymcgee] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:19:45.475] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [RemoveEffect {836045448945478}: Force Armor {812736661422080}] ()
+[09:19:45.476] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:45.476] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:19:45.717] [@Shootymcgee] [@Pulemetchek] [Ambush {3394042071089152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25513* energy {836045448940874} (7971 absorbed {836045448945511})) <25513>
+[09:19:45.860] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:19:46.129] [@Pulemetchek] [@Shootymcgee] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5786 energy {836045448940874} (1735 absorbed {836045448945511})) <5786>
+[09:19:46.467] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Slowed (Physical) {814312914420027}] ()
+[09:19:46.467] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3743 energy {836045448940874}) <3743>
+[09:19:46.467] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (241 energy {836045448940874}) <241>
+[09:19:46.575] [@Shootymcgee] [@Pulemetchek] [Shatter Shot {987812413308928}] [ApplyEffect {836045448945477}: Trauma (Physical) {987812413309363}] ()
+[09:19:47.130] [@Shootymcgee] [@Pulemetchek] [Snipe {814892735004672}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6977 energy {836045448940874}) <6977>
+[09:19:47.465] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4071 energy {836045448940874}) <4071>
+[09:19:47.465] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (661* energy {836045448940874}) <661>
+[09:19:47.872] [@Pulemetchek] [@Shootymcgee] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2566 kinetic {836045448940873} (769 absorbed {836045448945511})) <2566>
+[09:19:47.873] [@Pulemetchek] [@Shootymcgee] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:19:48.139] [@Shootymcgee] [@Pulemetchek] [Shatter Shot {987812413308928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2443 energy {836045448940874}) <2443>
+[09:19:48.464] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3853 energy {836045448940874}) <3853>
+[09:19:48.464] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (435* energy {836045448940874}) <435>
+[09:19:49.290] [@Jodele] [@Pulemetchek] [Tracer Missile {985140943650816}] [RemoveEffect {836045448945478}: Sundered (Physical) {985140943651123}] ()
+[09:19:49.290] [@Pulemetchek] [@Pulemetchek] [Tenacity {801372177956864}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:49.290] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [RemoveEffect {836045448945478}: Slowed (Physical) {814312914420027}] ()
+[09:19:49.388] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Slowed (Physical) {814312914420027}] ()
+[09:19:49.388] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6949* energy {836045448940874}) <6949>
+[09:19:49.389] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[09:19:49.987] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:49.987] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[09:19:49.997] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3088)
+[09:19:51.096] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (8299*)
+[09:19:51.415] [@Ciemnogrodzki] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5450 energy {836045448940874}) <5450>
+[09:19:51.498] [@Jodele] [@Pulemetchek] [Missile Blast {814261374812160}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5477 kinetic {836045448940873}) <5477>
+[09:19:51.837] [@Ciemnogrodzki] [@Pulemetchek] [Shock (Chain Shock) {808308550140663}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2176* energy {836045448940874}) <2176>
+[09:19:52.386] [@Jodele] [@Pulemetchek] [Unload {814312914419712}] [RemoveEffect {836045448945478}: Slowed (Physical) {814312914420027}] ()
+[09:19:52.593] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5517)
+[09:19:52.989] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:54.103] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5814)
+[09:19:54.494] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:19:54.495] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2405)
+[09:19:55.601] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:55.611] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5200)
+[09:19:56.648] [@Shootymcgee] [@Pulemetchek] [Shatter Shot {987812413308928}] [RemoveEffect {836045448945478}: Trauma (Physical) {987812413309363}] ()
+[09:19:57.201] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:19:57.201] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3110)
+[09:19:57.202] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:19:57.216] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7041)
+[09:19:58.714] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (18)
+[09:19:58.715] [@Pulemetchek] [@Pulemetchek] [Medical Probe {996904859074560}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4592*)
+[09:20:00.408] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:01.926] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:20:01.926] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:20:02.244] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:20:02.244] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:20:02.304] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7365* kinetic {836045448940873}) <7365>
+[09:20:02.541] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:02.541] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:20:02.753] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:20:02.755] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:20:02.888] [@Pulemetchek] [@Ciemnogrodzki] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5980 energy {836045448940874}) <5980>
+[09:20:02.888] [@Pulemetchek] [@Ciemnogrodzki] [] [Event {836045448945472}: Death {836045448945493}] ()
+[09:20:03.057] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:20:03.061] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:20:03.061] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:20:03.062] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:20:04.055] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:04.055] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:20:04.749] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:20:04.753] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:20:04.754] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:20:04.754] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:20:04.755] [@Pulemetchek] [@Arekzal] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:20:06.749] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:08.132] [@Jodele] [@Pulemetchek] [Missile Blast {814261374812160}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5458 kinetic {836045448940873}) <5458>
+[09:20:08.165] [@Pulemetchek] [@Arekzal] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2593 kinetic {836045448940873}) <2593>
+[09:20:08.166] [@Pulemetchek] [@Arekzal] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:20:08.774] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[09:20:11.315] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:11.315] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:20:12.207] [@Pulemetchek] [@Shootymcgee] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6588* kinetic {836045448940873}) <6588>
+[09:20:13.818] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:13.818] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:20:14.706] [@Pulemetchek] [@Shootymcgee] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3997 kinetic {836045448940873} (3997 absorbed {836045448945511})) <3997>
+[09:20:15.341] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:15.341] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:20:15.921] [@Jodele] [@Pulemetchek] [Missile Blast {814261374812160}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5387 kinetic {836045448940873}) <5387>
+[09:20:16.151] [@Pulemetchek] [@Shootymcgee] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3994 kinetic {836045448940873}) <3994>
+[09:20:17.139] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:17.140] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:20:17.291] [@Jodele] [@Pulemetchek] [Missile Blast {814261374812160}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5579 kinetic {836045448940873}) <5579>
+[09:20:17.843] [@Pulemetchek] [@Jodele] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6347* kinetic {836045448940873}) <6347>
+[09:20:17.843] [@Pulemetchek] [@Jodele] [] [Event {836045448945472}: Death {836045448945493}] ()
+[09:20:18.484] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force Armor {812736661422080}] ()
+[09:20:18.484] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force-imbalance {812736661422343}] ()
+[09:20:21.258] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:21.258] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (10)
+[09:20:21.272] [@Pulemetchek] [@Pulemetchek] [Bacta Infusion {3412772423467008}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3736)
+[09:20:24.387] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:25.903] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:20:25.903] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:20:25.995] [@Pulemetchek] [@Pulemetchek] [Recharge Cells {1991194083065856}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:25.996] [@Pulemetchek] [@Pulemetchek] [Recharge Cells {1991194083065856}] [ApplyEffect {836045448945477}: Recharge Cells {1991194083065856}] ()
+[09:20:26.482] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (30)
+[09:20:26.504] [@Pulemetchek] [@Keraon] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:20:26.504] [@Pulemetchek] [@Keraon] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:20:26.611] [@Pulemetchek] [@Keraon] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4541 kinetic {836045448940873}) <4541>
+[09:20:27.517] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (10)
+[09:20:27.631] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:27.631] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:20:28.057] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:20:28.186] [@Pulemetchek] [@Keraon] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6902 energy {836045448940874}) <6902>
+[09:20:28.451] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:20:28.467] [@Pulemetchek] [@Keraon] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:20:28.468] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:20:28.468] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:20:28.469] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:20:28.927] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (10)
+[09:20:28.927] [@Pulemetchek] [@Pulemetchek] [Recharge Cells {1991194083065856}] [RemoveEffect {836045448945478}: Recharge Cells {1991194083065856}] ()
+[09:20:29.228] [@Pulemetchek] [@Shootymcgee] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:20:31.446] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:31.446] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [ApplyEffect {836045448945477}: Recharge and Reload {801333523251200}] ()
+[09:20:32.540] [@Pulemetchek] [@Pulemetchek] [] [Restore {836045448945476}: energy {836045448938503}] (7)
+[09:20:33.350] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [RemoveEffect {836045448945478}: Recharge and Reload {801333523251200}] ()
+[09:20:33.350] [@Pulemetchek] [@Pulemetchek] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[09:20:35.764] [@Pulemetchek] [@Pulemetchek] [Mortar Volley {2292571938226176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:36.371] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:20:36.867] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:20:36.874] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:20:36.874] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:20:36.874] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:20:36.875] [@Pulemetchek] [@Mallender] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2268* kinetic {836045448940873}) <2268>
+[09:20:36.875] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2651* kinetic {836045448940873} (2651 absorbed {836045448945511})) <2651>
+[09:20:36.876] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:20:37.373] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:20:37.373] [@Pulemetchek] [@Mallender] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1437 kinetic {836045448940873}) <1437>
+[09:20:37.374] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1644 kinetic {836045448940873} (1644 absorbed {836045448945511})) <1644>
+[09:20:37.781] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:20:37.875] [@Pulemetchek] [@Mallender] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2582* kinetic {836045448940873}) <2582>
+[09:20:37.875] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1676 kinetic {836045448940873} (1676 absorbed {836045448945511})) <1676>
+[09:20:38.263] [@Pulemetchek] [@Ciemnogrodzki] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1706 kinetic {836045448940873} (1706 absorbed {836045448945511})) <1706>
+[09:20:38.265] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:20:38.591] [@Mallender] [@Pulemetchek] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7279* energy {836045448940874} (7279 absorbed {836045448945511})) <7279>
+[09:20:38.770] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:20:39.374] [@Pulemetchek] [@Pulemetchek] [Explosive Round {801277688676352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:39.375] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (20)
+[09:20:39.917] [@Pulemetchek] [@Mallender] [Explosive Round {801277688676352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6293* kinetic {836045448940873}) <6293>
+[09:20:40.891] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:40.892] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:20:41.393] [@Pulemetchek] [@Mallender] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:20:42.405] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Slowed (Force) {808252715565346}] ()
+[09:20:42.406] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [RemoveEffect {836045448945478}: Force Armor {812736661422080}] ()
+[09:20:42.406] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2291 energy {836045448940874} (692 absorbed {836045448945511})) <2291>
+[09:20:42.615] [@Pulemetchek] [@Pulemetchek] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:42.615] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:20:42.824] [@Mallender] [@Pulemetchek] [Force Lightning {808252715565056}] [RemoveEffect {836045448945478}: Slowed (Force) {808252715565346}] ()
+[09:20:42.828] [@Pulemetchek] [@Mallender] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:20:47.017] [@Pulemetchek] [@Pulemetchek] [Grav Round {1202535008305152}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:48.528] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:20:48.528] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [ApplyEffect {836045448945477}: Charged Barrel {998219119067136}] ()
+[09:20:48.843] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Gravity Vortex {1202535008305422}] ()
+[09:20:48.843] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Sundered (Physical) {1202535008305434}] ()
+[09:20:48.843] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4505 kinetic {836045448940873}) <4505>
+[09:20:48.844] [@Pulemetchek] [@Pulemetchek] [Full Auto {801290573578240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:48.844] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:20:48.844] [@Pulemetchek] [@Ciemnogrodzki] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3267 energy {836045448940874}) <3267>
+[09:20:48.939] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force Armor {812736661422080}] ()
+[09:20:48.940] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force-imbalance {812736661422343}] ()
+[09:20:49.842] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:20:49.842] [@Pulemetchek] [@Ciemnogrodzki] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3068 energy {836045448940874}) <3068>
+[09:20:50.844] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (6)
+[09:20:50.844] [@Pulemetchek] [@Ciemnogrodzki] [Full Auto {801290573578240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3232 energy {836045448940874}) <3232>
+[09:20:51.647] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:20:51.657] [@Pulemetchek] [@Ciemnogrodzki] [Grav Round {1202535008305152}] [RemoveEffect {836045448945478}: Sundered (Physical) {1202535008305434}] ()
+[09:20:51.657] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:20:51.658] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:20:51.658] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:20:51.963] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (12972*) <5837>
+[09:20:53.870] [@G'irlie] [@Pulemetchek] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (10238*) <4607>
+[09:20:56.687] [@Pulemetchek] [@Pulemetchek] [Concussion Charge {801264803774464}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:56.687] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[09:20:57.094] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[09:20:57.098] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[09:20:57.098] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[09:20:57.099] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[09:20:57.099] [@Pulemetchek] [@Jodele] [Concussion Charge {801264803774464}] [ApplyEffect {836045448945477}: Slowed {801264803774734}] ()
+[09:20:57.099] [@Pulemetchek] [@Jodele] [Concussion Charge {801264803774464}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1014 elemental {836045448940875}) <1014>
+[09:20:59.812] [@Pulemetchek] [@Pulemetchek] [Sticky Grenade {801363588022272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:20:59.813] [@Pulemetchek] [@Pulemetchek] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[09:21:00.921] [@Pulemetchek] [@Jodele] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Sticky Grenade {801363588022272}] ()
+[09:21:01.142] [@Pulemetchek] [@Jodele] [Concussion Charge {801264803774464}] [RemoveEffect {836045448945478}: Slowed {801264803774734}] ()
+[09:21:02.525] [] [@Pulemetchek] [Frozen {2854697257926656}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (41682)
+[09:21:03.592] [@Pulemetchek] [@Pulemetchek] [Charged Barrel {998219119067136}] [RemoveEffect {836045448945478}: Charged Barrel {998219119067136}] ()
+[09:21:04.418] [@Pulemetchek] [@Pulemetchek] [Rebirth {773652459028480}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (47361)
+[09:21:04.474] [@Pulemetchek] [@Jodele] [Sticky Grenade {801363588022272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4289* kinetic {836045448940873}) <4289>
+[09:21:04.474] [@Pulemetchek] [@Jodele] [Sticky Grenade {801363588022272}] [RemoveEffect {836045448945478}: Sticky Grenade {801363588022272}] ()
+[09:21:15.106] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[09:21:15.111] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[09:21:15.112] [@Pulemetchek] [@Pulemetchek] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[09:21:15.112] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:21:17.312] [@G'irlie] [@Pulemetchek] [Force Armor {812736661422080}] [RemoveEffect {836045448945478}: Force Armor {812736661422080}] ()
+[09:21:29.146] [@Pulemetchek] [@Pulemetchek] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Fortification {875503313486158}] ()
+[09:21:29.146] [@Pulemetchek] [@Pulemetchek] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[09:21:29.147] [@Pulemetchek] [@Pulemetchek] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Might {875503313486141}] ()
+[09:21:29.148] [@Pulemetchek] [@Pulemetchek] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[09:21:29.148] [@Pulemetchek] [@Pulemetchek] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[09:21:29.312] [@Pulemetchek] [@Pulemetchek] [Plasma Cell {1202324554907648}] [ApplyEffect {836045448945477}: Plasma Cell {1202324554907648}] ()
+[09:21:29.313] [@Pulemetchek] [@Pulemetchek] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[09:21:40.636] [@Pulemetchek] [@Pulemetchek] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[09:21:40.636] [@Pulemetchek:Aric Jorgan {493337123487744}] [@Pulemetchek:Aric Jorgan {493337123487744}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[09:37:11.516] [@Pulemetchek] [@Pulemetchek] [Examining... {811323617181696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[09:37:14.986] [@Pulemetchek] [@Pulemetchek] [] [Event {836045448945472}: GainXp {836045448945491}] (90)
+[09:38:31.559] [@Pulemetchek] [@Pulemetchek] [Examining... {811323617181696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()

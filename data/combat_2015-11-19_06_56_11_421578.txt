@@ -1,0 +1,722 @@
+[06:56:21.646] [@Staboflove] [@Staboflove] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[06:56:22.031] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[06:56:22.031] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Surging Charge {948659491438592}] ()
+[06:56:42.540] [@Staboflove] [@Staboflove] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[06:56:42.541] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[06:57:09.866] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[06:57:09.867] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Mark of Power {952795544944640}] ()
+[06:57:09.867] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Mark of Power {952795544944640}] ()
+[06:57:09.868] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Coordination {952795544945165}] ()
+[06:57:09.868] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Coordination {952795544945165}] ()
+[06:57:09.869] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Hunter's Boon {952795544945169}] ()
+[06:57:09.869] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Hunter's Boon {952795544945169}] ()
+[06:57:09.869] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Unnatural Might {952795544945173}] ()
+[06:57:09.869] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Unnatural Might {952795544945173}] ()
+[06:57:09.883] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Protective Barrier {3590167457693696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[06:57:09.883] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Protective Barrier {3590167457693696}] [ApplyEffect {836045448945477}: Protective Barrier {3590167457693696}] ()
+[06:57:12.261] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[06:57:12.272] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5027*) <911>
+[06:57:13.646] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[06:57:13.647] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Mending {3590163162726400}] ()
+[06:57:13.647] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1943*) <573>
+[06:57:16.537] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1213)
+[06:57:19.337] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1943*)
+[06:57:22.189] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1213)
+[06:57:22.190] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [RemoveEffect {836045448945478}: Mending {3590163162726400}] ()
+[06:58:26.855] [@Staboflove] [@Staboflove:T7-O1 {3604117511471104}] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Mark of Power {952795544944640}] ()
+[06:58:26.856] [@Staboflove] [@Staboflove:T7-O1 {3604117511471104}] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Coordination {952795544945165}] ()
+[06:58:26.856] [@Staboflove] [@Staboflove:T7-O1 {3604117511471104}] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Hunter's Boon {952795544945169}] ()
+[06:58:26.857] [@Staboflove] [@Staboflove:T7-O1 {3604117511471104}] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Unnatural Might {952795544945173}] ()
+[06:58:28.318] [@Staboflove:T7-O1 {3604117511471104}] [@Staboflove:T7-O1 {3604117511471104}] [Preventative Protocol {3569555909640192}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[06:58:28.318] [@Staboflove:T7-O1 {3604117511471104}] [@Staboflove:T7-O1 {3604117511471104}] [Preventative Protocol {3569555909640192}] [ApplyEffect {836045448945477}: Preventative Protocol {3569555909640192}] ()
+[06:58:29.824] [@Staboflove:T7-O1 {3604117511471104}] [@Staboflove:T7-O1 {3604117511471104}] [Quick Kolto Burst {3569461420359680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[06:58:29.825] [@Staboflove:T7-O1 {3604117511471104}] [@Staboflove:T7-O1 {3604117511471104}] [Quick Kolto Burst {3569461420359680}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3593) <1218>
+[06:59:47.950] [@Staboflove] [@Staboflove] [Heroic Transport {3669937885282304}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:00:03.472] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Coordination {952795544945165}] ()
+[07:00:03.473] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Mark of Power {952795544944640}] ()
+[07:00:03.473] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Unnatural Might {952795544945173}] ()
+[07:00:03.474] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Hunter's Boon {952795544945169}] ()
+[07:00:03.474] [@Staboflove] [@Staboflove] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[07:00:03.582] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:00:03.583] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Surging Charge {948659491438592}] ()
+[07:00:11.893] [@Staboflove] [@Staboflove] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[07:00:11.893] [@Staboflove:T7-O1 {3604117511471104}] [@Staboflove:T7-O1 {3604117511471104}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[07:00:35.230] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:00:35.230] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Stealth {808317140074496}] ()
+[07:00:35.231] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Stealth {808317140074496}] ()
+[07:00:35.232] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074769}] ()
+[07:00:40.847] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:00:40.919] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Stealth {808317140074496}] ()
+[07:00:40.919] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074771}] ()
+[07:00:40.919] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074769}] ()
+[07:00:40.920] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:00:40.921] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Stealth {808317140074496}] ()
+[07:00:40.921] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:00:40.921] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:00:40.921] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[07:00:40.921] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:00:40.922] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [ApplyEffect {836045448945477}: Power Surge {3405123086712832}] ()
+[07:00:40.922] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [ApplyEffect {836045448945477}: Mastery Surge {3405097316909056}] ()
+[07:00:40.923] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [ApplyEffect {836045448945477}: Duplicity {949110463004672}] ()
+[07:00:40.924] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Static Charge {948659491438915}] ()
+[07:00:40.924] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [ApplyEffect {836045448945477}: Entropic Field {3410019349430272}] ()
+[07:00:40.924] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Saber Conduit {808626377719808}] ()
+[07:00:40.924] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [ApplyEffect {836045448945477}: Exploitive Strikes {3420357335711744}] ()
+[07:00:40.925] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444159] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (155* internal {836045448940876}) <155>
+[07:00:40.926] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Voltage {975584641417477}] ()
+[07:00:41.121] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444159] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (186 energy {836045448940874}) <186>
+[07:00:41.240] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444159] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (191 energy {836045448940874}) <191>
+[07:00:41.655] [Mind-Controlled Trooper {800122342473728}:120064444159] [@Staboflove] [Explosive Round {827176341471232}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 kinetic {836045448940873}) <31>
+[07:00:41.890] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:00:42.017] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Protective Barrier {3590167457693696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:00:42.017] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Protective Barrier {3590167457693696}] [ApplyEffect {836045448945477}: Protective Barrier {3590167457693696}] ()
+[07:00:42.467] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:00:42.467] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:00:42.645] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444159] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (191 energy {836045448940874}) <191>
+[07:00:42.824] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444159] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (188 energy {836045448940874}) <188>
+[07:00:42.975] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:00:43.133] [Mind-Controlled Trooper {800122342473728}:120064444159] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874} (7 absorbed {836045448945511})) <7>
+[07:00:43.133] [Mind-Controlled Trooper {800122342473728}:120064444159] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6 energy {836045448940874} (6 absorbed {836045448945511})) <6>
+[07:00:43.158] [Mind-Controlled Trooper {800122342473728}:120064444159] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874} (7 absorbed {836045448945511})) <7>
+[07:00:43.158] [Mind-Controlled Trooper {800122342473728}:120064444159] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6 energy {836045448940874} (6 absorbed {836045448945511})) <6>
+[07:00:43.297] [Mind-Controlled Trooper {800122342473728}:120064444159] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874} (7 absorbed {836045448945511})) <7>
+[07:00:43.298] [Mind-Controlled Trooper {800122342473728}:120064444159] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6 energy {836045448940874} (6 absorbed {836045448945511})) <6>
+[07:00:43.321] [Mind-Controlled Trooper {800122342473728}:120064444159] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6 energy {836045448940874} (6 absorbed {836045448945511})) <6>
+[07:00:43.607] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:00:43.613] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Soothe {3590158867759104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (101) <15>
+[07:00:43.911] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:00:44.024] [@Staboflove] [@Staboflove] [Saber Strike {947495555301376}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:00:44.025] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444159] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (96* energy {836045448940874}) <96>
+[07:00:44.236] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444159] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (90* energy {836045448940874}) <90>
+[07:00:44.787] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444159] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (98* energy {836045448940874}) <98>
+[07:00:45.004] [Mind-Controlled Trooper {800122342473728}:120064444159] [@Staboflove] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 energy {836045448940874} (19 absorbed {836045448945511})) <19>
+[07:00:45.406] [Mind-Controlled Trooper {800122342473728}:120064444159] [@Staboflove] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 energy {836045448940874} (21 absorbed {836045448945511})) <21>
+[07:00:45.450] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Trooper {800122342473728}:120064444159] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (45 energy {836045448940874}) <45>
+[07:00:45.606] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:00:45.645] [@Staboflove] [@Staboflove] [Saber Strike {947495555301376}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:00:45.646] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444159] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (58 energy {836045448940874}) <58>
+[07:00:45.646] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:00:45.677] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Trooper {800122342473728}:120064444159] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (47 energy {836045448940874}) <47>
+[07:00:46.118] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444159] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (58 energy {836045448940874}) <58>
+[07:00:46.118] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444159] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:00:46.955] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074771}] ()
+[07:00:46.956] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [RemoveEffect {836045448945478}: Power Surge {3405123086712832}] ()
+[07:00:46.956] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [RemoveEffect {836045448945478}: Mastery Surge {3405097316909056}] ()
+[07:00:47.816] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:00:47.860] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:00:47.860] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:00:47.861] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:00:47.918] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:00:48.050] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444191] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (184 energy {836045448940874}) <184>
+[07:00:48.207] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444191] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (297* energy {836045448940874}) <297>
+[07:00:48.616] [Mind-Controlled Trooper {800122342473728}:120064444191] [@Staboflove] [Explosive Round {827176341471232}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (34 kinetic {836045448940873} (34 absorbed {836045448945511})) <34>
+[07:00:48.867] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:00:49.166] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Trooper {800122342473728}:120064444191] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (48 energy {836045448940874}) <48>
+[07:00:49.413] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:00:49.423] [@Staboflove] [@Staboflove] [Ball Lightning {3408941312638976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:00:49.423] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (16)
+[07:00:49.423] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[07:00:49.423] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:00:49.426] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444191] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (103 internal {836045448940876}) <103>
+[07:00:49.426] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444191] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:00:49.521] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Trooper {800122342473728}:120064444191] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (50 energy {836045448940874}) <50>
+[07:00:49.620] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444191] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (727* energy {836045448940874}) <727>
+[07:00:49.888] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:00:49.888] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [RemoveEffect {836045448945478}: Saber Conduit {808626377719808}] ()
+[07:00:55.931] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [RemoveEffect {836045448945478}: Duplicity {949110463004672}] ()
+[07:00:59.563] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [RemoveEffect {836045448945478}: Exploitive Strikes {3420357335711744}] ()
+[07:01:02.029] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Protective Barrier {3590167457693696}] [RemoveEffect {836045448945478}: Protective Barrier {3590167457693696}] ()
+[07:01:04.449] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [RemoveEffect {836045448945478}: Entropic Field {3410019349430272}] ()
+[07:01:05.897] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:05.897] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Stealth {808317140074496}] ()
+[07:01:05.898] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Stealth {808317140074496}] ()
+[07:01:05.899] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074769}] ()
+[07:01:08.899] [@Staboflove] [@Staboflove] [Mind Trap {808274190401536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:08.899] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (50)
+[07:01:08.900] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444613] [Mind Trap {808274190401536}] [ApplyEffect {836045448945477}: Asleep (Mental) {808274190401792}] ()
+[07:01:19.448] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [RemoveEffect {836045448945478}: Static Charge {948659491438915}] ()
+[07:01:22.162] [Mind-Controlled Engineer {800156702212096}:120064444223] [@Staboflove] [] [Event {836045448945472}: BecomeSuspicious {836045448945497}] ()
+[07:01:24.478] [Mind-Controlled Engineer {800156702212096}:120064444223] [@Staboflove] [] [Event {836045448945472}: NoLongerSuspicious {836045448945498}] ()
+[07:01:30.492] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:01:30.506] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Stealth {808317140074496}] ()
+[07:01:30.507] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074771}] ()
+[07:01:30.507] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074769}] ()
+[07:01:30.508] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:01:30.508] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Stealth {808317140074496}] ()
+[07:01:30.508] [@Staboflove] [@Staboflove] [Maul {808269895434240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:30.508] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (40)
+[07:01:30.509] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[07:01:30.509] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:01:30.509] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444223] [Maul {808269895434240}] [ApplyEffect {836045448945477}: Sundered (Physical) {808269895434541}] ()
+[07:01:30.509] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444223] [Maul {808269895434240}] [RemoveEffect {836045448945478}: Sundered (Physical) {808269895434541}] ()
+[07:01:30.510] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [ApplyEffect {836045448945477}: Power Surge {3405123086712832}] ()
+[07:01:30.511] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [ApplyEffect {836045448945477}: Duplicity {949110463004672}] ()
+[07:01:30.511] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [ApplyEffect {836045448945477}: Entropic Field {3410019349430272}] ()
+[07:01:30.571] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444223] [Maul {808269895434240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (938* energy {836045448940874}) <938>
+[07:01:30.571] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444223] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:01:31.255] [Mind-Controlled Engineer {800156702212096}:120064444255] [@Staboflove] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:01:31.266] [Mind-Controlled Engineer {800156702212096}:120064444255] [@Staboflove] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 energy {836045448940874}) <14>
+[07:01:32.318] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Protective Barrier {3590167457693696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:32.318] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Protective Barrier {3590167457693696}] [ApplyEffect {836045448945477}: Protective Barrier {3590167457693696}] ()
+[07:01:32.800] [Mind-Controlled Engineer {800156702212096}:120064444255] [@Staboflove] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874} (31 absorbed {836045448945511})) <31>
+[07:01:32.925] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:32.925] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:01:32.926] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Voltage {975584641417477}] ()
+[07:01:33.123] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444255] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (202 energy {836045448940874}) <202>
+[07:01:33.382] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444255] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (317* energy {836045448940874}) <317>
+[07:01:33.382] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444255] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:01:33.749] [Mind-Controlled Engineer {800156702212096}:120064444126] [@Staboflove] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 energy {836045448940874} (24 absorbed {836045448945511})) <24>
+[07:01:34.432] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Dark Tempest {3696278919708672}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:34.432] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Engineer {800156702212096}:120064444126] [Dark Tempest {3696278919708672}] [ApplyEffect {836045448945477}: Dark Tempest (Force) {3696278919708950}] ()
+[07:01:34.580] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:34.580] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:01:34.752] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444126] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (196 energy {836045448940874}) <196>
+[07:01:34.941] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [ApplyEffect {836045448945477}: Mastery Surge {3405097316909056}] ()
+[07:01:34.942] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444126] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (193 energy {836045448940874}) <193>
+[07:01:35.968] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:35.973] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Soothe {3590158867759104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (117) <7>
+[07:01:36.318] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:01:36.380] [@Staboflove] [@Staboflove] [Ball Lightning {3408941312638976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:36.380] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (16)
+[07:01:36.381] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[07:01:36.385] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Engineer {800156702212096}:120064444126] [Dark Tempest {3696278919708672}] [ApplyEffect {836045448945477}: Grounded {3696278919708956}] ()
+[07:01:36.386] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Engineer {800156702212096}:120064444126] [Dark Tempest {3696278919708672}] [RemoveEffect {836045448945478}: Dark Tempest (Force) {3696278919708950}] ()
+[07:01:36.387] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:01:36.390] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Engineer {800156702212096}:120064444126] [Dark Tempest {3696278919708672}] [RemoveEffect {836045448945478}: Grounded {3696278919708956}] ()
+[07:01:36.477] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444126] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (436 energy {836045448940874}) <436>
+[07:01:36.477] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444126] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:01:36.557] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074771}] ()
+[07:01:36.557] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [RemoveEffect {836045448945478}: Power Surge {3405123086712832}] ()
+[07:01:41.012] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [RemoveEffect {836045448945478}: Mastery Surge {3405097316909056}] ()
+[07:01:41.410] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:01:41.431] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:01:41.843] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:41.843] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:01:41.843] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[07:01:41.844] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Static Charge {948659491438915}] ()
+[07:01:41.844] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Saber Conduit {808626377719808}] ()
+[07:01:41.845] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444581] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (98 internal {836045448940876}) <98>
+[07:01:42.044] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444581] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (192 energy {836045448940874}) <192>
+[07:01:42.330] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444581] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (190 energy {836045448940874}) <190>
+[07:01:42.332] [Mind-Controlled Trooper {800122342473728}:120064444581] [@Staboflove] [Explosive Round {827176341471232}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (38 kinetic {836045448940873} (38 absorbed {836045448945511})) <38>
+[07:01:42.934] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:01:43.318] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Trooper {800122342473728}:120064444581] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (47 energy {836045448940874}) <47>
+[07:01:43.435] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:43.435] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:01:43.567] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Trooper {800122342473728}:120064444581] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (51 energy {836045448940874}) <51>
+[07:01:43.668] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444581] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (182 energy {836045448940874}) <182>
+[07:01:43.756] [Mind-Controlled Trooper {800122342473728}:120064444581] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874} (7 absorbed {836045448945511})) <7>
+[07:01:43.756] [Mind-Controlled Trooper {800122342473728}:120064444581] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874} (9 absorbed {836045448945511})) <9>
+[07:01:43.768] [Mind-Controlled Trooper {800122342473728}:120064444581] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874} (8 absorbed {836045448945511})) <8>
+[07:01:43.769] [Mind-Controlled Trooper {800122342473728}:120064444581] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874} (9 absorbed {836045448945511})) <9>
+[07:01:43.794] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444581] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (298* energy {836045448940874}) <298>
+[07:01:43.893] [Mind-Controlled Trooper {800122342473728}:120064444581] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874} (9 absorbed {836045448945511})) <9>
+[07:01:43.894] [Mind-Controlled Trooper {800122342473728}:120064444581] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:01:43.909] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:01:43.913] [Mind-Controlled Trooper {800122342473728}:120064444581] [@Staboflove] [Hammer Shot {811860488093696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874} (10 absorbed {836045448945511})) <10>
+[07:01:44.819] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Trooper {800122342473728}:120064444581] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (50 energy {836045448940874}) <50>
+[07:01:44.910] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:01:45.066] [@Staboflove] [@Staboflove] [Ball Lightning {3408941312638976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:45.067] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (16)
+[07:01:45.067] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[07:01:45.157] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444581] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (413 energy {836045448940874}) <413>
+[07:01:45.157] [@Staboflove] [Mind-Controlled Trooper {800122342473728}:120064444581] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:01:45.158] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Trooper {800122342473728}:120064444581] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (45 energy {836045448940874}) <45>
+[07:01:45.864] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:01:46.981] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:01:47.966] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:01:47.975] [@Staboflove] [@Staboflove] [Maul {808269895434240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:01:47.976] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (10)
+[07:01:47.976] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[07:01:47.976] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444613] [Maul {808269895434240}] [ApplyEffect {836045448945477}: Sundered (Physical) {808269895434541}] ()
+[07:01:47.976] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444613] [Mind Trap {808274190401536}] [RemoveEffect {836045448945478}: Asleep (Mental) {808274190401792}] ()
+[07:01:47.976] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444613] [Maul {808269895434240}] [RemoveEffect {836045448945478}: Sundered (Physical) {808269895434541}] ()
+[07:01:47.976] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:01:47.977] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [RemoveEffect {836045448945478}: Duplicity {949110463004672}] ()
+[07:01:48.059] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444613] [Maul {808269895434240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (593 energy {836045448940874}) <593>
+[07:01:48.059] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444613] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:01:48.125] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:01:48.850] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (0)
+[07:01:50.930] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [RemoveEffect {836045448945478}: Saber Conduit {808626377719808}] ()
+[07:01:52.398] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Protective Barrier {3590167457693696}] [RemoveEffect {836045448945478}: Protective Barrier {3590167457693696}] ()
+[07:01:58.836] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [RemoveEffect {836045448945478}: Entropic Field {3410019349430272}] ()
+[07:02:02.944] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[07:02:11.659] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:11.659] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Stealth {808317140074496}] ()
+[07:02:11.660] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Stealth {808317140074496}] ()
+[07:02:11.661] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074769}] ()
+[07:02:14.123] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:02:14.177] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Stealth {808317140074496}] ()
+[07:02:14.177] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074771}] ()
+[07:02:14.177] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074769}] ()
+[07:02:14.178] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:02:14.179] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Stealth {808317140074496}] ()
+[07:02:14.179] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:14.179] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:02:14.179] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[07:02:14.180] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:02:14.180] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [ApplyEffect {836045448945477}: Duplicity {949110463004672}] ()
+[07:02:14.180] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [ApplyEffect {836045448945477}: Entropic Field {3410019349430272}] ()
+[07:02:14.181] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Static Charge {948659491438915}] ()
+[07:02:14.181] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Saber Conduit {808626377719808}] ()
+[07:02:14.181] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [ApplyEffect {836045448945477}: Exploitive Strikes {3420357335711744}] ()
+[07:02:14.182] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444379] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (155* internal {836045448940876}) <155>
+[07:02:14.182] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Voltage {975584641417477}] ()
+[07:02:14.345] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444379] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (306* energy {836045448940874}) <306>
+[07:02:14.564] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444379] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (330* energy {836045448940874}) <330>
+[07:02:14.564] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444379] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:02:15.279] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:02:15.997] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:15.997] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:02:16.210] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:02:16.230] [@Staboflove] [Damaged Guard Droid {757305813499904}:120064444333] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (197 energy {836045448940874}) <197>
+[07:02:16.408] [@Staboflove] [Damaged Guard Droid {757305813499904}:120064444333] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (202 energy {836045448940874}) <202>
+[07:02:17.182] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:02:17.236] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:02:17.296] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:02:17.319] [Damaged Guard Droid {757305813499904}:120064444333] [@Staboflove] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:02:17.533] [@Staboflove:Lana Beniko {3600471084236800}] [Damaged Guard Droid {757305813499904}:120064444333] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (56 energy {836045448940874}) <56>
+[07:02:17.533] [@Staboflove:Lana Beniko {3600471084236800}] [Damaged Guard Droid {757305813499904}:120064444333] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:02:20.269] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074771}] ()
+[07:02:23.226] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [RemoveEffect {836045448945478}: Saber Conduit {808626377719808}] ()
+[07:02:24.395] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [RemoveEffect {836045448945478}: Exploitive Strikes {3420357335711744}] ()
+[07:02:29.212] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [RemoveEffect {836045448945478}: Duplicity {949110463004672}] ()
+[07:02:29.327] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:29.327] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Stealth {808317140074496}] ()
+[07:02:29.328] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Stealth {808317140074496}] ()
+[07:02:29.329] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074769}] ()
+[07:02:29.670] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [RemoveEffect {836045448945478}: Entropic Field {3410019349430272}] ()
+[07:02:31.213] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[07:02:32.292] [Mind-Controlled Engineer {800156702212096}:120064444896] [@Staboflove] [] [Event {836045448945472}: BecomeSuspicious {836045448945497}] ()
+[07:02:34.442] [Mind-Controlled Engineer {800156702212096}:120064444896] [@Staboflove] [] [Event {836045448945472}: NoLongerSuspicious {836045448945498}] ()
+[07:02:43.187] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:02:43.243] [@Staboflove] [@Staboflove:Lana Beniko {3600471084236800}] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Stealth {808317140074496}] ()
+[07:02:43.243] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [ApplyEffect {836045448945477}: Dark Embrace {808317140074771}] ()
+[07:02:43.243] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074769}] ()
+[07:02:43.244] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:02:43.245] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Stealth {808317140074496}] ()
+[07:02:43.245] [@Staboflove] [@Staboflove] [Spike {808312845107200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:43.245] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (20)
+[07:02:43.246] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:02:43.246] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444896] [Spike {808312845107200}] [ApplyEffect {836045448945477}: Stunned (Force) {808312845107457}] ()
+[07:02:43.246] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [ApplyEffect {836045448945477}: Power Surge {3405123086712832}] ()
+[07:02:43.247] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [ApplyEffect {836045448945477}: Mastery Surge {3405097316909056}] ()
+[07:02:43.248] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [ApplyEffect {836045448945477}: Duplicity {949110463004672}] ()
+[07:02:43.784] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444896] [Spike {808312845107200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (413 energy {836045448940874}) <413>
+[07:02:44.362] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Dark Tempest {3696278919708672}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:44.362] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Engineer {800156702212096}:120064444864] [Dark Tempest {3696278919708672}] [ApplyEffect {836045448945477}: Dark Tempest (Force) {3696278919708950}] ()
+[07:02:44.831] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:44.831] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:02:44.831] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[07:02:44.832] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444896] [Spike {808312845107200}] [RemoveEffect {836045448945478}: Stunned (Force) {808312845107457}] ()
+[07:02:44.832] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [ApplyEffect {836045448945477}: Entropic Field {3410019349430272}] ()
+[07:02:44.833] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Voltage {975584641417477}] ()
+[07:02:45.077] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444896] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (319* energy {836045448940874}) <319>
+[07:02:45.077] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444896] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:02:45.336] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove] [Rupture {811821833388032}] [ApplyEffect {836045448945477}: Bleeding (Physical) {811821833388300}] ()
+[07:02:45.826] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove] [Rupture {811821833388032}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (27 energy {836045448940874}) <27>
+[07:02:46.616] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Protective Barrier {3590167457693696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:46.616] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Protective Barrier {3590167457693696}] [ApplyEffect {836045448945477}: Protective Barrier {3590167457693696}] ()
+[07:02:46.919] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:46.919] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:02:46.919] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Engineer {800156702212096}:120064444864] [Dark Tempest {3696278919708672}] [ApplyEffect {836045448945477}: Grounded {3696278919708956}] ()
+[07:02:46.921] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Engineer {800156702212096}:120064444864] [Dark Tempest {3696278919708672}] [RemoveEffect {836045448945478}: Dark Tempest (Force) {3696278919708950}] ()
+[07:02:47.147] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444864] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (206 energy {836045448940874}) <206>
+[07:02:47.308] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444864] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (205 energy {836045448940874}) <205>
+[07:02:47.687] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 energy {836045448940874} (24 absorbed {836045448945511})) <24>
+[07:02:47.958] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:02:48.280] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:48.286] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Soothe {3590158867759104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (137) <13>
+[07:02:48.369] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove] [Bleeding (Physical) {811821833388300}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 internal {836045448940876} (15 absorbed {836045448945511})) <15>
+[07:02:48.486] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:48.486] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:02:48.486] [@Staboflove:Lana Beniko {3600471084236800}] [Mind-Controlled Engineer {800156702212096}:120064444864] [Dark Tempest {3696278919708672}] [RemoveEffect {836045448945478}: Grounded {3696278919708956}] ()
+[07:02:48.693] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444864] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (203 energy {836045448940874}) <203>
+[07:02:48.694] [@Staboflove] [Mind-Controlled Engineer {800156702212096}:120064444864] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:02:49.229] [@Staboflove] [@Staboflove] [Stealth {808317140074496}] [RemoveEffect {836045448945478}: Dark Embrace {808317140074771}] ()
+[07:02:49.229] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [RemoveEffect {836045448945478}: Power Surge {3405123086712832}] ()
+[07:02:49.229] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [RemoveEffect {836045448945478}: Mastery Surge {3405097316909056}] ()
+[07:02:49.393] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (37 energy {836045448940874}) <37>
+[07:02:49.652] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (34 energy {836045448940874}) <34>
+[07:02:49.848] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:49.849] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Mending {3590163162726400}] ()
+[07:02:49.850] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44) <22>
+[07:02:50.949] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (73 energy {836045448940874}) <73>
+[07:02:51.047] [@Staboflove] [@Staboflove] [Maul {808269895434240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:51.047] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (10)
+[07:02:51.047] [@Staboflove] [Lord Sundar {2137124186882048}:120064444829] [Maul {808269895434240}] [ApplyEffect {836045448945477}: Sundered (Physical) {808269895434541}] ()
+[07:02:51.047] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Static Charge {948659491438915}] ()
+[07:02:51.048] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Saber Conduit {808626377719808}] ()
+[07:02:51.048] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [ApplyEffect {836045448945477}: Exploitive Strikes {3420357335711744}] ()
+[07:02:51.048] [@Staboflove] [Lord Sundar {2137124186882048}:120064444829] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (155* internal {836045448940876}) <155>
+[07:02:51.049] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [RemoveEffect {836045448945478}: Duplicity {949110463004672}] ()
+[07:02:51.117] [@Staboflove] [Lord Sundar {2137124186882048}:120064444829] [Maul {808269895434240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (542 energy {836045448940874}) <542>
+[07:02:51.446] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove] [Bleeding (Physical) {811821833388300}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 internal {836045448940876} (19 absorbed {836045448945511})) <19>
+[07:02:51.449] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:51.449] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (45*) <22>
+[07:02:52.173] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:02:52.515] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <15>
+[07:02:52.646] [@Staboflove] [@Staboflove] [Ball Lightning {3408941312638976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:52.646] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (16)
+[07:02:52.646] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[07:02:52.647] [@Staboflove] [Lord Sundar {2137124186882048}:120064444829] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (103 internal {836045448940876}) <103>
+[07:02:52.769] [@Staboflove] [Lord Sundar {2137124186882048}:120064444829] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (399 energy {836045448940874}) <399>
+[07:02:52.983] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44) <13>
+[07:02:53.116] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:02:53.395] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove] [Force Push {1357252615208960}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (55 kinetic {836045448940873} (55 absorbed {836045448945511})) <55>
+[07:02:53.528] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30)
+[07:02:54.149] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (0)
+[07:02:54.246] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:02:54.292] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:02:54.292] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:02:54.292] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[07:02:54.292] [@Staboflove] [Lord Sundar {2137124186882048}:120064444829] [Maul {808269895434240}] [RemoveEffect {836045448945478}: Sundered (Physical) {808269895434541}] ()
+[07:02:54.293] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:02:54.294] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [ApplyEffect {836045448945477}: Duplicity {949110463004672}] ()
+[07:02:54.335] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove] [Bleeding (Physical) {811821833388300}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 internal {836045448940876} (19 absorbed {836045448945511}))
+[07:02:54.541] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30)
+[07:02:54.585] [@Staboflove] [Lord Sundar {2137124186882048}:120064444829] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (210 energy {836045448940874}) <210>
+[07:02:54.585] [@Staboflove] [Lord Sundar {2137124186882048}:120064444829] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:02:55.190] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:02:55.908] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44)
+[07:02:56.212] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:02:57.459] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove] [Bleeding (Physical) {811821833388300}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 internal {836045448940876} (19 absorbed {836045448945511}))
+[07:02:58.980] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44)
+[07:02:58.981] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [RemoveEffect {836045448945478}: Mending {3590163162726400}] ()
+[07:03:00.406] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [RemoveEffect {836045448945478}: Saber Conduit {808626377719808}] ()
+[07:03:00.521] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove] [Bleeding (Physical) {811821833388300}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 internal {836045448940876} (19 absorbed {836045448945511}))
+[07:03:00.521] [Lord Sundar {2137124186882048}:120064444829] [@Staboflove] [Rupture {811821833388032}] [RemoveEffect {836045448945478}: Bleeding (Physical) {811821833388300}] ()
+[07:03:01.134] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [RemoveEffect {836045448945478}: Exploitive Strikes {3420357335711744}] ()
+[07:03:06.153] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [RemoveEffect {836045448945478}: Entropic Field {3410019349430272}] ()
+[07:03:06.676] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Protective Barrier {3590167457693696}] [RemoveEffect {836045448945478}: Protective Barrier {3590167457693696}] ()
+[07:03:09.131] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:03:09.131] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [ApplyEffect {836045448945477}: Force Speed {808257010532352}] ()
+[07:03:09.410] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[07:03:09.411] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [RemoveEffect {836045448945478}: Duplicity {949110463004672}] ()
+[07:03:11.260] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [RemoveEffect {836045448945478}: Force Speed {808257010532352}] ()
+[07:03:22.761] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [RemoveEffect {836045448945478}: Static Charge {948659491438915}] ()
+[07:03:38.051] [@Staboflove] [@Staboflove] [Heroic Transport {3669933590315008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:03:44.164] [@Staboflove] [@Staboflove] [Heroic Transport {3669933590315008}] [ApplyEffect {836045448945477}: Heroic Transport {3669933590315008}] ()
+[07:03:48.261] [@Staboflove] [@Staboflove] [Heroic Transport {3669933590315008}] [RemoveEffect {836045448945478}: Heroic Transport {3669933590315008}] ()
+[07:04:12.875] [@Staboflove] [@Staboflove] [Channeling Dark Force Energy... {1333368302075904}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:27.358] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:04:27.362] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:04:31.987] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Protective Barrier {3590167457693696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:31.988] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Protective Barrier {3590167457693696}] [ApplyEffect {836045448945477}: Protective Barrier {3590167457693696}] ()
+[07:04:32.138] [@Staboflove] [@Staboflove] [Saber Strike {947495555301376}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:32.138] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [ApplyEffect {836045448945477}: Duplicity {949110463004672}] ()
+[07:04:32.139] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Static Charge {948659491438915}] ()
+[07:04:32.140] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Saber Conduit {808626377719808}] ()
+[07:04:32.141] [@Staboflove] [Klorslug Bloodwurm {1214762780196864}:120064657894] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (103 internal {836045448940876}) <103>
+[07:04:32.142] [@Staboflove] [Klorslug Bloodwurm {1214762780196864}:120064657894] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:04:32.142] [@Staboflove] [Klorslug Bloodwurm {1214762780196864}:120064657894] [Saber Strike {947495555301376}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (61 energy {836045448940874}) <61>
+[07:04:32.449] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 elemental {836045448940875}) <21>
+[07:04:32.487] [K'lor'slug Bloodfeaster {784961107918848}:120064658061] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (22 elemental {836045448940875}) <22>
+[07:04:32.916] [K'lor'slug Bloodfeaster {784961107918848}:120064657996] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (22 elemental {836045448940875}) <22>
+[07:04:33.578] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Dark Tempest {3696278919708672}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:33.578] [@Staboflove:Lana Beniko {3600471084236800}] [K'lor'slug Bloodfeaster {784961107918848}:120064658061] [Dark Tempest {3696278919708672}] [ApplyEffect {836045448945477}: Dark Tempest (Force) {3696278919708950}] ()
+[07:04:34.032] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18 elemental {836045448940875}) <18>
+[07:04:34.047] [K'lor'slug Bloodfeaster {784961107918848}:120064658061] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (22 elemental {836045448940875} (22 absorbed {836045448945511})) <22>
+[07:04:34.095] [K'lor'slug Bloodfeaster {784961107918848}:120064658061] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (17 elemental {836045448940875}) <17>
+[07:04:34.319] [Klorslug Bloodwurm {1214762780196864}:120064657945] [@Staboflove] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (50 kinetic {836045448940873}) <50>
+[07:04:34.360] [K'lor'slug Bloodfeaster {784961107918848}:120064657996] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (17 elemental {836045448940875}) <17>
+[07:04:34.564] [Klorslug Bloodwurm {1214762780196864}:120064657829] [@Staboflove] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (27 kinetic {836045448940873}) <27>
+[07:04:35.660] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 elemental {836045448940875}) <19>
+[07:04:36.028] [K'lor'slug Bloodfeaster {784961107918848}:120064657996] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 elemental {836045448940875}) <19>
+[07:04:36.422] [Klorslug Bloodwurm {1214762780196864}:120064657829] [@Staboflove] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:04:36.501] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:36.504] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Soothe {3590158867759104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (124) <62>
+[07:04:36.639] [Klorslug Bloodwurm {1214762780196864}:120064657829] [@Staboflove] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (30 kinetic {836045448940873}) <30>
+[07:04:36.745] [Klorslug Bloodwurm {1214762780196864}:120064657945] [@Staboflove] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:04:37.012] [Klorslug Bloodwurm {1214762780196864}:120064657945] [@Staboflove] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (26 kinetic {836045448940873}) <26>
+[07:04:37.383] [@Staboflove] [@Staboflove] [Lacerate {975129374883840}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:37.384] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:04:37.384] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[07:04:37.384] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Voltage {808626377720080}] ()
+[07:04:37.609] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 elemental {836045448940875}) <19>
+[07:04:37.761] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [ApplyEffect {836045448945477}: Power Surge {3405123086712832}] ()
+[07:04:37.761] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [ApplyEffect {836045448945477}: Entropic Field {3410019349430272}] ()
+[07:04:37.763] [@Staboflove] [Klorslug Bloodwurm {1214762780196864}:120064657945] [Lacerate {975129374883840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (248 energy {836045448940874}) <248>
+[07:04:37.763] [@Staboflove] [Klorslug Bloodwurm {1214762780196864}:120064657945] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:04:37.763] [@Staboflove] [Klorslug Bloodwurm {1214762780196864}:120064657829] [Lacerate {975129374883840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (447* energy {836045448940874}) <447>
+[07:04:37.763] [@Staboflove] [Klorslug Bloodwurm {1214762780196864}:120064657829] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:04:37.875] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:37.875] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (46*) <23>
+[07:04:37.912] [K'lor'slug Bloodfeaster {784961107918848}:120064657996] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18 elemental {836045448940875}) <18>
+[07:04:38.161] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:04:38.968] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <15>
+[07:04:38.969] [@Staboflove] [@Staboflove] [Lacerate {975129374883840}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:38.969] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:04:39.275] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:04:39.280] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 elemental {836045448940875}) <19>
+[07:04:39.389] [K'lor'slug Bloodfeaster {784961107918848}:120064657996] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 elemental {836045448940875} (24 absorbed {836045448945511})) <24>
+[07:04:39.667] [K'lor'slug Bloodfeaster {784961107918848}:120064657996] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (57 kinetic {836045448940873} (57 absorbed {836045448945511})) <57>
+[07:04:39.983] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <15>
+[07:04:40.174] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:04:40.544] [@Staboflove] [@Staboflove] [Lacerate {975129374883840}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:40.544] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:04:40.844] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 elemental {836045448940875}) <19>
+[07:04:40.887] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <10>
+[07:04:40.888] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[07:04:40.888] [@Staboflove:Lana Beniko {3600471084236800}] [K'lor'slug Bloodfeaster {784961107918848}:120064658061] [Dark Tempest {3696278919708672}] [ApplyEffect {836045448945477}: Grounded {3696278919708956}] ()
+[07:04:40.889] [@Staboflove:Lana Beniko {3600471084236800}] [K'lor'slug Bloodfeaster {784961107918848}:120064658061] [Dark Tempest {3696278919708672}] [RemoveEffect {836045448945478}: Dark Tempest (Force) {3696278919708950}] ()
+[07:04:40.889] [@Staboflove:Lana Beniko {3600471084236800}] [K'lor'slug Bloodfeaster {784961107918848}:120064658061] [Dark Tempest {3696278919708672}] [RemoveEffect {836045448945478}: Grounded {3696278919708956}] ()
+[07:04:40.889] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [ApplyEffect {836045448945477}: Mastery Surge {3405097316909056}] ()
+[07:04:40.892] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064658061] [Lacerate {975129374883840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (245 energy {836045448940874}) <245>
+[07:04:40.892] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064658061] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:04:41.078] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:41.078] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Mending {3590163162726400}] ()
+[07:04:41.079] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (67*) <33>
+[07:04:41.094] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [@Staboflove] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:04:41.189] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:04:41.189] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [RemoveEffect {836045448945478}: Saber Conduit {808626377719808}] ()
+[07:04:41.349] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [@Staboflove] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[07:04:41.871] [K'lor'slug Bloodfeaster {784961107918848}:120064657996] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (30 kinetic {836045448940873} (30 absorbed {836045448945511})) <30>
+[07:04:42.128] [@Staboflove] [@Staboflove] [Lacerate {975129374883840}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:42.128] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:04:42.133] [K'lor'slug Bloodfeaster {784961107918848}:120064657996] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (32 kinetic {836045448940873} (32 absorbed {836045448945511})) <32>
+[07:04:42.542] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064657996] [Lacerate {975129374883840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (233 energy {836045448940874}) <233>
+[07:04:42.543] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064657996] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:04:43.079] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [@Staboflove] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[07:04:43.255] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:43.259] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Soothe {3590158867759104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (126) <21>
+[07:04:43.324] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [@Staboflove] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[07:04:43.770] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [RemoveEffect {836045448945478}: Power Surge {3405123086712832}] ()
+[07:04:43.771] [@Staboflove] [@Staboflove] [Lacerate {975129374883840}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:43.771] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:04:44.209] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44)
+[07:04:44.778] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:44.778] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <15>
+[07:04:45.389] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:45.389] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:04:45.390] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Voltage {975584641417477}] ()
+[07:04:45.614] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (197 energy {836045448940874}) <197>
+[07:04:45.632] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [@Staboflove] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:04:45.857] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:04:45.907] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:04:45.909] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (329* energy {836045448940874}) <329>
+[07:04:45.909] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064658126] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:04:45.946] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <7>
+[07:04:46.999] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30)
+[07:04:47.000] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [RemoveEffect {836045448945478}: Mastery Surge {3405097316909056}] ()
+[07:04:47.125] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44)
+[07:04:47.859] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30)
+[07:04:50.144] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44)
+[07:04:50.144] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [RemoveEffect {836045448945478}: Mending {3590163162726400}] ()
+[07:04:50.408] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:04:50.412] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:04:52.167] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Protective Barrier {3590167457693696}] [RemoveEffect {836045448945478}: Protective Barrier {3590167457693696}] ()
+[07:04:53.836] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:53.836] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [ApplyEffect {836045448945477}: Force Speed {808257010532352}] ()
+[07:04:55.256] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:55.256] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:55.256] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:04:55.262] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (199*) <11>
+[07:04:55.440] [@Staboflove] [K'lor'slug Broodripper {784922453213184}:120064679673] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (195 energy {836045448940874}) <195>
+[07:04:55.652] [@Staboflove] [K'lor'slug Broodripper {784922453213184}:120064679673] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (190 energy {836045448940874}) <190>
+[07:04:55.949] [K'lor'slug Bloodfeaster {784961107918848}:120064679608] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (22 elemental {836045448940875}) <22>
+[07:04:56.061] [@Staboflove] [@Staboflove] [Force Speed {808257010532352}] [RemoveEffect {836045448945478}: Force Speed {808257010532352}] ()
+[07:04:56.328] [K'lor'slug Broodripper {784922453213184}:120064679673] [@Staboflove] [Rake {812023696850944}] [ApplyEffect {836045448945477}: Bleeding (Physical) {812023696851204}] ()
+[07:04:56.380] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 elemental {836045448940875}) <16>
+[07:04:56.648] [K'lor'slug Broodripper {784922453213184}:120064679673] [@Staboflove] [Rake {812023696850944}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (17 kinetic {836045448940873}) <17>
+[07:04:56.913] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:56.913] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Mending {3590163162726400}] ()
+[07:04:56.913] [K'lor'slug Broodripper {784922453213184}:120064679673] [@Staboflove] [Rake {812023696850944}] [RemoveEffect {836045448945478}: Bleeding (Physical) {812023696851204}] ()
+[07:04:56.914] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44) <22>
+[07:04:56.914] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:56.914] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:04:56.915] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Saber Conduit {808626377719808}] ()
+[07:04:56.915] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [ApplyEffect {836045448945477}: Exploitive Strikes {3420357335711744}] ()
+[07:04:56.917] [@Staboflove] [K'lor'slug Broodripper {784922453213184}:120064679673] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (163* internal {836045448940876}) <163>
+[07:04:56.917] [@Staboflove] [K'lor'slug Broodripper {784922453213184}:120064679673] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:04:57.034] [@Staboflove] [K'lor'slug Broodripper {784922453213184}:120064679673] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (191 energy {836045448940874}) <191>
+[07:04:57.545] [K'lor'slug Bloodfeaster {784961107918848}:120064679608] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 elemental {836045448940875}) <24>
+[07:04:57.662] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (17 elemental {836045448940875}) <17>
+[07:04:57.846] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:04:58.341] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:58.341] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <15>
+[07:04:58.890] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:04:59.037] [K'lor'slug Bloodfeaster {784961107918848}:120064679608] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 elemental {836045448940875}) <24>
+[07:04:59.129] [K'lor'slug Bloodfeaster {784961107918848}:120064679468] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (17 elemental {836045448940875}) <17>
+[07:04:59.345] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 elemental {836045448940875}) <16>
+[07:04:59.425] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <12>
+[07:04:59.764] [@Staboflove] [@Staboflove] [Jolt {875060931854336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:04:59.943] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44)
+[07:04:59.943] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:04:59.994] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064679608] [Jolt {875060931854336}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <1>
+[07:05:00.381] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30)
+[07:05:00.494] [K'lor'slug Bloodfeaster {784961107918848}:120064679608] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 elemental {836045448940875}) <19>
+[07:05:00.827] [K'lor'slug Bloodfeaster {784961107918848}:120064679468] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 elemental {836045448940875}) <21>
+[07:05:00.892] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 elemental {836045448940875}) <16>
+[07:05:00.908] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (0)
+[07:05:01.197] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [@Staboflove] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:05:01.417] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <10>
+[07:05:01.459] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [@Staboflove] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (20 kinetic {836045448940873}) <20>
+[07:05:01.609] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:01.614] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99) <49>
+[07:05:02.110] [K'lor'slug Bloodfeaster {784961107918848}:120064679608] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 elemental {836045448940875}) <23>
+[07:05:02.446] [K'lor'slug Bloodfeaster {784961107918848}:120064679468] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18 elemental {836045448940875}) <18>
+[07:05:02.827] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44)
+[07:05:03.144] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Protective Barrier {3590167457693696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:03.144] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Protective Barrier {3590167457693696}] [ApplyEffect {836045448945477}: Protective Barrier {3590167457693696}] ()
+[07:05:03.302] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [@Staboflove] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (41 kinetic {836045448940873}) <41>
+[07:05:03.759] [K'lor'slug Bloodfeaster {784961107918848}:120064679608] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 elemental {836045448940875}) <24>
+[07:05:04.072] [K'lor'slug Bloodfeaster {784961107918848}:120064679608] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (33 kinetic {836045448940873} (33 absorbed {836045448945511})) <33>
+[07:05:04.105] [K'lor'slug Bloodfeaster {784961107918848}:120064679468] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (22 elemental {836045448940875}) <22>
+[07:05:04.332] [K'lor'slug Bloodfeaster {784961107918848}:120064679608] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:05:04.397] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:04.397] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:05:04.397] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [ApplyEffect {836045448945477}: Power Surge {3405123086712832}] ()
+[07:05:04.398] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [ApplyEffect {836045448945477}: Mastery Surge {3405097316909056}] ()
+[07:05:04.587] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064679608] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (324* energy {836045448940874}) <324>
+[07:05:04.587] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064679608] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:05:04.890] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:05:05.429] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:05.429] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (45*) <22>
+[07:05:05.703] [K'lor'slug Bloodfeaster {784961107918848}:120064679468] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 elemental {836045448940875} (21 absorbed {836045448945511})) <21>
+[07:05:05.838] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44) <20>
+[07:05:05.839] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Mending {3590163162726400}] [RemoveEffect {836045448945478}: Mending {3590163162726400}] ()
+[07:05:05.839] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:05:05.839] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [RemoveEffect {836045448945478}: Saber Conduit {808626377719808}] ()
+[07:05:05.897] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [@Staboflove] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:05:05.956] [@Staboflove] [@Staboflove] [Ball Lightning {3408941312638976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:05.956] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (16)
+[07:05:05.956] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[07:05:05.957] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Stunned (Force) {3408941312639292}] ()
+[07:05:05.957] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [Ball Lightning {3408941312638976}] [RemoveEffect {836045448945478}: Stunned (Force) {3408941312639292}] ()
+[07:05:06.082] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (427 energy {836045448940874}) <427>
+[07:05:06.082] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:05:06.094] [K'lor'slug Bloodfeaster {784961107918848}:120064679543] [@Staboflove] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:05:06.612] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <15>
+[07:05:07.018] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [RemoveEffect {836045448945478}: Exploitive Strikes {3420357335711744}] ()
+[07:05:07.337] [K'lor'slug Bloodfeaster {784961107918848}:120064679468] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (22 elemental {836045448940875} (22 absorbed {836045448945511})) <22>
+[07:05:07.447] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <2>
+[07:05:08.511] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:05:08.560] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30)
+[07:05:08.561] [@Staboflove] [@Staboflove] [Discharge {808235535695872}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:08.561] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (20)
+[07:05:08.561] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:05:08.562] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [RemoveEffect {836045448945478}: Static Charge {948659491438915}] ()
+[07:05:08.976] [K'lor'slug Bloodfeaster {784961107918848}:120064679468] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 elemental {836045448940875} (21 absorbed {836045448945511})) <21>
+[07:05:09.083] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064679468] [Discharge {808235535695872}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (323 internal {836045448940876}) <323>
+[07:05:09.083] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064679468] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:05:10.474] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [RemoveEffect {836045448945478}: Power Surge {3405123086712832}] ()
+[07:05:10.475] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [RemoveEffect {836045448945478}: Mastery Surge {3405097316909056}] ()
+[07:05:13.204] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:05:13.207] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:05:19.520] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [RemoveEffect {836045448945478}: Entropic Field {3410019349430272}] ()
+[07:05:19.865] [K'lor'slug Bloodfeaster {784961107918848}:120064697243] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 elemental {836045448940875}) <16>
+[07:05:19.881] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Dark Tempest {3696278919708672}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:19.881] [@Staboflove:Lana Beniko {3600471084236800}] [K'lor'slug Bloodfeaster {784961107918848}:120064697243] [Dark Tempest {3696278919708672}] [ApplyEffect {836045448945477}: Dark Tempest (Force) {3696278919708950}] ()
+[07:05:20.230] [K'lor'slug Bloodfeaster {784961107918848}:120064697243] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 elemental {836045448940875}) <16>
+[07:05:20.470] [@Staboflove] [@Staboflove] [Ball Lightning {3408941312638976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:20.470] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (32)
+[07:05:20.470] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [ApplyEffect {836045448945477}: Entropic Field {3410019349430272}] ()
+[07:05:20.471] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [ApplyEffect {836045448945477}: Exploitive Strikes {3420357335711744}] ()
+[07:05:20.566] [@Staboflove] [K'lor'slug Bloodqueen {784973992820736}:120064697185] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (735* energy {836045448940874}) <735>
+[07:05:21.404] [K'lor'slug Bloodqueen {784973992820736}:120064697185] [@Staboflove] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:05:21.961] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:21.966] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Soothe {3590158867759104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (123) <16>
+[07:05:22.043] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 elemental {836045448940875} (24 absorbed {836045448945511})) <24>
+[07:05:22.077] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:22.077] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:05:22.078] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[07:05:22.078] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Voltage {975584641417477}] ()
+[07:05:22.275] [@Staboflove] [K'lor'slug Bloodqueen {784973992820736}:120064697185] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (196 energy {836045448940874}) <196>
+[07:05:22.460] [@Staboflove] [K'lor'slug Bloodqueen {784973992820736}:120064697185] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (184 energy {836045448940874}) <184>
+[07:05:22.945] [K'lor'slug Bloodqueen {784973992820736}:120064697185] [@Staboflove] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (28 kinetic {836045448940873}) <28>
+[07:05:23.166] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Protective Barrier {3590167457693696}] [RemoveEffect {836045448945478}: Protective Barrier {3590167457693696}] ()
+[07:05:23.199] [K'lor'slug Bloodqueen {784973992820736}:120064697185] [@Staboflove] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (32 kinetic {836045448940873}) <32>
+[07:05:23.329] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 elemental {836045448940875} (24 absorbed {836045448945511})) <24>
+[07:05:23.614] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:23.614] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <15>
+[07:05:23.615] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:23.615] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:05:23.615] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Static Charge {948659491438915}] ()
+[07:05:23.615] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [ApplyEffect {836045448945477}: Saber Conduit {808626377719808}] ()
+[07:05:23.617] [@Staboflove] [K'lor'slug Bloodqueen {784973992820736}:120064697185] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (103 internal {836045448940876}) <103>
+[07:05:23.617] [@Staboflove] [K'lor'slug Bloodqueen {784973992820736}:120064697185] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:05:23.837] [@Staboflove] [K'lor'slug Bloodqueen {784973992820736}:120064697185] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (200 energy {836045448940874}) <200>
+[07:05:24.817] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <15>
+[07:05:24.818] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:05:25.026] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 elemental {836045448940875}) <19>
+[07:05:25.723] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (46*)
+[07:05:25.979] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:05:26.579] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 elemental {836045448940875}) <19>
+[07:05:26.600] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30)
+[07:05:26.712] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:05:26.712] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:26.713] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Mending {3590163162726400}] ()
+[07:05:26.713] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44) <22>
+[07:05:27.659] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:05:28.178] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 elemental {836045448940875}) <21>
+[07:05:28.303] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:28.309] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Soothe {3590158867759104}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (105) <19>
+[07:05:28.657] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:05:29.740] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [@Staboflove:Lana Beniko {3600471084236800}] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 elemental {836045448940875}) <21>
+[07:05:29.801] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44) <16>
+[07:05:29.899] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[07:05:29.899] [@Staboflove:Lana Beniko {3600471084236800}] [K'lor'slug Bloodfeaster {784961107918848}:120064697243] [Dark Tempest {3696278919708672}] [ApplyEffect {836045448945477}: Grounded {3696278919708956}] ()
+[07:05:29.900] [@Staboflove:Lana Beniko {3600471084236800}] [K'lor'slug Bloodfeaster {784961107918848}:120064697243] [Dark Tempest {3696278919708672}] [RemoveEffect {836045448945478}: Dark Tempest (Force) {3696278919708950}] ()
+[07:05:30.006] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[07:05:30.080] [@Staboflove:Lana Beniko {3600471084236800}] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (50 energy {836045448940874}) <50>
+[07:05:30.299] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (32 kinetic {836045448940873}) <32>
+[07:05:30.342] [@Staboflove:Lana Beniko {3600471084236800}] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [Melee Attack {813625719652352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (52 energy {836045448940874}) <52>
+[07:05:30.664] [@Staboflove] [@Staboflove] [Exploitive Strikes {3420357335711744}] [RemoveEffect {836045448945478}: Exploitive Strikes {3420357335711744}] ()
+[07:05:31.293] [@Staboflove] [@Staboflove] [Ball Lightning {3408941312638976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:31.293] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (16)
+[07:05:31.293] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[07:05:31.293] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064697243] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Stunned (Force) {3408941312639292}] ()
+[07:05:31.294] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064697243] [Ball Lightning {3408941312638976}] [RemoveEffect {836045448945478}: Stunned (Force) {3408941312639292}] ()
+[07:05:31.294] [@Staboflove:Lana Beniko {3600471084236800}] [K'lor'slug Bloodfeaster {784961107918848}:120064697243] [Dark Tempest {3696278919708672}] [RemoveEffect {836045448945478}: Grounded {3696278919708956}] ()
+[07:05:31.294] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [ApplyEffect {836045448945477}: Power Surge {3405123086712832}] ()
+[07:05:31.295] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [ApplyEffect {836045448945477}: Mastery Surge {3405097316909056}] ()
+[07:05:31.376] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Enlivening Force {3770727882817536}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:31.376] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30) <8>
+[07:05:31.398] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064697243] [Ball Lightning {3408941312638976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (424 energy {836045448940874}) <424>
+[07:05:31.398] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064697243] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:05:31.416] [K'lor'slug Bloodfeaster {784961107918848}:120064697243] [@Staboflove] [Spit {812032286785536}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (17 elemental {836045448940875}) <17>
+[07:05:31.711] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:05:32.420] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 kinetic {836045448940873}) <31>
+[07:05:32.550] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30)
+[07:05:32.648] [@Staboflove] [@Staboflove] [] [Restore {836045448945476}: Force {836045448938502}] (1)
+[07:05:32.648] [@Staboflove] [@Staboflove] [Saber Conduit {808626377719808}] [RemoveEffect {836045448945478}: Saber Conduit {808626377719808}] ()
+[07:05:32.667] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [@Staboflove:Lana Beniko {3600471084236800}] [Melee Attack {813569885077504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (30 kinetic {836045448940873}) <30>
+[07:05:32.793] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44) <22>
+[07:05:32.968] [@Staboflove] [@Staboflove] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[07:05:33.022] [@Staboflove] [@Staboflove] [Voltaic Slash {975584641417216}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:05:33.022] [@Staboflove] [@Staboflove] [] [Spend {836045448945473}: Force {836045448938502}] (22)
+[07:05:33.023] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [ApplyEffect {836045448945477}: Induction {1776084941012992}] ()
+[07:05:33.023] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:05:33.201] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [Voltaic Slash {975584641417216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (320* energy {836045448940874}) <320>
+[07:05:33.202] [@Staboflove] [K'lor'slug Bloodfeaster {784961107918848}:120064697308] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:05:33.457] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (46*)
+[07:05:34.474] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove] [Enlivening Force {3770727882817536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (30)
+[07:05:35.779] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (44)
+[07:05:35.780] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Mending {3590163162726400}] [RemoveEffect {836045448945478}: Mending {3590163162726400}] ()
+[07:05:37.378] [@Staboflove] [@Staboflove] [Power Surge {3405123086712832}] [RemoveEffect {836045448945478}: Power Surge {3405123086712832}] ()
+[07:05:37.378] [@Staboflove] [@Staboflove] [Mastery Surge {3405097316909056}] [RemoveEffect {836045448945478}: Mastery Surge {3405097316909056}] ()
+[07:05:46.442] [@Staboflove] [@Staboflove] [Duplicity {949110463004672}] [RemoveEffect {836045448945478}: Duplicity {949110463004672}] ()
+[07:05:48.069] [@Staboflove] [@Staboflove] [Induction {1776084941012992}] [RemoveEffect {836045448945478}: Induction {1776084941012992}] ()
+[07:05:48.069] [@Staboflove] [@Staboflove] [Entropic Field {3410019349430272}] [RemoveEffect {836045448945478}: Entropic Field {3410019349430272}] ()
+[07:05:48.275] [@Staboflove] [@Staboflove] [Picking Up... {811293552410624}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:06:43.865] [@Staboflove] [@Staboflove] [Blackout {1615564833292288}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:06:43.866] [@Staboflove] [@Staboflove] [Darkswell {1775844422844416}] [ApplyEffect {836045448945477}: Dark Embrace {1775844422844675}] ()
+[07:06:49.899] [@Staboflove] [@Staboflove] [Darkswell {1775844422844416}] [RemoveEffect {836045448945478}: Dark Embrace {1775844422844675}] ()
+[07:07:54.123] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:07:54.124] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:07:54.124] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:07:54.125] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [RemoveEffect {836045448945478}: Surging Charge {948659491438592}] ()
+[07:07:54.125] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Surging Charge {948659491438592}] ()
+[07:07:54.126] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:08:47.087] [@Staboflove] [@Staboflove] [Priority Transport: Odessen {3747423390269440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:08:57.538] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Coordination {952795544945165}] ()
+[07:08:57.539] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Mark of Power {952795544944640}] ()
+[07:08:57.540] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Unnatural Might {952795544945173}] ()
+[07:08:57.540] [@Staboflove] [@Staboflove] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Hunter's Boon {952795544945169}] ()
+[07:08:57.540] [@Staboflove] [@Staboflove] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[07:08:57.780] [@Staboflove] [@Staboflove] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:08:57.780] [@Staboflove] [@Staboflove] [Surging Charge {948659491438592}] [ApplyEffect {836045448945477}: Surging Charge {948659491438592}] ()
+[07:09:17.827] [@Staboflove] [@Staboflove] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[07:09:17.827] [@Staboflove:Lana Beniko {3600471084236800}] [@Staboflove:Lana Beniko {3600471084236800}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[07:10:28.571] [@Staboflove] [@Staboflove] [Examining... {3519120108683264}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()

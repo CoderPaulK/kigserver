@@ -1,0 +1,1 @@
+[21:25:14.316] [@Republican] [@Republican] [Fortification {1781488009871360}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()

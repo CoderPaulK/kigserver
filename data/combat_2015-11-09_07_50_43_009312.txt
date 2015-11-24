@@ -1,0 +1,1186 @@
+[07:50:33.703] [@Rusmusashi] [@Rusmusashi] [Advanced Anodyne Reflex Stim {3739456225935360}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3739456225935360}] ()
+[07:50:33.703] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[07:50:33.704] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[07:50:33.704] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[07:50:33.704] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[07:50:33.705] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[07:50:36.842] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:50:36.842] [@Rusmusashi] [@Rusmusashi] [Soresu Form {812174020706304}] [ApplyEffect {836045448945477}: Soresu Form {812174020706304}] ()
+[07:50:46.774] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[07:52:43.622] [@Rusmusashi] [@Rusmusashi] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:52:44.240] [@Rusmusashi] [@Rusmusashi] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:52:44.240] [@Rusmusashi] [@Rusmusashi] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[07:54:49.857] [@Rusmusashi] [@Rusmusashi] [Advanced Anodyne Reflex Stim {3739456225935360}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3739456225935360}] ()
+[07:54:49.857] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[07:54:49.858] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[07:54:49.858] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[07:54:49.859] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[07:54:49.859] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[07:54:49.875] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:54:49.875] [@Rusmusashi] [@Rusmusashi] [Soresu Form {812174020706304}] [ApplyEffect {836045448945477}: Soresu Form {812174020706304}] ()
+[07:54:49.876] [@Rusmusashi] [@Rusmusashi] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Bolster {810421674049536}] ()
+[07:54:49.876] [@Rusmusashi] [@Rusmusashi] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (72908) <4899>
+[07:55:01.815] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[07:55:01.815] [@Rusmusashi] [@Rusmusashi] [ {3231232745799680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:55:07.310] [@Rusmusashi] [@Rusmusashi] [ {1598376374173696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:55:38.552] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:55:38.552] [@Rusmusashi] [@Concom] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[07:55:38.553] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[07:55:48.095] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:55:48.096] [@Rusmusashi] [@Syld] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[07:55:48.096] [@Rusmusashi] [@Janka] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[07:55:48.097] [@Rusmusashi] [@Concom] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[07:55:48.097] [@Rusmusashi] [@Silvarra] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[07:55:48.097] [@Rusmusashi] [@Bohl] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[07:55:48.098] [@Rusmusashi] [@Jarumdan] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[07:55:48.098] [@Rusmusashi] [@Emôteb] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[07:55:48.100] [@Rusmusashi] [@Syld] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[07:55:48.100] [@Rusmusashi] [@Janka] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[07:55:48.100] [@Rusmusashi] [@Concom] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[07:55:48.101] [@Rusmusashi] [@Silvarra] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[07:55:48.101] [@Rusmusashi] [@Bohl] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[07:55:48.101] [@Rusmusashi] [@Jarumdan] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[07:55:48.102] [@Rusmusashi] [@Emôteb] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[07:55:48.102] [@Rusmusashi] [@Syld] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[07:55:48.102] [@Rusmusashi] [@Janka] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[07:55:48.103] [@Rusmusashi] [@Concom] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[07:55:48.103] [@Rusmusashi] [@Silvarra] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[07:55:48.103] [@Rusmusashi] [@Bohl] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[07:55:48.103] [@Rusmusashi] [@Jarumdan] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[07:55:48.103] [@Rusmusashi] [@Emôteb] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[07:55:48.104] [@Rusmusashi] [@Syld] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[07:55:48.104] [@Rusmusashi] [@Janka] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[07:55:48.104] [@Rusmusashi] [@Concom] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[07:55:48.104] [@Rusmusashi] [@Silvarra] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[07:55:48.105] [@Rusmusashi] [@Bohl] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[07:55:48.105] [@Rusmusashi] [@Jarumdan] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[07:55:48.105] [@Rusmusashi] [@Emôteb] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[07:56:18.517] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Slow-release Medpac {3406415871868928}] ()
+[07:56:21.242] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (978)
+[07:56:24.048] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1792*)
+[07:56:26.754] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1792*)
+[07:56:29.447] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (978)
+[07:56:30.761] [@Concom] [@Rusmusashi] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force Armor {812736661422080}] ()
+[07:56:30.761] [@Concom] [@Rusmusashi] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force-imbalance {812736661422343}] ()
+[07:56:32.159] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1634*)
+[07:56:34.841] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (978)
+[07:56:34.842] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1957)
+[07:56:34.843] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1957)
+[07:56:37.692] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1957)
+[07:56:40.390] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3414*)
+[07:56:43.156] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3584*)
+[07:56:45.582] [@Jarumdan] [@Rusmusashi] [Transcendence {2528567506239488}] [ApplyEffect {836045448945477}: Transcendence {2528567506239488}] ()
+[07:56:45.851] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2058)
+[07:56:46.906] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Kolto Cloud {1147159994957824}] ()
+[07:56:46.907] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1481*)
+[07:56:46.907] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Invigorated {1147159994958254}] ()
+[07:56:47.282] [@Rusmusashi] [@Rusmusashi] [Endzone Buff Dispel {1957328265936896}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:56:47.874] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1525*)
+[07:56:48.610] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2119)
+[07:56:48.804] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (913)
+[07:56:49.530] [@Rusmusashi] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (319)
+[07:56:49.714] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1450*) <143>
+[07:56:50.428] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3365*)
+[07:56:50.621] [@Rusmusashi] [@Concom] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[07:56:50.622] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (868)
+[07:56:51.136] [@Rusmusashi] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (16226)
+[07:56:51.532] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1450*) <652>
+[07:56:52.450] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (868) <390>
+[07:56:53.059] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2070) <931>
+[07:56:53.072] [@Silvarra] [@Rusmusashi] [Emergency Medpac {807518276157440}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5935*) <2670>
+[07:56:53.356] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (892) <401>
+[07:56:54.271] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1490*) <670>
+[07:56:54.627] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2070) <931>
+[07:56:55.105] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (892) <160>
+[07:56:55.106] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Kolto Cloud {1147159994957824}] ()
+[07:56:55.657] [@Jarumdan] [@Rusmusashi] [Transcendence {2528567506239488}] [RemoveEffect {836045448945478}: Transcendence {2528567506239488}] ()
+[07:56:57.130] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[07:56:57.147] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[07:56:57.147] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[07:56:57.147] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Marked (Physical) {3411372264128776}] ()
+[07:56:57.148] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:56:57.392] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2885*)
+[07:56:58.083] [@Concom] [@Rusmusashi] [Force Armor {812736661422080}] [RemoveEffect {836045448945478}: Force Armor {812736661422080}] ()
+[07:56:58.399] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8447* energy {836045448940874} (8447 absorbed {836045448945511})) <8447>
+[07:56:58.399] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[07:56:59.201] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [ApplyEffect {836045448945477}: Gather Strength {3429990947356672}] ()
+[07:56:59.202] [@Evel'ly] [@Rusmusashi] [Electric Bindings {3410225507860480}] [ApplyEffect {836045448945477}: Immobilized (Force) {3410225507860740}] ()
+[07:56:59.203] [@Evel'ly] [@Rusmusashi] [Overload {808282780336128}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (836 energy {836045448940874}) <836>
+[07:57:00.101] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2885*)
+[07:57:02.935] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3014*)
+[07:57:03.037] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:03.037] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [ApplyEffect {836045448945477}: Blade Blitz {3618351033090048}] ()
+[07:57:03.037] [@Evel'ly] [@Rusmusashi] [Electric Bindings {3410225507860480}] [RemoveEffect {836045448945478}: Immobilized (Force) {3410225507860740}] ()
+[07:57:03.743] [@Rusmusashi] [@Evel'ly] [Blade Blitz {3618351033090048}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1484 energy {836045448940874} (1484 absorbed {836045448945511})) <2968>
+[07:57:04.093] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [RemoveEffect {836045448945478}: Blade Blitz {3618351033090048}] ()
+[07:57:04.094] [@Rusmusashi] [@Pandorä] [Blade Blitz {3618351033090048}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1022 energy {836045448940874} (1022 absorbed {836045448945511})) <2045>
+[07:57:04.846] [@Rusmusashi] [@Rusmusashi] [Awe {1596834480914432}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:04.846] [@Rusmusashi] [@Pandorä] [Awe {1596834480914432}] [ApplyEffect {836045448945477}: Incapacitated (Mental) {1596834480914688}] ()
+[07:57:04.848] [@Rusmusashi] [@Malenia] [Awe {1596834480914432}] [ApplyEffect {836045448945477}: Incapacitated (Mental) {1596834480914688}] ()
+[07:57:04.848] [@Rusmusashi] [@Pandorä] [Awe {1596834480914432}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <2>
+[07:57:04.848] [@Rusmusashi] [@Malenia] [Awe {1596834480914432}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <2>
+[07:57:05.569] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1757)
+[07:57:07.064] [@Rusmusashi] [@Pandorä] [Awe {1596834480914432}] [RemoveEffect {836045448945478}: Incapacitated (Mental) {1596834480914688}] ()
+[07:57:08.114] [@Rusmusashi] [@Rusmusashi] [Challenging Call {812079531425792}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:08.114] [@Rusmusashi] [@Dark'doc] [Challenging Call {812079531425792}] [ApplyEffect {836045448945477}: Taunt {812079531426137}] ()
+[07:57:08.114] [@Rusmusashi] [@Evel'ly] [Challenging Call {812079531425792}] [ApplyEffect {836045448945477}: Taunt {812079531426137}] ()
+[07:57:08.114] [@Rusmusashi] [@Pandorä] [Challenging Call {812079531425792}] [ApplyEffect {836045448945477}: Taunt {812079531426137}] ()
+[07:57:08.115] [@Rusmusashi] [@Malenia] [Challenging Call {812079531425792}] [ApplyEffect {836045448945477}: Taunt {812079531426137}] ()
+[07:57:08.290] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2954*)
+[07:57:09.332] [@Rusmusashi] [@Malenia] [Awe {1596834480914432}] [RemoveEffect {836045448945478}: Incapacitated (Mental) {1596834480914688}] ()
+[07:57:10.293] [@Rusmusashi] [@Rusmusashi] [Medals Earned This Match {832699669413888}] [ApplyEffect {836045448945477}: Medals Earned This Match {832699669413888}] ()
+[07:57:10.294] [@Rusmusashi] [@Rusmusashi] [Combat Focus {3461146640121856}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:10.295] [@Rusmusashi] [@Rusmusashi] [Focused Freedom {3621112697061376}] [ApplyEffect {836045448945477}: Focused Freedom {3621112697061376}] ()
+[07:57:10.296] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (6)
+[07:57:10.909] [@Rusmusashi] [@Rusmusashi] [Freezing Force {1191685920915456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:10.910] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[07:57:10.910] [@Rusmusashi] [@Evel'ly] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[07:57:10.910] [@Rusmusashi] [@Dark'doc] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[07:57:10.910] [@Rusmusashi] [@Evel'ly] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (73 elemental {836045448940875} (73 absorbed {836045448945511})) <147>
+[07:57:10.911] [@Rusmusashi] [@Dark'doc] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (51 elemental {836045448940875}) <103>
+[07:57:10.968] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2954*)
+[07:57:11.688] [@Rusmusashi] [@Concom] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[07:57:11.985] [@Malenia] [@Rusmusashi] [Chaff Flare {814192655335424}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <0>
+[07:57:12.925] [@Dark'doc] [@Rusmusashi] [Flash Bang {814819720560640}] [ApplyEffect {836045448945477}: Blinded (Tech) {814819720560898}] ()
+[07:57:13.251] [@Dark'doc] [@Rusmusashi] [Flash Bang {814819720560640}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <1>
+[07:57:13.744] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2808*)
+[07:57:13.745] [@Silvarra] [@Rusmusashi] [Slow-release Medpac {3406415871868928}] [RemoveEffect {836045448945478}: Slow-release Medpac {3406415871868928}] ()
+[07:57:13.820] [@Silvarra] [@Rusmusashi] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1423)
+[07:57:14.234] [@Rusmusashi] [@Dark'doc] [Challenging Call {812079531425792}] [RemoveEffect {836045448945478}: Taunt {812079531426137}] ()
+[07:57:14.235] [@Rusmusashi] [@Evel'ly] [Challenging Call {812079531425792}] [RemoveEffect {836045448945478}: Taunt {812079531426137}] ()
+[07:57:14.235] [@Rusmusashi] [@Pandorä] [Challenging Call {812079531425792}] [RemoveEffect {836045448945478}: Taunt {812079531426137}] ()
+[07:57:14.235] [@Rusmusashi] [@Malenia] [Challenging Call {812079531425792}] [RemoveEffect {836045448945478}: Taunt {812079531426137}] ()
+[07:57:14.235] [@Rusmusashi] [@Rusmusashi] [Resolute {3625291700240384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:14.236] [@Dark'doc] [@Rusmusashi] [Flash Bang {814819720560640}] [RemoveEffect {836045448945478}: Blinded (Tech) {814819720560898}] ()
+[07:57:14.237] [@Rusmusashi] [@Rusmusashi] [Resolute {3625291700240384}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6265)
+[07:57:14.322] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [RemoveEffect {836045448945478}: Gather Strength {3429990947356672}] ()
+[07:57:14.825] [@Silvarra] [@Rusmusashi] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2377*)
+[07:57:15.439] [@Rusmusashi] [@Rusmusashi] [Force Stasis {1261925816074240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:15.439] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Force Stasis {1261925816074240}] ()
+[07:57:15.439] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Stunned (Force) {1261925816074705}] ()
+[07:57:15.441] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1097 kinetic {836045448940873}) <3292>
+[07:57:15.441] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:57:15.731] [@Silvarra] [@Rusmusashi] [Kolto Waves {3406411576901632}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1423)
+[07:57:16.315] [@Rusmusashi] [@Rusmusashi] [Focused Freedom {3621112697061376}] [RemoveEffect {836045448945478}: Focused Freedom {3621112697061376}] ()
+[07:57:17.056] [@Rusmusashi] [@Rusmusashi] [Force Push {1681844768604160}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:17.199] [@Rusmusashi] [@Dark'doc] [Force Push {1681844768604160}] [ApplyEffect {836045448945477}: Knockdown {1681844768604416}] ()
+[07:57:17.459] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (768 kinetic {836045448940873}) <2304>
+[07:57:17.459] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:57:17.577] [@Rusmusashi] [@Concom] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[07:57:17.761] [@Rusmusashi] [@Dark'doc] [Force Push {1681844768604160}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2111 kinetic {836045448940873}) <4222>
+[07:57:18.929] [@Rusmusashi] [@Evel'ly] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[07:57:18.930] [@Rusmusashi] [@Dark'doc] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[07:57:19.207] [@Rusmusashi] [@Dark'doc] [Force Push {1681844768604160}] [RemoveEffect {836045448945478}: Knockdown {1681844768604416}] ()
+[07:57:19.498] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [RemoveEffect {836045448945478}: Stunned (Force) {1261925816074705}] ()
+[07:57:19.499] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1097 kinetic {836045448940873}) <3292>
+[07:57:19.499] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:57:19.499] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [RemoveEffect {836045448945478}: Force Stasis {1261925816074240}] ()
+[07:57:19.634] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Expeditious Protector {1780044900860239}] ()
+[07:57:19.634] [@Malenia] [@Rusmusashi] [Explosive Dart {2288745122365440}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1386* kinetic {836045448940873}) <1386>
+[07:57:21.182] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[07:57:21.182] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [ApplyEffect {836045448945477}: Shield Defense {3728714512728064}] ()
+[07:57:21.183] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:57:21.184] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:57:21.487] [@Malenia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (256 energy {836045448940874} -shield {836045448945509} (256 absorbed {836045448945511})) <256>
+[07:57:21.525] [@Malenia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:57:21.525] [@Malenia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (314 energy {836045448940874} (314 absorbed {836045448945511})) <314>
+[07:57:21.576] [@Malenia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (52* energy {836045448940874} (52 absorbed {836045448945511})) <52>
+[07:57:21.623] [@Malenia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (573* energy {836045448940874} (573 absorbed {836045448945511})) <573>
+[07:57:21.666] [@Malenia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (41 energy {836045448940874} (41 absorbed {836045448945511})) <41>
+[07:57:21.705] [@Malenia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (571* energy {836045448940874} (571 absorbed {836045448945511})) <571>
+[07:57:21.706] [@Malenia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (49* energy {836045448940874} (49 absorbed {836045448945511})) <49>
+[07:57:21.745] [@Malenia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (329 energy {836045448940874} (170 absorbed {836045448945511})) <329>
+[07:57:21.745] [@Malenia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (64* energy {836045448940874}) <64>
+[07:57:22.678] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [RemoveEffect {836045448945478}: Marked (Physical) {3411372264128776}] ()
+[07:57:22.678] [@Malenia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Marked (Physical) {3411372264128776}] ()
+[07:57:23.378] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:23.378] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Saber Reflect {3126160665870336}] ()
+[07:57:23.503] [@Malenia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7683* energy {836045448940874}) <7683>
+[07:57:23.503] [@Malenia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (300 energy {836045448940874}) <300>
+[07:57:24.084] [@Rusmusashi] [@Rusmusashi] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:24.084] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:57:24.395] [@Malenia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Heat Signature {985140943651080}] ()
+[07:57:24.395] [@Malenia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Sundered (Physical) {985140943651123}] ()
+[07:57:24.397] [@Rusmusashi] [@Malenia] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6200 kinetic {836045448940873}(reflected {836045448953649})) <12400>
+[07:57:24.397] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:57:24.397] [@Malenia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -) <2922>
+[07:57:24.672] [@Rusmusashi] [@Evel'ly] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[07:57:24.672] [@Rusmusashi] [@Malenia] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[07:57:24.673] [@Rusmusashi] [@Evel'ly] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4563* kinetic {836045448940873}) <9812>
+[07:57:24.673] [@Rusmusashi] [@Malenia] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4803* kinetic {836045448940873}) <10327>
+[07:57:25.084] [@Malenia] [@Rusmusashi] [Disabling Shot {3029313448312832}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <1>
+[07:57:25.691] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Expeditious Protector {1780044900860239}] ()
+[07:57:25.873] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [ApplyEffect {836045448945477}: Gather Strength {3429990947356672}] ()
+[07:57:25.873] [@Malenia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Slowed (Physical) {3394145150304544}] ()
+[07:57:25.874] [@Rusmusashi] [@Malenia] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2539 energy {836045448940874}(reflected {836045448953649})) <2539>
+[07:57:25.875] [@Malenia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -shield {836045448945509}) <1370>
+[07:57:25.875] [@Malenia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[07:57:26.476] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [RemoveEffect {836045448945478}: Saber Reflect {3126160665870336}] ()
+[07:57:26.882] [@Malenia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3435* energy {836045448940874}) <3435>
+[07:57:26.882] [@Malenia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (79 energy {836045448940874} -shield {836045448945509}) <79>
+[07:57:27.283] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[07:57:27.964] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:57:27.964] [@Malenia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:57:27.964] [@Malenia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (237* energy {836045448940874}) <237>
+[07:57:28.848] [@Malenia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1593 energy {836045448940874} -shield {836045448945509}) <1593>
+[07:57:28.849] [@Malenia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (122 energy {836045448940874} -shield {836045448945509}) <122>
+[07:57:29.835] [@Malenia] [@Rusmusashi] [Heatseeker Missiles {814592087293952}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9477* kinetic {836045448940873}) <9477>
+[07:57:30.423] [@Jarumdan] [@Rusmusashi] [Transcendence {2528567506239488}] [ApplyEffect {836045448945477}: Transcendence {2528567506239488}] ()
+[07:57:30.423] [@Malenia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [RemoveEffect {836045448945478}: Slowed (Physical) {3394145150304544}] ()
+[07:57:30.760] [@Rusmusashi] [@Rusmusashi] [Saber Throw {812165430771712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:30.761] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[07:57:30.924] [@Rusmusashi] [@Syld] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[07:57:30.924] [@Rusmusashi] [@Syld] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Valor {1781496599806219}] ()
+[07:57:30.925] [@Rusmusashi] [@Syld] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[07:57:30.925] [@Rusmusashi] [@Syld] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[07:57:31.027] [@Malenia] [@Rusmusashi] [Explosive Dart {2288745122365440}] [ApplyEffect {836045448945477}: Explosive Dart {2288745122365440}] ()
+[07:57:31.342] [@Malenia] [@Rusmusashi] [Pyro Shield {3391379191365632}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (874 elemental {836045448940875}) <874>
+[07:57:31.540] [@Rusmusashi] [@Malenia] [Saber Throw {812165430771712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2941* energy {836045448940874}) <5883>
+[07:57:32.043] [@Silvarra] [@Rusmusashi] [Kolto Cloud {1147159994957824}] [RemoveEffect {836045448945478}: Invigorated {1147159994958254}] ()
+[07:57:32.765] [@Rusmusashi] [@Rusmusashi] [Force Leap {812105301229568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:32.765] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [ApplyEffect {836045448945477}: Unremitting {3588488125480960}] ()
+[07:57:32.766] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [ApplyEffect {836045448945477}: Ardent Advocate {3621516423987200}] ()
+[07:57:32.768] [@Rusmusashi] [] [Fusion Missile {814235605008384}] [Event {836045448945472}: AbilityInterrupt {836045448945482}] ()
+[07:57:32.768] [@Rusmusashi] [@Malenia] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Immobilized (Physical) {812105301229840}] ()
+[07:57:32.769] [@Malenia] [@Rusmusashi] [Pyro Shield {3391379191365632}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1408* elemental {836045448940875}) <1408>
+[07:57:33.411] [@Rusmusashi] [@Malenia] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1760* energy {836045448940874}) <3521>
+[07:57:34.438] [@Malenia] [@Rusmusashi] [Explosive Dart {2288745122365440}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1133 kinetic {836045448940873} -shield {836045448945509}) <1133>
+[07:57:34.439] [@Malenia] [@Rusmusashi] [Explosive Dart {2288745122365440}] [RemoveEffect {836045448945478}: Explosive Dart {2288745122365440}] ()
+[07:57:34.537] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:34.537] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Focused Defense {2793700132388864}] ()
+[07:57:34.870] [@Rusmusashi] [@Malenia] [Force Leap {812105301229568}] [RemoveEffect {836045448945478}: Immobilized (Physical) {812105301229840}] ()
+[07:57:34.952] [@Malenia] [@Rusmusashi] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:57:34.953] [@Malenia] [@Rusmusashi] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:57:35.358] [@Rusmusashi] [@Rusmusashi] [Dispatch {3461554662014976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:35.358] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:57:35.358] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [RemoveEffect {836045448945478}: Ardent Advocate {3621516423987200}] ()
+[07:57:35.966] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:57:35.967] [@Malenia] [@Rusmusashi] [Pyro Shield {3391379191365632}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1408* elemental {836045448940875}) <1408>
+[07:57:35.967] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [RemoveEffect {836045448945478}: Gather Strength {3429990947356672}] ()
+[07:57:35.967] [@Rusmusashi] [@Malenia] [Dispatch {3461554662014976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4400 energy {836045448940874}) <8801>
+[07:57:36.460] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3996*)
+[07:57:36.460] [@Malenia] [@Rusmusashi] [Jet Boost {814252784877568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1355* elemental {836045448940875}) <1355>
+[07:57:36.860] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [RemoveEffect {836045448945478}: Unremitting {3588488125480960}] ()
+[07:57:36.992] [@Rusmusashi] [@Rusmusashi] [Blade Storm {1191698805817344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:36.992] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[07:57:36.992] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [ApplyEffect {836045448945477}: Blade Barrier {2308467612188672}] ()
+[07:57:37.256] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3996*)
+[07:57:37.256] [@Malenia] [@Rusmusashi] [Pyro Shield {3391379191365632}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (874 elemental {836045448940875} (874 absorbed {836045448945511})) <874>
+[07:57:37.656] [@Rusmusashi] [@Malenia] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3138 kinetic {836045448940873}) <6277>
+[07:57:37.892] [@Rusmusashi] [@Evel'ly] [Dust Storm {1282013378117632}] [RemoveEffect {836045448945478}: Unsteady (Force) {1282013378117909}] ()
+[07:57:39.177] [@Rusmusashi] [@Rusmusashi] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:39.177] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:57:39.773] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:57:39.773] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3996*)
+[07:57:39.775] [@Malenia] [@Rusmusashi] [Pyro Shield {3391379191365632}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (874 elemental {836045448940875} (874 absorbed {836045448945511})) <874>
+[07:57:39.775] [@Rusmusashi] [@Malenia] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3116* kinetic {836045448940873}) <6699>
+[07:57:40.469] [@Jarumdan] [@Rusmusashi] [Transcendence {2528567506239488}] [RemoveEffect {836045448945478}: Transcendence {2528567506239488}] ()
+[07:57:45.336] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Expeditious Protector {1780044900860239}] ()
+[07:57:46.999] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [RemoveEffect {836045448945478}: Blade Barrier {2308467612188672}] ()
+[07:57:49.668] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [RemoveEffect {836045448945478}: Focused Defense {2793700132388864}] ()
+[07:57:54.711] [@Rusmusashi] [@Rusmusashi] [Challenging Call {812079531425792}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:54.712] [@Rusmusashi] [@Dark'doc] [Challenging Call {812079531425792}] [ApplyEffect {836045448945477}: Taunt {812079531426137}] ()
+[07:57:54.712] [@Rusmusashi] [@Pandorä] [Challenging Call {812079531425792}] [ApplyEffect {836045448945477}: Taunt {812079531426137}] ()
+[07:57:56.203] [@Rusmusashi] [@Rusmusashi] [Freezing Force {1191685920915456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:56.203] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[07:57:56.203] [@Rusmusashi] [@Dark'doc] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[07:57:56.204] [@Rusmusashi] [@Pandorä] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[07:57:56.204] [@Rusmusashi] [@Dark'doc] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (57 elemental {836045448940875}) <115>
+[07:57:56.204] [@Rusmusashi] [@Pandorä] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (44 elemental {836045448940875}) <89>
+[07:57:57.810] [@Rusmusashi] [@Rusmusashi] [Freezing Force {1191685920915456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:57.810] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[07:57:59.722] [@Rusmusashi] [@Rusmusashi] [Force Leap {812105301229568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:57:59.723] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [ApplyEffect {836045448945477}: Unremitting {3588488125480960}] ()
+[07:57:59.723] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [ApplyEffect {836045448945477}: Ardent Advocate {3621516423987200}] ()
+[07:57:59.724] [@Rusmusashi] [] [Magnetic Grapple {3323067736522752}] [Event {836045448945472}: AbilityInterrupt {836045448945482}] ()
+[07:57:59.724] [@Rusmusashi] [@Dark'doc] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Immobilized (Physical) {812105301229840}] ()
+[07:57:59.724] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (3)
+[07:57:59.999] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Expeditious Protector {1780044900860239}] ()
+[07:58:00.463] [@Rusmusashi] [@Dark'doc] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2354* energy {836045448940874}) <4708>
+[07:58:00.669] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Expeditious Protector {1780044900860239}] ()
+[07:58:00.850] [@Rusmusashi] [@Dark'doc] [Challenging Call {812079531425792}] [RemoveEffect {836045448945478}: Taunt {812079531426137}] ()
+[07:58:00.850] [@Rusmusashi] [@Pandorä] [Challenging Call {812079531425792}] [RemoveEffect {836045448945478}: Taunt {812079531426137}] ()
+[07:58:01.651] [@Rusmusashi] [@Rusmusashi] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:01.652] [@Rusmusashi] [@Dark'doc] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (489 energy {836045448940874}) <978>
+[07:58:01.653] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:58:01.874] [@Rusmusashi] [@Dark'doc] [Force Leap {812105301229568}] [RemoveEffect {836045448945478}: Immobilized (Physical) {812105301229840}] ()
+[07:58:02.085] [@Rusmusashi] [@Dark'doc] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (482 energy {836045448940874}) <965>
+[07:58:02.680] [@Rusmusashi] [@Dark'doc] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (550 energy {836045448940874}) <1100>
+[07:58:03.809] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [RemoveEffect {836045448945478}: Unremitting {3588488125480960}] ()
+[07:58:04.304] [@Rusmusashi] [@Dark'doc] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[07:58:04.305] [@Rusmusashi] [@Pandorä] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[07:58:04.404] [@Rusmusashi] [@Rusmusashi] [Blade Storm {1191698805817344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:04.404] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[07:58:04.404] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [ApplyEffect {836045448945477}: Blade Barrier {2308467612188672}] ()
+[07:58:04.855] [@Rusmusashi] [@Dark'doc] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3872 kinetic {836045448940873}) <7744>
+[07:58:05.514] [@Rusmusashi] [@Malenia] [Dust Storm {1282013378117632}] [RemoveEffect {836045448945478}: Unsteady (Force) {1282013378117909}] ()
+[07:58:05.519] [@Rusmusashi] [@Bohl] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[07:58:05.520] [@Rusmusashi] [@Bohl] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[07:58:05.520] [@Rusmusashi] [@Bohl] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Valor {1781496599806219}] ()
+[07:58:05.520] [@Rusmusashi] [@Bohl] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[07:58:07.799] [@Malenia] [@Rusmusashi] [Priming Shot {3411372264128512}] [RemoveEffect {836045448945478}: Marked (Physical) {3411372264128776}] ()
+[07:58:09.467] [@Malenia] [@Rusmusashi] [Tracer Missile {985140943650816}] [RemoveEffect {836045448945478}: Sundered (Physical) {985140943651123}] ()
+[07:58:10.327] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Expeditious Protector {1780044900860239}] ()
+[07:58:11.739] [@Evel'ly] [@Rusmusashi] [Electrocute {808244125630464}] [ApplyEffect {836045448945477}: Stunned (Force) {808244125630724}] ()
+[07:58:11.739] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:58:11.963] [@Evel'ly] [@Rusmusashi] [Electrocute {808244125630464}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1840* energy {836045448940874} (1840 absorbed {836045448945511})) <1840>
+[07:58:12.736] [@Brevia] [@Rusmusashi] [Fusion Missile {814235605008384}] [ApplyEffect {836045448945477}: Radiation Burns {814235605008646}] ()
+[07:58:12.736] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [RemoveEffect {836045448945478}: Blade Barrier {2308467612188672}] ()
+[07:58:12.736] [@Brevia] [@Rusmusashi] [Fusion Missile {814235605008384}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2438* kinetic {836045448940873} (885 absorbed {836045448945511})) <2438>
+[07:58:13.727] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 elemental {836045448940875}) <308>
+[07:58:14.655] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [ApplyEffect {836045448945477}: Shield Defense {3728714512728064}] ()
+[07:58:14.656] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (534* elemental {836045448940875} (534 absorbed {836045448945511})) <534>
+[07:58:14.841] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [RemoveEffect {836045448945478}: Ardent Advocate {3621516423987200}] ()
+[07:58:15.548] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:58:15.548] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (534* elemental {836045448940875} (534 absorbed {836045448945511})) <534>
+[07:58:15.875] [@Evel'ly] [@Rusmusashi] [Electrocute {808244125630464}] [RemoveEffect {836045448945478}: Stunned (Force) {808244125630724}] ()
+[07:58:16.560] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (510* elemental {836045448940875} (510 absorbed {836045448945511})) <510>
+[07:58:17.169] [@Rusmusashi] [@Rusmusashi] [Force Stasis {1261925816074240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:17.169] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Force Stasis {1261925816074240}] ()
+[07:58:17.170] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Stunned (Force) {1261925816074705}] ()
+[07:58:17.171] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (768 kinetic {836045448940873}) <2304>
+[07:58:17.172] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:58:17.445] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [RemoveEffect {836045448945478}: Shield Defense {3728714512728064}] ()
+[07:58:17.446] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (510* elemental {836045448940875} (450 absorbed {836045448945511})) <510>
+[07:58:18.442] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (276 elemental {836045448940875}) <276>
+[07:58:18.442] [@Brevia] [@Rusmusashi] [Fusion Missile {814235605008384}] [RemoveEffect {836045448945478}: Radiation Burns {814235605008646}] ()
+[07:58:18.784] [@Rusmusashi] [@Emôteb] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[07:58:18.784] [@Rusmusashi] [@Emôteb] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[07:58:18.784] [@Rusmusashi] [@Emôteb] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Valor {1781496599806219}] ()
+[07:58:18.785] [@Rusmusashi] [@Emôteb] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[07:58:19.278] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (768 kinetic {836045448940873}) <2304>
+[07:58:19.278] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:58:21.277] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [RemoveEffect {836045448945478}: Stunned (Force) {1261925816074705}] ()
+[07:58:21.277] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1097 kinetic {836045448940873}) <3292>
+[07:58:21.278] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:58:21.278] [@Rusmusashi] [@Evel'ly] [Force Stasis {1261925816074240}] [RemoveEffect {836045448945478}: Force Stasis {1261925816074240}] ()
+[07:58:21.465] [@Rusmusashi] [@Rusmusashi] [Guardian Leap {812118186131456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:21.466] [@Rusmusashi] [@Jarumdan] [Guardian Leap {812118186131456}] [ApplyEffect {836045448945477}: Guardian Leap {812118186131456}] ()
+[07:58:23.016] [@Rusmusashi] [@Rusmusashi] [Saber Ward {812169725739008}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:23.016] [@Rusmusashi] [@Rusmusashi] [Blade Turning {2311847751450624}] [ApplyEffect {836045448945477}: Blade Turning {2311847751450624}] ()
+[07:58:23.016] [@Rusmusashi] [@Rusmusashi] [Saber Ward {812169725739008}] [ApplyEffect {836045448945477}: Saber Ward {812169725739008}] ()
+[07:58:24.336] [@Pandorä] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Corrosive Dart {3465720780292096}] ()
+[07:58:24.847] [@Pandorä] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Corrosive Dart {3465720780292096}] ()
+[07:58:24.847] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:58:24.848] [@Pandorä] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [RemoveEffect {836045448945478}: Corrosive Dart {3465720780292096}] ()
+[07:58:25.376] [@Pandorä] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (715 internal {836045448940876} (178 absorbed {836045448945511})) <715>
+[07:58:25.711] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Heat Signature {985140943651080}] ()
+[07:58:25.711] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Sundered (Physical) {985140943651123}] ()
+[07:58:25.712] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[07:58:25.713] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [ApplyEffect {836045448945477}: Gather Strength {3429990947356672}] ()
+[07:58:25.713] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [ApplyEffect {836045448945477}: Slowed (Tech) {3633804325421318}] ()
+[07:58:25.713] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2317 kinetic {836045448940873} -shield {836045448945509} (579 absorbed {836045448945511})) <2317>
+[07:58:25.715] [@Rusmusashi] [@Rusmusashi] [Taunt {3461103690448896}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:25.716] [@Rusmusashi] [@Brevia] [Taunt {3461103690448896}] [ApplyEffect {836045448945477}: Taunt {3461103690448896}] ()
+[07:58:26.974] [@Pandorä] [@Rusmusashi] [Sever Tendon {1223726376943616}] [ApplyEffect {836045448945477}: Slowed (Tech) {1223726376943872}] ()
+[07:58:27.107] [@Rusmusashi] [@Rusmusashi] [Force Push {1681844768604160}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:27.210] [@Pandorä] [@Rusmusashi] [Sever Tendon {1223726376943616}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (950 kinetic {836045448940873} (237 absorbed {836045448945511})) <950>
+[07:58:27.308] [@Rusmusashi] [@Brevia] [Force Push {1681844768604160}] [ApplyEffect {836045448945477}: Knockdown {1681844768604416}] ()
+[07:58:27.546] [@Rusmusashi] [@Brevia] [Force Push {1681844768604160}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1979 kinetic {836045448940873}) <3958>
+[07:58:27.621] [@Rusmusashi] [@Jarumdan] [Guardian Leap {812118186131456}] [RemoveEffect {836045448945478}: Guardian Leap {812118186131456}] ()
+[07:58:27.899] [@Evel'ly] [@Rusmusashi] [Jolt {875060931854336}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <1>
+[07:58:27.933] [@Pandorä] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1190* internal {836045448940876} (297 absorbed {836045448945511})) <1190>
+[07:58:28.129] [@Rusmusashi] [@Rusmusashi] [Blade Turning {2311847751450624}] [RemoveEffect {836045448945478}: Blade Turning {2311847751450624}] ()
+[07:58:28.825] [@Rusmusashi] [@Rusmusashi] [Force Leap {812105301229568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:28.825] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [ApplyEffect {836045448945477}: Unremitting {3588488125480960}] ()
+[07:58:28.826] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [ApplyEffect {836045448945477}: Ardent Advocate {3621516423987200}] ()
+[07:58:28.827] [@Rusmusashi] [] [Tracer Missile {985140943650816}] [Event {836045448945472}: AbilityInterrupt {836045448945482}] ()
+[07:58:28.827] [@Rusmusashi] [@Brevia] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Immobilized (Physical) {812105301229840}] ()
+[07:58:28.963] [@Pandorä] [@Rusmusashi] [Backstab {814789655789568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6186* kinetic {836045448940873} (1546 absorbed {836045448945511})) <6186>
+[07:58:29.323] [@Rusmusashi] [@Brevia] [Force Push {1681844768604160}] [RemoveEffect {836045448945478}: Knockdown {1681844768604416}] ()
+[07:58:29.483] [@Rusmusashi] [@Brevia] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1389 energy {836045448940874}) <2779>
+[07:58:29.732] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:58:29.732] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:58:30.125] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:30.125] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Saber Reflect {3126160665870336}] ()
+[07:58:30.536] [@Rusmusashi] [@Pandorä] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5414 kinetic {836045448940873}(reflected {836045448953649})) <10829>
+[07:58:30.666] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:30.666] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Warding Strike {3409336449630208}] ()
+[07:58:30.667] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Warding Power {3409336449630481}] ()
+[07:58:30.752] [@Rusmusashi] [@Brevia] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1814 energy {836045448940874}(reflected {836045448953649})) <1814>
+[07:58:30.753] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -) <2452>
+[07:58:30.753] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:58:30.827] [@Pandorä] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (738 internal {836045448940876} (184 absorbed {836045448945511})) <738>
+[07:58:30.869] [@Pandorä] [@Rusmusashi] [Fragmentation Grenade {1624614329384960}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -shield {836045448945509}) <1557>
+[07:58:30.961] [@Rusmusashi] [@Brevia] [Force Leap {812105301229568}] [RemoveEffect {836045448945478}: Immobilized (Physical) {812105301229840}] ()
+[07:58:31.094] [@Rusmusashi] [@Brevia] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (717 energy {836045448940874}) <1434>
+[07:58:31.094] [@Rusmusashi] [@Brevia] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (714 energy {836045448940874}) <1428>
+[07:58:31.094] [@Rusmusashi] [@Brevia] [Warding Strike {3409336449630208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (720 energy {836045448940874}) <1441>
+[07:58:31.263] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Affliction {808192586022912}] ()
+[07:58:31.535] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1134* internal {836045448940876} (283 absorbed {836045448945511})) <1134>
+[07:58:31.658] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [RemoveEffect {836045448945478}: Slowed (Tech) {3633804325421318}] ()
+[07:58:31.658] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[07:58:31.659] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:58:31.659] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:58:31.659] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:58:31.742] [@Rusmusashi] [@Brevia] [Taunt {3461103690448896}] [RemoveEffect {836045448945478}: Taunt {3461103690448896}] ()
+[07:58:32.264] [@Rusmusashi] [@Rusmusashi] [Dispatch {3461554662014976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:32.264] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[07:58:32.264] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [RemoveEffect {836045448945478}: Ardent Advocate {3621516423987200}] ()
+[07:58:32.265] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:58:32.788] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [RemoveEffect {836045448945478}: Gather Strength {3429990947356672}] ()
+[07:58:32.871] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [RemoveEffect {836045448945478}: Unremitting {3588488125480960}] ()
+[07:58:33.268] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [RemoveEffect {836045448945478}: Saber Reflect {3126160665870336}] ()
+[07:58:33.774] [@Pandorä] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (738 internal {836045448940876} (184 absorbed {836045448945511})) <738>
+[07:58:34.074] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (693 internal {836045448940876} (173 absorbed {836045448945511})) <693>
+[07:58:34.904] [@Rusmusashi] [@Brevia] [Dispatch {3461554662014976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4975 energy {836045448940874}) <9950>
+[07:58:34.904] [@Evel'ly] [@Rusmusashi] [Crushing Darkness {863460225187840}] [ApplyEffect {836045448945477}: Crushed (Crushing Darkness) {863460225188131}] ()
+[07:58:34.904] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:58:35.102] [@Rusmusashi] [@Rusmusashi] [Saber Ward {812169725739008}] [RemoveEffect {836045448945478}: Saber Ward {812169725739008}] ()
+[07:58:35.118] [@Evel'ly] [@Rusmusashi] [Crushing Darkness {863460225187840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1774 kinetic {836045448940873} (443 absorbed {836045448945511})) <1774>
+[07:58:35.892] [@Evel'ly] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (710* kinetic {836045448940873}) <710>
+[07:58:36.688] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [ApplyEffect {836045448945477}: Gather Strength {3429990947356672}] ()
+[07:58:36.688] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [ApplyEffect {836045448945477}: Slowed (Tech) {3633804325421318}] ()
+[07:58:36.689] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3425 kinetic {836045448940873}) <3425>
+[07:58:36.690] [@Pandorä] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (688 internal {836045448940876}) <688>
+[07:58:36.800] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:58:36.801] [@Evel'ly] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (297 kinetic {836045448940873} -shield {836045448945509}) <297>
+[07:58:36.877] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (693 internal {836045448940876}) <693>
+[07:58:37.305] [@Brevia] [@Rusmusashi] [Heatseeker Missiles {814592087293952}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5814 kinetic {836045448940873}) <5814>
+[07:58:37.524] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Expeditious Protector {1780044900860239}] ()
+[07:58:37.525] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:37.525] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [ApplyEffect {836045448945477}: Blade Blitz {3618351033090048}] ()
+[07:58:37.525] [@Pandorä] [@Rusmusashi] [Sever Tendon {1223726376943616}] [RemoveEffect {836045448945478}: Slowed (Tech) {1223726376943872}] ()
+[07:58:37.526] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [RemoveEffect {836045448945478}: Slowed (Tech) {3633804325421318}] ()
+[07:58:37.718] [@Evel'ly] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[07:58:38.195] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:58:38.196] [@Brevia] [@Rusmusashi] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:58:38.196] [@Brevia] [@Rusmusashi] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:58:38.208] [@Evel'ly] [@Rusmusashi] [Force Slow {948693851176960}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[07:58:38.620] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [RemoveEffect {836045448945478}: Blade Blitz {3618351033090048}] ()
+[07:58:38.621] [@Evel'ly] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (710* kinetic {836045448940873}) <710>
+[07:58:39.138] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Marked (Physical) {3411372264128776}] ()
+[07:58:39.625] [@Evel'ly] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (710* kinetic {836045448940873}) <710>
+[07:58:39.625] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1219* internal {836045448940876}) <1219>
+[07:58:39.732] [@Pandorä] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (688 internal {836045448940876}) <688>
+[07:58:39.904] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2728 energy {836045448940874} -shield {836045448945509}) <2728>
+[07:58:39.904] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:58:40.531] [@Evel'ly] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (319 kinetic {836045448940873} -shield {836045448945509}) <319>
+[07:58:40.531] [@Evel'ly] [@Rusmusashi] [Crushing Darkness {863460225187840}] [RemoveEffect {836045448945478}: Crushed (Crushing Darkness) {863460225188131}] ()
+[07:58:40.949] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Slowed (Physical) {3394145150304544}] ()
+[07:58:40.949] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4917* energy {836045448940874}) <4917>
+[07:58:40.949] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (207 energy {836045448940874}) <207>
+[07:58:41.352] [@Rusmusashi] [@Rusmusashi] [Awe {1596834480914432}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:41.352] [@Rusmusashi] [@Evel'ly] [Awe {1596834480914432}] [ApplyEffect {836045448945477}: Incapacitated (Mental) {1596834480914688}] ()
+[07:58:41.353] [@Rusmusashi] [@Brevia] [Awe {1596834480914432}] [ApplyEffect {836045448945477}: Incapacitated (Mental) {1596834480914688}] ()
+[07:58:41.355] [@Rusmusashi] [@Evel'ly] [Awe {1596834480914432}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <2>
+[07:58:41.355] [@Rusmusashi] [@Brevia] [Awe {1596834480914432}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <2>
+[07:58:42.428] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (745 internal {836045448940876}) <745>
+[07:58:42.639] [@Pandorä] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (733 internal {836045448940876}) <733>
+[07:58:42.639] [@Pandorä] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [RemoveEffect {836045448945478}: Corrosive Dart {3465720780292096}] ()
+[07:58:44.024] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [RemoveEffect {836045448945478}: Slowed (Physical) {3394145150304544}] ()
+[07:58:45.175] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1219* internal {836045448940876}) <1219>
+[07:58:47.398] [@Rusmusashi] [@Evel'ly] [Awe {1596834480914432}] [RemoveEffect {836045448945478}: Incapacitated (Mental) {1596834480914688}] ()
+[07:58:47.399] [@Rusmusashi] [@Brevia] [Awe {1596834480914432}] [RemoveEffect {836045448945478}: Incapacitated (Mental) {1596834480914688}] ()
+[07:58:47.975] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1134* internal {836045448940876}) <1134>
+[07:58:47.975] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [RemoveEffect {836045448945478}: Affliction {808192586022912}] ()
+[07:58:48.386] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[07:58:48.387] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [ApplyEffect {836045448945477}: Slowed (Tech) {3633804325421318}] ()
+[07:58:48.405] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2150 kinetic {836045448940873} -shield {836045448945509}) <2150>
+[07:58:49.406] [@Evel'ly] [@Rusmusashi] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3563* energy {836045448940874}) <3563>
+[07:58:50.179] [@Brevia] [@Rusmusashi] [Missile Blast {814261374812160}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4766* kinetic {836045448940873}) <4766>
+[07:58:50.497] [@Rusmusashi] [@Rusmusashi] [Challenging Call {812079531425792}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:50.787] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [RemoveEffect {836045448945478}: Warding Power {3409336449630481}] ()
+[07:58:50.788] [@Rusmusashi] [@Rusmusashi] [Warding Strike {3409336449630208}] [RemoveEffect {836045448945478}: Warding Strike {3409336449630208}] ()
+[07:58:51.200] [@Rusmusashi] [@Rusmusashi] [Enure {2211126473392128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:51.200] [@Rusmusashi] [@Rusmusashi] [Enure {2211126473392128}] [ApplyEffect {836045448945477}: Enure {2211126473392128}] ()
+[07:58:51.513] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Slowed (Physical) {3394145150304544}] ()
+[07:58:51.514] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1662 energy {836045448940874} -shield {836045448945509}) <1662>
+[07:58:51.514] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (406* energy {836045448940874}) <406>
+[07:58:51.536] [@Rusmusashi] [@Rusmusashi] [Enure {2211126473392128}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (23677)
+[07:58:52.510] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4899* energy {836045448940874}) <4899>
+[07:58:52.510] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (176 energy {836045448940874}) <176>
+[07:58:52.619] [@Evel'ly] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Slowed (Force) {808252715565346}] ()
+[07:58:52.619] [@Evel'ly] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1948* energy {836045448940874}) <1948>
+[07:58:52.785] [@Rusmusashi] [@Rusmusashi] [Warding Call {812483258351616}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:52.785] [@Rusmusashi] [@Rusmusashi] [Warding Call {812483258351616}] [ApplyEffect {836045448945477}: Warding Call {812483258351616}] ()
+[07:58:52.994] [@Evel'ly] [@Rusmusashi] [Force Lightning {808252715565056}] [RemoveEffect {836045448945478}: Slowed (Force) {808252715565346}] ()
+[07:58:53.264] [@Larissannette] [@Rusmusashi] [Fragmentation Grenade {1624614329384960}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (885 kinetic {836045448940873} -shield {836045448945509}) <885>
+[07:58:53.499] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1825 energy {836045448940874}) <1825>
+[07:58:53.499] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[07:58:53.797] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Corrosive Dart {3465720780292096}] ()
+[07:58:54.432] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Corrosive Dart {3465720780292096}] ()
+[07:58:54.432] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [RemoveEffect {836045448945478}: Corrosive Dart {3465720780292096}] ()
+[07:58:54.432] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [RemoveEffect {836045448945478}: Slowed (Tech) {3633804325421318}] ()
+[07:58:54.433] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[07:58:54.837] [@Brevia] [@Rusmusashi] [Heatseeker Missiles {814592087293952}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4006 kinetic {836045448940873}) <4006>
+[07:58:54.985] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Affliction {808192586022912}] ()
+[07:58:54.985] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [ApplyEffect {836045448945477}: Shield Defense {3728714512728064}] ()
+[07:58:55.157] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (427 internal {836045448940876}) <427>
+[07:58:55.245] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (432 internal {836045448940876} (432 absorbed {836045448945511})) <432>
+[07:58:55.329] [@Rusmusashi] [@Rusmusashi] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:55.329] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:58:55.732] [@Brevia] [@Rusmusashi] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:58:55.734] [@Brevia] [@Rusmusashi] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (152 energy {836045448940874} -shield {836045448945509} (152 absorbed {836045448945511})) <152>
+[07:58:56.510] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [RemoveEffect {836045448945478}: Slowed (Physical) {3394145150304544}] ()
+[07:58:56.727] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (432 internal {836045448940876} (432 absorbed {836045448945511})) <432>
+[07:58:57.222] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [RemoveEffect {836045448945478}: Shield Defense {3728714512728064}] ()
+[07:58:57.409] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (427 internal {836045448940876}) <427>
+[07:58:57.411] [@Larissannette] [@Rusmusashi] [Acid Blade {1791387909488640}] [ApplyEffect {836045448945477}: Poisoned (Acid Blade) {1791387909488933}] ()
+[07:58:57.611] [@Rusmusashi] [@Rusmusashi] [Warzone Medpac {864164599824384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:58.013] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2811 energy {836045448940874} (1012 absorbed {836045448945511})) <2811>
+[07:58:58.013] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:58:58.059] [@Larissannette] [@Rusmusashi] [Backstab {814789655789568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1795 kinetic {836045448940873} -shield {836045448945509}) <1795>
+[07:58:58.102] [@Rusmusashi] [@Rusmusashi] [Warzone Adrenal {869640683126784}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:58:58.102] [@Rusmusashi] [@Rusmusashi] [Warzone Adrenal {869640683126784}] [ApplyEffect {836045448945477}: Warzone Adrenal {869640683126784}] ()
+[07:58:58.120] [@Rusmusashi] [@Rusmusashi] [Warzone Medpac {864164599824384}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (27624)
+[07:58:58.576] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:58:58.577] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (303* internal {836045448940876}) <303>
+[07:58:58.803] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Expeditious Protector {1780044900860239}] ()
+[07:58:59.084] [@Larissannette] [@Rusmusashi] [Volatile Substance {3403448049467392}] [ApplyEffect {836045448945477}: Volatile Substance {3403448049467392}] ()
+[07:58:59.206] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [ApplyEffect {836045448945477}: Slowed (Tech) {3633804325421318}] ()
+[07:58:59.207] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2512* kinetic {836045448940873}) <2512>
+[07:58:59.338] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (331 internal {836045448940876}) <331>
+[07:58:59.357] [@Sachmed] [@Rusmusashi] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1591* energy {836045448940874}) <1591>
+[07:58:59.590] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (182 internal {836045448940876}) <182>
+[07:59:00.108] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:59:00.108] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:59:00.480] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (579* internal {836045448940876}) <579>
+[07:59:00.596] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (194 internal {836045448940876}) <194>
+[07:59:01.098] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Slowed (Physical) {3394145150304544}] ()
+[07:59:01.099] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (967 energy {836045448940874} -shield {836045448945509}) <967>
+[07:59:01.100] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (68 energy {836045448940874}) <68>
+[07:59:01.510] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (194 internal {836045448940876}) <194>
+[07:59:01.705] [@Larissannette] [@Rusmusashi] [Calculated Frenzy {3202911731449856}] [ApplyEffect {836045448945477}: Susceptible (Tech) {3202911731450128}] ()
+[07:59:02.008] [@Rusmusashi] [@Rusmusashi] [Guardian Leap {812118186131456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:02.008] [@Rusmusashi] [@Concom] [Guardian Leap {812118186131456}] [ApplyEffect {836045448945477}: Guardian Leap {812118186131456}] ()
+[07:59:02.112] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:59:02.112] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (151* energy {836045448940874}) <151>
+[07:59:02.112] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (331 internal {836045448940876}) <331>
+[07:59:02.387] [@Larissannette] [@Rusmusashi] [Veiled Strike {3403456639401984}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1722 kinetic {836045448940873}) <1722>
+[07:59:02.602] [@Larissannette] [@Rusmusashi] [Volatile Substance {3403448049467392}] [ApplyEffect {836045448945477}: Assailable (Mental) {3403448049467654}] ()
+[07:59:02.602] [@Larissannette] [@Rusmusashi] [Volatile Substance {3403448049467392}] [RemoveEffect {836045448945478}: Volatile Substance {3403448049467392}] ()
+[07:59:02.602] [@Larissannette] [@Rusmusashi] [Volatile Substance {3403448049467392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4575* internal {836045448940876}) <4575>
+[07:59:02.603] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (204 internal {836045448940876}) <204>
+[07:59:02.611] [@Rusmusashi] [@Concom] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[07:59:02.612] [@Concom] [@Rusmusashi] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force Armor {812736661422080}] ()
+[07:59:02.612] [@Concom] [@Rusmusashi] [Force Armor {812736661422080}] [ApplyEffect {836045448945477}: Force-imbalance {812736661422343}] ()
+[07:59:03.038] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1058 energy {836045448940874} -shield {836045448945509} (1058 absorbed {836045448945511})) <1058>
+[07:59:03.039] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (57 energy {836045448940874} -shield {836045448945509} (57 absorbed {836045448945511})) <57>
+[07:59:03.433] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (388 internal {836045448940876} (388 absorbed {836045448945511})) <388>
+[07:59:03.569] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (361* internal {836045448940876} (361 absorbed {836045448945511})) <361>
+[07:59:03.569] [@Larissannette] [@Rusmusashi] [Acid Blade {1791387909488640}] [RemoveEffect {836045448945478}: Poisoned (Acid Blade) {1791387909488933}] ()
+[07:59:04.070] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Rejuvenate {812809675866112}] ()
+[07:59:04.082] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4134*)
+[07:59:04.885] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (355 internal {836045448940876} (355 absorbed {836045448945511})) <355>
+[07:59:05.332] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [RemoveEffect {836045448945478}: Slowed (Tech) {3633804325421318}] ()
+[07:59:05.424] [@Brevia] [@Rusmusashi] [Explosive Dart {2288745122365440}] [ApplyEffect {836045448945477}: Explosive Dart {2288745122365440}] ()
+[07:59:06.160] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [RemoveEffect {836045448945478}: Slowed (Physical) {3394145150304544}] ()
+[07:59:06.319] [@Larissannette] [@Rusmusashi] [Laceration {2176972893454336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3054* kinetic {836045448940873} (3054 absorbed {836045448945511})) <3054>
+[07:59:06.465] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (371 internal {836045448940876} (371 absorbed {836045448945511})) <371>
+[07:59:06.617] [@Larissannette] [@Rusmusashi] [Collateral Strike {2278218157522944}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (840* kinetic {836045448940873} (840 absorbed {836045448945511})) <840>
+[07:59:06.769] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (699)
+[07:59:06.788] [@Concom] [@Rusmusashi] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5634)
+[07:59:07.186] [@Rusmusashi] [@Rusmusashi] [Hilt Bash {3453231015395328}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:07.186] [@Rusmusashi] [@Larissannette] [Hilt Bash {3453231015395328}] [ApplyEffect {836045448945477}: Stunned (Force) {3453231015395584}] ()
+[07:59:07.620] [@Sachmed] [@Rusmusashi] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (669 energy {836045448940874} -shield {836045448945509} (669 absorbed {836045448945511})) <669>
+[07:59:07.652] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (355 internal {836045448940876} (355 absorbed {836045448945511})) <355>
+[07:59:07.765] [@Rusmusashi] [@Larissannette] [Hilt Bash {3453231015395328}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3582 kinetic {836045448940873}) <10747>
+[07:59:07.953] [@Rusmusashi] [@Rusmusashi] [Warding Call {812483258351616}] [RemoveEffect {836045448945478}: Warding Call {812483258351616}] ()
+[07:59:08.115] [@Rusmusashi] [@Concom] [Guardian Leap {812118186131456}] [RemoveEffect {836045448945478}: Guardian Leap {812118186131456}] ()
+[07:59:08.132] [@Concom] [@Rusmusashi] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5511)
+[07:59:08.635] [@Sachmed] [@Rusmusashi] [Electrocute {808244125630464}] [ApplyEffect {836045448945477}: Stunned (Force) {808244125630724}] ()
+[07:59:08.635] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[07:59:08.833] [@Concom] [@Rusmusashi] [Force Armor {812736661422080}] [RemoveEffect {836045448945478}: Force Armor {812736661422080}] ()
+[07:59:08.833] [@Brevia] [@Rusmusashi] [Explosive Dart {2288745122365440}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1566 kinetic {836045448940873} (519 absorbed {836045448945511})) <1566>
+[07:59:08.833] [@Brevia] [@Rusmusashi] [Explosive Dart {2288745122365440}] [RemoveEffect {836045448945478}: Explosive Dart {2288745122365440}] ()
+[07:59:08.849] [@Sachmed] [@Rusmusashi] [Electrocute {808244125630464}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (536 energy {836045448940874} -shield {836045448945509} (536 absorbed {836045448945511})) <536>
+[07:59:09.276] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (699)
+[07:59:09.497] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (720* internal {836045448940876}) <720>
+[07:59:10.024] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:10.024] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Focused Defense {2793700132388864}] ()
+[07:59:10.402] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:59:10.403] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1040* internal {836045448940876}) <1040>
+[07:59:10.871] [@Sachmed] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Slowed (Force) {808252715565346}] ()
+[07:59:10.872] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:59:10.872] [@Sachmed] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (491 energy {836045448940874} -shield {836045448945509}) <491>
+[07:59:11.191] [@Rusmusashi] [@Larissannette] [Hilt Bash {3453231015395328}] [RemoveEffect {836045448945478}: Stunned (Force) {3453231015395584}] ()
+[07:59:11.290] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: health point {836045448938504}] (21534)
+[07:59:11.290] [@Rusmusashi] [@Rusmusashi] [Enure {2211126473392128}] [RemoveEffect {836045448945478}: Enure {2211126473392128}] ()
+[07:59:11.685] [@Larissannette] [@Rusmusashi] [Flash Bang {814819720560640}] [ApplyEffect {836045448945477}: Blinded (Tech) {814819720560898}] ()
+[07:59:11.899] [@Larissannette] [@Rusmusashi] [Flash Bang {814819720560640}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <1>
+[07:59:11.982] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1247*)
+[07:59:11.982] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [RemoveEffect {836045448945478}: Rejuvenate {812809675866112}] ()
+[07:59:11.982] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:59:11.983] [@Larissannette] [@Rusmusashi] [Flash Bang {814819720560640}] [RemoveEffect {836045448945478}: Blinded (Tech) {814819720560898}] ()
+[07:59:11.983] [@Sachmed] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1320* energy {836045448940874}) <1320>
+[07:59:12.479] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:59:12.480] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (433 internal {836045448940876}) <433>
+[07:59:12.480] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [RemoveEffect {836045448945478}: Corrosive Dart {3465720780292096}] ()
+[07:59:13.185] [@Sachmed] [@Rusmusashi] [Electrocute {808244125630464}] [RemoveEffect {836045448945478}: Stunned (Force) {808244125630724}] ()
+[07:59:13.339] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:59:13.339] [@Sachmed] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (795 energy {836045448940874}) <795>
+[07:59:13.346] [@Rusmusashi] [@Rusmusashi] [Warzone Adrenal {869640683126784}] [RemoveEffect {836045448945478}: Warzone Adrenal {869640683126784}] ()
+[07:59:13.347] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:59:13.347] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1356* internal {836045448940876}) <1356>
+[07:59:13.347] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [RemoveEffect {836045448945478}: Affliction {808192586022912}] ()
+[07:59:13.903] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:59:13.903] [@Sachmed] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1721* energy {836045448940874}) <1721>
+[07:59:13.903] [@Sachmed] [@Rusmusashi] [Force Lightning {808252715565056}] [RemoveEffect {836045448945478}: Slowed (Force) {808252715565346}] ()
+[07:59:14.202] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Rejuvenate {812809675866112}] ()
+[07:59:14.217] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2257)
+[07:59:14.342] [@Brevia] [@Rusmusashi] [Fusion Missile {814235605008384}] [ApplyEffect {836045448945477}: Radiation Burns {814235605008646}] ()
+[07:59:14.342] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:59:14.343] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Expeditious Protector {1780044900860239}] ()
+[07:59:14.344] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:59:14.344] [@Brevia] [@Rusmusashi] [Fusion Missile {814235605008384}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (965* kinetic {836045448940873}) <965>
+[07:59:14.344] [@Brevia] [@Rusmusashi] [Fusion Missile {814235605008384}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1264 kinetic {836045448940873}) <1264>
+[07:59:14.720] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[07:59:15.418] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3996*)
+[07:59:15.422] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:59:15.422] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (293* elemental {836045448940875}) <293>
+[07:59:15.423] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [RemoveEffect {836045448945478}: Focused Defense {2793700132388864}] ()
+[07:59:15.423] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[07:59:15.423] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (338 elemental {836045448940875}) <338>
+[07:59:16.081] [@Rusmusashi] [@Rusmusashi] [Freezing Force {1191685920915456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:16.081] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[07:59:16.082] [@Rusmusashi] [@Pandorä] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[07:59:16.082] [@Rusmusashi] [@Brevia] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[07:59:16.083] [@Rusmusashi] [@Pandorä] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (46 elemental {836045448940875}) <92>
+[07:59:16.083] [@Rusmusashi] [@Brevia] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (79 elemental {836045448940875}) <158>
+[07:59:16.303] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (169 elemental {836045448940875}) <169>
+[07:59:16.303] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (587* elemental {836045448940875}) <587>
+[07:59:16.366] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1439 energy {836045448940874} -shield {836045448945509}) <1439>
+[07:59:16.366] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:59:16.900] [@Rusmusashi] [@Rusmusashi] [Riposte {812156840837120}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:16.901] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:59:16.901] [@Rusmusashi] [@Rusmusashi] [Blade Barricade {3429359587164160}] [ApplyEffect {836045448945477}: Blade Barricade {3429359587164160}] ()
+[07:59:16.901] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [RemoveEffect {836045448945478}: Gather Strength {3429990947356672}] ()
+[07:59:17.102] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (699)
+[07:59:17.197] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1325 kinetic {836045448940873} -shield {836045448945509}) <1325>
+[07:59:17.280] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (169 elemental {836045448940875}) <169>
+[07:59:17.280] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (587* elemental {836045448940875}) <587>
+[07:59:17.392] [@Rusmusashi] [@Pandorä] [Riposte {812156840837120}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3661 energy {836045448940874}) <7873>
+[07:59:17.820] [@Concom] [@Rusmusashi] [Benevolence {812710891618304}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5181)
+[07:59:18.190] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (169 elemental {836045448940875}) <169>
+[07:59:18.191] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (587* elemental {836045448940875}) <587>
+[07:59:18.286] [@Rusmusashi] [@Rusmusashi] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:18.287] [@Rusmusashi] [@Brevia] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (460 energy {836045448940874}) <920>
+[07:59:18.288] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:59:18.689] [@Rusmusashi] [@Brevia] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (488 energy {836045448940874}) <976>
+[07:59:19.082] [@Brevia] [@Rusmusashi] [Heatseeker Missiles {814592087293952}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2450 kinetic {836045448940873} -shield {836045448945509}) <2450>
+[07:59:19.222] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (293* elemental {836045448940875}) <293>
+[07:59:19.222] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:59:19.222] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (338 elemental {836045448940875}) <338>
+[07:59:19.289] [@Rusmusashi] [@Brevia] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (686* energy {836045448940874}) <1373>
+[07:59:19.792] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1163*)
+[07:59:19.924] [@Rusmusashi] [@Rusmusashi] [Blade Storm {1191698805817344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:19.924] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [ApplyEffect {836045448945477}: Blade Barrier {2308467612188672}] ()
+[07:59:19.924] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:59:20.103] [@Brevia] [@Rusmusashi] [Radiation Burns {814235605008646}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (338 elemental {836045448940875} (338 absorbed {836045448945511})) <338>
+[07:59:20.103] [@Brevia] [@Rusmusashi] [Fusion Missile {814235605008384}] [RemoveEffect {836045448945478}: Radiation Burns {814235605008646}] ()
+[07:59:20.604] [@Rusmusashi] [@Concom] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[07:59:20.607] [@Rusmusashi] [@Rusmusashi] [Taunt {3461103690448896}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:20.607] [@Rusmusashi] [@Brevia] [Taunt {3461103690448896}] [ApplyEffect {836045448945477}: Taunt {3461103690448896}] ()
+[07:59:20.624] [@Rusmusashi] [@Brevia] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3853 kinetic {836045448940873}) <7706>
+[07:59:21.905] [@Rusmusashi] [@Rusmusashi] [Force Stasis {1261925816074240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:21.905] [@Rusmusashi] [@Brevia] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Force Stasis {1261925816074240}] ()
+[07:59:21.905] [@Rusmusashi] [@Brevia] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Stunned (Force) {1261925816074705}] ()
+[07:59:21.906] [@Rusmusashi] [@Brevia] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1459* kinetic {836045448940873}) <4378>
+[07:59:21.907] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:59:22.395] [@Sachmed] [@Rusmusashi] [Crushing Darkness {863460225187840}] [ApplyEffect {836045448945477}: Crushed (Crushing Darkness) {863460225188131}] ()
+[07:59:22.498] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (699)
+[07:59:22.498] [@Concom] [@Rusmusashi] [Rejuvenate {812809675866112}] [RemoveEffect {836045448945478}: Rejuvenate {812809675866112}] ()
+[07:59:22.592] [@Sachmed] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Affliction {808192586022912}] ()
+[07:59:22.605] [@Sachmed] [@Rusmusashi] [Crushing Darkness {863460225187840}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1212 kinetic {836045448940873} -shield {836045448945509} (1212 absorbed {836045448945511})) <1212>
+[07:59:22.834] [@Sachmed] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (671 internal {836045448940876} (671 absorbed {836045448945511})) <671>
+[07:59:23.429] [@Rusmusashi] [@Rusmusashi] [Blade Barrier {2308467612188672}] [RemoveEffect {836045448945478}: Blade Barrier {2308467612188672}] ()
+[07:59:23.429] [@Sachmed] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (680* kinetic {836045448940873} (502 absorbed {836045448945511})) <680>
+[07:59:23.528] [@Rusmusashi] [@Rusmusashi] [Blade Dance {3619557918900224}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:23.529] [@Rusmusashi] [@Rusmusashi] [Blade Dance {3619557918900224}] [ApplyEffect {836045448945477}: Unshakable {3619557918900576}] ()
+[07:59:23.912] [@Rusmusashi] [@Rusmusashi] [Defensive Swings {3620777689612288}] [ApplyEffect {836045448945477}: Defensive Swings {3620777689612288}] ()
+[07:59:23.913] [@Rusmusashi] [@Brevia] [Blade Dance {3619557918900224}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2583* energy {836045448940874} (2583 absorbed {836045448945511})) <5166>
+[07:59:24.026] [@Rusmusashi] [@Brevia] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (966 kinetic {836045448940873} (966 absorbed {836045448945511})) <2899>
+[07:59:24.160] [@Rusmusashi] [@Brevia] [Blade Dance {3619557918900224}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1668 energy {836045448940874} (1668 absorbed {836045448945511})) <3337>
+[07:59:24.252] [@Rusmusashi] [@Pandorä] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[07:59:24.253] [@Rusmusashi] [@Brevia] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[07:59:24.476] [@Sachmed] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (680* kinetic {836045448940873}) <680>
+[07:59:25.328] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:59:25.328] [@Sachmed] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (285 kinetic {836045448940873} -shield {836045448945509}) <285>
+[07:59:25.640] [@Sachmed] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1142* internal {836045448940876}) <1142>
+[07:59:26.025] [@Rusmusashi] [@Brevia] [Force Stasis {1261925816074240}] [RemoveEffect {836045448945478}: Stunned (Force) {1261925816074705}] ()
+[07:59:26.026] [@Rusmusashi] [@Brevia] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (966 kinetic {836045448940873} (966 absorbed {836045448945511})) <2899>
+[07:59:26.026] [@Rusmusashi] [@Brevia] [Force Stasis {1261925816074240}] [RemoveEffect {836045448945478}: Force Stasis {1261925816074240}] ()
+[07:59:26.237] [@Rusmusashi] [@Brevia] [Blade Dance {3619557918900224}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3371 energy {836045448940874} (2731 absorbed {836045448945511})) <6742>
+[07:59:26.341] [@Sachmed] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (399 kinetic {836045448940873}) <399>
+[07:59:26.342] [@Rusmusashi] [@Concom] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[07:59:26.342] [@Rusmusashi] [@Concom] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Valor {1781496599806219}] ()
+[07:59:26.342] [@Rusmusashi] [@Concom] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[07:59:26.342] [@Rusmusashi] [@Concom] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[07:59:26.342] [@Rusmusashi] [@Concom] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[07:59:26.343] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[07:59:26.343] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[07:59:26.343] [@Rusmusashi] [@Concom] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[07:59:26.536] [@Rusmusashi] [@Rusmusashi] [Blade Dance {3619557918900224}] [RemoveEffect {836045448945478}: Unshakable {3619557918900576}] ()
+[07:59:26.536] [@Rusmusashi] [@Rusmusashi] [Force Leap {812105301229568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:26.536] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [ApplyEffect {836045448945477}: Unremitting {3588488125480960}] ()
+[07:59:26.536] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [ApplyEffect {836045448945477}: Ardent Advocate {3621516423987200}] ()
+[07:59:26.537] [@Rusmusashi] [] [Innervate {1104395005591552}] [Event {836045448945472}: AbilityInterrupt {836045448945482}] ()
+[07:59:26.537] [@Rusmusashi] [@Evel'ly] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Immobilized (Physical) {812105301229840}] ()
+[07:59:26.728] [@Rusmusashi] [@Brevia] [Taunt {3461103690448896}] [RemoveEffect {836045448945478}: Taunt {3461103690448896}] ()
+[07:59:27.040] [@Rusmusashi] [@Rusmusashi] [Blade Barricade {3429359587164160}] [RemoveEffect {836045448945478}: Blade Barricade {3429359587164160}] ()
+[07:59:27.352] [@Sachmed] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (285 kinetic {836045448940873} -shield {836045448945509}) <285>
+[07:59:27.534] [@Rusmusashi] [@Evel'ly] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1807 energy {836045448940874}) <3615>
+[07:59:28.227] [@Sachmed] [@Rusmusashi] [Crushed (Crushing Darkness) {863460225188131}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (680* kinetic {836045448940873}) <680>
+[07:59:28.227] [@Sachmed] [@Rusmusashi] [Crushing Darkness {863460225187840}] [RemoveEffect {836045448945478}: Crushed (Crushing Darkness) {863460225188131}] ()
+[07:59:28.548] [@Sachmed] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (671 internal {836045448940876}) <671>
+[07:59:28.549] [@Rusmusashi] [@Rusmusashi] [Dispatch {3461554662014976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:28.549] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:59:28.549] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:59:28.549] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [RemoveEffect {836045448945478}: Ardent Advocate {3621516423987200}] ()
+[07:59:28.641] [@Rusmusashi] [@Evel'ly] [Force Leap {812105301229568}] [RemoveEffect {836045448945478}: Immobilized (Physical) {812105301229840}] ()
+[07:59:29.183] [@Rusmusashi] [@Evel'ly] [Dispatch {3461554662014976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5033 energy {836045448940874} (68 absorbed {836045448945511})) <10066>
+[07:59:29.297] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[07:59:29.298] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:59:29.298] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[07:59:29.298] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1868 energy {836045448940874} -shield {836045448945509}) <1868>
+[07:59:29.298] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (163 energy {836045448940874}) <163>
+[07:59:29.672] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3400 kinetic {836045448940873}) <3400>
+[07:59:30.249] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4461* energy {836045448940874}) <4461>
+[07:59:30.249] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (257 energy {836045448940874}) <257>
+[07:59:30.648] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [RemoveEffect {836045448945478}: Unremitting {3588488125480960}] ()
+[07:59:30.897] [@Rusmusashi] [@Rusmusashi] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:30.897] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[07:59:31.124] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Expeditious Protector {1780044900860239}] ()
+[07:59:31.235] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:59:31.235] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[07:59:31.437] [@Sachmed] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (671 internal {836045448940876}) <671>
+[07:59:31.555] [@Rusmusashi] [@Evel'ly] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[07:59:31.555] [@Rusmusashi] [@Evel'ly] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3175 kinetic {836045448940873}) <6827>
+[07:59:32.202] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [ApplyEffect {836045448945477}: Gather Strength {3429990947356672}] ()
+[07:59:32.202] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Slowed (Physical) {3394145150304544}] ()
+[07:59:32.203] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1842 energy {836045448940874} -shield {836045448945509}) <1842>
+[07:59:32.203] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (166 energy {836045448940874}) <166>
+[07:59:32.206] [@Evel'ly] [@Rusmusashi] [Electric Bindings {3410225507860480}] [ApplyEffect {836045448945477}: Immobilized (Force) {3410225507860740}] ()
+[07:59:32.207] [@Evel'ly] [@Rusmusashi] [Overload {808282780336128}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (551 energy {836045448940874} -shield {836045448945509}) <551>
+[07:59:32.330] [@Rusmusashi] [@Rusmusashi] [Defensive Swings {3620777689612288}] [RemoveEffect {836045448945478}: Defensive Swings {3620777689612288}] ()
+[07:59:32.565] [@Rusmusashi] [@Rusmusashi] [Force Push {1681844768604160}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:32.740] [@Rusmusashi] [@Evel'ly] [Force Push {1681844768604160}] [ApplyEffect {836045448945477}: Knockdown {1681844768604416}] ()
+[07:59:32.756] [@Rusmusashi] [@Evel'ly] [Force Push {1681844768604160}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2330 kinetic {836045448940873}) <4660>
+[07:59:33.172] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[07:59:33.349] [@Brevia] [@Rusmusashi] [Heatseeker Missiles {814592087293952}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16730* kinetic {836045448940873}) <16730>
+[07:59:34.239] [@Rusmusashi] [@Rusmusashi] [Resolute {3625291700240384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:34.240] [@Evel'ly] [@Rusmusashi] [Electric Bindings {3410225507860480}] [RemoveEffect {836045448945478}: Immobilized (Force) {3410225507860740}] ()
+[07:59:34.240] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [RemoveEffect {836045448945478}: Slowed (Physical) {3394145150304544}] ()
+[07:59:34.242] [@Rusmusashi] [@Rusmusashi] [Resolute {3625291700240384}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (6085)
+[07:59:34.331] [@Sachmed] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1115* internal {836045448940876}) <1115>
+[07:59:34.744] [@Brevia] [@Rusmusashi] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3442 energy {836045448940874} -shield {836045448945509}) <3442>
+[07:59:34.744] [@Brevia] [@Rusmusashi] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[07:59:34.862] [@Rusmusashi] [@Evel'ly] [Force Push {1681844768604160}] [RemoveEffect {836045448945478}: Knockdown {1681844768604416}] ()
+[07:59:35.424] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[07:59:35.665] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [ApplyEffect {836045448945477}: Shield Defense {3728714512728064}] ()
+[07:59:36.091] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:36.092] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [ApplyEffect {836045448945477}: Blade Blitz {3618351033090048}] ()
+[07:59:37.201] [@Rusmusashi] [@Rusmusashi] [Blade Blitz {3618351033090048}] [RemoveEffect {836045448945478}: Blade Blitz {3618351033090048}] ()
+[07:59:37.202] [@Sachmed] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (671 internal {836045448940876}) <671>
+[07:59:37.225] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4363 energy {836045448940874} (2030 absorbed {836045448945511})) <4363>
+[07:59:37.225] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (167 energy {836045448940874} -shield {836045448945509}) <167>
+[07:59:39.197] [@Rusmusashi] [@Rusmusashi] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Deserter Detection {810421674049809}] ()
+[07:59:39.197] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[07:59:39.197] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Valor {1781496599806219}] ()
+[07:59:39.198] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[07:59:39.198] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[07:59:39.198] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [RemoveEffect {836045448945478}: Gather Strength {3429990947356672}] ()
+[07:59:39.198] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[07:59:39.198] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[07:59:39.198] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [RemoveEffect {836045448945478}: Sundered (Physical) {985140943651123}] ()
+[07:59:39.199] [@Sachmed] [@Rusmusashi] [Affliction {808192586022912}] [RemoveEffect {836045448945478}: Affliction {808192586022912}] ()
+[07:59:39.199] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [RemoveEffect {836045448945478}: Marked (Physical) {3411372264128776}] ()
+[07:59:39.199] [@Larissannette] [@Rusmusashi] [Calculated Frenzy {3202911731449856}] [RemoveEffect {836045448945478}: Susceptible (Tech) {3202911731450128}] ()
+[07:59:39.199] [@Larissannette] [@Rusmusashi] [Volatile Substance {3403448049467392}] [RemoveEffect {836045448945478}: Assailable (Mental) {3403448049467654}] ()
+[07:59:39.200] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[07:59:39.201] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[07:59:39.215] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6509* kinetic {836045448940873}) <6509>
+[07:59:39.215] [@Brevia] [@Rusmusashi] [] [Event {836045448945472}: Death {836045448945493}] ()
+[07:59:40.744] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: Revived {836045448945494}] ()
+[07:59:40.884] [@Rusmusashi] [@Rusmusashi] [Member of Team A {1959797872132096}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:40.884] [@Rusmusashi] [@Rusmusashi] [ {3231232745799680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:41.605] [] [@Rusmusashi] [Deserter Detection {2730083076800512}] [ApplyEffect {836045448945477}: Deserter Detection {2730083076800512}] ()
+[07:59:42.544] [@Rusmusashi] [@Rusmusashi] [ {1598376374173696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:43.956] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[07:59:43.956] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[07:59:43.956] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[07:59:43.956] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[07:59:43.958] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[07:59:54.218] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[08:00:06.079] [@Rusmusashi] [@Rusmusashi] [Endzone Buff Dispel {1957328265936896}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:12.886] [] [@Rusmusashi] [Deserter Detection {2730083076800512}] [RemoveEffect {836045448945478}: Deserter Detection {2730083076800512}] ()
+[08:00:16.222] [@Rusmusashi] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (1826)
+[08:00:16.540] [@Rusmusashi] [@Evel'ly] [Dust Storm {1282013378117632}] [RemoveEffect {836045448945478}: Unsteady (Force) {1282013378117909}] ()
+[08:00:19.021] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[08:00:19.031] [@Rusmusashi] [@Rusmusashi] [Awe {1596834480914432}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:19.032] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[08:00:19.032] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[08:00:19.032] [@Rusmusashi] [@Evel'ly] [Awe {1596834480914432}] [ApplyEffect {836045448945477}: Incapacitated (Mental) {1596834480914688}] ()
+[08:00:19.033] [@Rusmusashi] [@Evel'ly] [Awe {1596834480914432}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <2>
+[08:00:23.172] [@Rusmusashi] [@Rusmusashi] [Force Leap {812105301229568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:23.172] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [ApplyEffect {836045448945477}: Unremitting {3588488125480960}] ()
+[08:00:23.173] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [ApplyEffect {836045448945477}: Ardent Advocate {3621516423987200}] ()
+[08:00:23.173] [@Rusmusashi] [@Brevia] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Immobilized (Physical) {812105301229840}] ()
+[08:00:23.175] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (3)
+[08:00:23.823] [@Rusmusashi] [@Brevia] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1493 energy {836045448940874}) <2987>
+[08:00:24.449] [@Rusmusashi] [@Rusmusashi] [Combat Focus {3461146640121856}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:24.450] [@Rusmusashi] [@Rusmusashi] [Focused Freedom {3621112697061376}] [ApplyEffect {836045448945477}: Focused Freedom {3621112697061376}] ()
+[08:00:24.450] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (6)
+[08:00:25.157] [@Rusmusashi] [@Evel'ly] [Awe {1596834480914432}] [RemoveEffect {836045448945478}: Incapacitated (Mental) {1596834480914688}] ()
+[08:00:25.158] [@Rusmusashi] [@Rusmusashi] [Dispatch {3461554662014976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:25.159] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[08:00:25.159] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [RemoveEffect {836045448945478}: Ardent Advocate {3621516423987200}] ()
+[08:00:25.256] [@Rusmusashi] [@Brevia] [Force Leap {812105301229568}] [RemoveEffect {836045448945478}: Immobilized (Physical) {812105301229840}] ()
+[08:00:25.753] [@Rusmusashi] [@Brevia] [Dispatch {3461554662014976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4257 energy {836045448940874}) <8515>
+[08:00:26.464] [@Rusmusashi] [@Rusmusashi] [Taunt {3461103690448896}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:26.465] [@Rusmusashi] [@Brevia] [Taunt {3461103690448896}] [ApplyEffect {836045448945477}: Taunt {3461103690448896}] ()
+[08:00:27.088] [@Rusmusashi] [@Rusmusashi] [Force Stasis {1261925816074240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:27.088] [@Rusmusashi] [@Larissannette] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Force Stasis {1261925816074240}] ()
+[08:00:27.089] [@Rusmusashi] [@Larissannette] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Stunned (Force) {1261925816074705}] ()
+[08:00:27.090] [@Rusmusashi] [@Larissannette] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1396* kinetic {836045448940873}) <4188>
+[08:00:27.090] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:00:27.278] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [RemoveEffect {836045448945478}: Unremitting {3588488125480960}] ()
+[08:00:29.153] [@Rusmusashi] [@Larissannette] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (924 kinetic {836045448940873}) <2774>
+[08:00:29.154] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:00:30.179] [@Rusmusashi] [@Rusmusashi] [Freezing Force {1191685920915456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:30.179] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[08:00:30.180] [@Rusmusashi] [@Larissannette] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[08:00:30.180] [@Rusmusashi] [@Brevia] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[08:00:30.181] [@Rusmusashi] [@Larissannette] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (86* elemental {836045448940875}) <173>
+[08:00:30.181] [@Rusmusashi] [@Brevia] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (67 elemental {836045448940875}) <135>
+[08:00:30.554] [@Rusmusashi] [@Rusmusashi] [Focused Freedom {3621112697061376}] [RemoveEffect {836045448945478}: Focused Freedom {3621112697061376}] ()
+[08:00:31.177] [@Rusmusashi] [@Larissannette] [Force Stasis {1261925816074240}] [RemoveEffect {836045448945478}: Stunned (Force) {1261925816074705}] ()
+[08:00:31.177] [@Rusmusashi] [@Larissannette] [Force Stasis {1261925816074240}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (899 kinetic {836045448940873}) <2698>
+[08:00:31.177] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:00:31.178] [@Rusmusashi] [@Larissannette] [Force Stasis {1261925816074240}] [RemoveEffect {836045448945478}: Force Stasis {1261925816074240}] ()
+[08:00:31.474] [@Rusmusashi] [@Larissannette] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[08:00:32.089] [@Rusmusashi] [@Rusmusashi] [Challenging Call {812079531425792}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:32.090] [@Rusmusashi] [@Larissannette] [Challenging Call {812079531425792}] [ApplyEffect {836045448945477}: Taunt {812079531426137}] ()
+[08:00:32.090] [@Rusmusashi] [@Evel'ly] [Challenging Call {812079531425792}] [ApplyEffect {836045448945477}: Taunt {812079531426137}] ()
+[08:00:32.090] [@Rusmusashi] [@Brevia] [Taunt {3461103690448896}] [RemoveEffect {836045448945478}: Taunt {3461103690448896}] ()
+[08:00:32.090] [@Rusmusashi] [@Brevia] [Challenging Call {812079531425792}] [ApplyEffect {836045448945477}: Taunt {812079531426137}] ()
+[08:00:34.444] [@Rusmusashi] [@Rusmusashi] [Guardian Leap {812118186131456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:34.444] [@Rusmusashi] [@Jarumdan] [Guardian Leap {812118186131456}] [ApplyEffect {836045448945477}: Guardian Leap {812118186131456}] ()
+[08:00:36.063] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:36.063] [@Rusmusashi] [@Jarumdan] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[08:00:36.064] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[08:00:36.644] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Corrosive Dart {3465720780292096}] ()
+[08:00:36.879] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Corrosive Dart {3465720780292096}] ()
+[08:00:36.879] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:00:36.880] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [RemoveEffect {836045448945478}: Corrosive Dart {3465720780292096}] ()
+[08:00:37.338] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1183* internal {836045448940876}) <1183>
+[08:00:37.379] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [ApplyEffect {836045448945477}: Gather Strength {3429990947356672}] ()
+[08:00:37.379] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Slowed (Physical) {3394145150304544}] ()
+[08:00:37.381] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[08:00:37.381] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2372 energy {836045448940874}) <2372>
+[08:00:37.381] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[08:00:38.150] [@Rusmusashi] [@Larissannette] [Challenging Call {812079531425792}] [RemoveEffect {836045448945478}: Taunt {812079531426137}] ()
+[08:00:38.151] [@Rusmusashi] [@Evel'ly] [Challenging Call {812079531425792}] [RemoveEffect {836045448945478}: Taunt {812079531426137}] ()
+[08:00:38.151] [@Rusmusashi] [@Brevia] [Challenging Call {812079531425792}] [RemoveEffect {836045448945478}: Taunt {812079531426137}] ()
+[08:00:38.276] [@Rusmusashi] [@Brevia] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[08:00:38.481] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[08:00:38.482] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1845 energy {836045448940874} -shield {836045448945509}) <1845>
+[08:00:38.482] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (207* energy {836045448940874}) <207>
+[08:00:38.592] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Expeditious Protector {1780044900860239}] ()
+[08:00:38.594] [@Rusmusashi] [@Rusmusashi] [Force Push {1681844768604160}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:38.846] [@Rusmusashi] [@Brevia] [Force Push {1681844768604160}] [ApplyEffect {836045448945477}: Knockdown {1681844768604416}] ()
+[08:00:39.074] [@Larissannette] [@Rusmusashi] [Veiled Strike {3403456639401984}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1447 kinetic {836045448940873}) <1447>
+[08:00:39.204] [@Rusmusashi] [@Brevia] [Force Push {1681844768604160}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2015 kinetic {836045448940873}) <4031>
+[08:00:39.950] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [ApplyEffect {836045448945477}: Shield Defense {3728714512728064}] ()
+[08:00:39.951] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:00:39.952] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1183* internal {836045448940876} (1183 absorbed {836045448945511})) <1183>
+[08:00:39.954] [@Evel'ly] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (606 energy {836045448940874} (606 absorbed {836045448945511})) <606>
+[08:00:40.403] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [RemoveEffect {836045448945478}: Shield Defense {3728714512728064}] ()
+[08:00:40.507] [@Rusmusashi] [@Jarumdan] [Guardian Leap {812118186131456}] [RemoveEffect {836045448945478}: Guardian Leap {812118186131456}] ()
+[08:00:40.932] [@Evel'ly] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (374 energy {836045448940874} -shield {836045448945509}) <374>
+[08:00:40.933] [@Rusmusashi] [@Brevia] [Force Push {1681844768604160}] [RemoveEffect {836045448945478}: Knockdown {1681844768604416}] ()
+[08:00:41.186] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (356 internal {836045448940876} (240 absorbed {836045448945511})) <356>
+[08:00:41.518] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [RemoveEffect {836045448945478}: Slowed (Physical) {3394145150304544}] ()
+[08:00:41.799] [@Evel'ly] [@Rusmusashi] [Force Lightning {808252715565056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (374 energy {836045448940874} -shield {836045448945509}) <374>
+[08:00:42.359] [@Larissannette] [@Rusmusashi] [Crippling Slice {3403443754500096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (870 kinetic {836045448940873}) <870>
+[08:00:42.618] [@Evel'ly] [@Rusmusashi] [Shock {808308550139904}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (723 energy {836045448940874} -shield {836045448945509}) <723>
+[08:00:42.921] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:00:42.922] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1183* internal {836045448940876}) <1183>
+[08:00:43.133] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (988 kinetic {836045448940873} -shield {836045448945509}) <988>
+[08:00:43.134] [@Jarumdan] [@Rusmusashi] [Transcendence {2528567506239488}] [ApplyEffect {836045448945477}: Transcendence {2528567506239488}] ()
+[08:00:43.316] [@Rusmusashi] [@Rusmusashi] [Freezing Force {1191685920915456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:43.316] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[08:00:43.316] [@Rusmusashi] [@Larissannette] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Slow (Force) {1191685920915718}] ()
+[08:00:43.317] [@Rusmusashi] [@Larissannette] [Freezing Force {1191685920915456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (54 elemental {836045448940875} (54 absorbed {836045448945511})) <108>
+[08:00:43.879] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (633* internal {836045448940876}) <633>
+[08:00:44.297] [@Larissannette] [@Rusmusashi] [Backstab {814789655789568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3470* kinetic {836045448940873}) <3470>
+[08:00:44.532] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[08:00:44.748] [@Larissannette] [@Rusmusashi] [Volatile Substance {3403448049467392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5435* internal {836045448940876}) <5435>
+[08:00:44.750] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (329* internal {836045448940876}) <329>
+[08:00:45.727] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (358* internal {836045448940876}) <358>
+[08:00:45.728] [@Rusmusashi] [@Jarumdan] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[08:00:45.728] [@Rusmusashi] [@Jarumdan] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[08:00:45.729] [@Rusmusashi] [@Jarumdan] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Valor {1781496599806219}] ()
+[08:00:45.729] [@Rusmusashi] [@Jarumdan] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[08:00:45.729] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[08:00:45.729] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[08:00:45.729] [@Rusmusashi] [@Jarumdan] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[08:00:45.732] [@Brevia] [@Rusmusashi] [Explosive Dart {2288745122365440}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3238* kinetic {836045448940873}) <3238>
+[08:00:45.733] [@Brevia] [@Rusmusashi] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[08:00:45.858] [@Larissannette] [@Rusmusashi] [Fragmentation Grenade {1624614329384960}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2351* kinetic {836045448940873}) <2351>
+[08:00:45.858] [@Larissannette] [@Rusmusashi] [Fragmentation Grenade {1624614329384960}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1430 kinetic {836045448940873} -shield {836045448945509}) <1430>
+[08:00:45.926] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:00:45.927] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (757 internal {836045448940876}) <757>
+[08:00:47.721] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Corrosive Dart {3465720780292096}] ()
+[08:00:47.934] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [RemoveEffect {836045448945478}: Corrosive Dart {3465720780292096}] ()
+[08:00:48.222] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:48.222] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Saber Reflect {3126160665870336}] ()
+[08:00:48.471] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (757 internal {836045448940876}) <757>
+[08:00:48.746] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Heat Signature {985140943651080}] ()
+[08:00:48.747] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Sundered (Physical) {985140943651123}] ()
+[08:00:48.747] [@Rusmusashi] [@Brevia] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6848 kinetic {836045448940873}(reflected {836045448953649})) <13697>
+[08:00:48.748] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [ApplyEffect {836045448945477}: Slowed (Tech) {3633804325421318}] ()
+[08:00:48.748] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -) <3631>
+[08:00:48.857] [@Rusmusashi] [@Rusmusashi] [Guardian Slash {2211203782803456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:48.857] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (4)
+[08:00:48.858] [@Rusmusashi] [@Rusmusashi] [ {3699220972306432}] [ApplyEffect {836045448945477}: War Leader's Damage Reduction Bonus {3699220972306694}] ()
+[08:00:48.858] [@Rusmusashi] [@Larissannette] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Impaired (Mental) {2211203782803765}] ()
+[08:00:48.859] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [RemoveEffect {836045448945478}: Gather Strength {3429990947356672}] ()
+[08:00:48.951] [@Rusmusashi] [@Brevia] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12614 kinetic {836045448940873}(reflected {836045448953649})) <25228>
+[08:00:48.951] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:00:49.187] [@Brevia] [@Rusmusashi] [Heatseeker Missiles {814592087293952}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -) <16077>
+[08:00:49.342] [@Rusmusashi] [@Larissannette] [Saber Reflect {3126160665870336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4098 kinetic {836045448940873}(reflected {836045448953649})) <8196>
+[08:00:49.439] [@Rusmusashi] [@Larissannette] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7432 energy {836045448940874} (1221 absorbed {836045448945511})) <19323>
+[08:00:49.841] [@Larissannette] [@Rusmusashi] [Veiled Strike {3403456639401984}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -shield {836045448945509}) <2526>
+[08:00:50.520] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:50.520] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Focused Defense {2793700132388864}] ()
+[08:00:50.826] [@Larissannette] [@Rusmusashi] [Volatile Substance {3403448049467392}] [ApplyEffect {836045448945477}: Volatile Substance {3403448049467392}] ()
+[08:00:50.827] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Affliction {808192586022912}] ()
+[08:00:50.828] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[08:00:50.941] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[08:00:50.941] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (661 internal {836045448940876}) <661>
+[08:00:51.069] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (703 internal {836045448940876}) <703>
+[08:00:51.135] [@Rusmusashi] [@Rusmusashi] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:00:51.135] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (1)
+[08:00:51.315] [@Rusmusashi] [@Rusmusashi] [Saber Reflect {3126160665870336}] [RemoveEffect {836045448945478}: Saber Reflect {3126160665870336}] ()
+[08:00:51.425] [@Rusmusashi] [@Larissannette] [Freezing Force {1191685920915456}] [RemoveEffect {836045448945478}: Slow (Force) {1191685920915718}] ()
+[08:00:51.526] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Expeditious Protector {1780044900860239}] ()
+[08:00:51.742] [@Rusmusashi] [@Larissannette] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Unsteady (Force) {1282013378117909}] ()
+[08:00:51.742] [@Rusmusashi] [@Larissannette] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2204 kinetic {836045448940873}) <4739>
+[08:00:52.307] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:00:52.307] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[08:00:52.307] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3996*)
+[08:00:52.308] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[08:00:52.309] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[08:00:52.309] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3996*)
+[08:00:52.310] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[08:00:52.311] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[08:00:52.312] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (3996*)
+[08:00:52.584] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [ApplyEffect {836045448945477}: Gather Strength {3429990947356672}] ()
+[08:00:52.584] [@Evel'ly] [@Rusmusashi] [Force Slow {948693851176960}] [ApplyEffect {836045448945477}: Slowed (Force) {948693851177224}] ()
+[08:00:52.585] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[08:00:52.598] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (228 energy {836045448940874} -shield {836045448945509}) <228>
+[08:00:52.598] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[08:00:52.643] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (662* energy {836045448940874}) <662>
+[08:00:52.643] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (46 energy {836045448940874}) <46>
+[08:00:52.683] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (229 energy {836045448940874} -shield {836045448945509}) <229>
+[08:00:52.712] [@Larissannette] [@Rusmusashi] [Debilitate {814802540691456}] [ApplyEffect {836045448945477}: Stunned (Physical) {814802540691712}] ()
+[08:00:52.713] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [RemoveEffect {836045448945478}: Focused Defense {2793700132388864}] ()
+[08:00:52.713] [@Rusmusashi] [@Rusmusashi] [Focused Defense {2793700132388864}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2646)
+[08:00:52.761] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (43 energy {836045448940874}) <43>
+[08:00:52.839] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (263 energy {836045448940874} -shield {836045448945509}) <263>
+[08:00:52.871] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76* energy {836045448940874}) <76>
+[08:00:52.872] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (225 energy {836045448940874} -shield {836045448945509}) <225>
+[08:00:52.924] [@Rusmusashi] [@Rusmusashi] [ {3699220972306432}] [RemoveEffect {836045448945478}: War Leader's Damage Reduction Bonus {3699220972306694}] ()
+[08:00:52.937] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[08:00:53.135] [@Larissannette] [@Rusmusashi] [Debilitate {814802540691456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (791 energy {836045448940874} -shield {836045448945509}) <791>
+[08:00:53.177] [@Evel'ly] [@Rusmusashi] [Force Slow {948693851176960}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1175 kinetic {836045448940873} -shield {836045448945509}) <1175>
+[08:00:53.206] [@Jarumdan] [@Rusmusashi] [Transcendence {2528567506239488}] [RemoveEffect {836045448945478}: Transcendence {2528567506239488}] ()
+[08:00:53.686] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1179* internal {836045448940876}) <1179>
+[08:00:54.009] [@Larissannette] [@Rusmusashi] [Volatile Substance {3403448049467392}] [ApplyEffect {836045448945477}: Assailable (Mental) {3403448049467654}] ()
+[08:00:54.009] [@Larissannette] [@Rusmusashi] [Volatile Substance {3403448049467392}] [RemoveEffect {836045448945478}: Volatile Substance {3403448049467392}] ()
+[08:00:54.010] [@Larissannette] [@Rusmusashi] [Volatile Substance {3403448049467392}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8623* internal {836045448940876}) <8623>
+[08:00:54.011] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1127* internal {836045448940876}) <1127>
+[08:00:54.128] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (589* energy {836045448940874}) <589>
+[08:00:54.162] [@Evel'ly] [@Rusmusashi] [Jolt {875060931854336}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <1>
+[08:00:54.190] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (47 energy {836045448940874}) <47>
+[08:00:54.226] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (278 energy {836045448940874} -shield {836045448945509}) <278>
+[08:00:54.227] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[08:00:54.265] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (672* energy {836045448940874}) <672>
+[08:00:54.383] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (67* energy {836045448940874}) <67>
+[08:00:54.433] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (253 energy {836045448940874} -shield {836045448945509}) <253>
+[08:00:54.472] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (46 energy {836045448940874}) <46>
+[08:00:54.473] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (327 energy {836045448940874}) <327>
+[08:00:54.503] [@Brevia] [@Rusmusashi] [Rapid Shots {814282849648640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (68* energy {836045448940874}) <68>
+[08:00:54.792] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [RemoveEffect {836045448945478}: Slowed (Tech) {3633804325421318}] ()
+[08:00:54.964] [@Larissannette] [@Rusmusashi] [Laceration {2176972893454336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2446 kinetic {836045448940873} -shield {836045448945509}) <2446>
+[08:00:55.320] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Slowed (Physical) {3394145150304544}] ()
+[08:00:55.321] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1859 energy {836045448940874} -shield {836045448945509}) <1859>
+[08:00:55.321] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[08:00:55.477] [@Larissannette] [@Rusmusashi] [Collateral Strike {2278218157522944}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (715 kinetic {836045448940873} -shield {836045448945509}) <715>
+[08:00:56.321] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:00:56.322] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1820 energy {836045448940874} -shield {836045448945509}) <1820>
+[08:00:56.322] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (364* energy {836045448940874}) <364>
+[08:00:56.323] [@Larissannette] [@Rusmusashi] [Acid Blade {1791387909488640}] [ApplyEffect {836045448945477}: Poisoned (Acid Blade) {1791387909488933}] ()
+[08:00:56.400] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (771 internal {836045448940876}) <771>
+[08:00:56.800] [@Larissannette] [@Rusmusashi] [Debilitate {814802540691456}] [RemoveEffect {836045448945478}: Stunned (Physical) {814802540691712}] ()
+[08:00:56.981] [@Larissannette] [@Rusmusashi] [Backstab {814789655789568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2918 kinetic {836045448940873} -shield {836045448945509}) <2918>
+[08:00:57.022] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (739 internal {836045448940876}) <739>
+[08:00:57.317] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1976 energy {836045448940874} -shield {836045448945509}) <1976>
+[08:00:57.317] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[08:00:57.407] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (413 internal {836045448940876}) <413>
+[08:00:57.992] [@Larissannette] [@Rusmusashi] [Calculated Frenzy {3202911731449856}] [ApplyEffect {836045448945477}: Susceptible (Tech) {3202911731450128}] ()
+[08:00:58.268] [@Evel'ly] [@Rusmusashi] [Force Slow {948693851176960}] [RemoveEffect {836045448945478}: Slowed (Force) {948693851177224}] ()
+[08:00:58.342] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (719* internal {836045448940876}) <719>
+[08:00:58.499] [@Larissannette] [@Rusmusashi] [Veiled Strike {3403456639401984}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6117* kinetic {836045448940873}) <6117>
+[08:00:59.159] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (771 internal {836045448940876}) <771>
+[08:00:59.355] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:00:59.356] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (433 internal {836045448940876}) <433>
+[08:00:59.485] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Marked (Physical) {3411372264128776}] ()
+[08:00:59.659] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [ApplyEffect {836045448945477}: Slowed (Tech) {3633804325421318}] ()
+[08:00:59.660] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3470 kinetic {836045448940873}) <3470>
+[08:00:59.716] [@Larissannette] [@Rusmusashi] [Laceration {2176972893454336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6693* kinetic {836045448940873}) <6693>
+[08:00:59.975] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (773 internal {836045448940876}) <773>
+[08:01:00.136] [@Larissannette] [@Rusmusashi] [Collateral Strike {2278218157522944}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1744* kinetic {836045448940873}) <1744>
+[08:01:00.366] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [RemoveEffect {836045448945478}: Slowed (Physical) {3394145150304544}] ()
+[08:01:00.367] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (433 internal {836045448940876}) <433>
+[08:01:01.027] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[08:01:01.044] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8241* energy {836045448940874}) <8241>
+[08:01:01.044] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (248 energy {836045448940874}) <248>
+[08:01:01.232] [@Larissannette] [@Rusmusashi] [Laceration {2176972893454336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2731 kinetic {836045448940873} -shield {836045448945509}) <2731>
+[08:01:01.374] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (433 internal {836045448940876}) <433>
+[08:01:01.378] [@Rusmusashi] [@Rusmusashi] [Hilt Bash {3453231015395328}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:01:01.378] [@Rusmusashi] [@Larissannette] [Hilt Bash {3453231015395328}] [ApplyEffect {836045448945477}: Stunned (Force) {3453231015395584}] ()
+[08:01:01.571] [@Brevia] [@Rusmusashi] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3753 energy {836045448940874} -shield {836045448945509}) <3753>
+[08:01:01.571] [@Brevia] [@Rusmusashi] [Rail Shot {814278554681344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (291 energy {836045448940874}) <291>
+[08:01:01.623] [@Rusmusashi] [@Larissannette] [Hilt Bash {3453231015395328}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3584 kinetic {836045448940873}) <10754>
+[08:01:01.971] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1261* internal {836045448940876}) <1261>
+[08:01:02.377] [@Larissannette] [@Rusmusashi] [Poisoned (Acid Blade) {1791387909488933}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (433 internal {836045448940876}) <433>
+[08:01:02.377] [@Larissannette] [@Rusmusashi] [Acid Blade {1791387909488640}] [RemoveEffect {836045448945478}: Poisoned (Acid Blade) {1791387909488933}] ()
+[08:01:02.620] [@Larissannette] [@Rusmusashi] [Collateral Strike {2278218157522944}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1744* kinetic {836045448940873}) <1744>
+[08:01:02.999] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:01:02.999] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2151 kinetic {836045448940873} -shield {836045448945509}) <2151>
+[08:01:03.000] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1285* internal {836045448940876}) <1285>
+[08:01:03.611] [@Rusmusashi] [@Rusmusashi] [Guardian Slash {2211203782803456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:01:03.612] [@Rusmusashi] [@Rusmusashi] [] [Spend {836045448945473}: focus point {836045448938496}] (4)
+[08:01:03.612] [@Rusmusashi] [@Rusmusashi] [ {3699220972306432}] [ApplyEffect {836045448945477}: War Leader's Damage Reduction Bonus {3699220972306694}] ()
+[08:01:03.612] [@Rusmusashi] [@Rusmusashi] [Gather Strength {3429990947356672}] [RemoveEffect {836045448945478}: Gather Strength {3429990947356672}] ()
+[08:01:03.906] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[08:01:03.906] [@Brevia] [@Rusmusashi] [Blazing Bolts {3394145150304256}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[08:01:04.323] [@Rusmusashi] [@Larissannette] [Guardian Slash {2211203782803456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8884 energy {836045448940874}) <23099>
+[08:01:04.803] [@Rusmusashi] [@Rusmusashi] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Deserter Detection {810421674049809}] ()
+[08:01:04.803] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[08:01:04.803] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[08:01:04.803] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[08:01:04.804] [@Rusmusashi] [@Rusmusashi] [ {3699220972306432}] [RemoveEffect {836045448945478}: War Leader's Damage Reduction Bonus {3699220972306694}] ()
+[08:01:04.804] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Valor {1781496599806219}] ()
+[08:01:04.804] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[08:01:04.804] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[08:01:04.804] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[08:01:04.804] [@Larissannette] [@Rusmusashi] [Corrosive Dart {3465720780292096}] [RemoveEffect {836045448945478}: Corrosive Dart {3465720780292096}] ()
+[08:01:04.805] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [RemoveEffect {836045448945478}: Sundered (Physical) {985140943651123}] ()
+[08:01:04.805] [@Larissannette] [@Rusmusashi] [Calculated Frenzy {3202911731449856}] [RemoveEffect {836045448945478}: Susceptible (Tech) {3202911731450128}] ()
+[08:01:04.805] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [RemoveEffect {836045448945478}: Affliction {808192586022912}] ()
+[08:01:04.806] [@Brevia] [@Rusmusashi] [Priming Shot {3411372264128512}] [RemoveEffect {836045448945478}: Marked (Physical) {3411372264128776}] ()
+[08:01:04.806] [@Larissannette] [@Rusmusashi] [Volatile Substance {3403448049467392}] [RemoveEffect {836045448945478}: Assailable (Mental) {3403448049467654}] ()
+[08:01:04.806] [@Brevia] [@Rusmusashi] [Adhesive Supplements {3633804325421056}] [RemoveEffect {836045448945478}: Slowed (Tech) {3633804325421318}] ()
+[08:01:04.810] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:01:04.810] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[08:01:04.823] [@Evel'ly] [@Rusmusashi] [Affliction {808192586022912}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (808 internal {836045448940876}) <808>
+[08:01:04.823] [@Evel'ly] [@Rusmusashi] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:01:05.451] [@Rusmusashi] [@Larissannette] [Hilt Bash {3453231015395328}] [RemoveEffect {836045448945478}: Stunned (Force) {3453231015395584}] ()
+[08:01:07.163] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: Revived {836045448945494}] ()
+[08:01:07.288] [@Rusmusashi] [@Rusmusashi] [Member of Team A {1959797872132096}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:01:07.288] [@Rusmusashi] [@Rusmusashi] [ {3231232745799680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:01:08.691] [@Rusmusashi] [@Rusmusashi] [ {1598376374173696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:01:10.464] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:01:10.465] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[08:01:10.466] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[08:01:10.466] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[08:01:10.466] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[08:01:13.489] [] [@Rusmusashi] [Deserter Detection {2730083076800512}] [ApplyEffect {836045448945477}: Deserter Detection {2730083076800512}] ()
+[08:01:19.756] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[08:01:20.283] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[08:01:20.283] [@Jarumdan] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[08:01:20.285] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Valor {1781496599806219}] ()
+[08:01:20.285] [@Jarumdan] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[08:01:20.285] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[08:01:20.285] [@Jarumdan] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[08:01:20.286] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[08:01:20.286] [@Jarumdan] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[08:01:22.373] [@Rusmusashi] [@Larissannette] [Guardian Slash {2211203782803456}] [RemoveEffect {836045448945478}: Impaired (Mental) {2211203782803765}] ()
+[08:01:22.373] [@Rusmusashi] [@Larissannette] [Dust Storm {1282013378117632}] [RemoveEffect {836045448945478}: Unsteady (Force) {1282013378117909}] ()
+[08:01:38.220] [@Rusmusashi] [@Rusmusashi] [Endzone Buff Dispel {1957328265936896}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:01:38.362] [@Rusmusashi] [@Rusmusashi] [Overcharge Power {810456033787904}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:01:38.362] [@Rusmusashi] [@Rusmusashi] [Overcharge Power {810456033787904}] [ApplyEffect {836045448945477}: Overcharge Power {810456033787904}] ()
+[08:01:44.682] [] [@Rusmusashi] [Deserter Detection {2730083076800512}] [RemoveEffect {836045448945478}: Deserter Detection {2730083076800512}] ()
+[08:01:44.831] [@Jarumdan] [@Rusmusashi] [Transcendence {2528567506239488}] [ApplyEffect {836045448945477}: Transcendence {2528567506239488}] ()
+[08:01:54.943] [@Jarumdan] [@Rusmusashi] [Transcendence {2528567506239488}] [RemoveEffect {836045448945478}: Transcendence {2528567506239488}] ()
+[08:01:56.440] [@Rusmusashi] [@Rusmusashi] [Overcharge Power {810456033787904}] [RemoveEffect {836045448945478}: Overcharge Power {810456033787904}] ()
+[08:01:58.189] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[08:01:58.201] [@Rusmusashi] [@Rusmusashi] [Guardian Leap {812118186131456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:01:58.201] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[08:01:58.201] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[08:01:58.201] [@Rusmusashi] [@Jarumdan] [Guardian Leap {812118186131456}] [ApplyEffect {836045448945477}: Guardian Leap {812118186131456}] ()
+[08:01:59.747] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:01:59.748] [@Rusmusashi] [@Jarumdan] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[08:01:59.749] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[08:01:59.843] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [ApplyEffect {836045448945477}: Shield Defense {3728714512728064}] ()
+[08:01:59.844] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Expeditious Protector {1780044900860239}] ()
+[08:01:59.844] [@Brevia] [@Rusmusashi] [Electro Net {3066456325488640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (514* energy {836045448940874} (514 absorbed {836045448945511})) <514>
+[08:02:00.764] [@Brevia] [@Rusmusashi] [Electro Net {3066456325488640}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (296 energy {836045448940874} (296 absorbed {836045448945511})) <296>
+[08:02:00.974] [@Rusmusashi] [@Rusmusashi] [Shield Defense {3728714512728064}] [RemoveEffect {836045448945478}: Shield Defense {3728714512728064}] ()
+[08:02:00.975] [@Brevia] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2802* kinetic {836045448940873} (1219 absorbed {836045448945511})) <2802>
+[08:02:02.779] [@Rusmusashi] [@Jarumdan] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[08:02:04.267] [@Rusmusashi] [@Jarumdan] [Guardian Leap {812118186131456}] [RemoveEffect {836045448945478}: Guardian Leap {812118186131456}] ()
+[08:02:08.576] [@Rusmusashi] [@Rusmusashi] [ {1598376374173696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:02:09.020] [@Rusmusashi] [@Janka] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Lucky Shots {1781496599806223}] ()
+[08:02:09.020] [@Rusmusashi] [@Janka] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Valor {1781496599806219}] ()
+[08:02:09.020] [@Rusmusashi] [@Janka] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Force Might {1781496599805952}] ()
+[08:02:09.020] [@Rusmusashi] [@Janka] [Force Might {1781496599805952}] [RemoveEffect {836045448945478}: Fortification {1781496599806227}] ()
+[08:02:12.374] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Expeditious Protector {1780044900860239}] ()
+[08:02:16.299] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[08:02:16.299] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[08:02:16.299] [@Rusmusashi] [@Jarumdan] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[08:02:16.299] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[08:02:16.299] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:02:16.300] [@Rusmusashi] [@Silvarra] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[08:02:16.300] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Guard {1780044900859904}] ()
+[08:02:17.850] [@Rusmusashi] [@Jarumdan] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Guard {1780044900859904}] ()
+[08:02:19.489] [@Rusmusashi] [@Rusmusashi] [Force Leap {812105301229568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:02:19.489] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [ApplyEffect {836045448945477}: Unremitting {3588488125480960}] ()
+[08:02:19.489] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [ApplyEffect {836045448945477}: Ardent Advocate {3621516423987200}] ()
+[08:02:19.490] [@Rusmusashi] [] [Crushing Darkness {863460225187840}] [Event {836045448945472}: AbilityInterrupt {836045448945482}] ()
+[08:02:19.490] [@Rusmusashi] [@Sachmed] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Immobilized (Physical) {812105301229840}] ()
+[08:02:19.491] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (3)
+[08:02:19.558] [@Rusmusashi] [@Rusmusashi] [ {1598376374173696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:02:20.131] [@Rusmusashi] [@Sachmed] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817 energy {836045448940874} (1817 absorbed {836045448945511})) <3634>
+[08:02:21.557] [@Rusmusashi] [@Sachmed] [Force Leap {812105301229568}] [RemoveEffect {836045448945478}: Immobilized (Physical) {812105301229840}] ()
+[08:02:22.582] [@Rusmusashi] [@Rusmusashi] [Awe {1596834480914432}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:02:22.583] [@Rusmusashi] [@Malenia] [Awe {1596834480914432}] [ApplyEffect {836045448945477}: Incapacitated (Mental) {1596834480914688}] ()
+[08:02:22.583] [@Rusmusashi] [@Sachmed] [Awe {1596834480914432}] [ApplyEffect {836045448945477}: Incapacitated (Mental) {1596834480914688}] ()
+[08:02:22.583] [@Rusmusashi] [@Malenia] [Awe {1596834480914432}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <2>
+[08:02:22.584] [@Rusmusashi] [@Sachmed] [Awe {1596834480914432}] [Event {836045448945472}: ModifyThreat {836045448945483}] () <2>
+[08:02:23.550] [@Rusmusashi] [@Rusmusashi] [Unremitting {3588488125480960}] [RemoveEffect {836045448945478}: Unremitting {3588488125480960}] ()
+[08:02:23.778] [@Rusmusashi] [@Malenia] [Awe {1596834480914432}] [RemoveEffect {836045448945478}: Incapacitated (Mental) {1596834480914688}] ()
+[08:02:25.271] [] [@Rusmusashi] [Frozen {2854697257926656}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (47390)
+[08:02:25.275] [@Rusmusashi] [@Rusmusashi] [Medals Earned This Match {832699669413888}] [ApplyEffect {836045448945477}: Highly Decorated {832699669414154}] ()
+[08:02:25.411] [@Rusmusashi] [@Rusmusashi] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[08:02:25.411] [@Malenia] [@Rusmusashi] [Explosive Dart {2288745122365440}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1442 kinetic {836045448940873}) <1442>
+[08:02:25.785] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [ApplyEffect {836045448945477}: Shield Overcharge {3728701627826176}] ()
+[08:02:25.786] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [ApplyEffect {836045448945477}: Courage {1281979018379264}] ()
+[08:02:25.787] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [ApplyEffect {836045448945477}: Expeditious Protector {1780044900860239}] ()
+[08:02:26.218] [@Angus'young] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1177 energy {836045448940874} -shield {836045448945509}) <1177>
+[08:02:26.218] [@Angus'young] [@Rusmusashi] [Priming Shot {3411372264128512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (155 energy {836045448940874}) <155>
+[08:02:26.780] [@Rusmusashi] [@Rusmusashi] [Rebirth {773652459028480}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (60851)
+[08:02:27.866] [@Angus'young] [@Rusmusashi] [Tracer Missile {985140943650816}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (920 kinetic {836045448940873} -shield {836045448945509}) <920>
+[08:02:28.678] [@Rusmusashi] [@Sachmed] [Awe {1596834480914432}] [RemoveEffect {836045448945478}: Incapacitated (Mental) {1596834480914688}] ()
+[08:02:29.607] [@Angus'young] [@Rusmusashi] [Heatseeker Missiles {814592087293952}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1719 kinetic {836045448940873} -shield {836045448945509}) <1719>
+[08:02:31.802] [@Rusmusashi] [@Rusmusashi] [Shield Overcharge {3728701627826176}] [RemoveEffect {836045448945478}: Shield Overcharge {3728701627826176}] ()
+[08:02:34.586] [@Rusmusashi] [@Rusmusashi] [Ardent Advocate {3621516423987200}] [RemoveEffect {836045448945478}: Ardent Advocate {3621516423987200}] ()
+[08:02:35.450] [@Rusmusashi] [@Rusmusashi] [Guard {1780044900859904}] [RemoveEffect {836045448945478}: Expeditious Protector {1780044900860239}] ()
+[08:02:39.947] [@Rusmusashi] [@Rusmusashi] [Courage {1281979018379264}] [RemoveEffect {836045448945478}: Courage {1281979018379264}] ()
+[08:02:40.280] [@Rusmusashi] [@Rusmusashi] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[08:02:40.288] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[08:02:40.289] [@Rusmusashi] [@Rusmusashi] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[08:02:40.289] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:02:49.515] [@Rusmusashi] [@Rusmusashi] [Advanced Anodyne Reflex Stim {3739456225935360}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3739456225935360}] ()
+[08:02:49.515] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[08:02:49.516] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[08:02:49.516] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[08:02:49.517] [@Rusmusashi] [@Rusmusashi] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[08:02:49.517] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[08:02:50.280] [@Rusmusashi] [@Rusmusashi] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:02:50.281] [@Rusmusashi] [@Rusmusashi] [Soresu Form {812174020706304}] [ApplyEffect {836045448945477}: Soresu Form {812174020706304}] ()
+[08:03:09.180] [@Rusmusashi] [@Rusmusashi] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()

@@ -1,0 +1,8 @@
+[15:43:43.130] [@Rocksinyourface] [@Rocksinyourface] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Lucky Shots {875503313486145}] ()
+[15:43:43.130] [@Rocksinyourface] [@Rocksinyourface] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Fortification {875503313486158}] ()
+[15:43:43.130] [@Rocksinyourface] [@Rocksinyourface] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Valor {875503313485824}] ()
+[15:43:43.131] [@Rocksinyourface] [@Rocksinyourface] [Force Valor {875503313485824}] [ApplyEffect {836045448945477}: Force Might {875503313486141}] ()
+[15:43:43.132] [@Rocksinyourface] [@Rocksinyourface] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[15:43:43.760] [@Rocksinyourface] [@Rocksinyourface] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[15:44:05.937] [@Rocksinyourface] [@Rocksinyourface] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[15:44:05.938] [@Rocksinyourface:Veeroa Denz {3751340400443392}] [@Rocksinyourface:Veeroa Denz {3751340400443392}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()

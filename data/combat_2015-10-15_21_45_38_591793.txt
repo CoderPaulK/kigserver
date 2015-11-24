@@ -1,0 +1,268 @@
+[22:49:28.947] [@Republican] [@Republican] [Advanced Anodyne Reflex Stim {3404014985150464}] [ApplyEffect {836045448945477}: Advanced Anodyne Reflex Stim {3404014985150464}] ()
+[22:49:28.947] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[22:49:28.947] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[22:49:28.947] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[22:49:28.948] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[22:49:28.949] [@Republican] [@Republican] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[22:49:29.011] [@Republican] [@Republican] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Ion Cell {801312048414720}] ()
+[22:49:29.011] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[22:49:29.516] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Lucky Shots {2531161666486533}] ()
+[22:49:29.517] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Force Might {2531161666486537}] ()
+[22:49:29.517] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Force Valor {2531161666486540}] ()
+[22:49:29.517] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Fortification {2531161666486543}] ()
+[22:49:33.502] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Med Scan {2074812801351680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:49:34.623] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Med Scan {2074812801351680}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (2492) <346>
+[22:49:40.290] [@Republican] [@Republican] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[22:49:40.290] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[22:49:52.421] [@Republican] [@Republican] [Quick Travel {2465762199470080}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:50:03.456] [@Republican] [@Republican] [Quick Travel {810645012348928}] [ApplyEffect {836045448945477}: Quick Travel {810645012348928}] ()
+[22:50:07.508] [@Republican] [@Republican] [Quick Travel {810645012348928}] [RemoveEffect {836045448945478}: Quick Travel {810645012348928}] ()
+[22:50:15.921] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:50:16.555] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:50:16.555] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[22:53:13.233] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:53:13.233] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[22:53:13.233] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:53:13.233] [@Republican] [@Republican] [Hypothermia {801105889984512}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:53:13.234] [@Republican] [@Republican] [Hypothermia {801105889984512}] [ApplyEffect {836045448945477}: Hypothermia {801105889984812}] ()
+[22:53:13.234] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [ApplyEffect {836045448945477}: Pulse Engine {3172602147241984}] ()
+[22:53:13.235] [@Republican] [@Republican] [Hypothermia {801105889984812}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (557 elemental {836045448940875})
+[22:53:14.241] [@Republican] [@Republican] [Focused Defense {3405118791745536}] [ApplyEffect {836045448945477}: Focused Defense {3405118791745536}] ()
+[22:53:14.242] [@Republican] [@Republican] [Hypothermia {801105889984812}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (557 elemental {836045448940875})
+[22:53:14.934] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Med Scan {2074812801351680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:53:15.246] [@Republican] [@Republican] [Hypothermia {801105889984812}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (557 elemental {836045448940875})
+[22:53:15.545] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Med Scan {2074812801351680}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[22:53:16.251] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [ApplyEffect {836045448945477}: Shield Defense {3405101611876352}] ()
+[22:53:16.253] [@Republican] [@Republican] [Hypothermia {801105889984812}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1115 elemental {836045448940875} (1115 absorbed {836045448945511}))
+[22:53:17.355] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [RemoveEffect {836045448945478}: Shield Defense {3405101611876352}] ()
+[22:53:17.356] [@Republican] [@Republican] [Hypothermia {801105889984812}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1115 elemental {836045448940875} (324 absorbed {836045448945511}))
+[22:53:17.799] [@Republican] [@Republican] [Hypothermia {801105889984512}] [RemoveEffect {836045448945478}: Hypothermia {801105889984812}] ()
+[22:53:18.007] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Field Dress {2074172851224576}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:53:18.008] [@Republican:Elara Dorne {493341418455040}] [@Republican] [Field Dress {2074172851224576}] [ApplyEffect {836045448945477}: Field Dress {2074172851224833}] ()
+[22:53:18.009] [@Republican:Elara Dorne {493341418455040}] [@Republican] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (580) <217>
+[22:53:20.012] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:53:20.325] [@Republican] [@Republican] [Focused Defense {3405118791745536}] [RemoveEffect {836045448945478}: Focused Defense {3405118791745536}] ()
+[22:53:20.652] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:53:20.652] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[22:53:21.027] [] [@Republican] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[22:53:24.094] [] [@Republican] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[22:53:27.045] [] [@Republican] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[22:53:27.046] [] [@Republican] [Field Dress {2074172851224576}] [RemoveEffect {836045448945478}: Field Dress {2074172851224833}] ()
+[22:53:28.247] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [RemoveEffect {836045448945478}: Pulse Engine {3172602147241984}] ()
+[22:59:30.269] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:59:30.269] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[22:59:30.269] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:59:30.270] [@Republican] [@Republican] [Hypothermia {801105889984512}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:59:30.270] [@Republican] [@Republican] [Hypothermia {801105889984512}] [ApplyEffect {836045448945477}: Hypothermia {801105889984812}] ()
+[22:59:30.270] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [ApplyEffect {836045448945477}: Pulse Engine {3172602147241984}] ()
+[22:59:30.271] [@Republican] [@Republican] [Hypothermia {801105889984812}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (557 elemental {836045448940875})
+[22:59:31.281] [@Republican] [@Republican] [Focused Defense {3405118791745536}] [ApplyEffect {836045448945477}: Focused Defense {3405118791745536}] ()
+[22:59:31.283] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [ApplyEffect {836045448945477}: Shield Defense {3405101611876352}] ()
+[22:59:31.284] [@Republican] [@Republican] [Hypothermia {801105889984812}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (557 elemental {836045448940875} (557 absorbed {836045448945511}))
+[22:59:32.046] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Field Dress {2074172851224576}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:59:32.046] [@Republican:Elara Dorne {493341418455040}] [@Republican] [Field Dress {2074172851224576}] [ApplyEffect {836045448945477}: Field Dress {2074172851224833}] ()
+[22:59:32.047] [@Republican:Elara Dorne {493341418455040}] [@Republican] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1046*) <209>
+[22:59:32.326] [@Republican] [@Republican] [Hypothermia {801105889984812}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (557 elemental {836045448940875} (557 absorbed {836045448945511}))
+[22:59:33.325] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [RemoveEffect {836045448945478}: Shield Defense {3405101611876352}] ()
+[22:59:33.326] [@Republican] [@Republican] [Hypothermia {801105889984812}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1115 elemental {836045448940875} (324 absorbed {836045448945511}))
+[22:59:33.722] [@Republican] [@Republican] [Hypothermia {801105889984512}] [RemoveEffect {836045448945478}: Hypothermia {801105889984812}] ()
+[22:59:35.040] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Med Scan {2074812801351680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:59:35.040] [@Republican:Elara Dorne {493341418455040}] [@Republican] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (513) <192>
+[22:59:35.656] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Med Scan {2074812801351680}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[22:59:37.366] [@Republican] [@Republican] [Focused Defense {3405118791745536}] [RemoveEffect {836045448945478}: Focused Defense {3405118791745536}] ()
+[22:59:37.993] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Lucky Shots {2531161666486533}] ()
+[22:59:37.993] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Force Might {2531161666486537}] ()
+[22:59:37.993] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Force Valor {2531161666486540}] ()
+[22:59:37.994] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Fortification {2531161666486543}] ()
+[22:59:38.056] [@Republican:Elara Dorne {493341418455040}] [@Republican] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (669)
+[22:59:40.139] [@Republican] [@Republican] [Quick Travel {2465762199470080}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:59:41.062] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Field Dress {2074172851224576}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:59:41.062] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Field Dress {2074172851224576}] [ApplyEffect {836045448945477}: Field Dress {2074172851224833}] ()
+[22:59:41.064] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (901*) <338>
+[22:59:41.065] [@Republican:Elara Dorne {493341418455040}] [@Republican] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (542)
+[22:59:41.065] [@Republican:Elara Dorne {493341418455040}] [@Republican] [Field Dress {2074172851224576}] [RemoveEffect {836045448945478}: Field Dress {2074172851224833}] ()
+[22:59:43.960] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Med Scan {2074812801351680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:59:44.064] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (563) <8>
+[22:59:45.257] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [RemoveEffect {836045448945478}: Pulse Engine {3172602147241984}] ()
+[22:59:46.058] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Med Scan {2074812801351680}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (4316*)
+[22:59:47.055] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (619)
+[22:59:49.893] [@Republican] [@Republican] [Quick Travel {810645012348928}] [ApplyEffect {836045448945477}: Quick Travel {810645012348928}] ()
+[22:59:50.089] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Field Dress {2074172851224833}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (596)
+[22:59:50.090] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Field Dress {2074172851224576}] [RemoveEffect {836045448945478}: Field Dress {2074172851224833}] ()
+[22:59:54.028] [@Republican] [@Republican] [Quick Travel {810645012348928}] [RemoveEffect {836045448945478}: Quick Travel {810645012348928}] ()
+[22:59:58.652] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:59:59.284] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:59:59.284] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[23:01:03.270] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:01:03.271] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[23:01:03.271] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:01:04.980] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Lucky Shots {2531161666486533}] ()
+[23:01:04.980] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Force Might {2531161666486537}] ()
+[23:01:04.981] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Force Valor {2531161666486540}] ()
+[23:01:04.981] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Fortification {2531161666486543}] ()
+[23:01:07.973] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Med Scan {2074812801351680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:01:09.091] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Med Scan {2074812801351680}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[23:01:10.188] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:01:10.815] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:01:10.815] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[23:09:26.074] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:09:26.075] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[23:09:26.075] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:09:27.785] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Lucky Shots {2531161666486533}] ()
+[23:09:27.785] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Force Might {2531161666486537}] ()
+[23:09:27.785] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Force Valor {2531161666486540}] ()
+[23:09:27.786] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Fortification {2531161666486543}] ()
+[23:09:30.782] [@Republican:Elara Dorne {493341418455040}] [@Republican:Elara Dorne {493341418455040}] [Med Scan {2074812801351680}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:09:32.182] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:09:32.824] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:09:32.825] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[23:11:05.159] [@Republican] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (29908)
+[23:11:05.262] [@Republican] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (928)
+[23:11:09.186] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:11:09.186] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[23:11:09.186] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:11:09.187] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:11:09.187] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [ApplyEffect {836045448945477}: Recharge and Reload {801333523251200}] ()
+[23:11:22.852] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [RemoveEffect {836045448945478}: Recharge and Reload {801333523251200}] ()
+[23:11:22.853] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[23:11:39.595] [@Republican] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (15764)
+[23:12:20.728] [@Republican] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (10166)
+[23:12:20.927] [@Republican] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (21176)
+[23:12:25.097] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:12:25.097] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [ApplyEffect {836045448945477}: Recharge and Reload {801333523251200}] ()
+[23:12:36.363] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [RemoveEffect {836045448945478}: Recharge and Reload {801333523251200}] ()
+[23:12:36.364] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[23:17:05.463] [@Republican] [@Republican] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[23:17:05.463] [@Republican] [@Republican] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:17:05.463] [@Republican] [@Republican] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:17:29.433] [@Republican] [@Republican] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[23:17:42.400] [@Republican] [@Republican] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[23:19:23.847] [@Republican] [@Republican] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[23:19:25.267] [@Republican] [@Republican] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[23:20:27.117] [@Republican] [@Republican] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[23:20:28.623] [@Republican] [@Republican] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[23:20:37.588] [@Republican] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (6065)
+[23:20:40.305] [@Republican] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (1572)
+[23:21:15.758] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:21:16.332] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:21:16.332] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[23:23:26.178] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:23:26.179] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[23:23:26.179] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:23:27.844] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Lucky Shots {2531161666486533}] ()
+[23:23:27.844] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Force Might {2531161666486537}] ()
+[23:23:27.845] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Force Valor {2531161666486540}] ()
+[23:23:27.845] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [ {2531161666486272}] [ApplyEffect {836045448945477}: Fortification {2531161666486543}] ()
+[23:23:54.645] [@Republican] [@Republican] [Hold the Line {801303458480128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:23:54.645] [@Republican] [@Republican] [Hold the Line {801303458480128}] [ApplyEffect {836045448945477}: Hold the Line {801303458480128}] ()
+[23:23:55.355] [@Republican] [@Republican] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[23:23:56.994] [White Maw Commando {1500446824857600}:114734080941] [@Republican:Aric Jorgan {493337123487744}] [Toxic Dart {830324552499200}] [ApplyEffect {836045448945477}: Poisoned (Physical) {830324552499456}] ()
+[23:23:57.583] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Auto Fire {2163203228303360}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:23:57.584] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114734080941] [Auto Fire {2163203228303360}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (956 energy {836045448940874}) <956>
+[23:23:58.648] [White Maw Commando {1500446824857600}:114734080941] [@Republican:Aric Jorgan {493337123487744}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:23:58.686] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114734080941] [Auto Fire {2163203228303360}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (906 energy {836045448940874}) <906>
+[23:23:58.822] [White Maw Commando {1500446824857600}:114734080973] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:23:59.215] [White Maw Commando {1500446824857600}:114734080973] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:23:59.228] [White Maw Commando {1500446824857600}:114734080973] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[23:23:59.742] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114734080941] [Auto Fire {2163203228303360}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (922 energy {836045448940874}) <922>
+[23:23:59.742] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114734080941] [] [Event {836045448945472}: Death {836045448945493}] ()
+[23:23:59.743] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Auto Fire {2163203228303360}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[23:23:59.996] [White Maw Commando {1500446824857600}:114734080941] [@Republican:Aric Jorgan {493337123487744}] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (123 internal {836045448940876})
+[23:24:00.723] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Aimed Blast {2163194638368768}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:24:00.823] [White Maw Commando {1500446824857600}:114734080973] [@Republican:Aric Jorgan {493337123487744}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:24:01.275] [White Maw Commando {1500446824857600}:114734080973] [@Republican:Aric Jorgan {493337123487744}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:24:01.292] [White Maw Commando {1500446824857600}:114734080973] [@Republican:Aric Jorgan {493337123487744}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[23:24:01.846] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:24:01.846] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [ApplyEffect {836045448945477}: Pulse Engine {3172602147241984}] ()
+[23:24:02.344] [@Republican] [White Maw Commando {1500446824857600}:114734080973] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (175 energy {836045448940874}) <351>
+[23:24:02.358] [@Republican] [White Maw Commando {1500446824857600}:114734080973] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (179 energy {836045448940874}) <358>
+[23:24:02.358] [@Republican] [White Maw Commando {1500446824857600}:114734080973] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (161 energy {836045448940874}) <322>
+[23:24:02.470] [@Republican] [White Maw Commando {1500446824857600}:114734080973] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (175 energy {836045448940874}) <351>
+[23:24:02.471] [@Republican] [White Maw Commando {1500446824857600}:114734080973] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (165 energy {836045448940874}) <330>
+[23:24:02.471] [@Republican] [White Maw Commando {1500446824857600}:114734080973] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (165 energy {836045448940874}) <331>
+[23:24:02.471] [@Republican] [White Maw Commando {1500446824857600}:114734080973] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (186 energy {836045448940874}) <372>
+[23:24:03.045] [White Maw Commando {1500446824857600}:114734080941] [@Republican:Aric Jorgan {493337123487744}] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507})
+[23:24:03.294] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Burst {2163125918892032}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:24:03.361] [White Maw Commando {1500446824857600}:114734080973] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:24:03.808] [White Maw Commando {1500446824857600}:114736885971] [@Republican:Aric Jorgan {493337123487744}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:24:03.809] [White Maw Commando {1500446824857600}:114734080973] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:24:03.826] [White Maw Commando {1500446824857600}:114736885971] [@Republican:Aric Jorgan {493337123487744}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[23:24:03.826] [White Maw Commando {1500446824857600}:114734080973] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[23:24:03.843] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114734080973] [Aimed Blast {2163194638368768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4389 energy {836045448940874}) <4389>
+[23:24:03.843] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114734080973] [] [Event {836045448945472}: Death {836045448945493}] ()
+[23:24:04.142] [White Maw Commando {1500446824857600}:114736885971] [@Republican:Aric Jorgan {493337123487744}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:24:04.686] [@Republican] [@Republican] [Hold the Line {801303458480128}] [RemoveEffect {836045448945478}: Hold the Line {801303458480128}] ()
+[23:24:04.757] [White Maw Commando {1500446824857600}:114736885971] [@Republican:Aric Jorgan {493337123487744}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:24:04.876] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Quickshot {2074941650370560}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:24:05.491] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114736885971] [Burst {2163125918892032}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1690 energy {836045448940874}) <1690>
+[23:24:05.491] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114736885971] [] [Event {836045448945472}: Death {836045448945493}] ()
+[23:24:06.076] [White Maw Commando {1500446824857600}:114734080941] [@Republican:Aric Jorgan {493337123487744}] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507})
+[23:24:06.790] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114736885971] [Quickshot {2074941650370560}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1316 energy {836045448940874}) <1316>
+[23:24:07.560] [White Maw Commando {1500446824857600}:114734081005] [@Republican:Aric Jorgan {493337123487744}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:24:07.827] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114734081005] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (772 energy {836045448940874}) <772>
+[23:24:08.125] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114734081005] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (828 energy {836045448940874}) <828>
+[23:24:08.988] [White Maw Commando {1500446824857600}:114734080941] [@Republican:Aric Jorgan {493337123487744}] [Poisoned (Physical) {830324552499456}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507})
+[23:24:08.989] [White Maw Commando {1500446824857600}:114734080941] [@Republican:Aric Jorgan {493337123487744}] [Toxic Dart {830324552499200}] [RemoveEffect {836045448945478}: Poisoned (Physical) {830324552499456}] ()
+[23:24:09.208] [@Republican] [@Republican] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[23:24:09.337] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114734081005] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (652 energy {836045448940874}) <652>
+[23:24:09.337] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114734081005] [] [Event {836045448945472}: Death {836045448945493}] ()
+[23:24:09.642] [@Republican:Aric Jorgan {493337123487744}] [White Maw Commando {1500446824857600}:114734081005] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (723 energy {836045448940874}) <723>
+[23:24:16.986] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [RemoveEffect {836045448945478}: Pulse Engine {3172602147241984}] ()
+[23:24:26.516] [@Republican] [@Republican] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[23:24:26.566] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:24:26.567] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [ApplyEffect {836045448945477}: Pulse Engine {3172602147241984}] ()
+[23:24:26.568] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Ion Overload {2044520397012992}] [ApplyEffect {836045448945477}: Shocked {2044520397013249}] ()
+[23:24:26.569] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Shocked {2044520397013249}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (189* energy {836045448940874}) <1513>
+[23:24:26.569] [@Republican] [@Republican] [Power Screen {2842082938978304}] [ApplyEffect {836045448945477}: Power Screen {2842082938978304}] ()
+[23:24:26.570] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (525* energy {836045448940874}) <1051>
+[23:24:26.782] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (153 energy {836045448940874}) <307>
+[23:24:26.856] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (166 energy {836045448940874}) <332>
+[23:24:26.857] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (246* energy {836045448940874}) <493>
+[23:24:26.876] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (177 energy {836045448940874}) <355>
+[23:24:26.876] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (168 energy {836045448940874}) <337>
+[23:24:26.993] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (152 energy {836045448940874}) <305>
+[23:24:26.994] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (172 energy {836045448940874}) <344>
+[23:24:27.102] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Auto Fire {2163203228303360}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:24:27.102] [@Republican:Aric Jorgan {493337123487744}] [White Maw Technician {1500464004726784}:114734086476] [Auto Fire {2163203228303360}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (942 energy {836045448940874}) <942>
+[23:24:27.519] [White Maw Technician {1500464004726784}:114734086476] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:24:28.102] [@Republican:Aric Jorgan {493337123487744}] [White Maw Technician {1500464004726784}:114734086476] [Auto Fire {2163203228303360}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (956 energy {836045448940874}) <956>
+[23:24:28.578] [@Republican] [@Republican] [High Impact Bolt {2021194429628416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:24:28.578] [@Republican] [@Republican] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[23:24:28.578] [@Republican] [@Republican] [Shield Enhancers {3389991916929024}] [ApplyEffect {836045448945477}: Shield Enhancers {3389991916929024}] ()
+[23:24:28.660] [@Republican] [@Republican] [] [Restore {836045448945476}: energy {836045448938503}] (1)
+[23:24:28.766] [@Republican] [@Republican] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[23:24:28.789] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Ion Overload {2044520397012992}] [RemoveEffect {836045448945478}: Shocked {2044520397013249}] ()
+[23:24:28.793] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (350 energy {836045448940874}) <700>
+[23:24:28.793] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [] [Event {836045448945472}: Death {836045448945493}] ()
+[23:24:28.955] [@Republican] [White Maw Technician {1500464004726784}:114734086476] [High Impact Bolt {2021194429628416}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2464 energy {836045448940874}) <4929>
+[23:24:29.154] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Auto Fire {2163203228303360}] [Event {836045448945472}: FailedEffect {836045448945499}] ()
+[23:24:31.102] [White Maw Technician {1500464004726784}:114734086476] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:24:31.102] [White Maw Technician {1500464004726784}:114734086476] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[23:24:41.621] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [RemoveEffect {836045448945478}: Pulse Engine {3172602147241984}] ()
+[23:24:43.613] [@Republican] [@Republican] [Shield Enhancers {3389991916929024}] [RemoveEffect {836045448945478}: Shield Enhancers {3389991916929024}] ()
+[23:24:48.848] [@Republican] [@Republican] [Power Screen {2842082938978304}] [RemoveEffect {836045448945478}: Power Screen {2842082938978304}] ()
+[23:29:21.933] [@Republican] [@Republican] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Fortification {1781488009871360}] ()
+[23:29:21.933] [@Republican] [@Republican] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Lucky Shots {1781488009871626}] ()
+[23:29:21.933] [@Republican] [@Republican] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Force Valor {1781488009871637}] ()
+[23:29:21.933] [@Republican] [@Republican] [Fortification {1781488009871360}] [RemoveEffect {836045448945478}: Force Might {1781488009871651}] ()
+[23:32:47.976] [White Maw Commando {1500446824857600}:114737056112] [@Republican] [] [Event {836045448945472}: NoLongerSuspicious {836045448945498}] ()
+[23:34:19.616] [@Republican] [@Republican] [Sprint {810670782152704}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:34:19.616] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[23:35:51.342] [@Republican] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (41627)
+[23:35:51.342] [@Republican] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (1701)
+[23:35:53.944] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:35:53.944] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [ApplyEffect {836045448945477}: Recharge and Reload {801333523251200}] ()
+[23:36:05.877] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [RemoveEffect {836045448945478}: Recharge and Reload {801333523251200}] ()
+[23:36:05.878] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[23:42:04.798] [@Republican] [@Republican] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[23:42:04.799] [@Republican] [@Republican] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:42:04.799] [@Republican] [@Republican] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[23:51:41.744] [@Republican] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (41665)
+[23:51:43.934] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[23:51:43.934] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [ApplyEffect {836045448945477}: Recharge and Reload {801333523251200}] ()
+[23:51:59.013] [@Republican] [@Republican] [Recharge and Reload {801333523251200}] [RemoveEffect {836045448945478}: Recharge and Reload {801333523251200}] ()
+[00:02:23.661] [@Republican] [@Republican] [Fortification {1781488009871360}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[00:02:23.661] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[00:02:23.662] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[00:02:23.662] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[00:02:23.663] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()

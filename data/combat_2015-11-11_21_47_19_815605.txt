@@ -1,0 +1,304 @@
+[21:47:14.271] [@Positivlydark] [@Positivlydark] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[21:47:14.569] [@Positivlydark] [@Positivlydark] [Shien Form {807891938312192}] [ApplyEffect {836045448945477}: Shien Form {807891938312192}] ()
+[21:47:14.571] [@Positivlydark] [@Positivlydark] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[21:47:23.692] [@Positivlydark] [@Positivlydark] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[21:48:06.593] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:48:06.594] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[21:48:06.595] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Coordination {1781509484708107}] ()
+[21:48:06.595] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Hunter's Boon {1781509484708111}] ()
+[21:48:06.595] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Mark of Power {1781509484708115}] ()
+[21:48:09.265] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:48:09.885] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[21:48:09.885] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[21:49:35.868] [@Positivlydark] [@Positivlydark] [] [Spend {836045448945473}: rage point {836045448938497}] (0)
+[21:49:35.868] [@Positivlydark] [@Positivlydark] [Shien Form {807891938312192}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[21:49:35.868] [@Positivlydark] [@Positivlydark] [Shien Form {807891938312192}] [RemoveEffect {836045448945478}: Shien Form {807891938312192}] ()
+[21:49:35.868] [@Positivlydark] [@Positivlydark] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[21:49:35.868] [@Positivlydark] [@Positivlydark] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[21:49:35.869] [@Positivlydark] [@Positivlydark] [Shien Form {807891938312192}] [ApplyEffect {836045448945477}: Shien Form {807891938312192}] ()
+[21:49:35.869] [@Positivlydark] [@Positivlydark] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[21:49:44.801] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[21:49:44.801] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[21:49:44.801] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[21:49:44.801] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:50:54.555] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:53:18.475] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Hunter's Boon {1781509484708111}] ()
+[21:53:18.475] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Mark of Power {1781509484708115}] ()
+[21:53:18.475] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[21:53:18.476] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Coordination {1781509484708107}] ()
+[21:53:18.476] [@Positivlydark] [@Positivlydark] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[21:53:18.499] [@Positivlydark] [@Positivlydark] [Shien Form {807891938312192}] [ApplyEffect {836045448945477}: Shien Form {807891938312192}] ()
+[21:53:18.500] [@Positivlydark] [@Positivlydark] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[21:53:26.950] [@Positivlydark] [@Positivlydark] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[21:54:09.522] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[21:54:09.558] [@Positivlydark] [@Positivlydark] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:54:09.558] [@Positivlydark] [@Positivlydark] [Brawn {3585902555168768}] [ApplyEffect {836045448945477}: Brawn {3585902555168768}] ()
+[21:54:09.559] [@Positivlydark] [@Positivlydark] [Unstoppable {3585722166542336}] [ApplyEffect {836045448945477}: Unstoppable {3585722166542336}] ()
+[21:54:09.560] [@Positivlydark] [@Positivlydark] [ {3227496124252160}] [ApplyEffect {836045448945477}: Vindicator {3227496124252419}] ()
+[21:54:09.560] [@Positivlydark] [@Positivlydark] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[21:54:09.561] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Immobilized (Physical) {807750204391700}] ()
+[21:54:09.562] [@Positivlydark] [@Positivlydark] [Primary Surge {3302529202913280}] [ApplyEffect {836045448945477}: Primary Surge {3302529202913280}] ()
+[21:54:09.563] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[21:54:10.481] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1160 kinetic {836045448940873}) <1160>
+[21:54:11.642] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Force Charge {807750204391424}] [RemoveEffect {836045448945478}: Immobilized (Physical) {807750204391700}] ()
+[21:54:11.759] [@Positivlydark] [@Positivlydark] [Sundering Assault {807806038966272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:54:11.759] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (2)
+[21:54:11.759] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Sundering Assault {807806038966272}] [ApplyEffect {836045448945477}: Sundered (Physical) {807806038966715}] ()
+[21:54:11.760] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (4)
+[21:54:11.760] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[21:54:12.328] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Sundering Assault {807806038966272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1699 kinetic {836045448940873}) <1699>
+[21:54:13.363] [@Positivlydark] [@Positivlydark] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:54:13.363] [@Positivlydark] [@Positivlydark] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[21:54:13.363] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[21:54:13.363] [@Positivlydark] [@Positivlydark] [Power Surge {3303164858073088}] [ApplyEffect {836045448945477}: Power Surge {3303164858073088}] ()
+[21:54:13.569] [@Positivlydark] [@Positivlydark] [Brawn {3585902555168768}] [RemoveEffect {836045448945478}: Brawn {3585902555168768}] ()
+[21:54:13.570] [@Positivlydark] [@Positivlydark] [Unstoppable {3585722166542336}] [RemoveEffect {836045448945478}: Unstoppable {3585722166542336}] ()
+[21:54:14.152] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2227 kinetic {836045448940873}) <2227>
+[21:54:14.567] [@Positivlydark] [@Positivlydark] [ {3227496124252160}] [RemoveEffect {836045448945478}: Vindicator {3227496124252419}] ()
+[21:54:15.289] [@Positivlydark] [@Positivlydark] [Shatter {1169953386397696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:54:15.289] [@Positivlydark] [@Positivlydark] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[21:54:15.289] [@Positivlydark] [@Positivlydark] [Savagery {1177770226876416}] [ApplyEffect {836045448945477}: Savagery {1177770226876416}] ()
+[21:54:15.290] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[21:54:15.291] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[21:54:15.291] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Shatter {1169953386397696}] [ApplyEffect {836045448945477}: Bleeding (Shatter) {1169953386397954}] ()
+[21:54:15.588] [@Positivlydark] [@Positivlydark] [Primary Surge {3302529202913280}] [RemoveEffect {836045448945478}: Primary Surge {3302529202913280}] ()
+[21:54:15.945] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Shatter {1169953386397696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1877 internal {836045448940876}) <1877>
+[21:54:16.884] [@Positivlydark] [@Positivlydark] [Saber Throw {807788859097088}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:54:16.885] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[21:54:17.376] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Sundering Assault {807806038966272}] [RemoveEffect {836045448945478}: Sundered (Physical) {807806038966715}] ()
+[21:54:17.376] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Sundering Throw {2849362908545024}] [ApplyEffect {836045448945477}: Sundered (Physical) {2849362908545306}] ()
+[21:54:17.376] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Saber Throw {807788859097088}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3234* kinetic {836045448940873}) <3234>
+[21:54:18.375] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Shatter) {1169953386397954}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (617 internal {836045448940876}) <617>
+[21:54:18.491] [@Positivlydark] [@Positivlydark] [Impale {2210507998101504}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:54:18.492] [@Positivlydark] [@Positivlydark] [] [Spend {836045448945473}: rage point {836045448938497}] (4)
+[21:54:18.492] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[21:54:18.492] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Eviscerate {3426078232150016}] [ApplyEffect {836045448945477}: Bleeding (Eviscerate) {3426078232150278}] ()
+[21:54:18.493] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Eviscerate {3426078232150016}] [ApplyEffect {836045448945477}: Beat Down (Physical) {3426078232150302}] ()
+[21:54:19.379] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Impale {2210507998101504}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3721 kinetic {836045448940873}) <3721>
+[21:54:19.456] [@Positivlydark] [@Positivlydark] [Power Surge {3303164858073088}] [RemoveEffect {836045448945478}: Power Surge {3303164858073088}] ()
+[21:54:19.542] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Eviscerate) {3426078232150278}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (120 internal {836045448940876}) <120>
+[21:54:20.256] [@Positivlydark] [@Positivlydark] [Smash {807801743998976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:54:20.256] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[21:54:20.559] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Eviscerate) {3426078232150278}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (120 internal {836045448940876}) <120>
+[21:54:20.864] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Sundering Throw {2849362908545024}] [RemoveEffect {836045448945478}: Sundered (Physical) {2849362908545306}] ()
+[21:54:20.864] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Crushing Fist {3426546383585280}] [ApplyEffect {836045448945477}: Sundered (Physical) {3426546383585572}] ()
+[21:54:20.865] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Smash {807801743998976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1886* kinetic {836045448940873}) <1886>
+[21:54:21.365] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Shatter) {1169953386397954}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (557 internal {836045448940876}) <557>
+[21:54:21.559] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Eviscerate) {3426078232150278}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (120 internal {836045448940876}) <120>
+[21:54:22.007] [@Positivlydark] [@Positivlydark] [Force Scream {998270658674688}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:54:22.007] [@Positivlydark] [@Positivlydark] [] [Spend {836045448945473}: rage point {836045448938497}] (4)
+[21:54:22.007] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[21:54:22.196] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Draining Scream {807857578573824}] [ApplyEffect {836045448945477}: Bleeding (Draining Scream) {807857578574081}] ()
+[21:54:22.196] [@Positivlydark] [@Positivlydark] [Savagery {1177770226876416}] [RemoveEffect {836045448945478}: Savagery {1177770226876416}] ()
+[21:54:22.278] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Force Scream {998270658674688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4004* kinetic {836045448940873}) <4004>
+[21:54:22.493] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Eviscerate) {3426078232150278}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (120 internal {836045448940876}) <120>
+[21:54:23.193] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Draining Scream) {807857578574081}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (79 internal {836045448940876}) <79>
+[21:54:23.492] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Eviscerate) {3426078232150278}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (193* internal {836045448940876}) <193>
+[21:54:23.721] [@Positivlydark] [@Positivlydark] [Force Choke {807754499358720}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[21:54:23.721] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Force Choke {807754499358720}] ()
+[21:54:23.722] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (380 kinetic {836045448940873}) <380>
+[21:54:23.722] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[21:54:24.234] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Draining Scream) {807857578574081}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (79 internal {836045448940876}) <79>
+[21:54:24.302] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Shatter) {1169953386397954}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (557 internal {836045448940876}) <557>
+[21:54:24.509] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Eviscerate) {3426078232150278}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (120 internal {836045448940876}) <120>
+[21:54:24.509] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Eviscerate {3426078232150016}] [RemoveEffect {836045448945478}: Bleeding (Eviscerate) {3426078232150278}] ()
+[21:54:25.209] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Draining Scream) {807857578574081}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (127* internal {836045448940876}) <127>
+[21:54:25.877] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (380 kinetic {836045448940873}) <380>
+[21:54:25.877] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[21:54:26.279] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Draining Scream) {807857578574081}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (79 internal {836045448940876}) <79>
+[21:54:27.308] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Draining Scream) {807857578574081}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (79 internal {836045448940876}) <79>
+[21:54:27.382] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Shatter) {1169953386397954}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (557 internal {836045448940876}) <557>
+[21:54:27.382] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Shatter {1169953386397696}] [RemoveEffect {836045448945478}: Bleeding (Shatter) {1169953386397954}] ()
+[21:54:27.771] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (380 kinetic {836045448940873}) <380>
+[21:54:27.771] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[21:54:27.772] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Force Choke {807754499358720}] [RemoveEffect {836045448945478}: Force Choke {807754499358720}] ()
+[21:54:28.275] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Bleeding (Draining Scream) {807857578574081}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (127* internal {836045448940876}) <127>
+[21:54:28.276] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Draining Scream {807857578573824}] [RemoveEffect {836045448945478}: Bleeding (Draining Scream) {807857578574081}] ()
+[21:54:33.444] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[21:54:33.448] [@Positivlydark] [@Positivlydark] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[21:54:33.448] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Crushing Fist {3426546383585280}] [RemoveEffect {836045448945478}: Sundered (Physical) {3426546383585572}] ()
+[21:54:33.449] [@Positivlydark] [Warzone Training Dummy {2857781044445184}:6023078704561] [Eviscerate {3426078232150016}] [RemoveEffect {836045448945478}: Beat Down (Physical) {3426078232150302}] ()
+[21:54:50.890] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:55:21.002] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:55:23.702] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:55:58.904] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:56:09.830] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: GainXp {836045448945491}] (10743)
+[21:56:12.082] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:57:38.179] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:57:43.909] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: GainXp {836045448945491}] (10925)
+[21:57:46.766] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:58:21.888] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:58:27.540] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: GainXp {836045448945491}] (11193)
+[21:58:29.564] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[21:59:02.832] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[21:59:13.158] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: GainXp {836045448945491}] (11375)
+[21:59:35.635] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:01:03.830] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:01:09.237] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: GainXp {836045448945491}] (9656)
+[22:01:11.184] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:02:27.143] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:02:29.936] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: GainXp {836045448945491}] (10293)
+[22:02:33.715] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:03:18.922] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:03:30.070] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: GainXp {836045448945491}] (10743)
+[22:03:32.952] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:03:55.414] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:03:57.614] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: GainXp {836045448945491}] (11375)
+[22:04:13.698] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:05:04.996] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:05:07.528] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:07:31.053] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:08:03.648] [@Positivlydark] [@Positivlydark] [Accessing Galaxy Map... {663009806516224}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:08:35.581] [@Positivlydark] [@Positivlydark] [Exiting Ship... {2280730713391104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:08:37.690] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:08:58.478] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Hunter's Boon {1781509484708111}] ()
+[22:08:58.478] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Mark of Power {1781509484708115}] ()
+[22:08:58.478] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[22:08:58.479] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Coordination {1781509484708107}] ()
+[22:08:58.480] [@Positivlydark] [@Positivlydark] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[22:08:58.528] [@Positivlydark] [@Positivlydark] [Shien Form {807891938312192}] [ApplyEffect {836045448945477}: Shien Form {807891938312192}] ()
+[22:08:58.529] [@Positivlydark] [@Positivlydark] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[22:09:10.072] [@Positivlydark] [@Positivlydark] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[22:09:15.490] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:09:16.175] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:09:16.175] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[22:10:35.551] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:10:35.551] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:10:35.551] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[22:10:35.551] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:11:04.590] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:11:04.591] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:12:21.201] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:12:21.201] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:12:22.709] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[22:12:22.732] [@Positivlydark] [@Positivlydark] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[22:12:23.384] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[22:12:23.897] [Cada Bliss {507635069616128}:8245270640879] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (108 kinetic {836045448940873}) <108>
+[22:12:24.146] [Cada Bliss {507635069616128}:8245270640879] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (125 kinetic {836045448940873}) <125>
+[22:12:24.346] [The Virus {507639364583424}:8245270640914] [@Positivlydark:Vette {290296839536640}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (146 kinetic {836045448940873}) <146>
+[22:12:24.541] [The Virus {507639364583424}:8245270640914] [@Positivlydark:Vette {290296839536640}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (160 kinetic {836045448940873}) <160>
+[22:12:25.345] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:12:25.755] [@Positivlydark] [@Positivlydark] [Smash {807801743998976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:12:25.755] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[22:12:26.124] [The Virus {507639364583424}:8245270640914] [@Positivlydark:Vette {290296839536640}] [Lunge {855626204839936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (457 kinetic {836045448940873}) <457>
+[22:12:26.403] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Smash {807801743998976}] [ApplyEffect {836045448945477}: Stunned (Physical) {807801743999258}] ()
+[22:12:26.403] [@Positivlydark] [@Positivlydark] [Power Surge {3303164858073088}] [ApplyEffect {836045448945477}: Power Surge {3303164858073088}] ()
+[22:12:26.404] [@Positivlydark] [The Virus {507639364583424}:8245270640914] [Crushing Fist {3426546383585280}] [ApplyEffect {836045448945477}: Sundered (Physical) {3426546383585572}] ()
+[22:12:26.404] [@Positivlydark] [@Positivlydark] [Primary Surge {3302529202913280}] [ApplyEffect {836045448945477}: Primary Surge {3302529202913280}] ()
+[22:12:26.404] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Crushing Fist {3426546383585280}] [ApplyEffect {836045448945477}: Sundered (Physical) {3426546383585572}] ()
+[22:12:26.404] [@Positivlydark] [The Virus {507639364583424}:8245270640914] [Smash {807801743998976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (378 kinetic {836045448940873}) <378>
+[22:12:26.405] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Smash {807801743998976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (376 kinetic {836045448940873}) <376>
+[22:12:26.407] [@Positivlydark:Vette {290296839536640}] [@Positivlydark] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (421) <116>
+[22:12:27.392] [@Positivlydark:Vette {290296839536640}] [@Positivlydark] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (421)
+[22:12:27.393] [@Positivlydark] [@Positivlydark] [Sundering Assault {807806038966272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:12:27.393] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (2)
+[22:12:27.393] [@Positivlydark] [The Virus {507639364583424}:8245270640914] [Crushing Fist {3426546383585280}] [RemoveEffect {836045448945478}: Sundered (Physical) {3426546383585572}] ()
+[22:12:27.393] [@Positivlydark] [The Virus {507639364583424}:8245270640914] [Sundering Assault {807806038966272}] [ApplyEffect {836045448945477}: Sundered (Physical) {807806038966715}] ()
+[22:12:27.393] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (4)
+[22:12:27.394] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[22:12:27.980] [@Positivlydark] [The Virus {507639364583424}:8245270640914] [Sundering Assault {807806038966272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (536 kinetic {836045448940873}) <536>
+[22:12:28.189] [The Virus {507639364583424}:8245270640914] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (249 kinetic {836045448940873}) <249>
+[22:12:28.401] [@Positivlydark:Vette {290296839536640}] [@Positivlydark] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (421) <124>
+[22:12:28.402] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Smash {807801743998976}] [RemoveEffect {836045448945478}: Stunned (Physical) {807801743999258}] ()
+[22:12:28.499] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:12:28.839] [Cada Bliss {507635069616128}:8245270640879] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (109 kinetic {836045448940873}) <109>
+[22:12:29.008] [@Positivlydark] [@Positivlydark] [Ravage {1261367470325760}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:12:29.008] [@Positivlydark] [@Positivlydark] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Unshakable {1261367470326274}] ()
+[22:12:29.147] [Cada Bliss {507635069616128}:8245270640879] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:12:29.408] [@Positivlydark] [The Virus {507639364583424}:8245270640914] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (837* kinetic {836045448940873}) <837>
+[22:12:29.509] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (417) <208>
+[22:12:29.606] [@Positivlydark] [The Virus {507639364583424}:8245270640914] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (535 kinetic {836045448940873}) <535>
+[22:12:29.611] [The Virus {507639364583424}:8245270640914] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[22:12:30.515] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (417) <173>
+[22:12:30.827] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[22:12:31.114] [The Virus {507639364583424}:8245270640914] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (116 kinetic {836045448940873}) <116>
+[22:12:31.372] [The Virus {507639364583424}:8245270640914] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (124 kinetic {836045448940873}) <124>
+[22:12:31.447] [Cada Bliss {507635069616128}:8245270640879] [@Positivlydark] [Kick {837059061219328}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (178 kinetic {836045448940873}) <178>
+[22:12:31.526] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (638*)
+[22:12:31.627] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:12:31.727] [@Positivlydark] [The Virus {507639364583424}:8245270640914] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1050 kinetic {836045448940873}) <1050>
+[22:12:32.073] [@Positivlydark] [@Positivlydark] [Ravage {1261367470325760}] [RemoveEffect {836045448945478}: Unshakable {1261367470326274}] ()
+[22:12:32.483] [@Positivlydark] [@Positivlydark] [Power Surge {3303164858073088}] [RemoveEffect {836045448945478}: Power Surge {3303164858073088}] ()
+[22:12:32.484] [@Positivlydark] [@Positivlydark] [Primary Surge {3302529202913280}] [RemoveEffect {836045448945478}: Primary Surge {3302529202913280}] ()
+[22:12:32.484] [@Positivlydark] [@Positivlydark] [Force Scream {998270658674688}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:12:32.484] [@Positivlydark] [@Positivlydark] [] [Spend {836045448945473}: rage point {836045448938497}] (4)
+[22:12:32.484] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[22:12:32.765] [@Positivlydark] [The Virus {507639364583424}:8245270640914] [Sundering Assault {807806038966272}] [RemoveEffect {836045448945478}: Sundered (Physical) {807806038966715}] ()
+[22:12:32.767] [@Positivlydark:Vette {290296839536640}] [@Positivlydark] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (421) <210>
+[22:12:32.812] [@Positivlydark] [The Virus {507639364583424}:8245270640914] [Force Scream {998270658674688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1138* kinetic {836045448940873}) <1138>
+[22:12:32.812] [@Positivlydark] [The Virus {507639364583424}:8245270640914] [] [Event {836045448945472}: Death {836045448945493}] ()
+[22:12:32.813] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: GainXp {836045448945491}] (5490)
+[22:12:32.813] [The Virus {507639364583424}:8245270640914] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[22:12:32.837] [The Virus {507639364583424}:8245270640914] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[22:12:32.895] [Cada Bliss {507635069616128}:8245270640879] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (111 kinetic {836045448940873}) <111>
+[22:12:33.202] [Cada Bliss {507635069616128}:8245270640879] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (110 kinetic {836045448940873}) <110>
+[22:12:33.742] [@Positivlydark:Vette {290296839536640}] [@Positivlydark] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (421) <202>
+[22:12:34.760] [@Positivlydark:Vette {290296839536640}] [@Positivlydark] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (644*)
+[22:12:35.193] [The Virus {507639364583424}:8245270640914] [@Positivlydark] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 kinetic {836045448940873}) <76>
+[22:12:35.377] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:12:35.612] [Cada Bliss {507635069616128}:8245270640879] [@Positivlydark:Vette {290296839536640}] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (304 kinetic {836045448940873}) <304>
+[22:12:36.355] [@Positivlydark] [@Positivlydark] [Force Choke {807754499358720}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:12:36.355] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Stunned (Force) {807754499359098}] ()
+[22:12:36.355] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Force Choke {807754499358720}] ()
+[22:12:36.356] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (120 kinetic {836045448940873}) <120>
+[22:12:36.357] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[22:12:36.693] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (417) <152>
+[22:12:37.560] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (417)
+[22:12:38.529] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (417)
+[22:12:38.530] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (120 kinetic {836045448940873}) <120>
+[22:12:38.530] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[22:12:40.102] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[22:12:40.130] [@Positivlydark] [@Positivlydark] [Shatter {1169953386397696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:12:40.130] [@Positivlydark] [@Positivlydark] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[22:12:40.131] [@Positivlydark] [@Positivlydark] [Savagery {1177770226876416}] [ApplyEffect {836045448945477}: Savagery {1177770226876416}] ()
+[22:12:40.132] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[22:12:40.132] [@Positivlydark] [@Positivlydark] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[22:12:40.132] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Shatter {1169953386397696}] [ApplyEffect {836045448945477}: Bleeding (Shatter) {1169953386397954}] ()
+[22:12:40.132] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Crushing Fist {3426546383585280}] [RemoveEffect {836045448945478}: Sundered (Physical) {3426546383585572}] ()
+[22:12:40.134] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Force Choke {807754499358720}] [RemoveEffect {836045448945478}: Stunned (Force) {807754499359098}] ()
+[22:12:40.134] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Force Choke {807754499358720}] [RemoveEffect {836045448945478}: Force Choke {807754499358720}] ()
+[22:12:40.134] [@Positivlydark] [@Positivlydark] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[22:12:40.763] [@Positivlydark] [Cada Bliss {507635069616128}:8245270640879] [Shatter {1169953386397696}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (469 internal {836045448940876}) <469>
+[22:12:41.147] [@Positivlydark:Vette {290296839536640}] [Cada Bliss {507635069616128}:8245270640879] [Unarmed {813634309586944}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (181* kinetic {836045448940873}) <181>
+[22:12:41.379] [@Positivlydark:Vette {290296839536640}] [Cada Bliss {507635069616128}:8245270640879] [Unarmed {813634309586944}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (110 kinetic {836045448940873}) <110>
+[22:12:43.696] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:12:43.696] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:13:39.863] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:13:39.863] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:13:50.976] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:13:51.388] [@Positivlydark] [@Positivlydark] [Savagery {1177770226876416}] [RemoveEffect {836045448945478}: Savagery {1177770226876416}] ()
+[22:13:51.629] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:13:51.630] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[22:14:30.373] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:14:30.374] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[22:14:30.374] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:14:30.374] [@Positivlydark] [@Positivlydark] [Using {810812516073472}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:14:32.583] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:14:32.583] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:16:46.469] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:16:46.469] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:16:48.422] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: GainXp {836045448945491}] (6)
+[22:16:48.612] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:16:49.667] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (645*) <68>
+[22:16:50.857] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (645*)
+[22:16:51.641] [@Positivlydark:Vette {290296839536640}] [@Positivlydark:Vette {290296839536640}] [Progressive Kolto Scan {3770556084125696}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (422)
+[22:17:24.219] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[22:17:24.918] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:17:24.919] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[22:17:38.431] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:17:38.432] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[22:17:38.432] [@Positivlydark] [@Positivlydark] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[22:17:38.432] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:18:03.812] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Hunter's Boon {1781509484708111}] ()
+[22:18:03.812] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Mark of Power {1781509484708115}] ()
+[22:18:03.812] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[22:18:03.813] [@Positivlydark] [@Positivlydark] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Coordination {1781509484708107}] ()
+[22:18:03.814] [@Positivlydark] [@Positivlydark] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[22:18:03.837] [@Positivlydark] [@Positivlydark] [Shien Form {807891938312192}] [ApplyEffect {836045448945477}: Shien Form {807891938312192}] ()
+[22:18:03.837] [@Positivlydark] [@Positivlydark] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[22:18:11.802] [@Positivlydark] [@Positivlydark] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[22:20:26.314] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:21:03.931] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[22:21:05.903] [@Positivlydark] [@Positivlydark] [] [Event {836045448945472}: GainXp {836045448945491}] (6943)
+[22:21:07.609] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[22:21:26.437] [@Positivlydark] [@Positivlydark] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()

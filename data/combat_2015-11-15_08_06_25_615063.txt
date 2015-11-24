@@ -1,0 +1,319 @@
+[08:12:07.401] [@Rageofjoy] [@Rageofjoy] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[08:13:06.247] [@Rageofjoy] [@Rageofjoy] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[08:14:21.436] [@Rageofjoy] [@Rageofjoy] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[08:14:53.833] [@Rageofjoy] [@Rageofjoy] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[08:15:31.222] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (60)
+[08:15:32.892] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:15:32.893] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:15:33.692] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (90)
+[08:15:34.832] [@Rageofjoy] [@Rageofjoy] [Unnatural Might {1781509484707840}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:15:34.833] [@Rageofjoy] [@Rageofjoy] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[08:15:34.834] [@Rageofjoy] [@Rageofjoy] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Coordination {1781509484708107}] ()
+[08:15:34.834] [@Rageofjoy] [@Rageofjoy] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Hunter's Boon {1781509484708111}] ()
+[08:15:34.835] [@Rageofjoy] [@Rageofjoy] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Mark of Power {1781509484708115}] ()
+[08:15:55.670] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[08:15:55.682] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:15:55.682] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[08:15:55.683] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432518082] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:15:55.684] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:15:55.684] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:15:56.108] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432518082] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:15:56.685] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432518082] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:15:57.099] [K'lor'slug Forager {512381008478208}:350432518082] [@Rageofjoy] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 kinetic {836045448940873}) <12>
+[08:15:57.292] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:15:57.293] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432518082] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (38* kinetic {836045448940873}) <38>
+[08:15:57.294] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432518082] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:15:57.294] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (77)
+[08:15:57.294] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:15:57.294] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:15:58.101] [K'lor'slug Forager {512381008478208}:350432518044] [@Rageofjoy] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[08:15:58.847] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:15:58.847] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432518044] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:15:58.848] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:15:58.848] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:15:59.401] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432518044] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (37* kinetic {836045448940873}) <37>
+[08:15:59.551] [K'lor'slug Forager {512381008478208}:350432518044] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[08:15:59.801] [K'lor'slug Forager {512381008478208}:350432518044] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[08:15:59.966] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432518044] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:16:00.398] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[08:16:00.403] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:16:00.404] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:16:00.406] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432518044] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:16:00.406] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432518044] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:16:00.406] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (77)
+[08:16:00.406] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:16:00.406] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:16:04.407] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[08:16:04.419] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:16:04.419] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[08:16:04.420] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432541033] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:16:04.421] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:16:04.421] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:16:04.904] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432541033] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (35* kinetic {836045448940873}) <35>
+[08:16:05.452] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432541033] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:16:05.999] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:16:06.001] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432541033] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:16:06.001] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432541033] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:16:06.001] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (77)
+[08:16:06.002] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:16:06.002] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:16:06.568] [K'lor'slug Forager {512381008478208}:350432541071] [@Rageofjoy] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[08:16:07.549] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:16:07.549] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432541071] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:16:07.746] [K'lor'slug Forager {512381008478208}:350432541033] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[08:16:07.746] [K'lor'slug Forager {512381008478208}:350432541033] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[08:16:08.101] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432541071] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:16:08.386] [K'lor'slug Forager {512381008478208}:350432541071] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[08:16:08.634] [K'lor'slug Forager {512381008478208}:350432541071] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 kinetic {836045448940873}) <11>
+[08:16:08.652] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432541071] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:16:09.149] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[08:16:09.153] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:16:09.153] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:16:09.155] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432541071] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:16:09.156] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432541071] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:16:09.156] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (77)
+[08:16:12.013] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[08:16:12.024] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:16:12.024] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[08:16:12.025] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432396035] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:16:12.435] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432396035] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:16:12.985] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432396035] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:16:13.550] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:16:13.551] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432396035] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:16:13.551] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432396035] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:16:13.551] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (77)
+[08:16:15.093] [K'lor'slug Forager {512381008478208}:350432396073] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 kinetic {836045448940873}) <21>
+[08:16:15.157] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:16:15.158] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432396073] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (35* kinetic {836045448940873}) <35>
+[08:16:15.718] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432396073] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:16:15.744] [K'lor'slug Forager {512381008478208}:350432396035] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18 kinetic {836045448940873}) <18>
+[08:16:16.268] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432396073] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:16:16.635] [K'lor'slug Forager {512381008478208}:350432396073] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[08:16:16.957] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[08:16:16.964] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:16:16.964] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: SetLevel {836045448945492}] (2)
+[08:16:16.965] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (281)
+[08:16:16.965] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:16:16.967] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432396073] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:16:16.967] [@Rageofjoy] [K'lor'slug Forager {512381008478208}:350432396073] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:16:16.967] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (77)
+[08:16:16.977] [K'lor'slug Forager {512381008478208}:350432396073] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 kinetic {836045448940873}) <11>
+[08:16:32.901] [@Rageofjoy] [@Rageofjoy] [Unnatural Might {1781509484707840}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:16:32.902] [@Rageofjoy] [@Kittehofkitania] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Coordination {1781509484708107}] ()
+[08:16:32.902] [@Rageofjoy] [@Kittehofkitania] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Hunter's Boon {1781509484708111}] ()
+[08:16:40.783] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (90)
+[08:16:55.360] [@Rageofjoy] [@Rageofjoy] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[08:17:08.814] [@Rageofjoy] [@Rageofjoy] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[08:17:19.158] [@Rageofjoy] [@Rageofjoy] [Rocket Boost {2901246113480704}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:17:19.159] [@Rageofjoy] [@Rageofjoy] [Rocket Boost {2901246113480704}] [ApplyEffect {836045448945477}: Rocket Boost {2901246113480704}] ()
+[08:17:31.311] [@Rageofjoy] [@Rageofjoy] [Rocket Boost {2901246113480704}] [RemoveEffect {836045448945478}: Rocket Boost {2901246113480704}] ()
+[08:17:36.644] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[08:17:36.658] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[08:17:40.494] [K'lor'slug Broodling {379232727334912}:350432473378] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[08:17:40.651] [K'lor'slug Burrower {952284443836416}:350432473416] [@Rageofjoy] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[08:17:40.750] [K'lor'slug Broodling {379232727334912}:350432473378] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[08:17:41.885] [K'lor'slug Burrower {952284443836416}:350432473454] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[08:17:42.046] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:17:42.047] [@Rageofjoy] [K'lor'slug Broodling {379232727334912}:350432473336] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (22 kinetic {836045448940873}) <22>
+[08:17:42.047] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:17:42.047] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:17:42.085] [K'lor'slug Broodling {379232727334912}:350432473378] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[08:17:42.175] [K'lor'slug Burrower {952284443836416}:350432473416] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[08:17:42.431] [K'lor'slug Burrower {952284443836416}:350432473416] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 kinetic {836045448940873}) <8>
+[08:17:42.561] [@Rageofjoy] [K'lor'slug Broodling {379232727334912}:350432473336] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:17:42.561] [@Rageofjoy] [K'lor'slug Broodling {379232727334912}:350432473336] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:17:42.562] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (53)
+[08:17:43.466] [K'lor'slug Burrower {952284443836416}:350432473454] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 kinetic {836045448940873}) <8>
+[08:17:43.626] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:17:43.627] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432473454] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:17:43.627] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:17:43.628] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:17:43.636] [K'lor'slug Burrower {952284443836416}:350432473454] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[08:17:43.731] [K'lor'slug Broodling {379232727334912}:350432473336] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[08:17:43.731] [K'lor'slug Broodling {379232727334912}:350432473336] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 kinetic {836045448940873}) <12>
+[08:17:44.182] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432473454] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:17:44.766] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432473454] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:17:44.767] [K'lor'slug Burrower {952284443836416}:350432473416] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[08:17:45.176] [K'lor'slug Broodling {379232727334912}:350432473378] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 kinetic {836045448940873}) <19>
+[08:17:45.421] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:17:45.421] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432473416] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:17:45.423] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:17:45.423] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:17:45.836] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432473416] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:17:46.384] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432473416] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (38* kinetic {836045448940873}) <38>
+[08:17:47.031] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:17:47.032] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432473416] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:17:47.033] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432473416] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:17:47.033] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (66)
+[08:17:47.033] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:17:47.033] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:17:47.238] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[08:17:47.250] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:18:00.053] [@Rageofjoy] [@Rageofjoy] [Unnatural Might {1781509484707840}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:00.053] [@Rageofjoy] [@Zamdarria] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[08:18:00.054] [@Rageofjoy] [@Zamdarria] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Coordination {1781509484708107}] ()
+[08:18:00.054] [@Rageofjoy] [@Zamdarria] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Hunter's Boon {1781509484708111}] ()
+[08:18:00.054] [@Rageofjoy] [@Zamdarria] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Mark of Power {1781509484708115}] ()
+[08:18:07.046] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[08:18:07.064] [@Rageofjoy] [@Rageofjoy] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:07.064] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[08:18:07.065] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432556705] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Immobilized (Physical) {807750204391700}] ()
+[08:18:07.066] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[08:18:07.984] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432556705] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (77 kinetic {836045448940873}) <77>
+[08:18:08.067] [Tomb Looter Thug {371647815090176}:350432556705] [@Rageofjoy] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 kinetic {836045448940873}) <12>
+[08:18:08.230] [Tomb Looter Sentry {381801117777920}:350432556627] [@Rageofjoy] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[08:18:08.332] [Tomb Looter Thug {371647815090176}:350432556705] [@Rageofjoy] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[08:18:08.403] [Tomb Looter Sentry {381801117777920}:350432556627] [@Rageofjoy] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 energy {836045448940874}) <12>
+[08:18:08.647] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:08.647] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432556705] [Force Charge {807750204391424}] [RemoveEffect {836045448945478}: Immobilized (Physical) {807750204391700}] ()
+[08:18:08.649] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432556705] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:18:08.649] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432556705] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:18:08.649] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[08:18:08.649] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:18:08.649] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:18:08.693] [Tomb Looter Thug {371647815090176}:350432556671] [@Rageofjoy] [Blaster Whip {1769762749153280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 kinetic {836045448940873}) <16>
+[08:18:10.196] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:10.197] [@Rageofjoy] [Tomb Looter Sentry {381801117777920}:350432556627] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:18:10.197] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:18:10.747] [@Rageofjoy] [Tomb Looter Sentry {381801117777920}:350432556627] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:18:11.378] [@Rageofjoy] [Tomb Looter Sentry {381801117777920}:350432556627] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:18:11.497] [Tomb Looter Thug {371647815090176}:350432556671] [@Rageofjoy] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5 energy {836045448940874}) <5>
+[08:18:11.511] [Tomb Looter Thug {371647815090176}:350432556671] [@Rageofjoy] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5 energy {836045448940874}) <5>
+[08:18:11.714] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:11.714] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432556671] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:18:12.281] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432556671] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:18:12.508] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[08:18:12.515] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:18:12.728] [Tomb Looter Sentry {381801117777920}:350432556627] [@Rageofjoy] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 energy {836045448940874}) <23>
+[08:18:12.849] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432556671] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:18:13.725] [Tomb Looter Thug {371647815090176}:350432556671] [@Rageofjoy] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5 energy {836045448940874}) <5>
+[08:18:13.726] [Tomb Looter Thug {371647815090176}:350432556671] [@Rageofjoy] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[08:18:13.726] [Tomb Looter Thug {371647815090176}:350432556671] [@Rageofjoy] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[08:18:13.726] [Tomb Looter Thug {371647815090176}:350432556671] [@Rageofjoy] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 energy {836045448940874}) <8>
+[08:18:18.177] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[08:18:18.182] [@Rageofjoy] [@Rageofjoy] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:18.182] [@Rageofjoy] [@Rageofjoy] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[08:18:18.182] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[08:18:18.849] [@Rageofjoy] [Tomb Looter Sentry {381801117777920}:350432263005] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (128 kinetic {836045448940873}) <128>
+[08:18:18.849] [@Rageofjoy] [Tomb Looter Sentry {381801117777920}:350432263005] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:18:18.849] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[08:18:19.123] [Tomb Looter Thug {371647815090176}:350432262937] [@Rageofjoy] [Blaster Whip {1769762749153280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 kinetic {836045448940873}) <16>
+[08:18:19.778] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:19.779] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432262971] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:18:19.780] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:18:19.780] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:18:19.930] [Tomb Looter Thug {371647815090176}:350432262971] [@Rageofjoy] [Blaster Whip {1769762749153280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18 kinetic {836045448940873}) <18>
+[08:18:20.331] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432262971] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:18:20.915] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432262971] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:18:21.387] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:21.389] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432262971] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:18:21.389] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432262971] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:18:21.389] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[08:18:21.389] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:18:22.147] [Tomb Looter Thug {371647815090176}:350432262937] [@Rageofjoy] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[08:18:22.163] [Tomb Looter Thug {371647815090176}:350432262937] [@Rageofjoy] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5 energy {836045448940874}) <5>
+[08:18:22.569] [Tomb Looter Thug {371647815090176}:350432262937] [@Rageofjoy] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5 energy {836045448940874}) <5>
+[08:18:22.997] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:22.998] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432262937] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:18:23.552] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432262937] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:18:23.730] [Tomb Looter Thug {371647815090176}:350432262971] [@Rageofjoy] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[08:18:23.730] [Tomb Looter Thug {371647815090176}:350432262971] [@Rageofjoy] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 kinetic {836045448940873}) <7>
+[08:18:23.730] [Tomb Looter Thug {371647815090176}:350432262971] [@Rageofjoy] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (8 kinetic {836045448940873}) <8>
+[08:18:24.140] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432262937] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:18:24.497] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[08:18:24.504] [@Rageofjoy] [@Rageofjoy] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:24.504] [@Rageofjoy] [@Rageofjoy] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[08:18:24.504] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:18:24.505] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[08:18:24.725] [Tomb Looter Thug {371647815090176}:350432262937] [@Rageofjoy] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[08:18:25.249] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432262937] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (136 kinetic {836045448940873}) <136>
+[08:18:25.250] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432262937] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:18:25.250] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[08:18:26.534] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:26.535] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432528349] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:18:26.536] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:18:26.536] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:18:26.669] [Tomb Looter Thug {371647815090176}:350432528349] [@Rageofjoy] [Blaster Whip {1769762749153280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 kinetic {836045448940873}) <16>
+[08:18:26.691] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432528349] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:18:26.707] [Tomb Looter Thug {371647815090176}:350432528349] [@Rageofjoy] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5 energy {836045448940874}) <5>
+[08:18:26.727] [Tomb Looter Thug {371647815090176}:350432528349] [@Rageofjoy] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[08:18:26.760] [Tomb Looter Thug {371647815090176}:350432528349] [@Rageofjoy] [Charged Blast {827021722648576}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (5 energy {836045448940874}) <5>
+[08:18:27.282] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432528349] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:18:28.144] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[08:18:28.150] [@Rageofjoy] [@Rageofjoy] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:28.151] [@Rageofjoy] [@Rageofjoy] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[08:18:28.151] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:18:28.899] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432528349] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (129 kinetic {836045448940873}) <129>
+[08:18:28.900] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432528349] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:18:28.900] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[08:18:37.542] [@Rageofjoy] [@Rageofjoy] [Rocket Boost {2901246113480704}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:37.543] [@Rageofjoy] [@Rageofjoy] [Rocket Boost {2901246113480704}] [ApplyEffect {836045448945477}: Rocket Boost {2901246113480704}] ()
+[08:18:38.212] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[08:18:38.238] [@Rageofjoy] [@Rageofjoy] [Rocket Boost {2901246113480704}] [RemoveEffect {836045448945478}: Rocket Boost {2901246113480704}] ()
+[08:18:38.239] [@Rageofjoy] [@Rageofjoy] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:38.239] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[08:18:38.243] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432507305] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Immobilized (Physical) {807750204391700}] ()
+[08:18:38.243] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432507305] [Force Charge {807750204391424}] [RemoveEffect {836045448945478}: Immobilized (Physical) {807750204391700}] ()
+[08:18:38.244] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[08:18:39.102] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432507305] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (80 kinetic {836045448940873}) <80>
+[08:18:39.103] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432507305] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:18:39.103] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (66)
+[08:18:39.154] [Tomb Looter Thug {371647815090176}:350432507231] [@Rageofjoy] [Blaster Whip {1769762749153280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 kinetic {836045448940873}) <16>
+[08:18:39.490] [Tomb Looter Sentry {381801117777920}:350432507265] [@Rageofjoy] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874}) <7>
+[08:18:39.499] [Tomb Looter Sentry {381801117777920}:350432507265] [@Rageofjoy] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6 energy {836045448940874}) <6>
+[08:18:39.781] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:39.782] [@Rageofjoy] [Tomb Looter Sentry {381801117777920}:350432507265] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:18:39.783] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:18:39.783] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:18:40.017] [Tomb Looter Sentry {381801117777920}:350432507265] [@Rageofjoy] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6 energy {836045448940874}) <6>
+[08:18:40.333] [@Rageofjoy] [Tomb Looter Sentry {381801117777920}:350432507265] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (35* kinetic {836045448940873}) <35>
+[08:18:40.333] [@Rageofjoy] [Tomb Looter Sentry {381801117777920}:350432507265] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:18:40.334] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (66)
+[08:18:41.350] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[08:18:41.357] [@Rageofjoy] [@Rageofjoy] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:18:41.357] [@Rageofjoy] [@Rageofjoy] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[08:18:41.359] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:18:42.099] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432507231] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (135 kinetic {836045448940873}) <135>
+[08:18:42.099] [@Rageofjoy] [Tomb Looter Thug {371647815090176}:350432507231] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:18:42.099] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (88)
+[08:18:42.725] [@Rageofjoy] [Tomb Looter Sentry {381801117777920}:350432507265] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (24 kinetic {836045448940873}) <24>
+[08:19:01.709] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[08:19:01.721] [@Rageofjoy] [@Rageofjoy] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:19:01.721] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[08:19:01.722] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432609552] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Immobilized (Physical) {807750204391700}] ()
+[08:19:01.722] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432609552] [Force Charge {807750204391424}] [RemoveEffect {836045448945478}: Immobilized (Physical) {807750204391700}] ()
+[08:19:01.722] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[08:19:02.641] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432609552] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (121* kinetic {836045448940873}) <121>
+[08:19:02.642] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432609552] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:19:02.642] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (66)
+[08:19:02.928] [K'lor'slug Burrower {952284443836416}:350432609514] [@Rageofjoy] [Bore {970503695106048}] [ApplyEffect {836045448945477}: Armor Reduced (Physical) {970503695106306}] ()
+[08:19:03.410] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:19:03.411] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432609514] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:19:03.412] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:19:03.412] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:19:03.900] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432609514] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:19:03.997] [K'lor'slug Broodling {379232727334912}:350432609590] [@Rageofjoy] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 kinetic {836045448940873}) <11>
+[08:19:04.449] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432609514] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:19:04.955] [K'lor'slug Broodling {379232727334912}:350432609632] [@Rageofjoy] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 kinetic {836045448940873}) <12>
+[08:19:05.105] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:19:05.106] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432609514] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 kinetic {836045448940873}) <25>
+[08:19:05.107] [@Rageofjoy] [K'lor'slug Burrower {952284443836416}:350432609514] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:19:05.107] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (66)
+[08:19:05.107] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:19:05.107] [@Rageofjoy] [@Rageofjoy] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[08:19:05.367] [K'lor'slug Broodling {379232727334912}:350432609590] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[08:19:05.621] [K'lor'slug Broodling {379232727334912}:350432609590] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 kinetic {836045448940873}) <11>
+[08:19:05.723] [K'lor'slug Burrower {952284443836416}:350432609514] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 kinetic {836045448940873}) <19>
+[08:19:06.431] [K'lor'slug Broodling {379232727334912}:350432609632] [@Rageofjoy] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[08:19:06.649] [@Rageofjoy] [@Rageofjoy] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:19:06.649] [@Rageofjoy] [K'lor'slug Broodling {379232727334912}:350432609590] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (23 kinetic {836045448940873}) <23>
+[08:19:07.195] [@Rageofjoy] [K'lor'slug Broodling {379232727334912}:350432609590] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (22 kinetic {836045448940873}) <22>
+[08:19:07.197] [@Rageofjoy] [K'lor'slug Broodling {379232727334912}:350432609590] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:19:07.197] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (53)
+[08:19:08.262] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[08:19:08.267] [@Rageofjoy] [@Rageofjoy] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[08:19:08.267] [@Rageofjoy] [@Rageofjoy] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[08:19:08.268] [@Rageofjoy] [@Rageofjoy] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[08:19:09.016] [@Rageofjoy] [K'lor'slug Broodling {379232727334912}:350432609632] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (135 kinetic {836045448940873}) <135>
+[08:19:09.016] [@Rageofjoy] [K'lor'slug Broodling {379232727334912}:350432609632] [] [Event {836045448945472}: Death {836045448945493}] ()
+[08:19:09.016] [@Rageofjoy] [@Rageofjoy] [] [Event {836045448945472}: GainXp {836045448945491}] (53)

@@ -1,0 +1,468 @@
+[10:01:06.604] [@Republican] [@Republican] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[10:01:07.512] [@Republican] [@Republican] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Ion Cell {801312048414720}] ()
+[10:01:07.514] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:01:13.958] [@Republican] [@Republican] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:04:16.277] [@Republican] [@Republican] [Ion Cell {801312048414720}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:04:16.278] [@Republican] [@Republican] [Ion Cell {801312048414720}] [RemoveEffect {836045448945478}: Ion Cell {801312048414720}] ()
+[10:04:16.278] [@Republican] [@Republican] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[10:04:16.278] [@Republican] [@Republican] [Sprint {810670782152704}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:04:16.279] [@Republican] [@Republican] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Ion Cell {801312048414720}] ()
+[10:04:16.280] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:06:03.194] [@Republican] [@Republican] [Fortification {1781488009871360}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:06:03.195] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[10:06:03.196] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[10:06:03.196] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[10:06:03.196] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[10:06:51.703] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[10:06:51.703] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[10:06:51.703] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[10:06:51.704] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[10:06:51.704] [@Republican] [@Republican] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[10:06:51.731] [@Republican] [@Republican] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Ion Cell {801312048414720}] ()
+[10:06:51.731] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:07:00.056] [@Republican] [@Republican] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:07:23.591] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[10:07:23.591] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[10:07:23.591] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[10:07:23.592] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[10:07:23.592] [@Republican] [@Republican] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[10:07:23.605] [@Republican] [@Republican] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Ion Cell {801312048414720}] ()
+[10:07:23.606] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:07:23.606] [@Republican] [@Republican] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[10:07:32.013] [@Republican] [@Republican] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:07:44.292] [@Republican] [@Republican] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[10:08:05.536] [@Republican] [@Republican] [Massassi Pendant {3442974633492480}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:08:09.234] [@Republican] [@Republican] [Mark of Cooperation {3442966043557888}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:08:12.647] [@Republican] [@Republican] [Mark of Cooperation {3442966043557888}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:08:15.849] [@Republican] [@Republican] [Revanite Dagger {3442970338525184}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:10:37.019] [@Republican] [@Republican] [] [Event {836045448945472}: GainXp {836045448945491}] (4990)
+[10:10:59.742] [@Republican] [@Republican] [Unlock Decoration (Legacy) {3374053293293568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:11:01.259] [@Republican] [@Republican] [Unlock Decoration (Legacy) {3374053293293568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:11:02.359] [@Republican] [@Republican] [Unlock Decoration (Legacy) {3374053293293568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:15:06.840] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Kolto Quick Scan {3569487190163456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:15:07.790] [@Republican:Aric Jorgan {493337123487744}] [@Republican] [Kolto Quick Scan {3569487190163456}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7483) <1632>
+[10:15:41.922] [@Republican] [@Republican] [Dr. Oggurobb Hutt Holostatue {3237134030864384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:15:41.923] [@Republican] [@Republican] [Dr. Oggurobb Hutt Holostatue {3237134030864384}] [ApplyEffect {836045448945477}: Dr. Oggurobb Hutt Holostatue {3237134030864384}] ()
+[10:16:21.768] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Kolto Quick Scan {3569487190163456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:16:22.769] [@Republican:Aric Jorgan {493337123487744}] [@Republican] [Kolto Quick Scan {3569487190163456}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (7483) <1743>
+[10:16:41.969] [@Republican] [@Republican] [Dr. Oggurobb Hutt Holostatue {3237134030864384}] [RemoveEffect {836045448945478}: Dr. Oggurobb Hutt Holostatue {3237134030864384}] ()
+[10:40:31.039] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[10:40:31.039] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[10:40:31.040] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[10:40:31.041] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[10:40:31.041] [@Republican] [@Republican] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[10:40:31.062] [@Republican] [@Republican] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Ion Cell {801312048414720}] ()
+[10:40:31.062] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:40:39.969] [@Republican] [@Republican] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:40:39.969] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:40:50.927] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[10:40:50.927] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[10:40:50.928] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[10:40:50.928] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[10:40:50.929] [@Republican] [@Republican] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[10:40:51.219] [@Republican] [@Republican] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Ion Cell {801312048414720}] ()
+[10:40:51.220] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:41:15.121] [@Republican] [@Republican] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:41:15.121] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:41:58.456] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:41:59.171] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:41:59.171] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[10:42:54.003] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[10:42:54.004] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[10:42:54.004] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[10:42:54.005] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[10:42:54.005] [@Republican] [@Republican] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[10:42:54.027] [@Republican] [@Republican] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Ion Cell {801312048414720}] ()
+[10:42:54.028] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:42:54.028] [@Republican] [@Republican] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[10:43:03.422] [@Republican] [@Republican] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:43:03.422] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:43:08.862] [@Republican] [@Republican] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[10:43:08.862] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[10:43:19.974] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[10:43:19.974] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[10:43:19.974] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[10:43:19.975] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[10:43:19.975] [@Republican] [@Republican] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[10:43:20.005] [@Republican] [@Republican] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Ion Cell {801312048414720}] ()
+[10:43:20.006] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:43:28.204] [@Republican] [@Republican] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:44:18.092] [@Republican] [@Republican] [Accessing Galaxy Map... {663009806516224}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:44:44.141] [@Republican] [@Republican] [Accessing Galaxy Map... {663009806516224}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:45:19.842] [@Republican] [@Republican] [Exiting Ship... {2280730713391104}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:45:21.952] [@Republican] [@Republican] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[10:45:34.999] [@Republican] [@Republican] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[10:45:40.082] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Valor {1781488009871637}] ()
+[10:45:40.082] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Force Might {1781488009871651}] ()
+[10:45:40.082] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Fortification {1781488009871360}] ()
+[10:45:40.083] [@Republican] [@Republican] [Fortification {1781488009871360}] [ApplyEffect {836045448945477}: Lucky Shots {1781488009871626}] ()
+[10:45:40.083] [@Republican] [@Republican] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[10:45:40.115] [@Republican] [@Republican] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Ion Cell {801312048414720}] ()
+[10:45:40.116] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:45:52.852] [@Republican] [@Republican] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:45:52.853] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[10:46:02.957] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:46:03.769] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:46:03.769] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[10:48:10.638] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:48:10.638] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[10:48:10.638] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:49:03.704] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:49:04.359] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:49:04.359] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[10:49:42.201] [@Republican] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (1476)
+[10:50:28.423] [@Republican] [@Republican] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[10:50:28.441] [@Republican] [@Republican] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[10:50:29.360] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [ApplyEffect {836045448945477}: Shield Defense {3405101611876352}] ()
+[10:50:29.362] [@Republican] [@Republican] [Power Screen {2842082938978304}] [ApplyEffect {836045448945477}: Power Screen {2842082938978304}] ()
+[10:50:29.777] [Black Sun Thug {641650934153216}:111009573666] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 energy {836045448940874} -shield {836045448945509} (9 absorbed {836045448945511})) <9>
+[10:50:29.793] [Black Sun Thug {641650934153216}:111009573666] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:50:30.291] [Black Sun Cutter {839429883166720}:111009573698] [@Republican] [Vicious Slash {811843308224512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:50:30.401] [Black Sun Thug {641650934153216}:111009573634] [@Republican] [Pump Action {827043197485056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 kinetic {836045448940873} -shield {836045448945509} (11 absorbed {836045448945511})) <11>
+[10:50:30.685] [Black Sun Thug {641650934153216}:111009573666] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 energy {836045448940874} -shield {836045448945509} (10 absorbed {836045448945511})) <10>
+[10:50:31.005] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:50:31.005] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[10:50:31.005] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:50:31.007] [@Republican] [@Republican] [Ion Storm {3389987621961728}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:50:31.007] [@Republican] [Black Sun Thug {641650934153216}:111009573634] [Ion Storm {3389987621961728}] [ApplyEffect {836045448945477}: Impaired (Mental) {3389987621962024}] ()
+[10:50:31.007] [@Republican] [@Republican] [] [Spend {836045448945473}: energy {836045448938503}] (7)
+[10:50:31.209] [@Republican] [@Republican] [] [Restore {836045448945476}: energy {836045448938503}] (1)
+[10:50:31.287] [@Republican] [Black Sun Thug {641650934153216}:111009573634] [Ion Storm {3389987621961728}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (304 elemental {836045448940875}) <609>
+[10:50:31.445] [Black Sun Cutter {839429883166720}:111009573698] [@Republican] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (41 kinetic {836045448940873} (41 absorbed {836045448945511})) <41>
+[10:50:31.850] [@Republican] [Black Sun Thug {641650934153216}:111009573634] [Ion Storm {3389987621961728}] [RemoveEffect {836045448945478}: Impaired (Mental) {3389987621962024}] ()
+[10:50:31.900] [Black Sun Thug {641650934153216}:111009573634] [@Republican] [Pump Action {827043197485056}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873} -shield {836045448945509} (10 absorbed {836045448945511})) <10>
+[10:50:32.065] [@Republican] [@Republican] [] [Spend {836045448945473}: energy {836045448938503}] (7)
+[10:50:32.202] [@Republican:Aric Jorgan {493337123487744}] [Black Sun Thug {641650934153216}:111009573634] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (126 energy {836045448940874}) <126>
+[10:50:32.202] [@Republican:Aric Jorgan {493337123487744}] [Black Sun Thug {641650934153216}:111009573634] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:50:32.625] [Black Sun Thug {641650934153216}:111009573666] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:50:32.750] [Black Sun Thug {641650934153216}:111009573666] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:50:33.083] [@Republican] [Black Sun Cutter {839429883166720}:111009573698] [Ion Storm {3389987621961728}] [ApplyEffect {836045448945477}: Impaired (Mental) {3389987621962024}] ()
+[10:50:33.084] [@Republican] [@Republican] [] [Spend {836045448945473}: energy {836045448938503}] (7)
+[10:50:33.085] [@Republican] [@Republican] [Ion Storm {3389987621961728}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[10:50:33.086] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:50:33.086] [@Republican] [Black Sun Cutter {839429883166720}:111009573698] [Ion Storm {3389987621961728}] [RemoveEffect {836045448945478}: Impaired (Mental) {3389987621962024}] ()
+[10:50:33.086] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [ApplyEffect {836045448945477}: Pulse Engine {3172602147241984}] ()
+[10:50:33.096] [@Republican] [Black Sun Cutter {839429883166720}:111009573698] [Ion Storm {3389987621961728}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (304 elemental {836045448940875}) <609>
+[10:50:33.137] [Black Sun Thug {641650934153216}:111009573666] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:50:33.161] [@Republican] [Black Sun Cutter {839429883166720}:111009573698] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874}) <62>
+[10:50:33.162] [@Republican] [Black Sun Cutter {839429883166720}:111009573698] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:50:33.162] [@Republican] [Black Sun Cutter {839429883166720}:111009573698] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (46* energy {836045448940874}) <93>
+[10:50:33.317] [@Republican] [Black Sun Cutter {839429883166720}:111009573698] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874}) <63>
+[10:50:33.318] [@Republican] [Black Sun Cutter {839429883166720}:111009573698] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (48* energy {836045448940874}) <96>
+[10:50:34.384] [@Republican:Aric Jorgan {493337123487744}] [Black Sun Thug {641650934153216}:111009573666] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (127 energy {836045448940874}) <127>
+[10:50:34.407] [@Republican:Aric Jorgan {493337123487744}] [Black Sun Thug {641650934153216}:111009573666] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (127 energy {836045448940874}) <127>
+[10:50:34.891] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Kolto Quick Scan {3569487190163456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:50:35.320] [Black Sun Thug {641650934153216}:111009573666] [@Republican:Aric Jorgan {493337123487744}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:50:35.337] [Black Sun Thug {641650934153216}:111009573666] [@Republican:Aric Jorgan {493337123487744}] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (47 energy {836045448940874}) <47>
+[10:50:35.405] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [RemoveEffect {836045448945478}: Shield Defense {3405101611876352}] ()
+[10:50:35.954] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Kolto Quick Scan {3569487190163456}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (631) <23>
+[10:50:36.315] [@Republican] [@Republican] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[10:50:36.354] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:50:36.354] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:50:36.638] [@Republican] [Black Sun Thug {641650934153216}:111009573666] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:50:36.638] [@Republican] [@Republican] [] [Event {836045448945472}: GainXp {836045448945491}] (498)
+[10:50:36.638] [@Republican] [Black Sun Thug {641650934153216}:111009573666] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (32 energy {836045448940874}) <64>
+[10:50:36.673] [@Republican] [Black Sun Thug {641650934153216}:111009573666] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (47* energy {836045448940874}) <94>
+[10:50:36.673] [@Republican] [Black Sun Thug {641650934153216}:111009573666] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (32 energy {836045448940874}) <65>
+[10:50:36.748] [@Republican] [Black Sun Thug {641650934153216}:111009573666] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (33 energy {836045448940874}) <66>
+[10:50:36.749] [@Republican] [Black Sun Thug {641650934153216}:111009573666] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (50* energy {836045448940874}) <100>
+[10:50:36.773] [@Republican] [Black Sun Thug {641650934153216}:111009573666] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (34 energy {836045448940874}) <68>
+[10:50:48.233] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [RemoveEffect {836045448945478}: Pulse Engine {3172602147241984}] ()
+[10:50:51.233] [@Republican] [@Republican] [Power Screen {2842082938978304}] [RemoveEffect {836045448945478}: Power Screen {2842082938978304}] ()
+[10:50:51.422] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:50:52.053] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:50:52.053] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[10:51:29.188] [@Republican] [@Republican] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[10:51:29.223] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:51:29.223] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[10:51:29.223] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:51:29.223] [@Republican] [@Republican] [Storm {3647535335866368}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:51:29.223] [@Republican] [@Republican] [Static Surge {801604106190848}] [ApplyEffect {836045448945477}: Static Surge {801604106190848}] ()
+[10:51:29.224] [@Republican] [@Republican] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[10:51:29.225] [@Republican] [Black Sun Thug {641650934153216}:111008852485] [Storm {3647535335866368}] [ApplyEffect {836045448945477}: Immobilized (Tech) {3647535335866672}] ()
+[10:51:29.864] [@Republican] [@Republican] [Power Screen {2842082938978304}] [ApplyEffect {836045448945477}: Power Screen {2842082938978304}] ()
+[10:51:30.157] [Black Sun Thug {641650934153216}:111008852485] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:51:30.183] [Black Sun Thug {641650934153216}:111008852485] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874} -shield {836045448945509}) <7>
+[10:51:30.418] [@Republican:Aric Jorgan {493337123487744}] [@Republican:Aric Jorgan {493337123487744}] [Kolto Quick Scan {3569487190163456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:51:30.546] [Black Sun Thug {641650934153216}:111008852485] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:51:30.634] [@Republican] [Black Sun Thug {641650934153216}:111008852485] [Storm {3647535335866368}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (220 kinetic {836045448940873}) <440>
+[10:51:31.280] [@Republican] [Black Sun Thug {641650934153216}:111008852485] [Storm {3647535335866368}] [RemoveEffect {836045448945478}: Immobilized (Tech) {3647535335866672}] ()
+[10:51:31.433] [@Republican:Aric Jorgan {493337123487744}] [@Republican] [Kolto Quick Scan {3569487190163456}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (637) <3>
+[10:51:32.076] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [ApplyEffect {836045448945477}: Shield Defense {3405101611876352}] ()
+[10:51:32.079] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:51:32.079] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heroic Moment {3648579012919296}] ()
+[10:51:32.606] [@Republican:Aric Jorgan {493337123487744}] [Black Sun Thug {641650934153216}:111008852485] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:51:32.620] [@Republican:Aric Jorgan {493337123487744}] [Black Sun Thug {641650934153216}:111008852485] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (123 energy {836045448940874}) <123>
+[10:51:32.820] [Black Sun Cutter {839429883166720}:111008852455] [@Republican] [Vicious Slash {811843308224512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 kinetic {836045448940873} -shield {836045448945509} (19 absorbed {836045448945511})) <19>
+[10:51:33.107] [@Republican:Aric Jorgan {493337123487744}] [Black Sun Thug {641650934153216}:111008852485] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (129 energy {836045448940874}) <129>
+[10:51:33.767] [Black Sun Cutter {839429883166720}:111008852455] [@Republican] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:51:34.097] [@Republican:Aric Jorgan {493337123487744}] [Black Sun Cutter {839429883166720}:111008852455] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (122 energy {836045448940874}) <122>
+[10:51:34.560] [@Republican:Aric Jorgan {493337123487744}] [Black Sun Cutter {839429883166720}:111008852455] [Ranged Attack {813630014619648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (122 energy {836045448940874}) <122>
+[10:51:34.616] [@Republican] [@Republican] [Explosive Surge {801281983643648}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:51:34.616] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [ApplyEffect {836045448945477}: Pulse Engine {3172602147241984}] ()
+[10:51:34.617] [@Republican] [Black Sun Sawbones {938647922671616}:111008852517] [Static Field {2043940576428032}] [ApplyEffect {836045448945477}: Weakened (Physical) {2043940576428324}] ()
+[10:51:34.618] [@Republican] [Black Sun Sawbones {938647922671616}:111008852517] [Static Field {2043940576428032}] [ApplyEffect {836045448945477}: Trauma (Physical) {2043940576428330}] ()
+[10:51:34.620] [@Republican] [Black Sun Cutter {839429883166720}:111008852455] [Explosive Surge {801281983643648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (403* elemental {836045448940875}) <807>
+[10:51:34.620] [@Republican] [Black Sun Cutter {839429883166720}:111008852455] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:51:34.620] [@Republican] [Black Sun Sawbones {938647922671616}:111008852517] [Explosive Surge {801281983643648}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (363* elemental {836045448940875}) <727>
+[10:51:35.108] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:51:36.234] [@Republican] [@Republican] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[10:51:36.243] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:51:36.244] [@Republican] [Black Sun Sawbones {938647922671616}:111008852517] [Static Field {2043940576428032}] [RemoveEffect {836045448945478}: Weakened (Physical) {2043940576428324}] ()
+[10:51:36.245] [@Republican] [Black Sun Sawbones {938647922671616}:111008852517] [Static Field {2043940576428032}] [RemoveEffect {836045448945478}: Trauma (Physical) {2043940576428330}] ()
+[10:51:36.245] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:51:36.367] [@Republican] [Black Sun Sawbones {938647922671616}:111008852517] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (51* energy {836045448940874}) <102>
+[10:51:36.367] [@Republican] [Black Sun Sawbones {938647922671616}:111008852517] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:51:36.367] [@Republican] [Black Sun Sawbones {938647922671616}:111008852517] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (52* energy {836045448940874}) <104>
+[10:51:37.939] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [RemoveEffect {836045448945478}: Shield Defense {3405101611876352}] ()
+[10:51:38.033] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:51:41.054] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:51:44.102] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:51:44.324] [@Republican] [@Republican] [Static Surge {801604106190848}] [RemoveEffect {836045448945478}: Static Surge {801604106190848}] ()
+[10:51:47.044] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:51:49.672] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [RemoveEffect {836045448945478}: Pulse Engine {3172602147241984}] ()
+[10:51:50.368] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:51:51.264] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:51:51.925] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:51:51.925] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[10:51:52.015] [@Republican] [@Republican] [Power Screen {2842082938978304}] [RemoveEffect {836045448945478}: Power Screen {2842082938978304}] ()
+[10:51:53.100] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:51:56.109] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:51:59.042] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:02.098] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:05.049] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:08.048] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:11.042] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:14.065] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:17.032] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:20.039] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:23.082] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:26.048] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:29.116] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:32.026] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:35.049] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:38.093] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:41.069] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:44.123] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (99)
+[10:52:44.124] [@Republican] [@Republican] [Heroic Moment {3648579012919296}] [RemoveEffect {836045448945478}: Heroic Moment {3648579012919296}] ()
+[10:53:08.965] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:53:08.965] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:53:08.965] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[10:53:08.966] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:53:37.712] [@Republican] [@Republican] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[10:55:19.796] [@Republican] [@Republican] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[10:55:48.173] [@Republican] [@Republican] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[10:55:48.192] [@Republican] [@Republican] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[10:55:48.806] [@Republican] [@Republican] [Focused Defense {3405118791745536}] [ApplyEffect {836045448945477}: Focused Defense {3405118791745536}] ()
+[10:55:48.807] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [ApplyEffect {836045448945477}: Shield Defense {3405101611876352}] ()
+[10:55:48.810] [@Republican] [@Republican] [Power Screen {2842082938978304}] [ApplyEffect {836045448945477}: Power Screen {2842082938978304}] ()
+[10:55:49.154] [Black Sun Minion {839670401335296}:111009813896] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874} (4 absorbed {836045448945511})) <4>
+[10:55:49.323] [Black Sun Minion {839670401335296}:111009813896] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509} (2 absorbed {836045448945511})) <2>
+[10:55:49.514] [Black Sun Minion {839670401335296}:111009813896] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509} (2 absorbed {836045448945511})) <2>
+[10:55:49.630] [Black Sun Minion {839670401335296}:111009813896] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874} (4 absorbed {836045448945511})) <4>
+[10:55:49.640] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509} (2 absorbed {836045448945511})) <2>
+[10:55:49.707] [Black Sun Minion {839670401335296}:111009813896] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874} (4 absorbed {836045448945511})) <4>
+[10:55:49.820] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3 energy {836045448940874} (3 absorbed {836045448945511})) <3>
+[10:55:49.837] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509} (2 absorbed {836045448945511})) <2>
+[10:55:49.887] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874} (4 absorbed {836045448945511})) <4>
+[10:55:49.904] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509} (2 absorbed {836045448945511})) <2>
+[10:55:49.988] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3 energy {836045448940874} (3 absorbed {836045448945511})) <3>
+[10:55:50.004] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:55:50.109] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:55:50.109] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [ApplyEffect {836045448945477}: Pulse Engine {3172602147241984}] ()
+[10:55:50.110] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Ion Overload {2044520397012992}] [ApplyEffect {836045448945477}: Shocked {2044520397013249}] ()
+[10:55:50.110] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Shocked {2044520397013249}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 energy {836045448940874}) <201>
+[10:55:50.111] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (70 energy {836045448940874}) <140>
+[10:55:50.167] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874} (4 absorbed {836045448945511})) <4>
+[10:55:50.184] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874} (4 absorbed {836045448945511})) <4>
+[10:55:50.361] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509} (2 absorbed {836045448945511})) <2>
+[10:55:50.432] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (49* energy {836045448940874}) <98>
+[10:55:50.451] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (34 energy {836045448940874}) <68>
+[10:55:50.451] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874}) <63>
+[10:55:50.547] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (34 energy {836045448940874}) <68>
+[10:55:50.548] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (32 energy {836045448940874}) <64>
+[10:55:50.679] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (34 energy {836045448940874}) <68>
+[10:55:50.680] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (32 energy {836045448940874}) <64>
+[10:55:50.680] [Black Sun Minion {839670401335296}:111009813896] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 energy {836045448940874} (21 absorbed {836045448945511})) <21>
+[10:55:50.701] [Black Sun Minion {839670401335296}:111009813896] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:55:51.213] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:55:51.237] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18 energy {836045448940874} (18 absorbed {836045448945511})) <18>
+[10:55:51.415] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:55:51.709] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:55:51.709] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Ion Overload {2044520397012992}] [RemoveEffect {836045448945478}: Shocked {2044520397013249}] ()
+[10:55:51.964] [Black Sun Skinner {839666106368000}:111009813866] [@Republican] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (20 kinetic {836045448940873} (20 absorbed {836045448945511})) <20>
+[10:55:52.035] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:55:52.036] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (33 energy {836045448940874}) <67>
+[10:55:52.050] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (46* energy {836045448940874}) <93>
+[10:55:52.050] [@Republican] [Black Sun Minion {839670401335296}:111009813896] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (32 energy {836045448940874}) <65>
+[10:55:52.222] [Black Sun Skinner {839666106368000}:111009813866] [@Republican] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:55:53.860] [@Republican] [@Republican] [Stockstrike {801367882989568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:55:53.860] [@Republican] [@Republican] [] [Spend {836045448945473}: energy {836045448938503}] (15)
+[10:55:53.860] [@Republican] [@Republican] [Shield Enhancers {3389991916929024}] [ApplyEffect {836045448945477}: Shield Enhancers {3389991916929024}] ()
+[10:55:54.035] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:55:54.222] [@Republican] [Black Sun Skinner {839666106368000}:111009813866] [Stockstrike {801367882989568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (754* kinetic {836045448940873}) <1509>
+[10:55:54.222] [@Republican] [Black Sun Skinner {839666106368000}:111009813866] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:55:54.248] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:55:54.379] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 energy {836045448940874} (15 absorbed {836045448945511})) <15>
+[10:55:54.864] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:55:54.881] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 energy {836045448940874} (14 absorbed {836045448945511})) <14>
+[10:55:54.903] [@Republican] [@Republican] [Focused Defense {3405118791745536}] [RemoveEffect {836045448945478}: Focused Defense {3405118791745536}] ()
+[10:55:54.903] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [RemoveEffect {836045448945478}: Shield Defense {3405101611876352}] ()
+[10:55:56.102] [@Republican] [@Republican] [] [Restore {836045448945476}: energy {836045448938503}] (1)
+[10:55:56.370] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:55:56.504] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3 energy {836045448940874}) <3>
+[10:55:56.527] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:55:56.679] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3 energy {836045448940874}) <3>
+[10:55:56.693] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:55:56.757] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:55:56.779] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[10:55:56.904] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:55:57.022] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[10:55:57.042] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:55:57.920] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (35 energy {836045448940874}) <35>
+[10:55:58.174] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:56:00.640] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:56:00.673] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 energy {836045448940874} -shield {836045448945509}) <11>
+[10:56:01.033] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:56:01.199] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (20 energy {836045448940874}) <20>
+[10:56:03.100] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3 energy {836045448940874}) <3>
+[10:56:03.116] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3 energy {836045448940874}) <3>
+[10:56:03.283] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3 energy {836045448940874}) <3>
+[10:56:03.301] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:56:03.379] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:56:03.434] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:56:03.497] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[10:56:03.650] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[10:56:03.667] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:56:03.806] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[10:56:04.716] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6 energy {836045448940874} -shield {836045448945509}) <6>
+[10:56:04.733] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:56:05.166] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:56:05.198] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [RemoveEffect {836045448945478}: Pulse Engine {3172602147241984}] ()
+[10:56:05.266] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:56:07.466] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (6 energy {836045448940874} -shield {836045448945509}) <6>
+[10:56:07.917] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (7 energy {836045448940874} -shield {836045448945509}) <7>
+[10:56:08.366] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 energy {836045448940874}) <13>
+[10:56:08.891] [@Republican] [@Republican] [Shield Enhancers {3389991916929024}] [RemoveEffect {836045448945478}: Shield Enhancers {3389991916929024}] ()
+[10:56:09.429] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (40 energy {836045448940874}) <40>
+[10:56:09.609] [@Republican] [@Republican] [Focused Defense {3405118791745536}] [ApplyEffect {836045448945477}: Focused Defense {3405118791745536}] ()
+[10:56:09.866] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3 energy {836045448940874}) <3>
+[10:56:10.016] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:56:10.099] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[10:56:10.171] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:56:10.186] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3 energy {836045448940874}) <3>
+[10:56:10.242] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[10:56:10.255] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:56:10.332] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3 energy {836045448940874}) <3>
+[10:56:10.399] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[10:56:10.417] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:56:11.683] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:56:11.750] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 energy {836045448940874}) <21>
+[10:56:12.035] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:56:12.036] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [ApplyEffect {836045448945477}: Pulse Engine {3172602147241984}] ()
+[10:56:12.036] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Ion Overload {2044520397012992}] [ApplyEffect {836045448945477}: Shocked {2044520397013249}] ()
+[10:56:12.037] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Shocked {2044520397013249}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 energy {836045448940874}) <203>
+[10:56:12.038] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (105* energy {836045448940874}) <211>
+[10:56:12.216] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:56:12.267] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (33 energy {836045448940874}) <67>
+[10:56:12.284] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (34 energy {836045448940874}) <68>
+[10:56:12.284] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874}) <62>
+[10:56:12.384] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (33 energy {836045448940874}) <66>
+[10:56:12.384] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874}) <63>
+[10:56:12.401] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874}) <62>
+[10:56:12.401] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (50* energy {836045448940874}) <101>
+[10:56:13.861] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:56:13.861] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Ion Overload {2044520397012992}] [RemoveEffect {836045448945478}: Shocked {2044520397013249}] ()
+[10:56:14.073] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:56:14.073] [@Republican] [Black Sun Minion {839670401335296}:111009813960] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (33 energy {836045448940874}) <66>
+[10:56:14.233] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (46 energy {836045448940874}) <46>
+[10:56:14.316] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:56:15.566] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:56:15.566] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Ion Overload {2044520397012992}] [ApplyEffect {836045448945477}: Shocked {2044520397013249}] ()
+[10:56:15.567] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Shocked {2044520397013249}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (25 energy {836045448940874}) <201>
+[10:56:15.568] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Ion Cell {801312048414720}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (70 energy {836045448940874}) <140>
+[10:56:15.675] [@Republican] [@Republican] [Focused Defense {3405118791745536}] [RemoveEffect {836045448945478}: Focused Defense {3405118791745536}] ()
+[10:56:16.017] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (47* energy {836045448940874}) <94>
+[10:56:16.034] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (33 energy {836045448940874}) <66>
+[10:56:16.034] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874}) <62>
+[10:56:16.133] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (33 energy {836045448940874}) <66>
+[10:56:16.134] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (46* energy {836045448940874}) <92>
+[10:56:16.150] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (33 energy {836045448940874}) <66>
+[10:56:16.151] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (48* energy {836045448940874}) <97>
+[10:56:16.884] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:56:17.016] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[10:56:17.034] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874}) <4>
+[10:56:17.183] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:56:17.334] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509}) <2>
+[10:56:18.079] [@Republican] [@Republican] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[10:56:18.087] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:56:18.087] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Ion Overload {2044520397012992}] [RemoveEffect {836045448945478}: Shocked {2044520397013249}] ()
+[10:56:18.087] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:56:18.429] [Black Sun Minion {839670401335296}:111009813960] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:56:18.518] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:56:18.519] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874}) <62>
+[10:56:18.668] [Black Sun Minion {839670401335296}:111009813928] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[10:56:18.668] [@Republican] [Black Sun Minion {839670401335296}:111009813928] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (32 energy {836045448940874}) <65>
+[10:56:27.173] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [RemoveEffect {836045448945478}: Pulse Engine {3172602147241984}] ()
+[10:56:30.465] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:56:31.068] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:56:31.068] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[10:56:36.424] [@Republican] [@Republican] [Power Screen {2842082938978304}] [RemoveEffect {836045448945478}: Power Screen {2842082938978304}] ()
+[10:58:18.430] [@Republican] [@Republican] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[10:58:18.459] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:58:18.460] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[10:58:18.460] [@Republican] [@Republican] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[10:58:18.460] [@Republican] [@Republican] [Storm {3647535335866368}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:58:18.460] [@Republican] [@Republican] [Static Surge {801604106190848}] [ApplyEffect {836045448945477}: Static Surge {801604106190848}] ()
+[10:58:18.461] [@Republican] [@Republican] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[10:58:18.462] [@Republican] [Black Sun Minion {839670401335296}:111004441004] [Storm {3647535335866368}] [ApplyEffect {836045448945477}: Immobilized (Tech) {3647535335866672}] ()
+[10:58:19.073] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [ApplyEffect {836045448945477}: Shield Defense {3405101611876352}] ()
+[10:58:19.075] [@Republican] [@Republican] [Focused Defense {3405118791745536}] [ApplyEffect {836045448945477}: Focused Defense {3405118791745536}] ()
+[10:58:19.077] [@Republican] [@Republican] [Power Screen {2842082938978304}] [ApplyEffect {836045448945477}: Power Screen {2842082938978304}] ()
+[10:58:19.397] [Black Sun Minion {839670401335296}:111004441004] [@Republican] [Blaster Whip {1769762749153280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 kinetic {836045448940873} (31 absorbed {836045448945511})) <31>
+[10:58:19.464] [@Republican] [Black Sun Minion {839670401335296}:111004441004] [Storm {3647535335866368}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (339* kinetic {836045448940873}) <678>
+[10:58:19.504] [Black Sun Minion {839670401335296}:111004440942] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874} (4 absorbed {836045448945511})) <4>
+[10:58:19.522] [Black Sun Minion {839670401335296}:111004440942] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509} (2 absorbed {836045448945511})) <2>
+[10:58:19.619] [Black Sun Minion {839670401335296}:111004440942] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509} (2 absorbed {836045448945511})) <2>
+[10:58:19.632] [Black Sun Minion {839670401335296}:111004440942] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2 energy {836045448940874} -shield {836045448945509} (2 absorbed {836045448945511})) <2>
+[10:58:19.775] [Black Sun Minion {839670401335296}:111004440942] [@Republican] [Flurry of Bolts {811890552864768}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4 energy {836045448940874} (4 absorbed {836045448945511})) <4>
+[10:58:20.205] [@Republican] [@Republican] [Hammer Shot {801299163512832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:58:20.206] [@Republican] [Black Sun Minion {839670401335296}:111004441004] [Storm {3647535335866368}] [RemoveEffect {836045448945478}: Immobilized (Tech) {3647535335866672}] ()
+[10:58:20.206] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [ApplyEffect {836045448945477}: Pulse Engine {3172602147241984}] ()
+[10:58:20.235] [@Republican] [Black Sun Minion {839670401335296}:111004441004] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874}) <62>
+[10:58:20.235] [@Republican] [Black Sun Minion {839670401335296}:111004441004] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:58:20.235] [@Republican] [@Republican] [] [Event {836045448945472}: GainXp {836045448945491}] (498)
+[10:58:20.236] [@Republican] [Black Sun Minion {839670401335296}:111004441004] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (47* energy {836045448940874}) <94>
+[10:58:20.257] [@Republican] [Black Sun Minion {839670401335296}:111004441004] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874}) <63>
+[10:58:20.257] [@Republican] [Black Sun Minion {839670401335296}:111004441004] [Hammer Shot {801299163512832}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (31 energy {836045448940874}) <62>
+[10:58:20.800] [Black Sun Skinner {839666106368000}:111004440974] [@Republican] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873} -shield {836045448945509} (13 absorbed {836045448945511})) <13>
+[10:58:20.952] [Black Sun Minion {839670401335296}:111004440942] [@Republican] [Ranged Attack {813449625993216}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (46 energy {836045448940874} (46 absorbed {836045448945511})) <46>
+[10:58:21.075] [Black Sun Skinner {839666106368000}:111004440974] [@Republican] [Melee Attack {813445331025920}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873} -shield {836045448945509} (13 absorbed {836045448945511})) <13>
+[10:58:23.086] [@Republican] [@Republican] [Mortar Volley {2292571938226176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[10:58:23.555] [Black Sun Minion {839670401335296}:111004440942] [@Republican] [Blaster Whip {1769762749153280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 kinetic {836045448940873} -shield {836045448945509} (15 absorbed {836045448945511})) <15>
+[10:58:23.571] [Black Sun Skinner {839666106368000}:111004440974] [@Republican] [Rupture {1413263283716096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[10:58:23.678] [@Republican] [@Republican] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[10:58:23.785] [@Republican] [Black Sun Skinner {839666106368000}:111004440974] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Knockdown {2292571938226443}] ()
+[10:58:23.785] [@Republican] [Black Sun Minion {839670401335296}:111004440942] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Knockdown {2292571938226443}] ()
+[10:58:23.785] [@Republican] [Black Sun Skinner {839666106368000}:111004440974] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (212* kinetic {836045448940873}) <425>
+[10:58:23.786] [@Republican] [Black Sun Minion {839670401335296}:111004440942] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (131 kinetic {836045448940873}) <263>
+[10:58:24.181] [@Republican] [@Republican] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[10:58:24.282] [@Republican] [Black Sun Skinner {839666106368000}:111004440974] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (133 kinetic {836045448940873}) <267>
+[10:58:24.282] [@Republican] [Black Sun Minion {839670401335296}:111004440942] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (216* kinetic {836045448940873}) <432>
+[10:58:24.701] [@Republican] [@Republican] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[10:58:24.799] [@Republican] [@Republican] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[10:58:24.806] [@Republican] [Black Sun Skinner {839666106368000}:111004440974] [Mortar Volley {2292571938226176}] [RemoveEffect {836045448945478}: Knockdown {2292571938226443}] ()
+[10:58:24.806] [@Republican] [Black Sun Minion {839670401335296}:111004440942] [Mortar Volley {2292571938226176}] [RemoveEffect {836045448945478}: Knockdown {2292571938226443}] ()
+[10:58:24.806] [@Republican] [@Republican] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[10:58:24.809] [@Republican] [Black Sun Skinner {839666106368000}:111004440974] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (141 kinetic {836045448940873}) <282>
+[10:58:24.809] [@Republican] [Black Sun Skinner {839666106368000}:111004440974] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:58:24.809] [@Republican] [Black Sun Minion {839670401335296}:111004440942] [Mortar Volley {2292571938226176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (134 kinetic {836045448940873}) <268>
+[10:58:24.809] [@Republican] [Black Sun Minion {839670401335296}:111004440942] [] [Event {836045448945472}: Death {836045448945493}] ()
+[10:58:25.107] [@Republican] [@Republican] [Shield Defense {3405101611876352}] [RemoveEffect {836045448945478}: Shield Defense {3405101611876352}] ()
+[10:58:25.107] [@Republican] [@Republican] [Focused Defense {3405118791745536}] [RemoveEffect {836045448945478}: Focused Defense {3405118791745536}] ()
+[10:58:25.193] [@Republican] [@Republican] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[10:58:25.698] [@Republican] [@Republican] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[10:58:26.200] [@Republican] [@Republican] [] [Spend {836045448945473}: energy {836045448938503}] (5)
+[10:58:33.507] [@Republican] [@Republican] [Static Surge {801604106190848}] [RemoveEffect {836045448945478}: Static Surge {801604106190848}] ()
+[10:58:35.271] [@Republican] [@Republican] [Pulse Engine {3172602147241984}] [RemoveEffect {836045448945478}: Pulse Engine {3172602147241984}] ()
+[10:58:43.196] [@Republican] [@Republican] [Power Screen {2842082938978304}] [RemoveEffect {836045448945478}: Power Screen {2842082938978304}] ()
