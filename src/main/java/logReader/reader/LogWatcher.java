@@ -2,9 +2,6 @@ package logReader.reader;
 
 import java.io.File;
 import java.io.IOException;
-import java.time.LocalDate;
-import java.time.LocalTime;
-import java.time.Month;
 import java.util.*;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentMap;
@@ -29,12 +26,12 @@ public class LogWatcher extends TimerTask {
     // SimpleTimeFormat to
     private static final Logger log = LogManager.getLogger("logWatcher");
     static String filer;
-    static long startTime;
-    static long endTime;
+    static long from;
+    static long to;
 
     // default value, overwritten in LogWatcher()
     static String path = "C:/Users/noone_000/Documents/Star Wars - The Old Republic/CombatLogs";
-    static LoadingCache<Long, LogEvent> events = CacheBuilder.newBuilder()
+    public static LoadingCache<Long, LogEvent> events = CacheBuilder.newBuilder()
             .maximumSize(1000000)
             .expireAfterWrite(10, TimeUnit.MINUTES)
             .build(
@@ -51,14 +48,14 @@ public class LogWatcher extends TimerTask {
             if(line.startsWith("src_log_location")){
                 int startPos = line.indexOf("=");
                 path =  line.substring(startPos+1);
-                System.out.println(path);
+                log.info(path);
             }
         }
     }
 
     @Override
     public void run() {
-        // see what has changed since startTime to now
+        // see what has changed since from to now
         // filter only things needed
         // return results ()
         cacheLoader();
@@ -82,8 +79,9 @@ public class LogWatcher extends TimerTask {
     public static void cacheLoader(){
         Set<String> fileList = getDirList();
         Set<String> regex = new LinkedHashSet<String>();
-        regex.add(".*<[0-9]{4,}>.*");
-        regex.add(".*@Republican.*");
+        regex.add(".*");
+        //regex.add(".*<[0-9]{4,}>.*");
+        //regex.add(".*@Republican.*");
         //regex.add(".*Sonic.*");
         // regex.add("\\Q[(.*)?\\E]");
         try {
@@ -98,7 +96,7 @@ public class LogWatcher extends TimerTask {
     }
 
     private static Long parseDateTime(String curLine) {
-        log.info("Cur Line:{}",curLine);
+        log.info("{}",curLine);
         int year = Integer.parseInt(curLine.substring(7, 11));
         int month = Integer.parseInt(curLine.substring(12, 14));
         int day = Integer.parseInt(curLine.substring(15, 17));

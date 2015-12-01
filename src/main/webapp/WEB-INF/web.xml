@@ -7,12 +7,35 @@
         version="3.1">
 
     <servlet>
-        <servlet-name>Hello</servlet-name>
-        <servlet-class>logReader.rest.RestServlet</servlet-class>
+        <servlet-name>Init</servlet-name>
+        <servlet-class>logReader.rest.Init</servlet-class>
+        <load-on-startup>5</load-on-startup>
     </servlet>
+    <servlet>
+        <servlet-name>All</servlet-name>
+        <servlet-class>logReader.rest.All</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Select</servlet-name>
+        <servlet-class>logReader.rest.Select</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Configure</servlet-name>
+        <servlet-class>logReader.rest.Configure</servlet-class>
+    </servlet>
+
+
     <servlet-mapping>
-        <servlet-name>Rest</servlet-name>
-        <url-pattern>/rest/*</url-pattern>
+        <servlet-name>Select</servlet-name>
+        <url-pattern>/rest/select</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>All</servlet-name>
+        <url-pattern>/rest/all</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Configure</servlet-name>
+        <url-pattern>/rest/conf</url-pattern>
     </servlet-mapping>
 
 </web-app>

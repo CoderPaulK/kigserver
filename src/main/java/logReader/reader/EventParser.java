@@ -40,7 +40,18 @@ public class EventParser {
     static Map<String,Integer> parse(String input,int from,String start,String end){
         Map<String,Integer> map = new HashMap<String,Integer>();
         int startDest = input.indexOf(start,from)+start.length();
+        if( startDest < 0){
+            map.put("",from);
+            return map;
+        }
+
         int endDest = input.indexOf(end,startDest);
+
+        if( endDest < 0){
+            map.put("",from);
+            return map;
+        }
+
         map.put(input.substring(startDest,endDest),endDest);
         return map;
     }
