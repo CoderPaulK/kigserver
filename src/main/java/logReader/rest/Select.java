@@ -3,6 +3,7 @@ package logReader.rest;
 import com.google.common.cache.LoadingCache;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
+import com.sun.media.jfxmedia.track.Track;
 import logReader.common.LogEvent;
 import logReader.reader.LogWatcher;
 import org.apache.logging.log4j.LogManager;
@@ -15,9 +16,14 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
+import java.net.URLDecoder;
 import java.text.SimpleDateFormat;
 import java.util.*;
+import org.joda.time.DateTime;
 
+
+// TODO: from and to date conversion,and expoch time filtering
+// TODO: do we need url decoding?
 public class Select extends HttpServlet
 {   //  time
     //  dest
@@ -56,7 +62,7 @@ public class Select extends HttpServlet
         }
         Gson gson = new Gson();
         JsonObject jsonObject = new JsonObject();
-        Map<Long,LogEvent> resEvents = new HashMap<Long,LogEvent>();
+        Map<Long,LogEvent> resEvents = new TreeMap<Long,LogEvent>();
         String[] headers = query.split("&");
         Map<String,String> validatedHeaders = new HashMap<String,String>();
         Map<String,Long> timeFrame =  new HashMap();
@@ -69,6 +75,7 @@ public class Select extends HttpServlet
                 if(header.equals("to") || header.equals("from")) {
                     timeFrame.put(header, convertTime(value));
                 } else {
+                    value = URLDecoder.decode(value);
                     validatedHeaders.put(header, value);
                 }
             }
@@ -80,19 +87,22 @@ public class Select extends HttpServlet
         for (Map.Entry<Long, LogEvent> event : events.asMap().entrySet()) {
             LogEvent logEvent = event.getValue();
             try {
-                boolean selected = true;
-                for(Map.Entry<String,String>curHeader :validatedHeaders.entrySet()){
-                // ensure header has value
-                    Method getMethod= logEvent.getClass().getMethod("get"+capitalize(curHeader.getKey()),null);
-                    String fieldValue = (String) getMethod.invoke(logEvent,null);
-                    if (! fieldValue.contains(curHeader.getValue())) {
-                        selected = false;
-                        break;
-                       // resEvents.put(event.getKey(), event.getValue());
+                if(timeFrame.get("from")!= null && timeFrame.get("from") < event.getKey() &&
+                        timeFrame.get("to")!= null && timeFrame.get("to") > event.getKey()) {
+                    boolean selected = true;
+                    for (Map.Entry<String, String> curHeader : validatedHeaders.entrySet()) {
+                        // ensure header has value
+                        Method getMethod = logEvent.getClass().getMethod("get" + capitalize(curHeader.getKey()), null);
+                        String fieldValue = (String) getMethod.invoke(logEvent, null);
+                        if (!fieldValue.contains(curHeader.getValue())) {
+                            selected = false;
+                            break;
+                            // resEvents.put(event.getKey(), event.getValue());
+                        }
                     }
-                }
-                if(selected){
-                    resEvents.put(event.getKey(), event.getValue());
+                    if (selected) {
+                        resEvents.put(event.getKey(), event.getValue());
+                    }
                 }
             }catch(Exception e){
               return "<b><i>Exception occured:"+e+"</b></i>";
@@ -109,6 +119,7 @@ public class Select extends HttpServlet
             jsonObject.add(event.getKey().toString(),gson.toJsonTree(event.getValue()));
 
         }
+        log.info("Done processing size:{}", resEvents.size());
         //validate query string
         //return jsonObject.toString();
         return output;
@@ -120,12 +131,14 @@ public class Select extends HttpServlet
         return "<b><i>"+message+"</b></i>";
     }
     static Long convertTime(String line){
-        String year = line.substring(0,3);
-        String month = line.substring(4,5);
-        String day = line.substring(6,7);
-        String hour = line.substring(8,9);
-        String min = line.substring(10);
+        int year = Integer.parseInt(line.substring(0,4));
+        int month = Integer.parseInt(line.substring(4,6));
+        int day = Integer.parseInt(line.substring(6,8));
+        int hour = Integer.parseInt(line.substring(8,10));
+        int min = Integer.parseInt(line.substring(10));
         // compose date and convert it into milliseconds.
-        return 0l;
+        log.info("year:{} month:{} day:{} hour:{} min:{}",year,month,day,hour,min);
+        DateTime dateTime = new DateTime(year,month,day,hour,min);
+        return dateTime.getMillis();
     }
 }

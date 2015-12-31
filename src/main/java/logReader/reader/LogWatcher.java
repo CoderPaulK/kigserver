@@ -22,6 +22,9 @@ import org.joda.time.DateTime;
 /**
  * Created by noone_000 on 10/17/2015.
  */
+
+// TODO: change from Guava Cache to separate H2 database instance so can do analytics and data cleansing better
+
 public class LogWatcher extends TimerTask {
     // SimpleTimeFormat to
     private static final Logger log = LogManager.getLogger("logWatcher");
@@ -34,7 +37,7 @@ public class LogWatcher extends TimerTask {
     static String path = "C:/Users/noone_000/Documents/Star Wars - The Old Republic/CombatLogs";
     public static LoadingCache<Long, LogEvent> events = CacheBuilder.newBuilder()
             .maximumSize(1000000)
-            .expireAfterWrite(10, TimeUnit.MINUTES)
+   //         .expireAfterWrite(10, TimeUnit.MINUTES)
             .build(
                     new CacheLoader<Long, LogEvent>() {
                         public LogEvent load(Long key) throws Exception {
@@ -122,6 +125,7 @@ public class LogWatcher extends TimerTask {
 
         }
         //log.info("{}{}{} {} {} {} {}",year,month,day,hour,min,sec,ms);
+        //log.info("year:{} month:{} day:{} hour:{} min:{} {} {}",year,month,day,hour,min,sec,ms);
         DateTime dateTime = new DateTime(year,month,day,hour,min,sec,ms);
         return dateTime.getMillis();
     }
@@ -164,5 +168,4 @@ public class LogWatcher extends TimerTask {
     static LogEvent loadBasedOnTime(Long from){
         return null;
     }
-
 }

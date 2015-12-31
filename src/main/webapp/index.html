@@ -84,8 +84,8 @@
 	</br>
 	<form name="query" action="/rest/select" method="get">
 		<table>
-            <tr><td>From:</td><td><input type="text" name="from"></td></tr>
-            <tr><td>To:</td><td><input type="text" name="to"></td></tr>
+            <tr><td>From(yyyyMMddhhmm):</td><td><input type="text" name="from"></td><td>Ex. 201511050000</td></tr>
+            <tr><td>To(yyyyMMddhhmm):</td><td><input type="text" name="to"></td><td>Ex. 201511060000</td></tr>
             <tr><td>Dest:</td><td><input type="text" name="dest"></td></tr>
 		    <tr><td>Source:</td><td><input type="text" name="source"></td></tr>
 		    <tr><td>Ability:</td><td><input type="text" name="ability"></td></tr>
@@ -120,7 +120,11 @@
                     // alert(json_data)
                     g = new Dygraph(
                         document.getElementById("graphdiv"),
-                        json_data
+                        json_data,
+                        {
+                          rollPeriod: 7,
+                          showRoller: true
+                        }
                     );
                 }
             };
@@ -136,7 +140,7 @@
 
             }
         </script>
-        <div id="graphdiv"></div>
+        <div id="graphdiv" style="width:1000px; height:300px;></div>
         <!--script type="text/javascript">
           g = new Dygraph(
             // containing div
