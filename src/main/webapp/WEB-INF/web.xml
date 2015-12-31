@@ -23,6 +23,10 @@
         <servlet-name>Configure</servlet-name>
         <servlet-class>logReader.rest.Configure</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>ParseErrors</servlet-name>
+        <servlet-class>logReader.rest.ParseErrors</servlet-class>
+    </servlet>
 
 
     <servlet-mapping>
@@ -36,6 +40,10 @@
     <servlet-mapping>
         <servlet-name>Configure</servlet-name>
         <url-pattern>/rest/conf</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ParseErrors</servlet-name>
+        <url-pattern>/rest/errors</url-pattern>
     </servlet-mapping>
 
 </web-app>

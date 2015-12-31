@@ -11,7 +11,7 @@ import java.util.Map;
 public class EventParser {
     public static LogEvent<String> parseEvent(Long time, String inputEvent){
         LogEvent<String> logEvent = new LogEvent<String>();
-        logEvent.setTime(time);
+        //logEvent.setTime(time);
         // parse src
         //int startSource = inputEvent.indexOf("] [")+3;
         //int endSource = inputEvent.indexOf("] [",startSource);

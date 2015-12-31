@@ -25,6 +25,7 @@ import org.joda.time.DateTime;
 public class LogWatcher extends TimerTask {
     // SimpleTimeFormat to
     private static final Logger log = LogManager.getLogger("logWatcher");
+    public static Map<String,Exception> unParsable = new LinkedHashMap<String,Exception>();
     static String filer;
     static long from;
     static long to;
@@ -58,7 +59,8 @@ public class LogWatcher extends TimerTask {
         // see what has changed since from to now
         // filter only things needed
         // return results ()
-        cacheLoader();
+        log.info("Run has been completed");
+        //cacheLoader();
     }
     // guava sorted hash map here
 
@@ -72,73 +74,86 @@ public class LogWatcher extends TimerTask {
 
     public static void main(String...args) throws IOException {
         LogWatcher logWatcher = new LogWatcher();
+        cacheLoader();
         Timer timer =new Timer();
-        timer.schedule(logWatcher,0,30000);
+        timer.schedule(logWatcher, 0, 30000);
     }
 
     public static void cacheLoader(){
         Set<String> fileList = getDirList();
         Set<String> regex = new LinkedHashSet<String>();
-        regex.add(".*");
+        //regex.add(".*");
         //regex.add(".*<[0-9]{4,}>.*");
-        //regex.add(".*@Republican.*");
+        regex.add(".*@Republican.*");
         //regex.add(".*Sonic.*");
         // regex.add("\\Q[(.*)?\\E]");
-        try {
+
             for(String curLine: getLogEntries(null,null,regex,fileList)){
-                Long time = parseDateTime(curLine);
-                LogEvent<String> event = EventParser.parseEvent(time, curLine);
-                events.put(time,event);
+                try {
+                    Long time = parseDateTime(curLine);
+                    LogEvent<String> event = EventParser.parseEvent(time, curLine);
+                    events.put(time,event);
+                } catch (Exception e) {
+                    log.error("IO problem:{}",e);
+                }
             }
-        } catch (IOException e) {
-            log.error("IO problem:{}",e);
-        }
+
     }
 
     private static Long parseDateTime(String curLine) {
-        log.info("{}",curLine);
-        int year = Integer.parseInt(curLine.substring(7, 11));
-        int month = Integer.parseInt(curLine.substring(12, 14));
-        int day = Integer.parseInt(curLine.substring(15, 17));
-        int startIdx = curLine.indexOf("|[")+2;
-        int endIdx = curLine.indexOf("]", startIdx);
-        String time = curLine.substring(startIdx,endIdx);
-        //09:15:57.024
-        //log.info("{}",time);
-        int hour = Integer.parseInt(time.substring(0,2));
-        int min = Integer.parseInt(time.substring(3,5));
-        int sec = Integer.parseInt(time.substring(6,8));
-        int ms = Integer.parseInt(time.substring(9));
+        int year = 0 ,month = 0 ,day = 0,hour =0 ,min = 0 ,sec = 0 ,ms = 0;
+        try {
+            log.info("{}", curLine);
+            year = Integer.parseInt(curLine.substring(7, 11));
+            month = Integer.parseInt(curLine.substring(12, 14));
+            day = Integer.parseInt(curLine.substring(15, 17));
+            int startIdx = curLine.indexOf("|[") + 2;
+            int endIdx = curLine.indexOf("]", startIdx);
+            String time = curLine.substring(startIdx, endIdx);
+            //09:15:57.024
+            //log.info("{}",time);
+            hour = Integer.parseInt(time.substring(0, 2));
+            min = Integer.parseInt(time.substring(3, 5));
+            sec = Integer.parseInt(time.substring(6, 8));
+            ms = Integer.parseInt(time.substring(9));
+        }catch(Exception e){
+            log.info("Line:{} exception{}",curLine,e);
+            unParsable.put(curLine,e);
+
+        }
         //log.info("{}{}{} {} {} {} {}",year,month,day,hour,min,sec,ms);
         DateTime dateTime = new DateTime(year,month,day,hour,min,sec,ms);
         return dateTime.getMillis();
     }
 
-    static Set<String> getLogEntries(String from,String to,Set<String> patterns, Set<String> fileList) throws IOException {
+    static Set<String> getLogEntries(String from,String to,Set<String> patterns, Set<String> fileList) {
         Set<String> result = new LinkedHashSet<String>();
         Set<Pattern> filters = new LinkedHashSet<Pattern>();
         for(String str: patterns){
             filters.add(Pattern.compile(str));
         }
-
         long entriesFound = 0;
-        for(String file: fileList){
-            log.info("File is {}",file);
-            String fileContent = readFile(path+"/"+file);
+        try{
+            for(String file: fileList){
+                log.info("File is {}",file);
+                String fileContent = readFile(path+"/"+file);
 
-            for(String str : fileContent.split("\r?\n")){
-                boolean match = true;
-                for(Pattern p: filters){
-                    Matcher m = p.matcher(str);
-                    if(!m.matches()){
-                        match = false;
+                for(String str : fileContent.split("\r?\n")){
+                    boolean match = true;
+                    for(Pattern p: filters){
+                        Matcher m = p.matcher(str);
+                        if(!m.matches()){
+                            match = false;
+                        }
+                    }
+                    if(match){
+                        result.add(file+"|"+str);
+                        entriesFound++;
                     }
                 }
-                if(match){
-                    result.add(file+"|"+str);
-                    entriesFound++;
-                }
             }
+        } catch (IOException e){
+            log.info("Error reading file: {}",e);
         }
         log.info("There was {} matching entries found in logs",entriesFound);
         return result;

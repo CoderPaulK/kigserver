@@ -4,7 +4,7 @@ package logReader.common;
  * Created by noone_000 on 11/14/2015.
  */
 public class LogEvent<T> {
-    Long time; // this is the key as well
+    //Long time; // this is the key as well
     String dest;
     String source;
     String ability;
@@ -42,9 +42,9 @@ public class LogEvent<T> {
     public void setDest(String dest) {
         this.dest = dest;
     }
-
+    /*
     public Long getTime() { return time;}
 
     public void setTime(Long time) { this.time = time; }
-
+    */
 }
