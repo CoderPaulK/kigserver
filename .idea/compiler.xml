@@ -22,13 +22,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="kigserver" />
         <module name="untitled" />
+      </profile>
+      <profile default="false" name="Annotation profile for kigserver" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="kigserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="kigserver" target="1.5" />
-      <module name="untitled" target="1.5" />
+      <module name="kigserver" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

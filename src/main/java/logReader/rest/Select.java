@@ -43,6 +43,7 @@ public class Select extends HttpServlet
         validHeaders.add("ability");
         validHeaders.add("effect");
         validHeaders.add("message");
+        validHeaders.add("output");
 
     }
     static LoadingCache<Long, LogEvent> events = LogWatcher.events;
@@ -83,12 +84,17 @@ public class Select extends HttpServlet
                 return message("<font color=red>Wrong header:" + header + "</red>");
             }
         }
+        boolean jsonOutput = false;
+        if(validatedHeaders.get("output")!=null){
+            validatedHeaders.remove("output");
+            jsonOutput = true;
+        }
 
         for (Map.Entry<Long, LogEvent> event : events.asMap().entrySet()) {
             LogEvent logEvent = event.getValue();
             try {
-                if(timeFrame.get("from")!= null && timeFrame.get("from") < event.getKey() &&
-                        timeFrame.get("to")!= null && timeFrame.get("to") > event.getKey()) {
+                if(((timeFrame.get("from")!= null && timeFrame.get("from") < event.getKey()) || timeFrame.get("from") == null) &&
+                        ((timeFrame.get("to")!= null && timeFrame.get("to") > event.getKey())||timeFrame.get("to") == null)) {
                     boolean selected = true;
                     for (Map.Entry<String, String> curHeader : validatedHeaders.entrySet()) {
                         // ensure header has value
@@ -97,7 +103,6 @@ public class Select extends HttpServlet
                         if (!fieldValue.contains(curHeader.getValue())) {
                             selected = false;
                             break;
-                            // resEvents.put(event.getKey(), event.getValue());
                         }
                     }
                     if (selected) {
@@ -121,7 +126,9 @@ public class Select extends HttpServlet
         }
         log.info("Done processing size:{}", resEvents.size());
         //validate query string
-        //return jsonObject.toString();
+        if(jsonOutput) {
+            return jsonObject.toString();
+        }
         return output;
     }
     private static String capitalize(final String line) {

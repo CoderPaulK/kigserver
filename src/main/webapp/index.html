@@ -93,10 +93,8 @@
 		    <tr><td>Message</td><td><input type="text" name="message"></td></tr>
 		    <!-- tr><td><input type="submit" value="submit"></td></tr -->
         </table>
-        <button type="button" onclick="loadDoc()">Request data</button>
-
-        <p id="demo"></p>
-
+        <button type="button" onclick="showGraph()">Show Graph</button>
+        <button type="button" onclick="showData()">Show Data</button>
         <script>
             function form_params( )
             {
@@ -111,7 +109,7 @@
                 return resQuery;
             }
 
-            function loadDoc() {
+            function showGraph() {
             var xhttp = new XMLHttpRequest();
             xhttp.onreadystatechange = function() {
                 if (xhttp.readyState == 4 && xhttp.status == 200) {
@@ -121,16 +119,13 @@
                     g = new Dygraph(
                         document.getElementById("graphdiv"),
                         json_data,
-                        {
+                        { animatedZooms: true,
                           rollPeriod: 7,
                           showRoller: true
                         }
                     );
                 }
             };
-            //the_query =  document.getElementsByName("query");
-            //alert(the_query)
-            // console.log(the_query)
             another_query = form_params()
             alert('The query:'+ another_query)
             if (another_query != "" ){
@@ -139,30 +134,27 @@
             }
 
             }
+
         </script>
-        <div id="graphdiv" style="width:1000px; height:300px;></div>
-        <!--script type="text/javascript">
-          g = new Dygraph(
-            // containing div
-            document.getElementById("graphdiv"),
-            // CSV or path to a CSV file.
-            "Date,Temperature\n" +
-            "2008-05-07,75\n" +
-            "2008-05-08,70\n" +
-            "2008-05-09,80\n"
-          );
-        </script -->
-        <!--script type="text/javascript">
-            function submitform()
-            {
-                if(document.query.onsubmit && !document.query.onsubmit())
-                {
-                    return;
+        <div id="graphdiv" style="width:1000px; height:300px;"></div>
+        <p id="demo"></p>
+        <script>
+            function showData() {
+                var xhttp = new XMLHttpRequest();
+                xhttp.onreadystatechange = function() {
+                    if (xhttp.readyState == 4 && xhttp.status == 200) {
+                        document.getElementById("demo").innerHTML = xhttp.responseText;
+                    }
+                };
+                another_query = form_params()+"output=json"
+                alert('The query:'+ another_query)
+                if (another_query != "" ){
+                    xhttp.open("GET", "/rest/select?"+another_query,true);
+                    xhttp.send();
                 }
-                alert('In submit')
-                document.query.submit();
             }
-        </script -->
+
+        </script>
 	</form>
 </div>
 </body>
