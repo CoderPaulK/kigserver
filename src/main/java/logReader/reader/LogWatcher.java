@@ -51,7 +51,12 @@ public class LogWatcher extends TimerTask {
         for (String line : lines){
             if(line.startsWith("src_log_location")){
                 int startPos = line.indexOf("=");
-                path =  line.substring(startPos+1);
+                int lastPos = line.length()-1;
+                if(line.charAt(lastPos)=='\r'){
+                    path = line.substring(startPos+1,lastPos);
+                } else {
+                    path = line.substring(startPos + 1);
+                }
                 log.info(path);
             }
         }

@@ -49,7 +49,12 @@ public class Select extends HttpServlet
     static LoadingCache<Long, LogEvent> events = LogWatcher.events;
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
     {
-        response.setContentType("text/json");
+        /*
+        response.addHeader("Access-Control-Allow-Origin","*");
+        response.addHeader("Access-Control-Allow_Methods","GET");
+        response.addHeader("Access-Control-Allow_Headers","Content-Type");
+        */
+        response.setContentType("text/plain");
         response.setStatus(HttpServletResponse.SC_OK);
         String query = request.getQueryString();
         response.getWriter().println(processQuery(query));
