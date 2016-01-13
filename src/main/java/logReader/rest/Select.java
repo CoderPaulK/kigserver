@@ -3,7 +3,6 @@ package logReader.rest;
 import com.google.common.cache.LoadingCache;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
-import com.sun.media.jfxmedia.track.Track;
 import logReader.common.LogEvent;
 import logReader.reader.LogWatcher;
 import org.apache.logging.log4j.LogManager;
@@ -14,7 +13,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.net.URLDecoder;
 import java.text.SimpleDateFormat;
@@ -22,8 +20,6 @@ import java.util.*;
 import org.joda.time.DateTime;
 
 
-// TODO: from and to date conversion,and expoch time filtering
-// TODO: do we need url decoding?
 public class Select extends HttpServlet
 {   //  time
     //  dest
@@ -44,7 +40,7 @@ public class Select extends HttpServlet
         validHeaders.add("effect");
         validHeaders.add("message");
         validHeaders.add("output");
-
+        validHeaders.add("res_size");
     }
     static LoadingCache<Long, LogEvent> events = LogWatcher.events;
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
@@ -90,6 +86,16 @@ public class Select extends HttpServlet
             jsonOutput = true;
         }
 
+        int maxSize = 5000;
+        if(validatedHeaders.get("res_size")!=null){
+            try{
+                maxSize=Integer.parseInt(validatedHeaders.get("res_size"));
+                validatedHeaders.remove("res_size");
+            } catch (NumberFormatException e) {
+                log.error("Can't convert value {} to int",validatedHeaders.get("res_size"));
+            }
+        }
+
         for (Map.Entry<Long, LogEvent> event : events.asMap().entrySet()) {
             LogEvent logEvent = event.getValue();
             try {
@@ -122,7 +128,10 @@ public class Select extends HttpServlet
             String dateStr = formater.format(new Date(event.getKey()));
             output += dateStr + ","+event.getValue().getMessage()+"\n";
             jsonObject.add(event.getKey().toString(),gson.toJsonTree(event.getValue()));
-
+            if(counter > maxSize ) {
+                break;
+            }
+            counter++;
         }
         log.info("Done processing size:{}", resEvents.size());
         //validate query string

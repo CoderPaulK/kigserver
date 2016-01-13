@@ -2,10 +2,12 @@ package logReader.reader;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.*;
+
+import static java.nio.file.StandardWatchEventKinds.*;
+import static java.nio.file.LinkOption.*;
+
 import java.util.*;
-import java.util.concurrent.Callable;
-import java.util.concurrent.ConcurrentMap;
-import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -14,7 +16,6 @@ import static java.nio.file.Files.readAllBytes;
 import static java.nio.file.Paths.get;
 
 import com.google.common.cache.*;
-import com.google.common.collect.ImmutableMap;
 import logReader.common.LogEvent;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -25,13 +26,20 @@ import org.joda.time.DateTime;
 
 // TODO: change from Guava Cache to separate H2 database instance so can do analytics and data cleansing better
 
-public class LogWatcher extends TimerTask {
+public class LogWatcher extends TimerTask implements WatchService {
+    static String lastFileLoaded = "";
+    static String lastLoadedContent = "";
+
     // SimpleTimeFormat to
     private static final Logger log = LogManager.getLogger("logWatcher");
     public static Map<String,Exception> unParsable = new LinkedHashMap<String,Exception>();
     static String filer;
     static long from;
     static long to;
+    Path pathDir = null;
+    //WatchKey key = null;
+    static WatchService fileWatch = null;
+    boolean refreshFlag = true;
 
     // default value, overwritten in LogWatcher()
     static String path = "C:/Users/noone_000/Documents/Star Wars - The Old Republic/CombatLogs";
@@ -46,12 +54,16 @@ public class LogWatcher extends TimerTask {
                     });
 
     public LogWatcher() throws IOException {
+        fileWatch =   FileSystems.getDefault().newWatchService();
         String content = readFile("./conf/conf.properties");
         String lines[] = content.split("\n");
         for (String line : lines){
             if(line.startsWith("src_log_location")){
                 int startPos = line.indexOf("=");
                 path =  line.substring(startPos+1);
+                pathDir = Paths.get(path);
+                // we only care about files created and changed
+                pathDir.register(fileWatch, ENTRY_CREATE, ENTRY_MODIFY);
                 log.info(path);
             }
         }
@@ -63,12 +75,17 @@ public class LogWatcher extends TimerTask {
         // filter only things needed
         // return results ()
         log.info("Run has been completed");
-        //cacheLoader();
+        try {
+            cacheLoader(refreshFlag);
+        }catch(InterruptedException e){
+            log.error("Interrupted");
+        }
+        refreshFlag = false;
     }
     // guava sorted hash map here
 
-    static Set<String> getDirList(){
-        String[] listOfFiles= new File(path).list();
+    static SortedSet<String> getDirList(){
+        String[] listOfFiles = new File(path).list();
         if (listOfFiles == null) {
             listOfFiles = new String[0];
         }
@@ -77,29 +94,37 @@ public class LogWatcher extends TimerTask {
 
     public static void main(String...args) throws IOException {
         LogWatcher logWatcher = new LogWatcher();
-        cacheLoader();
+        //cacheLoader();
         Timer timer =new Timer();
         timer.schedule(logWatcher, 0, 30000);
     }
 
-    public static void cacheLoader(){
-        Set<String> fileList = getDirList();
+    public static void cacheLoader(boolean refresh) throws InterruptedException {
+        SortedSet<String> allFiles = getDirList();
+        SortedSet<String> fileList = new TreeSet<>();
+        if(!lastFileLoaded.equals("")) {
+            fileList = allFiles.tailSet(lastFileLoaded);
+        } else {
+            fileList = allFiles;
+        }
         Set<String> regex = new LinkedHashSet<String>();
         //regex.add(".*");
         //regex.add(".*<[0-9]{4,}>.*");
         regex.add(".*@Republican.*");
         //regex.add(".*Sonic.*");
         // regex.add("\\Q[(.*)?\\E]");
-
-            for(String curLine: getLogEntries(null,null,regex,fileList)){
+        WatchKey change = fileWatch.poll(5,TimeUnit.SECONDS);
+        if(change != null || refresh ) {
+            for (String curLine : getLogEntries(null, null, regex, fileList)) {
                 try {
                     Long time = parseDateTime(curLine);
                     LogEvent<String> event = EventParser.parseEvent(time, curLine);
-                    events.put(time,event);
+                    events.put(time, event);
                 } catch (Exception e) {
-                    log.error("IO problem:{}",e);
+                    log.error("IO problem:{}", e);
                 }
             }
+        }
 
     }
 
@@ -138,7 +163,7 @@ public class LogWatcher extends TimerTask {
         }
         long entriesFound = 0;
         try{
-            for(String file: fileList){
+            for(String file: fileList) {
                 log.info("File is {}",file);
                 String fileContent = readFile(path+"/"+file);
 
@@ -151,10 +176,12 @@ public class LogWatcher extends TimerTask {
                         }
                     }
                     if(match){
-                        result.add(file+"|"+str);
+                        lastLoadedContent = file + "|" +str;
+                        result.add(lastLoadedContent);
                         entriesFound++;
                     }
                 }
+                lastFileLoaded = file;
             }
         } catch (IOException e){
             log.info("Error reading file: {}",e);
@@ -166,6 +193,27 @@ public class LogWatcher extends TimerTask {
         return new String(readAllBytes(get(pathToFile)),"UTF-8");
     }
     static LogEvent loadBasedOnTime(Long from){
+        return null;
+    }
+
+    // WatchService related
+    @Override
+    public void close() throws IOException {
+
+    }
+
+    @Override
+    public WatchKey poll() {
+        return null;
+    }
+
+    @Override
+    public WatchKey poll(long timeout, TimeUnit unit) throws InterruptedException {
+        return null;
+    }
+
+    @Override
+    public WatchKey take() throws InterruptedException {
         return null;
     }
 }
