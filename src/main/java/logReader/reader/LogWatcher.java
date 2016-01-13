@@ -58,9 +58,14 @@ public class LogWatcher extends TimerTask implements WatchService {
         String content = readFile("./conf/conf.properties");
         String lines[] = content.split("\n");
         for (String line : lines){
-            if(line.startsWith("src_log_location")){
+            if(line.startsWith("src_log_location")) {
                 int startPos = line.indexOf("=");
-                path =  line.substring(startPos+1);
+                int lastPos = line.length() - 1;
+                if (line.charAt(lastPos) == '\r') {
+                    path = line.substring(startPos,lastPos);
+                } else {
+                    path = line.substring(startPos + 1);
+                }
                 pathDir = Paths.get(path);
                 // we only care about files created and changed
                 pathDir.register(fileWatch, ENTRY_CREATE, ENTRY_MODIFY);
