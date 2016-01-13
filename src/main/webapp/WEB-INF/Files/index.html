@@ -157,13 +157,13 @@
                 another_query = form_params()
                 // alert('The query:'+ another_query)
                 if (another_query != "" ){
-                    xhttp.open("GET", "/rest/select?"+another_query,true);
+                    xhttp.open("GET", "http://localhost:8080/rest/select?"+another_query,true);
                     xhttp.send();
                 }
             }
 
         </script>
-        <div id="graphdiv" style="width:1000px; height:300px;"></div>
+        <div id="graphdiv" style="width:300px; height:100px;"></div>
         <p id="demo"></p>
         <script>
             function showData() {
@@ -176,7 +176,7 @@
                 another_query = form_params()+"output=json"
                 alert('The query:'+ another_query)
                 if (another_query != "" ){
-                    xhttp.open("GET", "/rest/select?"+another_query,true);
+                    xhttp.open("GET", "http://localhost:8080/rest/select?"+another_query,true);
                     xhttp.send();
                 }
             }
