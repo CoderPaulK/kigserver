@@ -59,6 +59,7 @@ public class LogWatcher extends TimerTask implements WatchService {
         String lines[] = content.split("\n");
         for (String line : lines){
             if(line.startsWith("src_log_location")) {
+                /*
                 int startPos = line.indexOf("=");
                 int lastPos = line.length() - 1;
                 if (line.charAt(lastPos) == '\r') {
@@ -66,6 +67,7 @@ public class LogWatcher extends TimerTask implements WatchService {
                 } else {
                     path = line.substring(startPos + 1);
                 }
+                */
                 pathDir = Paths.get(path);
                 // we only care about files created and changed
                 pathDir.register(fileWatch, ENTRY_CREATE, ENTRY_MODIFY);
@@ -115,7 +117,7 @@ public class LogWatcher extends TimerTask implements WatchService {
         Set<String> regex = new LinkedHashSet<String>();
         //regex.add(".*");
         //regex.add(".*<[0-9]{4,}>.*");
-        regex.add(".*@Republican.*");
+        regex.add(".*@Headcracker.*");
         //regex.add(".*Sonic.*");
         // regex.add("\\Q[(.*)?\\E]");
         WatchKey change = fileWatch.poll(5,TimeUnit.SECONDS);
