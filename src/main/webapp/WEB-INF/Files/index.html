@@ -81,23 +81,42 @@
     <button id="open-subwindow" onclick="openSubWindow();">Open Sub-Window</button>
     </img id="screenshot" width="300px">
     </br>
-    <form name="query" action="/rest/select" method="get">
-        <table>
-            <tr><td>From(yyyyMMddhhmm):</td><td><input type="text" name="from"></td><td>Ex. 201511050000</td></tr>
-            <tr><td>To(yyyyMMddhhmm):</td><td><input type="text" name="to"></td><td>Ex. 201511060000</td></tr>
-            <tr><td>Dest:</td><td><input type="text" name="dest"></td></tr>
-            <tr><td>Source:</td><td><input type="text" name="source"></td></tr>
-            <tr><td>Ability:</td><td><input type="text" name="ability"></td></tr>
-            <tr><td>Effect:</td><td><input type="text" name="effect"></td></tr>
-            <tr><td>Message</td><td><input type="text" name="message"></td></tr>
-            <tr><td>Result Size:</td><td><input type="text" name="res_size"></td></tr>
-            <!-- tr><td><input type="submit" value="submit"></td></tr -->
-        </table>
+    <div id="user_input">
+
+        <form name="query" action="/rest/select" method="get">
+            <table>
+                <tr><td>From(yyyyMMddhhmm):</td><td><input type="text" name="from"></td><td>Ex. 201511050000</td></tr>
+                <tr><td>To(yyyyMMddhhmm):</td><td><input type="text" name="to"></td><td>Ex. 201511060000</td></tr>
+                <tr><td>Dest:</td><td><input type="text" name="dest"></td></tr>
+                <tr><td>Source:</td><td><input type="text" name="source"></td></tr>
+                <tr><td>Ability:</td><td><input type="text" name="ability"></td></tr>
+                <tr><td>Effect:</td><td><input type="text" name="effect"></td></tr>
+                <tr><td>Message</td><td><input type="text" name="message"></td></tr>
+                <tr><td>Result Size:</td><td><input type="text" name="res_size"></td></tr>
+                <!-- tr><td><input type="submit" value="submit"></td></tr -->
+            </table>
+        </form>
+    </div>
+    <div id="controls">
         <button type="button" onclick="showGraph()">Show Graph</button>
         <button type="button" onclick="showData()">Show Data</button>
-        <input type="checkbox" onclick="autoRefresh()" name="auto_refresh">Auto Refresh<br>
-        <script>
+        <input type="checkbox" onclick="autoRefresh()" name="auto_refresh">Auto Refresh</input>
+        <button type="button" onclick="hideForm()">Hide</button>
+    </div>
+    <script>
             myrefresh = null;
+            isHidden = false;
+            function hideForm(){
+                //store fields somethere
+                 //alert('Hide form');
+                if(!isHidden){
+                    document.getElementById("user_input").style.display='none';
+                    isHidden = true;
+                } else {
+                    document.getElementById("user_input").style.display='';
+                    isHidden = false;
+                }
+            }
             function date2Str(d){
                    return d.getFullYear()+('0'+(d.getMonth()+1)).slice(-2)+('0'+d.getDate()).slice(-2)+('0'+d.getHours()).slice(-2)+ ('0'+d.getMinutes()).slice(-2);
             }
@@ -148,8 +167,8 @@
                             document.getElementById("graphdiv"),
                             json_data,
                             { animatedZooms: true,
-                              rollPeriod: 7,
-                              showRoller: true
+                              rollPeriod: 2,
+                              showRoller: false
                             }
                         );
                     }
@@ -163,9 +182,9 @@
             }
 
         </script>
-        <div id="graphdiv" style="width:300px; height:100px;"></div>
-        <p id="demo"></p>
-        <script>
+    <div id="graphdiv" style="width:300px; height:100px;"></div>
+    <p id="demo"></p>
+    <script>
             function showData() {
                 var xhttp = new XMLHttpRequest();
                 xhttp.onreadystatechange = function() {
@@ -180,9 +199,7 @@
                     xhttp.send();
                 }
             }
-
         </script>
-    </form>
 </div>
 </body>
 </html>
